@@ -133,6 +133,7 @@ struct ThemePickerView: View {
                     .opacity(appeared ? 1 : 0)
                     .offset(y: -28)
                     .animation(.easeOut(duration: 0.2), value: scrollPosition)
+                    .animation(.spring(response: 0.3, dampingFraction: 0.5), value: openingTheme)
                     .onTapGesture {
                         selectTheme(currentTheme)
                     }
@@ -203,12 +204,8 @@ struct ThemePickerView: View {
     // MARK: - Actions
 
     private func selectTheme(_ theme: AppTheme) {
-        openingTheme = theme
         HapticManager.swipe()
-
-        withAnimation(.spring(response: 0.3, dampingFraction: 0.6)) {
-            // triggers scale effect on large preview
-        }
+        openingTheme = theme
 
         DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
             withAnimation(.easeInOut(duration: 0.5)) {

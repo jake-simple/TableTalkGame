@@ -17,19 +17,19 @@ enum AppTheme: String, CaseIterable {
 
     var name: String {
         switch self {
-        case .minimal: "Minimal"
-        case .halloween: "Halloween"
-        case .christmas: "Christmas"
-        case .ocean: "Deep Ocean"
-        case .space: "Galaxy"
-        case .cherryBlossom: "Cherry Blossom"
-        case .retroGame: "Retro Arcade"
-        case .autumn: "Autumn Leaves"
-        case .aurora: "Aurora"
-        case .circus: "Carnival"
-        case .desert: "Desert Night"
-        case .candy: "Candy Pop"
-        case .zenGarden: "Zen Garden"
+        case .minimal: "미니멀"
+        case .halloween: "할로윈"
+        case .christmas: "크리스마스"
+        case .ocean: "심해"
+        case .space: "은하"
+        case .cherryBlossom: "벚꽃"
+        case .retroGame: "레트로 아케이드"
+        case .autumn: "가을 단풍"
+        case .aurora: "오로라"
+        case .circus: "카니발"
+        case .desert: "사막의 밤"
+        case .candy: "캔디팝"
+        case .zenGarden: "선 가든"
         }
     }
 

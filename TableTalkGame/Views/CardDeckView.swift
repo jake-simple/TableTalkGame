@@ -74,8 +74,10 @@ struct CardDeckView: View {
                 // Card stack or finished state
                 if viewModel.isFinished {
                     finishedView
+                        .offset(y: -12)
                 } else {
                     cardStackView
+                        .offset(y: -12)
                 }
 
                 Spacer()

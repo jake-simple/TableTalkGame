@@ -39,8 +39,6 @@ struct CardView: View {
             yugiohLayout
         case .christmas:
             victorianLayout
-        case .ocean:
-            pokemonLayout
         case .space:
             mtgLayout
         case .cherryBlossom:
@@ -61,6 +59,16 @@ struct CardView: View {
             zenGardenLayout
         case .forsythia:
             forsythiaLayout
+        case .ocean:
+            oceanLayout
+        case .neonCyber:
+            neonCyberLayout
+        case .korean:
+            koreanLayout
+        case .rainyDay:
+            rainyDayLayout
+        case .lavender:
+            lavenderLayout
         }
     }
 
@@ -137,20 +145,8 @@ struct CardView: View {
 
             // Bottom bar - attribute & category
             HStack {
-                // Attribute orb
-                Circle()
-                    .fill(
-                        RadialGradient(
-                            colors: [Color.orange, Color.orange.opacity(0.5)],
-                            center: .center, startRadius: 0, endRadius: 10
-                        )
-                    )
-                    .frame(width: 20, height: 20)
-                    .overlay(
-                        Image(systemName: "star.fill")
-                            .font(.system(size: 9))
-                            .foregroundStyle(.white)
-                    )
+                Text("🎃")
+                    .font(.system(size: 18))
 
                 Spacer()
 
@@ -239,76 +235,6 @@ struct CardView: View {
             }
             .padding(.horizontal, 30)
             .padding(.bottom, 24)
-        }
-    }
-
-    // MARK: - Pokemon Style (Ocean)
-    private var pokemonLayout: some View {
-        VStack(spacing: 0) {
-            // Top type bar
-            HStack {
-                Image(systemName: "drop.fill")
-                    .font(.system(size: 13))
-                    .foregroundStyle(Color(red: 0.2, green: 0.6, blue: 0.9).opacity(0.7))
-                Spacer()
-
-                // HP badge
-                HStack(spacing: 2) {
-                    Text("HP")
-                        .font(.system(size: 9, weight: .bold, design: .rounded))
-                        .foregroundStyle(Color(red: 0.9, green: 0.2, blue: 0.2))
-                    Text("\(60 + (card.question.count % 200))")
-                        .font(.system(.subheadline, design: .rounded, weight: .heavy))
-                        .foregroundStyle(theme.cardTextColor)
-                }
-
-                // Type energy icon
-                Circle()
-                    .fill(Color(red: 0.2, green: 0.6, blue: 0.9))
-                    .frame(width: 22, height: 22)
-                    .overlay(
-                        Image(systemName: "drop.fill")
-                            .font(.system(size: 11))
-                            .foregroundStyle(.white)
-                    )
-            }
-            .padding(.horizontal, 20)
-            .padding(.top, 18)
-
-            // Inner frame
-            RoundedRectangle(cornerRadius: 8)
-                .stroke(Color(red: 0.2, green: 0.6, blue: 0.9).opacity(0.2), lineWidth: 1)
-                .padding(.horizontal, 16)
-                .padding(.top, 10)
-                .frame(height: 8)
-
-            Spacer()
-
-            Text(card.question)
-                .font(.system(size: questionFontSize, weight: .semibold, design: .rounded))
-                .foregroundStyle(theme.cardTextColor)
-                .multilineTextAlignment(.center)
-                .lineSpacing(6)
-                .padding(.horizontal, 24)
-
-            Spacer()
-
-            // Bottom energy bar
-            HStack(spacing: 6) {
-                ForEach(0..<3, id: \.self) { i in
-                    Circle()
-                        .fill(
-                            [Color.blue, Color.cyan, Color.teal][i].opacity(0.3)
-                        )
-                        .frame(width: 14, height: 14)
-                }
-                Spacer()
-                Text("weakness   resistance   retreat")
-                    .font(.system(size: 7, design: .rounded))
-                    .foregroundStyle(theme.cardTextColor.opacity(0.3))
-            }
-            .padding(.horizontal, 20)
-            .padding(.bottom, 16)
         }
     }
 
@@ -746,29 +672,19 @@ struct CardView: View {
         let yellow = Color(red: 0.98, green: 0.85, blue: 0.08)
 
         return VStack(spacing: 0) {
-            // Divider with small flowers
-            HStack(spacing: 6) {
-                Rectangle()
-                    .fill(yellow.opacity(0.3))
-                    .frame(height: 1)
-                // Mini daisy
-                ZStack {
-                    ForEach(0..<6, id: \.self) { i in
-                        Ellipse()
-                            .fill(yellow.opacity(0.35))
-                            .frame(width: 4, height: 7)
-                            .offset(y: -5)
-                            .rotationEffect(.degrees(Double(i) * 60))
-                    }
-                    Circle()
-                        .fill(Color(red: 0.85, green: 0.65, blue: 0.08).opacity(0.5))
-                        .frame(width: 5, height: 5)
+            // Mini daisy
+            ZStack {
+                ForEach(0..<6, id: \.self) { i in
+                    Ellipse()
+                        .fill(yellow.opacity(0.35))
+                        .frame(width: 4, height: 7)
+                        .offset(y: -5)
+                        .rotationEffect(.degrees(Double(i) * 60))
                 }
-                Rectangle()
-                    .fill(yellow.opacity(0.3))
-                    .frame(height: 1)
+                Circle()
+                    .fill(Color(red: 0.85, green: 0.65, blue: 0.08).opacity(0.5))
+                    .frame(width: 5, height: 5)
             }
-            .padding(.horizontal, 28)
             .padding(.top, 24)
 
             Spacer()
@@ -798,6 +714,249 @@ struct CardView: View {
                             .frame(width: 4, height: 4)
                     }
                 }
+            }
+            .padding(.bottom, 22)
+        }
+    }
+
+    // MARK: - Ocean Style (바다)
+    private var oceanLayout: some View {
+        VStack(spacing: 0) {
+            // Wave header
+            HStack(spacing: 6) {
+                Image(systemName: "water.waves")
+                    .font(.system(size: 10))
+                    .foregroundStyle(Color(red: 0.20, green: 0.60, blue: 0.85).opacity(0.5))
+                Spacer()
+                HStack(spacing: 3) {
+                    ForEach(0..<3, id: \.self) { _ in
+                        Circle()
+                            .fill(Color(red: 0.20, green: 0.60, blue: 0.85).opacity(0.3))
+                            .frame(width: 5, height: 5)
+                    }
+                }
+            }
+            .padding(.horizontal, 22)
+            .padding(.top, 20)
+
+            Spacer()
+
+            Text(card.question)
+                .font(.system(size: questionFontSize, weight: .semibold, design: .rounded))
+                .foregroundStyle(theme.cardTextColor)
+                .multilineTextAlignment(.center)
+                .lineSpacing(7)
+                .padding(.horizontal, 28)
+
+            Spacer()
+
+            // Bottom wave decoration
+            HStack(spacing: 4) {
+                Rectangle()
+                    .fill(Color(red: 0.20, green: 0.60, blue: 0.85).opacity(0.15))
+                    .frame(height: 1)
+                Image(systemName: "fish.fill")
+                    .font(.system(size: 8))
+                    .foregroundStyle(Color(red: 0.20, green: 0.60, blue: 0.85).opacity(0.3))
+                Rectangle()
+                    .fill(Color(red: 0.20, green: 0.60, blue: 0.85).opacity(0.15))
+                    .frame(height: 1)
+            }
+            .padding(.horizontal, 24)
+            .padding(.bottom, 20)
+        }
+    }
+
+    // MARK: - Neon Cyber Style (네온 시티)
+    private var neonCyberLayout: some View {
+        VStack(spacing: 0) {
+            // Glitch header
+            HStack {
+                Text("SYS://")
+                    .font(.system(size: 9, weight: .bold, design: .monospaced))
+                    .foregroundStyle(Color(red: 0.0, green: 0.95, blue: 0.90).opacity(0.6))
+                Spacer()
+                Text("v\(card.question.count % 99 + 1).\(card.question.count % 10)")
+                    .font(.system(size: 9, weight: .bold, design: .monospaced))
+                    .foregroundStyle(Color(red: 0.95, green: 0.20, blue: 0.60).opacity(0.6))
+            }
+            .padding(.horizontal, 20)
+            .padding(.top, 16)
+
+            // Neon line
+            Rectangle()
+                .fill(
+                    LinearGradient(
+                        colors: [
+                            Color(red: 0.95, green: 0.20, blue: 0.60).opacity(0.5),
+                            Color(red: 0.0, green: 0.95, blue: 0.90).opacity(0.5),
+                        ],
+                        startPoint: .leading,
+                        endPoint: .trailing
+                    )
+                )
+                .frame(height: 1)
+                .padding(.horizontal, 18)
+                .padding(.top, 8)
+
+            Spacer()
+
+            Text(card.question)
+                .font(.system(size: questionFontSize - 2, weight: .semibold, design: .monospaced))
+                .foregroundStyle(theme.cardTextColor)
+                .multilineTextAlignment(.center)
+                .lineSpacing(5)
+                .padding(.horizontal, 22)
+
+            Spacer()
+
+            // Bottom status
+            HStack {
+                Text("◈ CONNECTED")
+                    .font(.system(size: 8, design: .monospaced))
+                    .foregroundStyle(Color(red: 0.0, green: 0.95, blue: 0.90).opacity(0.4))
+                Spacer()
+                Text("▮▮▯")
+                    .font(.system(size: 10, design: .monospaced))
+                    .foregroundStyle(Color(red: 0.95, green: 0.20, blue: 0.60).opacity(0.4))
+            }
+            .padding(.horizontal, 20)
+            .padding(.bottom, 16)
+        }
+    }
+
+    // MARK: - Korean Traditional Style (한지)
+    private var koreanLayout: some View {
+        VStack(spacing: 0) {
+            // Dancheong-inspired header
+            HStack(spacing: 8) {
+                Rectangle()
+                    .fill(Color(red: 0.78, green: 0.22, blue: 0.28).opacity(0.3))
+                    .frame(width: 12, height: 3)
+                Rectangle()
+                    .fill(Color(red: 0.15, green: 0.45, blue: 0.35).opacity(0.3))
+                    .frame(width: 12, height: 3)
+                Rectangle()
+                    .fill(Color(red: 0.85, green: 0.65, blue: 0.15).opacity(0.3))
+                    .frame(width: 12, height: 3)
+                Rectangle()
+                    .fill(Color(red: 0.20, green: 0.35, blue: 0.60).opacity(0.3))
+                    .frame(width: 12, height: 3)
+                Rectangle()
+                    .fill(Color(red: 0.78, green: 0.22, blue: 0.28).opacity(0.3))
+                    .frame(width: 12, height: 3)
+            }
+            .padding(.top, 22)
+
+            Spacer()
+
+            Text(card.question)
+                .font(.system(size: questionFontSize, weight: .semibold, design: .serif))
+                .foregroundStyle(theme.cardTextColor)
+                .multilineTextAlignment(.center)
+                .lineSpacing(8)
+                .padding(.horizontal, 30)
+
+            Spacer()
+
+            // Bottom: simplified taegeuk-inspired ornament
+            HStack(spacing: 6) {
+                Rectangle()
+                    .fill(Color(red: 0.78, green: 0.22, blue: 0.28).opacity(0.2))
+                    .frame(height: 1)
+                Circle()
+                    .fill(Color(red: 0.78, green: 0.22, blue: 0.28).opacity(0.3))
+                    .frame(width: 6, height: 6)
+                Circle()
+                    .fill(Color(red: 0.20, green: 0.35, blue: 0.60).opacity(0.3))
+                    .frame(width: 6, height: 6)
+                Rectangle()
+                    .fill(Color(red: 0.20, green: 0.35, blue: 0.60).opacity(0.2))
+                    .frame(height: 1)
+            }
+            .padding(.horizontal, 28)
+            .padding(.bottom, 22)
+        }
+    }
+
+    // MARK: - Rainy Day Style (비 오는 날)
+    private var rainyDayLayout: some View {
+        VStack(spacing: 0) {
+            // Cloud header
+            HStack {
+                Image(systemName: "cloud.fill")
+                    .font(.system(size: 12))
+                    .foregroundStyle(Color(red: 0.50, green: 0.55, blue: 0.65).opacity(0.4))
+                Spacer()
+                Image(systemName: "cloud.rain.fill")
+                    .font(.system(size: 10))
+                    .foregroundStyle(Color(red: 0.50, green: 0.65, blue: 0.80).opacity(0.4))
+            }
+            .padding(.horizontal, 22)
+            .padding(.top, 20)
+
+            Spacer()
+
+            Text(card.question)
+                .font(.system(size: questionFontSize, weight: .semibold, design: .default))
+                .foregroundStyle(theme.cardTextColor)
+                .multilineTextAlignment(.center)
+                .lineSpacing(7)
+                .padding(.horizontal, 26)
+
+            Spacer()
+
+            // Bottom rain drops
+            HStack(spacing: 10) {
+                ForEach(0..<5, id: \.self) { i in
+                    RoundedRectangle(cornerRadius: 1)
+                        .fill(Color(red: 0.50, green: 0.65, blue: 0.80).opacity(0.15 + Double(i % 3) * 0.05))
+                        .frame(width: 1.5, height: CGFloat(6 + i % 3 * 4))
+                }
+            }
+            .padding(.bottom, 22)
+        }
+    }
+
+    // MARK: - Lavender Style (라벤더)
+    private var lavenderLayout: some View {
+        VStack(spacing: 0) {
+            // Flower top
+            HStack(spacing: 4) {
+                ForEach(0..<3, id: \.self) { _ in
+                    Image(systemName: "sparkle")
+                        .font(.system(size: 8))
+                        .foregroundStyle(Color(red: 0.60, green: 0.40, blue: 0.80).opacity(0.4))
+                }
+            }
+            .padding(.top, 22)
+
+            Spacer()
+
+            Text(card.question)
+                .font(.system(size: questionFontSize, weight: .semibold, design: .serif))
+                .foregroundStyle(theme.cardTextColor)
+                .multilineTextAlignment(.center)
+                .lineSpacing(8)
+                .padding(.horizontal, 28)
+
+            Spacer()
+
+            // Bottom lavender sprigs
+            HStack(spacing: 8) {
+                Image(systemName: "leaf.fill")
+                    .font(.system(size: 8))
+                    .foregroundStyle(Color(red: 0.50, green: 0.65, blue: 0.45).opacity(0.3))
+                    .rotationEffect(.degrees(-30))
+                ForEach(0..<3, id: \.self) { _ in
+                    Circle()
+                        .fill(Color(red: 0.60, green: 0.40, blue: 0.80).opacity(0.25))
+                        .frame(width: 5, height: 5)
+                }
+                Image(systemName: "leaf.fill")
+                    .font(.system(size: 8))
+                    .foregroundStyle(Color(red: 0.50, green: 0.65, blue: 0.45).opacity(0.3))
+                    .rotationEffect(.degrees(30))
             }
             .padding(.bottom, 22)
         }

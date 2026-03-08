@@ -41,22 +41,6 @@ struct ThemedCardBorder: View {
                     lineWidth: 3
                 )
 
-        case .ocean:
-            // Soft blue gradient border
-            RoundedRectangle(cornerRadius: theme.cardCornerRadius)
-                .stroke(
-                    LinearGradient(
-                        colors: [
-                            Color(red: 0.20, green: 0.70, blue: 0.90).opacity(0.5),
-                            Color(red: 0.10, green: 0.50, blue: 0.80).opacity(0.3),
-                            Color(red: 0.20, green: 0.70, blue: 0.90).opacity(0.5),
-                        ],
-                        startPoint: .top,
-                        endPoint: .bottom
-                    ),
-                    lineWidth: 2
-                )
-
         case .space:
             // Glowing purple dotted border
             RoundedRectangle(cornerRadius: theme.cardCornerRadius)
@@ -197,6 +181,73 @@ struct ThemedCardBorder: View {
                     ),
                     lineWidth: 2.5
                 )
+
+        case .ocean:
+            // Soft blue gradient border
+            RoundedRectangle(cornerRadius: theme.cardCornerRadius)
+                .stroke(
+                    LinearGradient(
+                        colors: [
+                            Color(red: 0.20, green: 0.60, blue: 0.85).opacity(0.4),
+                            Color(red: 0.40, green: 0.75, blue: 0.90).opacity(0.3),
+                            Color(red: 0.20, green: 0.60, blue: 0.85).opacity(0.4),
+                        ],
+                        startPoint: .topLeading,
+                        endPoint: .bottomTrailing
+                    ),
+                    lineWidth: 2
+                )
+
+        case .neonCyber:
+            // Neon pink/cyan dual border
+            RoundedRectangle(cornerRadius: theme.cardCornerRadius)
+                .stroke(Color(red: 0.95, green: 0.20, blue: 0.60), lineWidth: 2)
+                .overlay(
+                    RoundedRectangle(cornerRadius: theme.cardCornerRadius)
+                        .stroke(Color(red: 0.0, green: 0.95, blue: 0.90).opacity(0.3), lineWidth: 1)
+                        .padding(4)
+                )
+                .overlay(
+                    RoundedRectangle(cornerRadius: theme.cardCornerRadius)
+                        .stroke(Color(red: 0.95, green: 0.20, blue: 0.60).opacity(0.3), lineWidth: 8)
+                        .blur(radius: 6)
+                )
+
+        case .korean:
+            // Hanji-style warm border with inner line
+            RoundedRectangle(cornerRadius: theme.cardCornerRadius)
+                .stroke(Color(red: 0.65, green: 0.45, blue: 0.25).opacity(0.35), lineWidth: 1.5)
+                .overlay(
+                    RoundedRectangle(cornerRadius: theme.cardCornerRadius - 4)
+                        .stroke(Color(red: 0.78, green: 0.22, blue: 0.28).opacity(0.15), lineWidth: 0.8)
+                        .padding(6)
+                )
+
+        case .rainyDay:
+            // Subtle blue-gray border with soft glow
+            RoundedRectangle(cornerRadius: theme.cardCornerRadius)
+                .stroke(Color(red: 0.40, green: 0.50, blue: 0.65).opacity(0.3), lineWidth: 1.5)
+                .overlay(
+                    RoundedRectangle(cornerRadius: theme.cardCornerRadius)
+                        .stroke(Color(red: 0.50, green: 0.65, blue: 0.80).opacity(0.15), lineWidth: 6)
+                        .blur(radius: 4)
+                )
+
+        case .lavender:
+            // Soft purple gradient border
+            RoundedRectangle(cornerRadius: theme.cardCornerRadius)
+                .stroke(
+                    LinearGradient(
+                        colors: [
+                            Color(red: 0.70, green: 0.50, blue: 0.90).opacity(0.4),
+                            Color(red: 0.55, green: 0.35, blue: 0.75).opacity(0.3),
+                            Color(red: 0.70, green: 0.50, blue: 0.90).opacity(0.4),
+                        ],
+                        startPoint: .topLeading,
+                        endPoint: .bottomTrailing
+                    ),
+                    lineWidth: 2
+                )
         }
     }
 }
@@ -243,17 +294,6 @@ struct CardBackgroundPattern: View {
                     DiamondPattern(spacing: 30)
                         .stroke(Color(red: 0.85, green: 0.70, blue: 0.20).opacity(0.06), lineWidth: 0.5)
                 }
-
-            case .ocean:
-                // Gradient from light to slightly deeper blue
-                LinearGradient(
-                    colors: [
-                        theme.cardBackgroundColor,
-                        Color(red: 0.82, green: 0.92, blue: 1.0),
-                    ],
-                    startPoint: .top,
-                    endPoint: .bottom
-                )
 
             case .space:
                 // Dark with tiny star dots
@@ -387,6 +427,68 @@ struct CardBackgroundPattern: View {
                         Color(red: 1.0, green: 0.96, blue: 0.82),
                         theme.cardBackgroundColor,
                         Color(red: 1.0, green: 0.94, blue: 0.78),
+                    ],
+                    startPoint: .topLeading,
+                    endPoint: .bottomTrailing
+                )
+
+            case .ocean:
+                // Soft blue gradient
+                LinearGradient(
+                    colors: [
+                        Color(red: 0.92, green: 0.97, blue: 1.0),
+                        theme.cardBackgroundColor,
+                        Color(red: 0.90, green: 0.96, blue: 1.0),
+                    ],
+                    startPoint: .topLeading,
+                    endPoint: .bottomTrailing
+                )
+
+            case .neonCyber:
+                // Dark with grid overlay
+                ZStack {
+                    theme.cardBackgroundColor
+                    GridPattern(spacing: 25)
+                        .stroke(Color(red: 0.95, green: 0.20, blue: 0.60).opacity(0.04), lineWidth: 0.5)
+                }
+
+            case .korean:
+                // Hanji texture feel
+                ZStack {
+                    theme.cardBackgroundColor
+                    RadialGradient(
+                        colors: [
+                            Color(red: 0.98, green: 0.96, blue: 0.90),
+                            theme.cardBackgroundColor,
+                        ],
+                        center: .center,
+                        startRadius: 30,
+                        endRadius: max(w, h) * 0.7
+                    )
+                }
+
+            case .rainyDay:
+                // Dark with cool blue wash
+                ZStack {
+                    theme.cardBackgroundColor
+                    LinearGradient(
+                        colors: [
+                            Color(red: 0.30, green: 0.45, blue: 0.65).opacity(0.04),
+                            .clear,
+                            Color(red: 0.30, green: 0.45, blue: 0.65).opacity(0.03),
+                        ],
+                        startPoint: .topLeading,
+                        endPoint: .bottomTrailing
+                    )
+                }
+
+            case .lavender:
+                // Soft purple gradient
+                LinearGradient(
+                    colors: [
+                        Color(red: 0.96, green: 0.94, blue: 1.0),
+                        theme.cardBackgroundColor,
+                        Color(red: 0.95, green: 0.92, blue: 0.99),
                     ],
                     startPoint: .topLeading,
                     endPoint: .bottomTrailing

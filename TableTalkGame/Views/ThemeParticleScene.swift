@@ -20,105 +20,104 @@ struct AnimatedBackgroundView: View {
         switch theme {
         case .minimal:
             break
-
         case .halloween:
             drawHalloweenBG(ctx: ctx, size: size, time: time)
-
         case .christmas:
             drawSnowfallBG(ctx: ctx, size: size, time: time)
-
-        case .ocean:
-            drawOceanBG(ctx: ctx, size: size, time: time)
-
         case .space:
             drawSpaceBG(ctx: ctx, size: size, time: time)
-
         case .cherryBlossom:
             drawCherryBlossomBG(ctx: ctx, size: size, time: time)
-
         case .retroGame:
             drawRetroBG(ctx: ctx, size: size, time: time)
-
         case .autumn:
             drawAutumnBG(ctx: ctx, size: size, time: time)
-
         case .aurora:
             drawAuroraBG(ctx: ctx, size: size, time: time)
-
         case .circus:
             drawCircusBG(ctx: ctx, size: size, time: time)
-
         case .desert:
             drawDesertBG(ctx: ctx, size: size, time: time)
-
         case .forsythia:
             drawForsythiaBG(ctx: ctx, size: size, time: time)
-
         case .candy:
             drawCandyBG(ctx: ctx, size: size, time: time)
-
         case .zenGarden:
             drawZenGardenBG(ctx: ctx, size: size, time: time)
+        case .ocean:
+            drawOceanBG(ctx: ctx, size: size, time: time)
+        case .neonCyber:
+            drawNeonCyberBG(ctx: ctx, size: size, time: time)
+        case .korean:
+            drawKoreanBG(ctx: ctx, size: size, time: time)
+        case .rainyDay:
+            drawRainyDayBG(ctx: ctx, size: size, time: time)
+        case .lavender:
+            drawLavenderBG(ctx: ctx, size: size, time: time)
         }
     }
 
     // MARK: - Halloween
 
     private func drawHalloweenBG(ctx: GraphicsContext, size: CGSize, time: Double) {
-        // Floating glowing orbs
-        for i in 0..<10 {
+        // 유령의 불꽃 (will-o'-wisps)
+        for i in 0..<12 {
             let seed = Double(i) * 137.5
             let x = (sin(time * 0.3 + seed) * 0.5 + 0.5) * size.width
-            let baseY = CGFloat(i) / 10.0 * size.height
-            let y = baseY + sin(time * 0.5 + seed * 0.7) * 40
-            let radius: CGFloat = CGFloat(15 + (i % 3) * 8)
-            let opacity = 0.12 + sin(time * 0.8 + seed) * 0.05
+            let baseY = CGFloat(i) / 12.0 * size.height
+            let y = baseY + sin(time * 0.5 + seed * 0.7) * 35
+            let radius: CGFloat = CGFloat(8 + (i % 4) * 4)
+            let opacity = 0.09 + sin(time * 0.8 + seed) * 0.04
 
             let orb = Path(ellipseIn: CGRect(x: x - radius, y: y - radius, width: radius * 2, height: radius * 2))
             ctx.fill(orb, with: .color(Color.orange.opacity(opacity)))
-
-            let glowR = radius * 2.5
+            let glowR = radius * 2.8
             let glow = Path(ellipseIn: CGRect(x: x - glowR, y: y - glowR, width: glowR * 2, height: glowR * 2))
-            ctx.fill(glow, with: .color(Color.orange.opacity(opacity * 0.3)))
-        }
+            ctx.fill(glow, with: .color(Color.orange.opacity(opacity * 0.25)))
 
-        // 박쥐 실루엣
-        for i in 0..<5 {
-            let seed = Double(i) * 211.3
-            let x = fmod(seed * 37.1 + sin(time * 0.4 + seed) * 60, size.width)
-            let y = fmod(seed * 19.7, size.height * 0.6) + sin(time * 0.6 + seed) * 30
-            let wingFlap = sin(time * 4.0 + seed) * 0.3
-            let scale: CGFloat = CGFloat(1.5 + fmod(seed * 0.3, 1.0))
-
-            ctx.drawLayer { batCtx in
-                batCtx.opacity = 0.12
-                let body = Path(ellipseIn: CGRect(x: x - 5 * scale, y: y - 3 * scale, width: 10 * scale, height: 6 * scale))
-                batCtx.fill(body, with: .color(.white))
-                var leftWing = Path()
-                leftWing.move(to: CGPoint(x: x - 5 * scale, y: y))
-                leftWing.addQuadCurve(to: CGPoint(x: x - 25 * scale, y: y - 8 * scale), control: CGPoint(x: x - 14 * scale, y: y - 16 * scale + wingFlap * 20))
-                leftWing.addLine(to: CGPoint(x: x - 5 * scale, y: y + 2 * scale))
-                batCtx.fill(leftWing, with: .color(.white))
-                var rightWing = Path()
-                rightWing.move(to: CGPoint(x: x + 5 * scale, y: y))
-                rightWing.addQuadCurve(to: CGPoint(x: x + 25 * scale, y: y - 8 * scale), control: CGPoint(x: x + 14 * scale, y: y - 16 * scale + wingFlap * 20))
-                rightWing.addLine(to: CGPoint(x: x + 5 * scale, y: y + 2 * scale))
-                batCtx.fill(rightWing, with: .color(.white))
+            // 보라빛 내부 코어
+            if i % 3 == 0 {
+                let coreR = radius * 0.4
+                let core = Path(ellipseIn: CGRect(x: x - coreR, y: y - coreR, width: coreR * 2, height: coreR * 2))
+                ctx.fill(core, with: .color(Color.purple.opacity(opacity * 0.5)))
             }
         }
+
+        // 안개
+        for i in 0..<3 {
+            let seed = Double(i) * 97.3
+            let x = size.width * (0.2 + CGFloat(i) * 0.3)
+            let y = size.height * (0.7 + CGFloat(i) * 0.08)
+            let drift = sin(time * 0.15 + seed) * 30
+            let r: CGFloat = 60 + sin(time * 0.2 + seed) * 10
+            let mist = Path(ellipseIn: CGRect(x: x + drift - r, y: y - r * 0.3, width: r * 2, height: r * 0.6))
+            ctx.fill(mist, with: .color(Color.purple.opacity(0.03)))
+        }
+
     }
 
     // MARK: - Christmas (Snowfall)
 
     private func drawSnowfallBG(ctx: GraphicsContext, size: CGSize, time: Double) {
-        // 큰 눈송이 결정
+        // 알록달록 파티클 색상
+        let colors: [Color] = [
+            .white,
+            Color(red: 1.0, green: 0.95, blue: 0.7),  // warm yellow
+            Color(red: 1.0, green: 0.7, blue: 0.8),    // pink
+            Color(red: 0.6, green: 0.8, blue: 1.0),    // light blue
+            Color(red: 1.0, green: 0.6, blue: 0.3),    // orange
+            Color(red: 0.8, green: 1.0, blue: 0.7),    // light green
+            Color(red: 0.85, green: 0.15, blue: 0.15),  // red
+        ]
+
+        // 눈송이 결정
         for i in 0..<10 {
             let seed = Double(i) * 73.1
-            let x = fmod(seed * 31.7 + sin(time * 0.12 + seed) * 70, size.width)
+            let x = fmod(seed * 31.7 + sin(time * 0.12 + seed) * 65, size.width)
             let fallSpeed = 10.0 + fmod(seed * 11.3, 15.0)
-            let y = fmod(time * fallSpeed + seed * 47.1, Double(size.height + 60)) - 30
-            let radius: CGFloat = CGFloat(10 + fmod(seed * 2.3, 12))
-            let opacity = 0.25 + fmod(seed * 0.11, 0.15)
+            let y = fmod(time * fallSpeed + seed * 47.1, Double(size.height + 50)) - 25
+            let radius: CGFloat = CGFloat(7 + fmod(seed * 2.3, 8))
+            let opacity = 0.22 + fmod(seed * 0.11, 0.12)
             let rotation = time * 0.2 + seed
 
             ctx.drawLayer { flakeCtx in
@@ -130,184 +129,165 @@ struct AnimatedBackgroundView: View {
                     var armPath = Path()
                     armPath.move(to: CGPoint(x: x, y: y))
                     armPath.addLine(to: CGPoint(x: endX, y: endY))
-                    flakeCtx.stroke(armPath, with: .color(.white), lineWidth: 1.8)
+                    flakeCtx.stroke(armPath, with: .color(.white), lineWidth: 1.5)
 
                     let midX = x + cos(angle) * radius * 0.55
                     let midY = y + sin(angle) * radius * 0.55
                     for sign: CGFloat in [-1, 1] {
                         let bAngle = angle + sign * .pi / 5
-                        let branchLen = radius * 0.4
+                        let branchLen = radius * 0.38
                         var branch = Path()
                         branch.move(to: CGPoint(x: midX, y: midY))
                         branch.addLine(to: CGPoint(x: midX + cos(bAngle) * branchLen, y: midY + sin(bAngle) * branchLen))
-                        flakeCtx.stroke(branch, with: .color(.white), lineWidth: 1.0)
+                        flakeCtx.stroke(branch, with: .color(.white), lineWidth: 0.9)
                     }
                 }
-                let center = Path(ellipseIn: CGRect(x: x - 3, y: y - 3, width: 6, height: 6))
+                let center = Path(ellipseIn: CGRect(x: x - 2, y: y - 2, width: 4, height: 4))
                 flakeCtx.fill(center, with: .color(.white))
             }
         }
 
-        // 중간 눈 입자
+        // 눈 입자
         for i in 0..<20 {
             let seed = Double(i) * 97.3
-            let x = fmod(seed * 41.7 + sin(time * 0.2 + seed) * 40, size.width)
-            let fallSpeed = 20.0 + fmod(seed * 17.3, 30.0)
+            let x = fmod(seed * 41.7 + sin(time * 0.2 + seed) * 35, size.width)
+            let fallSpeed = 20.0 + fmod(seed * 17.3, 28.0)
             let y = fmod(time * fallSpeed + seed * 53.1, Double(size.height + 20)) - 10
-            let radius: CGFloat = CGFloat(3 + fmod(seed * 3.7, 5))
-            let opacity = 0.18 + fmod(seed * 0.13, 0.12)
+            let radius: CGFloat = CGFloat(2 + fmod(seed * 3.7, 4))
+            let opacity = 0.15 + fmod(seed * 0.13, 0.1)
 
             let flake = Path(ellipseIn: CGRect(x: x - radius, y: y - radius, width: radius * 2, height: radius * 2))
             ctx.fill(flake, with: .color(Color.white.opacity(opacity)))
         }
 
-        // 반짝이는 별
+        // 알록달록 빛 파티클 (눈처럼 떨어짐)
+        for i in 0..<25 {
+            let seed = Double(i) * 53.7
+            let colorIndex = Int(fmod(seed * 3.1, Double(colors.count)))
+            let color = colors[colorIndex]
+
+            let x = fmod(seed * 43.3 + sin(time * 0.15 + seed * 0.8) * 50, size.width)
+            let fallSpeed = 12.0 + fmod(seed * 9.7, 18.0)
+            let y = fmod(time * fallSpeed + seed * 31.9, Double(size.height + 40)) - 20
+            let baseSize: CGFloat = CGFloat(3 + fmod(seed * 2.9, 5))
+
+            let twinkle = (sin(time * 2.5 + seed * 4.3) + 1) * 0.5
+            let finalSize = baseSize * CGFloat(0.7 + twinkle * 0.3)
+            let opacity = 0.25 + twinkle * 0.3
+
+            // 글로우
+            let glowR = finalSize * 2.2
+            let glow = Path(ellipseIn: CGRect(x: x - glowR, y: y - glowR, width: glowR * 2, height: glowR * 2))
+            ctx.fill(glow, with: .color(color.opacity(opacity * 0.25)))
+
+            // 코어
+            let core = Path(ellipseIn: CGRect(x: x - finalSize, y: y - finalSize, width: finalSize * 2, height: finalSize * 2))
+            ctx.fill(core, with: .color(color.opacity(opacity)))
+
+            // 밝은 중심
+            let bright = finalSize * 0.4
+            let dot = Path(ellipseIn: CGRect(x: x - bright, y: y - bright, width: bright * 2, height: bright * 2))
+            ctx.fill(dot, with: .color(.white.opacity(opacity * 0.6)))
+        }
+
+        // 반짝이
         for i in 0..<6 {
             let seed = Double(i) * 137.5
             let x = fmod(seed * 23.1, size.width)
             let y = fmod(seed * 51.7, size.height)
             let twinkle = (sin(time * 2.0 + seed * 3.1) + 1) * 0.5
-            let starSize: CGFloat = CGFloat(4 + twinkle * 5)
-            let opacity = 0.15 + twinkle * 0.25
+            let starSize: CGFloat = CGFloat(3 + twinkle * 4)
+            let opacity = 0.12 + twinkle * 0.2
 
             var star = Path()
             star.move(to: CGPoint(x: x - starSize, y: y))
             star.addLine(to: CGPoint(x: x + starSize, y: y))
             star.move(to: CGPoint(x: x, y: y - starSize))
             star.addLine(to: CGPoint(x: x, y: y + starSize))
-            ctx.stroke(star, with: .color(Color(red: 1.0, green: 0.95, blue: 0.7).opacity(opacity)), lineWidth: 1.2)
-        }
-    }
-
-    // MARK: - Ocean
-
-    private func drawOceanBG(ctx: GraphicsContext, size: CGSize, time: Double) {
-        let cyan = Color(red: 0.2, green: 0.7, blue: 0.9)
-
-        // 빛줄기 (수면 반사)
-        for i in 0..<5 {
-            let seed = Double(i) * 97.1
-            let x = fmod(seed * 61.3, size.width)
-            let sway = sin(time * 0.2 + seed) * 20
-            let opacity = 0.04 + sin(time * 0.4 + seed) * 0.02
-
-            var ray = Path()
-            ray.move(to: CGPoint(x: x + sway - 10, y: 0))
-            ray.addLine(to: CGPoint(x: x + sway + 10, y: 0))
-            ray.addLine(to: CGPoint(x: x + sway + 40, y: size.height * 0.6))
-            ray.addLine(to: CGPoint(x: x + sway - 20, y: size.height * 0.6))
-            ray.closeSubpath()
-            ctx.fill(ray, with: .color(Color.white.opacity(max(0, opacity))))
-        }
-
-        // 파도
-        for w in 0..<4 {
-            let waveY = size.height * (0.25 + CGFloat(w) * 0.18)
-            let opacity = 0.08 - Double(w) * 0.012
-            var path = Path()
-            for x in stride(from: 0, through: size.width, by: 3) {
-                let y = waveY + sin(Double(x) * 0.01 + time * 0.5 + Double(w) * 1.2) * 25
-                    + cos(Double(x) * 0.018 + time * 0.3 + Double(w)) * 12
-                if x == 0 { path.move(to: CGPoint(x: x, y: y)) }
-                else { path.addLine(to: CGPoint(x: x, y: y)) }
-            }
-            ctx.stroke(path, with: .color(cyan.opacity(opacity)), lineWidth: 2.5)
-        }
-
-        // 버블
-        for i in 0..<12 {
-            let seed = Double(i) * 83.7
-            let x = fmod(seed * 43.1, size.width) + sin(time * 0.3 + seed) * 15
-            let riseSpeed = 10.0 + fmod(seed * 7.3, 18.0)
-            let y = size.height - fmod(time * riseSpeed + seed * 29.3, Double(size.height + 30)) + 15
-            let radius: CGFloat = CGFloat(5 + fmod(seed * 2.1, 10))
-
-            let bubble = Path(ellipseIn: CGRect(x: x - radius, y: y - radius, width: radius * 2, height: radius * 2))
-            ctx.stroke(bubble, with: .color(Color.white.opacity(0.18)), lineWidth: 1.2)
-            let highlight = Path(ellipseIn: CGRect(x: x - radius * 0.3, y: y - radius * 0.6, width: radius * 0.5, height: radius * 0.4))
-            ctx.fill(highlight, with: .color(Color.white.opacity(0.12)))
-        }
-
-        // 물고기
-        for i in 0..<3 {
-            let seed = Double(i) * 173.7
-            let speed = 15.0 + fmod(seed * 5.1, 12.0)
-            let x = fmod(time * speed + seed * 31.1, Double(size.width + 60)) - 30
-            let y = fmod(seed * 47.3, size.height * 0.5) + size.height * 0.35 + sin(time * 0.5 + seed) * 20
-            let s: CGFloat = CGFloat(1.5 + fmod(seed * 0.3, 1.0))
-
-            ctx.drawLayer { fishCtx in
-                fishCtx.opacity = 0.12
-                let body = Path(ellipseIn: CGRect(x: x - 10 * s, y: y - 5 * s, width: 20 * s, height: 10 * s))
-                fishCtx.fill(body, with: .color(cyan))
-                var tail = Path()
-                tail.move(to: CGPoint(x: x - 10 * s, y: y))
-                tail.addLine(to: CGPoint(x: x - 18 * s, y: y - 7 * s))
-                tail.addLine(to: CGPoint(x: x - 18 * s, y: y + 7 * s))
-                tail.closeSubpath()
-                fishCtx.fill(tail, with: .color(cyan))
-            }
+            ctx.stroke(star, with: .color(Color(red: 1.0, green: 0.95, blue: 0.7).opacity(opacity)), lineWidth: 1.0)
         }
     }
 
     // MARK: - Space
 
     private func drawSpaceBG(ctx: GraphicsContext, size: CGSize, time: Double) {
-        // 별
-        for i in 0..<35 {
+        let starColors: [Color] = [
+            .white,
+            Color(red: 0.8, green: 0.85, blue: 1.0),  // blue-white
+            Color(red: 1.0, green: 0.95, blue: 0.8),   // warm white
+            Color(red: 0.7, green: 0.8, blue: 1.0),    // light blue
+        ]
+
+        // 별 - 그리드 기반 균등 분포
+        for i in 0..<45 {
+            let cols = 9
+            let rows = 5
+            let col = i % cols
+            let row = i / cols
+            let cellW = size.width / CGFloat(cols)
+            let cellH = size.height / CGFloat(rows)
+
+            // 셀 내에서 랜덤 위치 (seed 기반)
             let seed = Double(i) * 67.3
-            let x = fmod(seed * 53.7, size.width)
-            let y = fmod(seed * 31.3, size.height)
+            let offsetX = fmod(seed * 17.3, Double(cellW) * 0.8) + Double(cellW) * 0.1
+            let offsetY = fmod(seed * 23.1, Double(cellH) * 0.8) + Double(cellH) * 0.1
+            let x = CGFloat(col) * cellW + CGFloat(offsetX)
+            let y = CGFloat(row) * cellH + CGFloat(offsetY)
+
             let twinkle = sin(time * (1.5 + fmod(seed * 0.1, 2.0)) + seed) * 0.5 + 0.5
-            let radius: CGFloat = CGFloat(1.5 + fmod(seed * 1.3, 2.5))
-            let opacity = 0.15 + twinkle * 0.25
+            let radius: CGFloat = CGFloat(1.0 + fmod(seed * 1.3, 2.2))
+            let opacity = 0.1 + twinkle * 0.22
+            let color = starColors[i % starColors.count]
 
             let star = Path(ellipseIn: CGRect(x: x - radius, y: y - radius, width: radius * 2, height: radius * 2))
-            ctx.fill(star, with: .color(Color.white.opacity(opacity)))
+            ctx.fill(star, with: .color(color.opacity(opacity)))
 
-            // 큰 별은 십자 반짝임
-            if i < 8 {
+            // 밝은 별은 십자 반짝임
+            if i < 10 {
                 let sparkSize = radius + CGFloat(twinkle) * 4
                 var spark = Path()
                 spark.move(to: CGPoint(x: x - sparkSize, y: y))
                 spark.addLine(to: CGPoint(x: x + sparkSize, y: y))
                 spark.move(to: CGPoint(x: x, y: y - sparkSize))
                 spark.addLine(to: CGPoint(x: x, y: y + sparkSize))
-                ctx.stroke(spark, with: .color(Color.white.opacity(opacity * 0.5)), lineWidth: 0.8)
+                ctx.stroke(spark, with: .color(color.opacity(opacity * 0.35)), lineWidth: 0.6)
             }
         }
 
-        // 성운 글로우
-        let nebulaPositions: [(CGFloat, CGFloat, Color)] = [
-            (size.width * 0.3, size.height * 0.25, Color(red: 0.4, green: 0.2, blue: 0.8)),
-            (size.width * 0.7, size.height * 0.6, Color(red: 0.2, green: 0.3, blue: 0.9)),
-        ]
-        for (nx, ny, color) in nebulaPositions {
-            let pulse = sin(time * 0.2) * 10
-            let r: CGFloat = 60 + CGFloat(pulse)
-            let nebula = Path(ellipseIn: CGRect(x: nx - r, y: ny - r * 0.7, width: r * 2, height: r * 1.4))
-            ctx.fill(nebula, with: .color(color.opacity(0.04)))
+        // 은하수 띠
+        var milkyWay = Path()
+        for x in stride(from: 0, through: size.width, by: 3) {
+            let y = size.height * 0.45 + sin(Double(x) * 0.008 + time * 0.1) * 35
+                + cos(Double(x) * 0.015) * 20
+            if x == 0 { milkyWay.move(to: CGPoint(x: x, y: y)) }
+            else { milkyWay.addLine(to: CGPoint(x: x, y: y)) }
         }
+        ctx.stroke(milkyWay, with: .color(Color(red: 0.5, green: 0.4, blue: 0.8).opacity(0.04)), lineWidth: 30)
+        ctx.stroke(milkyWay, with: .color(Color(red: 0.6, green: 0.5, blue: 0.9).opacity(0.025)), lineWidth: 60)
 
-        // 유성
-        let shootIdx = Int(time * 0.15) % 5
-        let shootSeed = Double(shootIdx) * 193.7
-        let progress = fmod(time * 0.8 + shootSeed, 3.0) / 3.0
-        if progress < 1.0 {
-            let startX = fmod(shootSeed * 37.1, size.width * 0.6) + size.width * 0.2
-            let startY = fmod(shootSeed * 19.3, size.height * 0.3)
-            let endX = startX + 120
-            let endY = startY + 80
+        // 유성 - 여러 개가 연속으로 떨어짐
+        for i in 0..<4 {
+            let seed = Double(i) * 193.7
+            let duration = 2.5 + fmod(seed * 0.3, 1.5)
+            let progress = fmod(time * 0.6 + seed * 0.7, duration) / duration
+
+            let startX = fmod(seed * 37.1, size.width * 0.7) + size.width * 0.1
+            let startY = fmod(seed * 19.3, size.height * 0.25)
+            let length = 100.0 + fmod(seed * 11.3, 60.0)
+            let endX = startX + length
+            let endY = startY + length * 0.65
             let cx = startX + (endX - startX) * progress
             let cy = startY + (endY - startY) * progress
-            let tailLen: CGFloat = 50
+            let tailLen: CGFloat = CGFloat(35 + fmod(seed * 3.7, 25))
+            let fade = 1.0 - progress
 
             var trail = Path()
             trail.move(to: CGPoint(x: cx, y: cy))
-            trail.addLine(to: CGPoint(x: cx - tailLen, y: cy - tailLen * 0.6))
-            ctx.stroke(trail, with: .color(Color.white.opacity(0.25 * (1 - progress))), lineWidth: 1.5)
-            let dot = Path(ellipseIn: CGRect(x: cx - 3, y: cy - 3, width: 6, height: 6))
-            ctx.fill(dot, with: .color(Color.white.opacity(0.4 * (1 - progress))))
+            trail.addLine(to: CGPoint(x: cx - tailLen, y: cy - tailLen * 0.65))
+            ctx.stroke(trail, with: .color(Color.white.opacity(0.2 * fade)), lineWidth: 1.2)
+
+            let dot = Path(ellipseIn: CGRect(x: cx - 2, y: cy - 2, width: 4, height: 4))
+            ctx.fill(dot, with: .color(Color.white.opacity(0.35 * fade)))
         }
     }
 
@@ -321,15 +301,15 @@ struct AnimatedBackgroundView: View {
             let seed = Double(i) * 113.7
             let baseX = fmod(seed * 37.1, size.width)
             let fallSpeed = 12.0 + fmod(seed * 11.3, 20.0)
-            let y = fmod(time * fallSpeed + seed * 53.7, Double(size.height + 50)) - 25
-            let drift = sin(time * 0.3 + seed) * 45 + cos(time * 0.18 + seed * 0.7) * 20
+            let y = fmod(time * fallSpeed + seed * 53.7, Double(size.height + 45)) - 22
+            let drift = sin(time * 0.3 + seed) * 40 + cos(time * 0.18 + seed * 0.7) * 18
             let x = baseX + drift
             let rotation = time * 0.35 + seed
-            let scale = 1.5 + fmod(seed * 0.3, 1.5)
+            let scale = 1.1 + fmod(seed * 0.3, 1.0)
             let color = i % 3 == 0 ? lightPink : pink
 
             ctx.drawLayer { layerCtx in
-                layerCtx.opacity = 0.18 + fmod(seed * 0.03, 0.1)
+                layerCtx.opacity = 0.15 + fmod(seed * 0.03, 0.08)
                 let transform = CGAffineTransform(translationX: x, y: y)
                     .rotated(by: rotation)
                     .scaledBy(x: scale, y: scale)
@@ -342,15 +322,14 @@ struct AnimatedBackgroundView: View {
             }
         }
 
-        // 흩날리는 꽃잎 조각
         for i in 0..<6 {
             let seed = Double(i) * 179.3
             let x = fmod(seed * 47.1 + time * 10, size.width + 20) - 10
-            let y = fmod(seed * 29.3, size.height * 0.5) + sin(time * 0.5 + seed) * 25
-            let r: CGFloat = CGFloat(4 + fmod(seed * 1.1, 4))
+            let y = fmod(seed * 29.3, size.height * 0.5) + sin(time * 0.5 + seed) * 22
+            let r: CGFloat = CGFloat(3 + fmod(seed * 1.1, 3))
 
             let dot = Path(ellipseIn: CGRect(x: x - r, y: y - r, width: r * 2, height: r * 2))
-            ctx.fill(dot, with: .color(pink.opacity(0.12)))
+            ctx.fill(dot, with: .color(pink.opacity(0.1)))
         }
     }
 
@@ -366,32 +345,30 @@ struct AnimatedBackgroundView: View {
             var line = Path()
             line.move(to: CGPoint(x: x, y: 0))
             line.addLine(to: CGPoint(x: x, y: size.height))
-            ctx.stroke(line, with: .color(green.opacity(0.06)), lineWidth: 0.8)
+            ctx.stroke(line, with: .color(green.opacity(0.05)), lineWidth: 0.7)
         }
         for y in stride(from: -gridSpacing + CGFloat(scrollOffset), through: size.height + gridSpacing, by: gridSpacing) {
             var line = Path()
             line.move(to: CGPoint(x: 0, y: y))
             line.addLine(to: CGPoint(x: size.width, y: y))
-            ctx.stroke(line, with: .color(green.opacity(0.06)), lineWidth: 0.8)
+            ctx.stroke(line, with: .color(green.opacity(0.05)), lineWidth: 0.7)
         }
 
-        // 픽셀 블록
-        for i in 0..<8 {
+        for i in 0..<7 {
             let seed = Double(i) * 79.3
             let x = fmod(seed * 41.7, size.width)
             let speed = 10.0 + fmod(seed * 13.1, 20.0)
             let y = size.height - fmod(time * speed + seed * 37.3, Double(size.height + 30)) + 15
-            let blockSize: CGFloat = CGFloat(8 + i % 3 * 4)
+            let blockSize: CGFloat = CGFloat(6 + i % 3 * 3)
 
             let block = Path(CGRect(x: x, y: y, width: blockSize, height: blockSize))
-            ctx.fill(block, with: .color(green.opacity(0.14)))
+            ctx.fill(block, with: .color(green.opacity(0.12)))
         }
 
-        // 깜빡이는 커서
         let cursorOn = sin(time * 3) > 0
         if cursorOn {
-            let cursorRect = Path(CGRect(x: size.width * 0.1, y: size.height * 0.85, width: 12, height: 3))
-            ctx.fill(cursorRect, with: .color(green.opacity(0.2)))
+            let cursorRect = Path(CGRect(x: size.width * 0.1, y: size.height * 0.85, width: 10, height: 3))
+            ctx.fill(cursorRect, with: .color(green.opacity(0.16)))
         }
     }
 
@@ -409,53 +386,51 @@ struct AnimatedBackgroundView: View {
             let seed = Double(i) * 127.3
             let baseX = fmod(seed * 29.7, size.width)
             let fallSpeed = 10.0 + fmod(seed * 9.7, 18.0)
-            let y = fmod(time * fallSpeed + seed * 41.3, Double(size.height + 40)) - 20
-            let drift = sin(time * 0.2 + seed) * 40 + cos(time * 0.12 + seed * 0.5) * 20
+            let y = fmod(time * fallSpeed + seed * 41.3, Double(size.height + 35)) - 18
+            let drift = sin(time * 0.2 + seed) * 35 + cos(time * 0.12 + seed * 0.5) * 16
             let x = baseX + drift
             let rotation = time * 0.3 + seed
             let color = colors[i % colors.count]
-            let scale = 1.5 + fmod(seed * 0.2, 1.2)
+            let scale = 1.2 + fmod(seed * 0.2, 0.9)
 
             ctx.drawLayer { layerCtx in
-                layerCtx.opacity = 0.2
+                layerCtx.opacity = 0.16
                 let transform = CGAffineTransform(translationX: x, y: y)
                     .rotated(by: rotation)
                     .scaledBy(x: scale, y: scale)
 
                 if i % 3 == 0 {
-                    // 단풍잎
                     var maple = Path()
                     for arm in 0..<5 {
                         let angle = CGFloat(arm) * .pi * 2 / 5 - .pi / 2
-                        let tipX = cos(angle) * 8
-                        let tipY = sin(angle) * 8
+                        let tipX = cos(angle) * 7
+                        let tipY = sin(angle) * 7
                         if arm == 0 { maple.move(to: CGPoint(x: tipX, y: tipY)) }
                         else { maple.addLine(to: CGPoint(x: tipX, y: tipY)) }
                         let innerAngle = angle + .pi / 5
-                        maple.addLine(to: CGPoint(x: cos(innerAngle) * 3.5, y: sin(innerAngle) * 3.5))
+                        maple.addLine(to: CGPoint(x: cos(innerAngle) * 3, y: sin(innerAngle) * 3))
                     }
                     maple.closeSubpath()
                     layerCtx.fill(maple.applying(transform), with: .color(color))
                 } else {
                     var leaf = Path()
-                    leaf.move(to: CGPoint(x: 0, y: -8))
-                    leaf.addQuadCurve(to: CGPoint(x: 0, y: 8), control: CGPoint(x: 9, y: 0))
-                    leaf.addQuadCurve(to: CGPoint(x: 0, y: -8), control: CGPoint(x: -9, y: 0))
+                    leaf.move(to: CGPoint(x: 0, y: -7))
+                    leaf.addQuadCurve(to: CGPoint(x: 0, y: 7), control: CGPoint(x: 8, y: 0))
+                    leaf.addQuadCurve(to: CGPoint(x: 0, y: -7), control: CGPoint(x: -8, y: 0))
                     layerCtx.fill(leaf.applying(transform), with: .color(color))
                 }
             }
         }
 
-        // 따뜻한 빛
         for i in 0..<4 {
             let seed = Double(i) * 193.7
             let x = fmod(seed * 31.1, size.width)
             let y = fmod(seed * 47.3, size.height * 0.4) + size.height * 0.1
-            let r: CGFloat = CGFloat(50 + fmod(seed * 7.1, 40))
-            let pulse = sin(time * 0.3 + seed) * 0.015
+            let r: CGFloat = CGFloat(40 + fmod(seed * 7.1, 35))
+            let pulse = sin(time * 0.3 + seed) * 0.012
 
             let glow = Path(ellipseIn: CGRect(x: x - r, y: y - r, width: r * 2, height: r * 2))
-            ctx.fill(glow, with: .color(Color(red: 0.95, green: 0.75, blue: 0.3).opacity(0.04 + pulse)))
+            ctx.fill(glow, with: .color(Color(red: 0.95, green: 0.75, blue: 0.3).opacity(0.03 + pulse)))
         }
     }
 
@@ -463,18 +438,20 @@ struct AnimatedBackgroundView: View {
 
     private func drawAuroraBG(ctx: GraphicsContext, size: CGSize, time: Double) {
         let colors: [(Color, Double)] = [
-            (Color(red: 0.1, green: 0.9, blue: 0.5), 0.1),
-            (Color(red: 0.3, green: 0.5, blue: 0.9), 0.08),
-            (Color(red: 0.7, green: 0.2, blue: 0.8), 0.06),
+            (Color(red: 0.1, green: 0.9, blue: 0.5), 0.08),
+            (Color(red: 0.3, green: 0.5, blue: 0.9), 0.07),
+            (Color(red: 0.7, green: 0.2, blue: 0.8), 0.055),
+            (Color(red: 0.2, green: 0.8, blue: 0.7), 0.045),
         ]
 
         for (idx, (color, opacity)) in colors.enumerated() {
-            let baseY = size.height * (0.15 + CGFloat(idx) * 0.15)
+            let baseY = size.height * (0.1 + CGFloat(idx) * 0.13)
             var path = Path()
             for x in stride(from: 0, through: size.width, by: 3) {
                 let wave1 = sin(Double(x) * 0.008 + time * 0.3 + Double(idx) * 2.0) * 50
                 let wave2 = sin(Double(x) * 0.015 + time * 0.5 + Double(idx) * 1.5) * 25
-                let y = baseY + wave1 + wave2
+                let wave3 = cos(Double(x) * 0.005 + time * 0.2 + Double(idx)) * 15
+                let y = baseY + wave1 + wave2 + wave3
                 if x == 0 { path.move(to: CGPoint(x: x, y: y)) }
                 else { path.addLine(to: CGPoint(x: x, y: y)) }
             }
@@ -484,40 +461,43 @@ struct AnimatedBackgroundView: View {
             ctx.fill(path, with: .color(color.opacity(opacity)))
         }
 
-        // 별
-        for i in 0..<20 {
+        // 별 - 골고루 분포
+        for i in 0..<25 {
+            let col = i % 5
+            let row = i / 5
+            let cellW = size.width / 5
+            let cellH = size.height * 0.4 / 5
             let seed = Double(i) * 71.3
-            let x = fmod(seed * 47.1, size.width)
-            let y = fmod(seed * 23.7, size.height * 0.4)
+            let x = CGFloat(col) * cellW + CGFloat(fmod(seed * 17.1, Double(cellW)))
+            let y = CGFloat(row) * cellH + CGFloat(fmod(seed * 23.7, Double(cellH)))
             let twinkle = sin(time * 2.0 + seed) * 0.5 + 0.5
-            let r: CGFloat = CGFloat(1.5 + fmod(seed, 2.0))
+            let r: CGFloat = CGFloat(1.0 + fmod(seed, 1.8))
             let star = Path(ellipseIn: CGRect(x: x - r, y: y - r, width: r * 2, height: r * 2))
-            ctx.fill(star, with: .color(Color.white.opacity(0.12 + twinkle * 0.18)))
+            ctx.fill(star, with: .color(Color.white.opacity(0.1 + twinkle * 0.18)))
         }
+
     }
 
     // MARK: - Circus
 
     private func drawCircusBG(ctx: GraphicsContext, size: CGSize, time: Double) {
-        // 스포트라이트 빔
         for i in 0..<3 {
             let seed = Double(i) * 131.7
             let baseX = size.width * (0.2 + CGFloat(i) * 0.3)
-            let sway = sin(time * 0.4 + seed) * 40
-            let beamWidth: CGFloat = 80
+            let sway = sin(time * 0.4 + seed) * 35
+            let beamWidth: CGFloat = 70
 
             var beam = Path()
-            beam.move(to: CGPoint(x: baseX + sway - 8, y: 0))
-            beam.addLine(to: CGPoint(x: baseX + sway + 8, y: 0))
+            beam.move(to: CGPoint(x: baseX + sway - 6, y: 0))
+            beam.addLine(to: CGPoint(x: baseX + sway + 6, y: 0))
             beam.addLine(to: CGPoint(x: baseX + sway + beamWidth, y: size.height))
             beam.addLine(to: CGPoint(x: baseX + sway - beamWidth, y: size.height))
             beam.closeSubpath()
 
             let beamColor: Color = [Color.yellow, Color.white, Color.red][i]
-            ctx.fill(beam, with: .color(beamColor.opacity(0.025)))
+            ctx.fill(beam, with: .color(beamColor.opacity(0.02)))
         }
 
-        // 컨페티
         let confettiColors: [Color] = [.red, .yellow, .blue, .green, .orange, .pink]
 
         for i in 0..<18 {
@@ -529,32 +509,29 @@ struct AnimatedBackgroundView: View {
             let color = confettiColors[i % confettiColors.count]
 
             ctx.drawLayer { layerCtx in
-                let transform = CGAffineTransform(translationX: x, y: y)
-                    .rotated(by: rotation)
+                let transform = CGAffineTransform(translationX: x, y: y).rotated(by: rotation)
 
                 if i % 3 == 0 {
-                    let starSize: CGFloat = CGFloat(6 + i % 4)
+                    let starSize: CGFloat = CGFloat(5 + i % 3)
                     var star = Path()
                     for arm in 0..<5 {
                         let angle = CGFloat(arm) * .pi * 2 / 5 - .pi / 2
-                        let px = cos(angle) * starSize
-                        let py = sin(angle) * starSize
-                        if arm == 0 { star.move(to: CGPoint(x: px, y: py)) }
-                        else { star.addLine(to: CGPoint(x: px, y: py)) }
+                        if arm == 0 { star.move(to: CGPoint(x: cos(angle) * starSize, y: sin(angle) * starSize)) }
+                        else { star.addLine(to: CGPoint(x: cos(angle) * starSize, y: sin(angle) * starSize)) }
                         let innerAngle = angle + .pi / 5
                         star.addLine(to: CGPoint(x: cos(innerAngle) * starSize * 0.4, y: sin(innerAngle) * starSize * 0.4))
                     }
                     star.closeSubpath()
-                    layerCtx.fill(star.applying(transform), with: .color(color.opacity(0.2)))
+                    layerCtx.fill(star.applying(transform), with: .color(color.opacity(0.16)))
                 } else if i % 3 == 1 {
-                    let r: CGFloat = CGFloat(4 + i % 4)
+                    let r: CGFloat = CGFloat(3 + i % 3)
                     let circle = Path(ellipseIn: CGRect(x: -r, y: -r, width: r * 2, height: r * 2))
-                    layerCtx.fill(circle.applying(transform), with: .color(color.opacity(0.18)))
+                    layerCtx.fill(circle.applying(transform), with: .color(color.opacity(0.14)))
                 } else {
-                    let w: CGFloat = CGFloat(5 + i % 4)
-                    let h: CGFloat = CGFloat(8 + i % 5)
+                    let w: CGFloat = CGFloat(4 + i % 3)
+                    let h: CGFloat = CGFloat(7 + i % 4)
                     let rect = Path(CGRect(x: -w / 2, y: -h / 2, width: w, height: h))
-                    layerCtx.fill(rect.applying(transform), with: .color(color.opacity(0.18)))
+                    layerCtx.fill(rect.applying(transform), with: .color(color.opacity(0.14)))
                 }
             }
         }
@@ -566,54 +543,50 @@ struct AnimatedBackgroundView: View {
         let yellow = Color(red: 0.98, green: 0.85, blue: 0.08)
         let darkYellow = Color(red: 0.85, green: 0.65, blue: 0.08)
 
-        // 꽃잎
         for i in 0..<14 {
             let seed = Double(i) * 109.3
             let baseX = fmod(seed * 33.7, size.width)
             let fallSpeed = 12.0 + fmod(seed * 8.7, 16.0)
-            let y = fmod(time * fallSpeed + seed * 47.1, Double(size.height + 40)) - 20
-            let drift = sin(time * 0.3 + seed) * 35
+            let y = fmod(time * fallSpeed + seed * 47.1, Double(size.height + 35)) - 18
+            let drift = sin(time * 0.3 + seed) * 30
             let x = baseX + drift
             let rotation = time * 0.35 + seed
 
             ctx.drawLayer { layerCtx in
-                let transform = CGAffineTransform(translationX: x, y: y)
-                    .rotated(by: rotation)
+                let transform = CGAffineTransform(translationX: x, y: y).rotated(by: rotation)
                 var petal = Path()
-                petal.addEllipse(in: CGRect(x: -8, y: -5, width: 16, height: 10))
-                layerCtx.fill(petal.applying(transform), with: .color(yellow.opacity(0.22)))
+                petal.addEllipse(in: CGRect(x: -6, y: -4, width: 12, height: 8))
+                layerCtx.fill(petal.applying(transform), with: .color(yellow.opacity(0.18)))
             }
         }
 
-        // 데이지 꽃
         for i in 0..<5 {
             let seed = Double(i) * 193.7
             let x = fmod(seed * 29.3, size.width)
             let floatSpeed = 6.0 + fmod(seed * 5.1, 8.0)
-            let y = size.height - fmod(time * floatSpeed + seed * 37.1, Double(size.height + 50)) + 25
-            let driftX = sin(time * 0.2 + seed) * 20
+            let y = size.height - fmod(time * floatSpeed + seed * 37.1, Double(size.height + 45)) + 22
+            let driftX = sin(time * 0.2 + seed) * 18
             let cx = x + driftX
-            let petalR: CGFloat = 10
+            let petalR: CGFloat = 8
 
             for p in 0..<6 {
                 let angle = CGFloat(p) * .pi / 3 + CGFloat(time * 0.25 + seed)
                 let px = cx + cos(angle) * petalR
                 let py = y + sin(angle) * petalR
-                let petal = Path(ellipseIn: CGRect(x: px - 5, y: py - 3, width: 10, height: 6))
-                ctx.fill(petal, with: .color(yellow.opacity(0.18)))
+                let petal = Path(ellipseIn: CGRect(x: px - 4, y: py - 2.5, width: 8, height: 5))
+                ctx.fill(petal, with: .color(yellow.opacity(0.15)))
             }
-            let center = Path(ellipseIn: CGRect(x: cx - 4, y: y - 4, width: 8, height: 8))
-            ctx.fill(center, with: .color(darkYellow.opacity(0.18)))
+            let center = Path(ellipseIn: CGRect(x: cx - 3, y: y - 3, width: 6, height: 6))
+            ctx.fill(center, with: .color(darkYellow.opacity(0.15)))
         }
 
-        // 빛 점
         for i in 0..<6 {
             let seed = Double(i) * 157.3
             let x = (sin(time * 0.2 + seed) * 0.5 + 0.5) * size.width
             let baseY = CGFloat(i) / 6.0 * size.height
-            let y = baseY + sin(time * 0.4 + seed * 0.6) * 25
-            let radius: CGFloat = CGFloat(18 + (i % 3) * 10)
-            let opacity = 0.08 + sin(time * 0.6 + seed) * 0.04
+            let y = baseY + sin(time * 0.4 + seed * 0.6) * 22
+            let radius: CGFloat = CGFloat(14 + (i % 3) * 8)
+            let opacity = 0.06 + sin(time * 0.6 + seed) * 0.03
 
             let orb = Path(ellipseIn: CGRect(x: x - radius, y: y - radius, width: radius * 2, height: radius * 2))
             ctx.fill(orb, with: .color(yellow.opacity(max(0, opacity))))
@@ -631,44 +604,42 @@ struct AnimatedBackgroundView: View {
             Color(red: 0.95, green: 0.55, blue: 0.35),
         ]
 
-        // 롤리팝 & 사탕
         for i in 0..<8 {
             let seed = Double(i) * 127.3
-            let x = fmod(seed * 41.1, size.width) + sin(time * 0.25 + seed) * 25
+            let x = fmod(seed * 41.1, size.width) + sin(time * 0.25 + seed) * 22
             let floatSpeed = 8.0 + fmod(seed * 6.3, 12.0)
-            let y = size.height - fmod(time * floatSpeed + seed * 43.7, Double(size.height + 50)) + 25
+            let y = size.height - fmod(time * floatSpeed + seed * 43.7, Double(size.height + 45)) + 22
             let color = candyColors[i % candyColors.count]
             let rotation = time * 0.25 + seed
 
             ctx.drawLayer { layerCtx in
-                layerCtx.opacity = 0.16
+                layerCtx.opacity = 0.12
 
                 if i % 2 == 0 {
-                    let lolliR: CGFloat = CGFloat(12 + i % 3 * 4)
+                    let lolliR: CGFloat = CGFloat(9 + i % 3 * 3)
                     let circle = Path(ellipseIn: CGRect(x: x - lolliR, y: y - lolliR, width: lolliR * 2, height: lolliR * 2))
                     layerCtx.fill(circle, with: .color(color))
                     var spiral = Path()
                     spiral.addArc(center: CGPoint(x: x, y: y), radius: lolliR * 0.5, startAngle: .degrees(0), endAngle: .degrees(270), clockwise: false)
-                    layerCtx.stroke(spiral, with: .color(.white), lineWidth: 1.5)
+                    layerCtx.stroke(spiral, with: .color(.white), lineWidth: 1.2)
                     var stick = Path()
                     stick.move(to: CGPoint(x: x, y: y + lolliR))
-                    stick.addLine(to: CGPoint(x: x, y: y + lolliR + 20))
-                    layerCtx.stroke(stick, with: .color(Color.brown.opacity(0.5)), lineWidth: 2)
+                    stick.addLine(to: CGPoint(x: x, y: y + lolliR + 16))
+                    layerCtx.stroke(stick, with: .color(Color.brown.opacity(0.5)), lineWidth: 1.5)
                 } else {
                     let transform = CGAffineTransform(translationX: x, y: y).rotated(by: rotation)
-                    let candy = Path(ellipseIn: CGRect(x: -10, y: -6, width: 20, height: 12))
+                    let candy = Path(ellipseIn: CGRect(x: -8, y: -5, width: 16, height: 10))
                     layerCtx.fill(candy.applying(transform), with: .color(color))
                 }
             }
         }
 
-        // 반짝이
         for i in 0..<8 {
             let seed = Double(i) * 89.1
             let x = fmod(seed * 47.3, size.width)
             let y = fmod(seed * 31.7, size.height)
             let twinkle = (sin(time * 2.5 + seed * 2.1) + 1) * 0.5
-            let starSize: CGFloat = CGFloat(3 + twinkle * 4)
+            let starSize: CGFloat = CGFloat(2.5 + twinkle * 3)
             let color = candyColors[i % candyColors.count]
 
             var star = Path()
@@ -676,7 +647,7 @@ struct AnimatedBackgroundView: View {
             star.addLine(to: CGPoint(x: x + starSize, y: y))
             star.move(to: CGPoint(x: x, y: y - starSize))
             star.addLine(to: CGPoint(x: x, y: y + starSize))
-            ctx.stroke(star, with: .color(color.opacity(0.15 + twinkle * 0.15)), lineWidth: 1.2)
+            ctx.stroke(star, with: .color(color.opacity(0.12 + twinkle * 0.12)), lineWidth: 1.0)
         }
     }
 
@@ -685,43 +656,40 @@ struct AnimatedBackgroundView: View {
     private func drawZenGardenBG(ctx: GraphicsContext, size: CGSize, time: Double) {
         let stone = Color(red: 0.45, green: 0.48, blue: 0.42)
 
-        // 모래 파문
         let centers: [(CGFloat, CGFloat)] = [
             (size.width * 0.3, size.height * 0.3),
             (size.width * 0.7, size.height * 0.65),
         ]
         for (cx, cy) in centers {
             for ring in 0..<6 {
-                let baseR: CGFloat = CGFloat(30 + ring * 25)
-                let ripple = sin(time * 0.25 - Double(ring) * 0.4) * 4
+                let baseR: CGFloat = CGFloat(25 + ring * 20)
+                let ripple = sin(time * 0.25 - Double(ring) * 0.4) * 3.5
                 let r = baseR + CGFloat(ripple)
                 let circle = Path(ellipseIn: CGRect(x: cx - r, y: cy - r * 0.6, width: r * 2, height: r * 1.2))
-                ctx.stroke(circle, with: .color(stone.opacity(0.07 - Double(ring) * 0.008)), lineWidth: 1.0)
+                ctx.stroke(circle, with: .color(stone.opacity(0.055 - Double(ring) * 0.006)), lineWidth: 0.8)
             }
         }
 
-        // 나뭇잎
-        let leafX = size.width * 0.6 + sin(time * 0.12) * 40
-        let leafY = size.height * 0.2 + cos(time * 0.08) * 15
+        let leafX = size.width * 0.6 + sin(time * 0.12) * 35
+        let leafY = size.height * 0.2 + cos(time * 0.08) * 12
         let leafRotation = time * 0.08
 
         ctx.drawLayer { leafCtx in
-            leafCtx.opacity = 0.12
+            leafCtx.opacity = 0.1
             let transform = CGAffineTransform(translationX: leafX, y: leafY).rotated(by: leafRotation)
             var leaf = Path()
-            leaf.move(to: CGPoint(x: 0, y: -14))
-            leaf.addQuadCurve(to: CGPoint(x: 0, y: 14), control: CGPoint(x: 14, y: 0))
-            leaf.addQuadCurve(to: CGPoint(x: 0, y: -14), control: CGPoint(x: -14, y: 0))
+            leaf.move(to: CGPoint(x: 0, y: -11))
+            leaf.addQuadCurve(to: CGPoint(x: 0, y: 11), control: CGPoint(x: 11, y: 0))
+            leaf.addQuadCurve(to: CGPoint(x: 0, y: -11), control: CGPoint(x: -11, y: 0))
             leafCtx.fill(leaf.applying(transform), with: .color(Color(red: 0.4, green: 0.55, blue: 0.35)))
         }
 
-        // 안개
         for i in 0..<5 {
             let seed = Double(i) * 151.3
             let x = fmod(seed * 37.1 + time * 2, size.width)
             let y = fmod(seed * 53.7, size.height)
-            let r: CGFloat = CGFloat(35 + fmod(seed * 3.1, 30))
-            let opacity = 0.03 + sin(time * 0.3 + seed) * 0.015
+            let r: CGFloat = CGFloat(28 + fmod(seed * 3.1, 25))
+            let opacity = 0.025 + sin(time * 0.3 + seed) * 0.012
 
             let mist = Path(ellipseIn: CGRect(x: x - r, y: y - r * 0.5, width: r * 2, height: r))
             ctx.fill(mist, with: .color(Color.white.opacity(max(0, opacity))))
@@ -732,66 +700,361 @@ struct AnimatedBackgroundView: View {
 
     private func drawDesertBG(ctx: GraphicsContext, size: CGSize, time: Double) {
         let sand = Color(red: 0.9, green: 0.75, blue: 0.35)
+        let moonColor = Color(red: 0.95, green: 0.90, blue: 0.70)
 
         // 모래 언덕
-        for dune in 0..<3 {
-            let baseY = size.height * (0.65 + CGFloat(dune) * 0.1)
+        for dune in 0..<4 {
+            let baseY = size.height * (0.62 + CGFloat(dune) * 0.08)
             let offset = Double(dune) * 50
+            let drift = sin(time * 0.05 + offset) * 8
             var path = Path()
             path.move(to: CGPoint(x: 0, y: size.height))
             for x in stride(from: 0, through: size.width, by: 3) {
-                let y = baseY + sin(Double(x) * 0.007 + offset) * 35 + cos(Double(x) * 0.013 + offset) * 18
+                let y = baseY + sin(Double(x) * 0.007 + offset + drift) * 30 + cos(Double(x) * 0.013 + offset) * 18
                 path.addLine(to: CGPoint(x: x, y: y))
             }
             path.addLine(to: CGPoint(x: size.width, y: size.height))
             path.closeSubpath()
-            ctx.fill(path, with: .color(sand.opacity(0.05 - Double(dune) * 0.012)))
+            ctx.fill(path, with: .color(sand.opacity(0.045 - Double(dune) * 0.008)))
         }
 
-        // 모래 입자
-        for i in 0..<15 {
+        // 모래 입자 (바람에 날리는)
+        for i in 0..<20 {
             let seed = Double(i) * 89.3
             let baseY = fmod(seed * 37.7, size.height)
             let speed = 10.0 + fmod(seed * 5.3, 18.0)
             let x = fmod(time * speed + seed * 43.1, Double(size.width + 20)) - 10
-            let drift = sin(time * 0.4 + seed) * 10
+            let drift = sin(time * 0.4 + seed) * 9
             let y = baseY + drift
-            let r: CGFloat = CGFloat(2 + fmod(seed * 1.7, 3))
+            let r: CGFloat = CGFloat(1.2 + fmod(seed * 1.7, 2.5))
 
             let grain = Path(ellipseIn: CGRect(x: x - r, y: y - r, width: r * 2, height: r * 2))
-            ctx.fill(grain, with: .color(sand.opacity(0.12)))
+            ctx.fill(grain, with: .color(sand.opacity(0.08)))
         }
 
-        // 달
-        let moonX = size.width * 0.8
+        // 달 (더 크고 디테일)
+        let moonX = size.width * 0.78
         let moonY = size.height * 0.1
         let moonR: CGFloat = 28
-        let moon = Path(ellipseIn: CGRect(x: moonX - moonR, y: moonY - moonR, width: moonR * 2, height: moonR * 2))
-        ctx.fill(moon, with: .color(Color(red: 0.95, green: 0.90, blue: 0.70).opacity(0.1)))
-        let moonGlowR: CGFloat = 55
+        // 달 외부 글로우
+        let outerGlowR: CGFloat = 65
+        let outerGlow = Path(ellipseIn: CGRect(x: moonX - outerGlowR, y: moonY - outerGlowR, width: outerGlowR * 2, height: outerGlowR * 2))
+        ctx.fill(outerGlow, with: .color(moonColor.opacity(0.02)))
+        let moonGlowR: CGFloat = 45
         let moonGlow = Path(ellipseIn: CGRect(x: moonX - moonGlowR, y: moonY - moonGlowR, width: moonGlowR * 2, height: moonGlowR * 2))
-        ctx.fill(moonGlow, with: .color(Color(red: 0.95, green: 0.90, blue: 0.70).opacity(0.04)))
+        ctx.fill(moonGlow, with: .color(moonColor.opacity(0.04)))
+        let moon = Path(ellipseIn: CGRect(x: moonX - moonR, y: moonY - moonR, width: moonR * 2, height: moonR * 2))
+        ctx.fill(moon, with: .color(moonColor.opacity(0.1)))
+        // 달 크레이터
+        let crater1 = Path(ellipseIn: CGRect(x: moonX - 8, y: moonY - 6, width: 10, height: 8))
+        ctx.fill(crater1, with: .color(moonColor.opacity(0.04)))
+        let crater2 = Path(ellipseIn: CGRect(x: moonX + 5, y: moonY + 4, width: 7, height: 6))
+        ctx.fill(crater2, with: .color(moonColor.opacity(0.03)))
 
-        // 별
-        for i in 0..<25 {
+        // 별 - 골고루 분포
+        for i in 0..<30 {
+            let cols = 6
+            let rows = 5
+            let col = i % cols
+            let row = i / cols
+            let cellW = size.width / CGFloat(cols)
+            let cellH = size.height * 0.5 / CGFloat(rows)
             let seed = Double(i) * 61.7
-            let x = fmod(seed * 51.3, size.width)
-            let y = fmod(seed * 27.1, size.height * 0.45)
+            let x = CGFloat(col) * cellW + CGFloat(fmod(seed * 17.3, Double(cellW)))
+            let y = CGFloat(row) * cellH + CGFloat(fmod(seed * 27.1, Double(cellH)))
             let twinkle = sin(time * (1.2 + fmod(seed * 0.07, 1.5)) + seed) * 0.5 + 0.5
-            let r: CGFloat = CGFloat(1.2 + fmod(seed * 0.9, 2.0))
+            let r: CGFloat = CGFloat(1.0 + fmod(seed * 0.9, 1.5))
 
             let star = Path(ellipseIn: CGRect(x: x - r, y: y - r, width: r * 2, height: r * 2))
-            ctx.fill(star, with: .color(Color.white.opacity(0.1 + twinkle * 0.15)))
+            ctx.fill(star, with: .color(Color.white.opacity(0.08 + twinkle * 0.14)))
 
             if i < 6 {
-                let sparkSize: CGFloat = r + CGFloat(twinkle) * 4
+                let sparkSize: CGFloat = r + CGFloat(twinkle) * 3
                 var spark = Path()
                 spark.move(to: CGPoint(x: x - sparkSize, y: y))
                 spark.addLine(to: CGPoint(x: x + sparkSize, y: y))
                 spark.move(to: CGPoint(x: x, y: y - sparkSize))
                 spark.addLine(to: CGPoint(x: x, y: y + sparkSize))
-                ctx.stroke(spark, with: .color(Color.white.opacity(0.08 + twinkle * 0.12)), lineWidth: 0.8)
+                ctx.stroke(spark, with: .color(Color.white.opacity(0.06 + twinkle * 0.1)), lineWidth: 0.7)
             }
+        }
+
+        // 사막 열기 아지랑이
+        for i in 0..<3 {
+            let seed = Double(i) * 157.3
+            let x = size.width * (0.2 + CGFloat(i) * 0.3)
+            let y = size.height * 0.65
+            let shimmer = sin(time * 0.8 + seed) * 5
+            let r: CGFloat = 40
+            let haze = Path(ellipseIn: CGRect(x: x - r, y: y + shimmer - r * 0.3, width: r * 2, height: r * 0.6))
+            ctx.fill(haze, with: .color(sand.opacity(0.025)))
+        }
+    }
+
+    // MARK: - Ocean
+
+    private func drawOceanBG(ctx: GraphicsContext, size: CGSize, time: Double) {
+        let blue = Color(red: 0.20, green: 0.60, blue: 0.85)
+        let lightBlue = Color(red: 0.40, green: 0.75, blue: 0.95)
+        let foam = Color(red: 0.85, green: 0.95, blue: 1.0)
+
+        // Layered waves
+        for wave in 0..<4 {
+            let baseY = size.height * (0.55 + CGFloat(wave) * 0.10)
+            let speed = 0.3 + Double(wave) * 0.1
+            let amplitude = 20.0 - Double(wave) * 3
+            var path = Path()
+            path.move(to: CGPoint(x: 0, y: size.height))
+            for x in stride(from: 0, through: size.width, by: 3) {
+                let y = baseY + sin(Double(x) * 0.008 + time * speed + Double(wave) * 1.5) * amplitude
+                    + cos(Double(x) * 0.012 + time * speed * 0.7) * amplitude * 0.5
+                path.addLine(to: CGPoint(x: x, y: y))
+            }
+            path.addLine(to: CGPoint(x: size.width, y: size.height))
+            path.closeSubpath()
+            ctx.fill(path, with: .color(blue.opacity(0.04 - Double(wave) * 0.006)))
+        }
+
+        // Floating bubbles
+        for i in 0..<10 {
+            let seed = Double(i) * 97.3
+            let x = fmod(seed * 41.7, size.width) + sin(time * 0.3 + seed) * 20
+            let floatSpeed = 6.0 + fmod(seed * 5.3, 10.0)
+            let y = size.height - fmod(time * floatSpeed + seed * 37.1, Double(size.height + 40)) + 20
+            let r: CGFloat = CGFloat(3 + fmod(seed * 2.1, 5))
+
+            let bubble = Path(ellipseIn: CGRect(x: x - r, y: y - r, width: r * 2, height: r * 2))
+            ctx.stroke(bubble, with: .color(lightBlue.opacity(0.12)), lineWidth: 0.8)
+            // Highlight
+            let highlightR = r * 0.3
+            let highlight = Path(ellipseIn: CGRect(x: x - r * 0.3, y: y - r * 0.5, width: highlightR, height: highlightR))
+            ctx.fill(highlight, with: .color(foam.opacity(0.15)))
+        }
+
+        // Light rays from surface
+        for i in 0..<3 {
+            let seed = Double(i) * 131.7
+            let baseX = size.width * (0.2 + CGFloat(i) * 0.3)
+            let sway = sin(time * 0.2 + seed) * 25
+            var ray = Path()
+            ray.move(to: CGPoint(x: baseX + sway - 8, y: 0))
+            ray.addLine(to: CGPoint(x: baseX + sway + 8, y: 0))
+            ray.addLine(to: CGPoint(x: baseX + sway + 50, y: size.height * 0.7))
+            ray.addLine(to: CGPoint(x: baseX + sway - 50, y: size.height * 0.7))
+            ray.closeSubpath()
+            ctx.fill(ray, with: .color(foam.opacity(0.015)))
+        }
+    }
+
+    // MARK: - Neon Cyber
+
+    private func drawNeonCyberBG(ctx: GraphicsContext, size: CGSize, time: Double) {
+        let pink = Color(red: 0.95, green: 0.20, blue: 0.60)
+        let cyan = Color(red: 0.0, green: 0.95, blue: 0.90)
+
+        // Perspective grid (bottom half)
+        let gridSpacing: CGFloat = 35
+        let scrollOffset = fmod(time * 20, Double(gridSpacing))
+
+        // Horizontal grid lines (perspective)
+        for i in 0..<10 {
+            let y = size.height * 0.6 + CGFloat(i) * gridSpacing * 0.5 + CGFloat(scrollOffset) * 0.5
+            if y < size.height {
+                var line = Path()
+                line.move(to: CGPoint(x: 0, y: y))
+                line.addLine(to: CGPoint(x: size.width, y: y))
+                let opacity = 0.06 - Double(i) * 0.004
+                ctx.stroke(line, with: .color(pink.opacity(max(0, opacity))), lineWidth: 0.6)
+            }
+        }
+
+        // Vertical grid lines
+        for x in stride(from: CGFloat(0), through: size.width, by: gridSpacing) {
+            var line = Path()
+            line.move(to: CGPoint(x: x, y: size.height * 0.6))
+            line.addLine(to: CGPoint(x: x, y: size.height))
+            ctx.stroke(line, with: .color(pink.opacity(0.04)), lineWidth: 0.5)
+        }
+
+        // Neon light blobs
+        for i in 0..<6 {
+            let seed = Double(i) * 107.3
+            let x = (sin(time * 0.15 + seed) * 0.5 + 0.5) * size.width
+            let baseY = CGFloat(i) / 6.0 * size.height * 0.5
+            let y = baseY + sin(time * 0.3 + seed * 0.7) * 25
+            let radius: CGFloat = CGFloat(15 + (i % 3) * 10)
+            let color = i % 2 == 0 ? pink : cyan
+            let opacity = 0.04 + sin(time * 0.5 + seed) * 0.02
+
+            let orb = Path(ellipseIn: CGRect(x: x - radius, y: y - radius, width: radius * 2, height: radius * 2))
+            ctx.fill(orb, with: .color(color.opacity(max(0, opacity))))
+        }
+
+        // Digital rain particles
+        for i in 0..<12 {
+            let seed = Double(i) * 73.1
+            let x = fmod(seed * 37.3, size.width)
+            let speed = 25.0 + fmod(seed * 9.1, 20.0)
+            let y = fmod(time * speed + seed * 41.7, Double(size.height + 20)) - 10
+            let h: CGFloat = CGFloat(4 + i % 3 * 3)
+            let color = i % 3 == 0 ? cyan : pink
+
+            let drop = Path(CGRect(x: x, y: y, width: 1.5, height: h))
+            ctx.fill(drop, with: .color(color.opacity(0.12)))
+        }
+    }
+
+    // MARK: - Korean Traditional
+
+    private func drawKoreanBG(ctx: GraphicsContext, size: CGSize, time: Double) {
+        let red = Color(red: 0.78, green: 0.22, blue: 0.28)
+        let blue = Color(red: 0.20, green: 0.35, blue: 0.60)
+        let warm = Color(red: 0.85, green: 0.65, blue: 0.15)
+
+        // Floating hanji fiber particles
+        for i in 0..<10 {
+            let seed = Double(i) * 113.7
+            let x = fmod(seed * 33.1, size.width) + sin(time * 0.12 + seed) * 18
+            let floatSpeed = 4.0 + fmod(seed * 3.7, 6.0)
+            let y = size.height - fmod(time * floatSpeed + seed * 47.3, Double(size.height + 35)) + 18
+            let rotation = time * 0.1 + seed
+
+            ctx.drawLayer { layerCtx in
+                layerCtx.opacity = 0.08
+                let transform = CGAffineTransform(translationX: x, y: y).rotated(by: rotation)
+                var fiber = Path()
+                fiber.move(to: CGPoint(x: -8, y: 0))
+                fiber.addQuadCurve(to: CGPoint(x: 8, y: 0), control: CGPoint(x: 0, y: -4))
+                layerCtx.stroke(fiber.applying(transform), with: .color(warm), lineWidth: 0.6)
+            }
+        }
+
+        // Subtle warm glow spots
+        for i in 0..<4 {
+            let seed = Double(i) * 179.3
+            let x = fmod(seed * 29.1, size.width)
+            let y = fmod(seed * 43.7, size.height)
+            let r: CGFloat = CGFloat(35 + fmod(seed * 5.3, 30))
+            let pulse = sin(time * 0.2 + seed) * 0.01
+
+            let glow = Path(ellipseIn: CGRect(x: x - r, y: y - r, width: r * 2, height: r * 2))
+            ctx.fill(glow, with: .color(warm.opacity(0.03 + pulse)))
+        }
+
+        // Dancheong-inspired subtle pattern circles at edges
+        for i in 0..<3 {
+            let seed = Double(i) * 97.1
+            let x = fmod(seed * 51.3, size.width)
+            let y: CGFloat = i % 2 == 0 ? 15 : size.height - 15
+            let colors = [red, blue, warm]
+
+            let dot = Path(ellipseIn: CGRect(x: x - 4, y: y - 4, width: 8, height: 8))
+            ctx.fill(dot, with: .color(colors[i].opacity(0.06)))
+        }
+    }
+
+    // MARK: - Rainy Day
+
+    private func drawRainyDayBG(ctx: GraphicsContext, size: CGSize, time: Double) {
+        let blue = Color(red: 0.50, green: 0.65, blue: 0.80)
+        let gray = Color(red: 0.55, green: 0.60, blue: 0.68)
+
+        // Rain drops
+        for i in 0..<25 {
+            let seed = Double(i) * 67.3
+            let x = fmod(seed * 41.7, size.width) + sin(time * 0.1 + seed) * 5
+            let speed = 30.0 + fmod(seed * 11.3, 25.0)
+            let y = fmod(time * speed + seed * 53.1, Double(size.height + 30)) - 15
+            let h: CGFloat = CGFloat(8 + fmod(seed * 2.3, 12))
+            let opacity = 0.06 + fmod(seed * 0.02, 0.04)
+
+            var drop = Path()
+            drop.move(to: CGPoint(x: x, y: y))
+            drop.addLine(to: CGPoint(x: x, y: y + h))
+            ctx.stroke(drop, with: .color(blue.opacity(opacity)), lineWidth: 0.8)
+        }
+
+        // Puddle ripples at bottom
+        for i in 0..<4 {
+            let seed = Double(i) * 151.7
+            let cx = fmod(seed * 31.3, size.width)
+            let cy = size.height * (0.85 + CGFloat(i) * 0.03)
+            let ripplePhase = fmod(time * 0.8 + seed, 3.0) / 3.0
+            let r: CGFloat = CGFloat(ripplePhase * 20)
+            let opacity = 0.08 * (1.0 - ripplePhase)
+
+            let ripple = Path(ellipseIn: CGRect(x: cx - r, y: cy - r * 0.4, width: r * 2, height: r * 0.8))
+            ctx.stroke(ripple, with: .color(blue.opacity(opacity)), lineWidth: 0.6)
+        }
+
+        // Mist/fog layers
+        for i in 0..<3 {
+            let seed = Double(i) * 127.3
+            let x = size.width * (0.15 + CGFloat(i) * 0.35)
+            let y = size.height * (0.3 + CGFloat(i) * 0.15)
+            let drift = sin(time * 0.08 + seed) * 25
+            let r: CGFloat = CGFloat(50 + fmod(seed * 3.1, 30))
+
+            let mist = Path(ellipseIn: CGRect(x: x + drift - r, y: y - r * 0.3, width: r * 2, height: r * 0.6))
+            ctx.fill(mist, with: .color(gray.opacity(0.03)))
+        }
+    }
+
+    // MARK: - Lavender
+
+    private func drawLavenderBG(ctx: GraphicsContext, size: CGSize, time: Double) {
+        let purple = Color(red: 0.60, green: 0.40, blue: 0.80)
+        let lightPurple = Color(red: 0.75, green: 0.60, blue: 0.90)
+        let green = Color(red: 0.50, green: 0.65, blue: 0.45)
+
+        // Floating lavender petals
+        for i in 0..<12 {
+            let seed = Double(i) * 97.3
+            let baseX = fmod(seed * 37.1, size.width)
+            let fallSpeed = 8.0 + fmod(seed * 7.3, 12.0)
+            let y = fmod(time * fallSpeed + seed * 43.7, Double(size.height + 35)) - 18
+            let drift = sin(time * 0.25 + seed) * 30
+            let x = baseX + drift
+            let rotation = time * 0.2 + seed
+
+            ctx.drawLayer { layerCtx in
+                layerCtx.opacity = 0.14
+                let transform = CGAffineTransform(translationX: x, y: y).rotated(by: rotation)
+                var petal = Path()
+                petal.addEllipse(in: CGRect(x: -3, y: -5, width: 6, height: 10))
+                let color = i % 3 == 0 ? lightPurple : purple
+                layerCtx.fill(petal.applying(transform), with: .color(color))
+            }
+        }
+
+        // Soft glowing orbs
+        for i in 0..<5 {
+            let seed = Double(i) * 157.3
+            let x = (sin(time * 0.15 + seed) * 0.5 + 0.5) * size.width
+            let baseY = CGFloat(i) / 5.0 * size.height
+            let y = baseY + sin(time * 0.3 + seed * 0.6) * 20
+            let radius: CGFloat = CGFloat(18 + (i % 3) * 10)
+            let opacity = 0.04 + sin(time * 0.4 + seed) * 0.02
+
+            let orb = Path(ellipseIn: CGRect(x: x - radius, y: y - radius, width: radius * 2, height: radius * 2))
+            ctx.fill(orb, with: .color(purple.opacity(max(0, opacity))))
+        }
+
+        // Sparkle twinkles
+        for i in 0..<6 {
+            let seed = Double(i) * 137.5
+            let x = fmod(seed * 23.1, size.width)
+            let y = fmod(seed * 51.7, size.height)
+            let twinkle = (sin(time * 2.0 + seed * 3.1) + 1) * 0.5
+            let starSize: CGFloat = CGFloat(2 + twinkle * 3)
+            let opacity = 0.08 + twinkle * 0.12
+
+            var star = Path()
+            star.move(to: CGPoint(x: x - starSize, y: y))
+            star.addLine(to: CGPoint(x: x + starSize, y: y))
+            star.move(to: CGPoint(x: x, y: y - starSize))
+            star.addLine(to: CGPoint(x: x, y: y + starSize))
+            ctx.stroke(star, with: .color(lightPurple.opacity(opacity)), lineWidth: 0.8)
         }
     }
 }

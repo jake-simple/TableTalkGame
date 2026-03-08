@@ -17,8 +17,6 @@ struct CardDecorationOverlay: View {
                 halloweenFrame(w: w, h: h)
             case .christmas:
                 christmasFrame(w: w, h: h)
-            case .ocean:
-                oceanFrame(w: w, h: h)
             case .space:
                 spaceFrame(w: w, h: h)
             case .cherryBlossom:
@@ -39,6 +37,16 @@ struct CardDecorationOverlay: View {
                 zenGardenFrame(w: w, h: h)
             case .forsythia:
                 forsythiaFrame(w: w, h: h)
+            case .ocean:
+                oceanFrame(w: w, h: h)
+            case .neonCyber:
+                neonCyberFrame(w: w, h: h)
+            case .korean:
+                koreanFrame(w: w, h: h)
+            case .rainyDay:
+                rainyDayFrame(w: w, h: h)
+            case .lavender:
+                lavenderFrame(w: w, h: h)
             }
         }
         .allowsHitTesting(false)
@@ -109,18 +117,6 @@ struct CardDecorationOverlay: View {
                       with: .color(Color(red: 0.85, green: 0.55, blue: 0.10).opacity(0.25)),
                       lineWidth: 1)
 
-            // Corner ornaments (triangular brackets)
-            let corners: [(CGFloat, CGFloat, CGFloat)] = [
-                (inset + 4, inset + 4, 0),
-                (size.width - inset - 4, inset + 4, 90),
-                (size.width - inset - 4, size.height - inset - 4, 180),
-                (inset + 4, size.height - inset - 4, 270),
-            ]
-            for (cx, cy, _) in corners {
-                let dot = Path(ellipseIn: CGRect(x: cx - 2, y: cy - 2, width: 4, height: 4))
-                ctx.fill(dot, with: .color(Color(red: 0.95, green: 0.65, blue: 0.15).opacity(0.6)))
-            }
-
             // "Art frame" horizontal lines
             let artTop = innerInset + 50
             var line1 = Path()
@@ -186,57 +182,6 @@ struct CardDecorationOverlay: View {
                 ctx.fill(berry, with: .color(red.opacity(0.5)))
             }
 
-            // 하단 중앙 크리스마스 트리
-            let treeX = size.width / 2
-            let treeBaseY = size.height - outer - 8
-            let treeTopY = size.height - outer - 50
-
-            // 트리 몸체 (3단 삼각형)
-            let layers: [(CGFloat, CGFloat, CGFloat)] = [
-                (treeTopY, 6, 14),         // 꼭대기
-                (treeTopY + 12, 10, 18),   // 중간
-                (treeTopY + 26, 14, 22),   // 아래
-            ]
-            for (topY, topW, botW) in layers {
-                var tri = Path()
-                tri.move(to: CGPoint(x: treeX, y: topY))
-                tri.addLine(to: CGPoint(x: treeX - botW / 2, y: topY + 14))
-                tri.addLine(to: CGPoint(x: treeX + botW / 2, y: topY + 14))
-                tri.closeSubpath()
-                ctx.fill(tri, with: .color(green.opacity(0.3)))
-                ctx.stroke(tri, with: .color(green.opacity(0.15)), lineWidth: 0.5)
-
-                // 트리 위 장식 (반짝이는 오너먼트)
-                let ornamentPositions: [(CGFloat, CGFloat)] = [
-                    (treeX - topW / 2.5, topY + 8),
-                    (treeX + topW / 2.5, topY + 10),
-                ]
-                for (ox, oy) in ornamentPositions {
-                    let ornament = Path(ellipseIn: CGRect(x: ox - 1.5, y: oy - 1.5, width: 3, height: 3))
-                    ctx.fill(ornament, with: .color(red.opacity(0.5)))
-                }
-            }
-
-            // 트리 줄기
-            var trunk = Path()
-            trunk.addRect(CGRect(x: treeX - 2.5, y: treeBaseY - 6, width: 5, height: 6))
-            ctx.fill(trunk, with: .color(Color(red: 0.45, green: 0.30, blue: 0.15).opacity(0.3)))
-
-            // 트리 꼭대기 별
-            let starCX = treeX
-            let starCY = treeTopY - 4
-            for arm in 0..<5 {
-                let angle = CGFloat(arm) * .pi * 2 / 5 - .pi / 2
-                let outerX = starCX + cos(angle) * 5
-                let outerY = starCY + sin(angle) * 5
-                var ray = Path()
-                ray.move(to: CGPoint(x: starCX, y: starCY))
-                ray.addLine(to: CGPoint(x: outerX, y: outerY))
-                ctx.stroke(ray, with: .color(gold.opacity(0.7)), lineWidth: 1)
-            }
-            let starDot = Path(ellipseIn: CGRect(x: starCX - 2, y: starCY - 2, width: 4, height: 4))
-            ctx.fill(starDot, with: .color(gold.opacity(0.8)))
-
             // 상단 중앙 눈송이 장식
             let snowCX = size.width / 2
             let snowCY = outer + 16
@@ -283,43 +228,13 @@ struct CardDecorationOverlay: View {
 
     // MARK: - Ocean (Pokemon Frame)
 
-    @ViewBuilder
-    private func oceanFrame(w: CGFloat, h: CGFloat) -> some View {
-        Canvas { ctx, size in
-            let blue = Color(red: 0.15, green: 0.55, blue: 0.85)
-
-            // Thick top bar (type indicator)
-            var topBar = Path()
-            topBar.addRoundedRect(in: CGRect(x: 0, y: 0, width: size.width, height: 50),
-                                 cornerSize: CGSize(width: 20, height: 20))
-            ctx.fill(topBar, with: .color(blue.opacity(0.06)))
-
-            // Inner card frame
-            let frameInset: CGFloat = 12
-            ctx.stroke(Path(roundedRect: CGRect(x: frameInset, y: 55, width: size.width - frameInset * 2, height: size.height - 85), cornerRadius: 8),
-                      with: .color(blue.opacity(0.15)), lineWidth: 1)
-
-            // Bottom info bar
-            var bottomBar = Path()
-            bottomBar.addRect(CGRect(x: frameInset, y: size.height - 28, width: size.width - frameInset * 2, height: 1))
-            ctx.fill(bottomBar, with: .color(blue.opacity(0.15)))
-
-            // Water wave pattern on bottom edge
-            for i in 0..<6 {
-                let x = CGFloat(i) * (size.width / 5)
-                let wave = Path(ellipseIn: CGRect(x: x - 15, y: size.height - 10, width: 30, height: 12))
-                ctx.fill(wave, with: .color(blue.opacity(0.04)))
-            }
-        }
-        .frame(width: w, height: h)
-    }
-
     // MARK: - Space (MTG Frame)
 
     @ViewBuilder
     private func spaceFrame(w: CGFloat, h: CGFloat) -> some View {
         Canvas { ctx, size in
             let purple = Color(red: 0.45, green: 0.25, blue: 0.85)
+            let starBlue = Color(red: 0.6, green: 0.7, blue: 1.0)
 
             // Card frame - MTG style with thick border
             let outer: CGFloat = 8
@@ -336,23 +251,51 @@ struct CardDecorationOverlay: View {
             let textDiv = CGRect(x: outer + borderWidth + 4, y: size.height * 0.68, width: size.width - (outer + borderWidth + 4) * 2, height: 4)
             ctx.fill(Path(textDiv), with: .color(purple.opacity(0.1)))
 
-            // Constellation dots in frame border
+            // 별자리 도트 - 양쪽 대칭
             let constellations: [(CGFloat, CGFloat)] = [
-                (20, 20), (size.width - 20, 25), (15, size.height / 2),
-                (size.width - 18, size.height / 2 + 15),
-                (22, size.height - 22), (size.width - 22, size.height - 18)
+                (20, 20), (size.width - 20, 20),
+                (15, size.height * 0.3), (size.width - 15, size.height * 0.3),
+                (18, size.height * 0.5), (size.width - 18, size.height * 0.5),
+                (20, size.height * 0.7), (size.width - 20, size.height * 0.7),
+                (22, size.height - 22), (size.width - 22, size.height - 22),
+                (size.width * 0.5, 16), (size.width * 0.5, size.height - 16),
             ]
             for (x, y) in constellations {
                 let star = Path(ellipseIn: CGRect(x: x - 1.5, y: y - 1.5, width: 3, height: 3))
-                ctx.fill(star, with: .color(purple.opacity(0.5)))
+                ctx.fill(star, with: .color(purple.opacity(0.45)))
+                // 별 글로우
+                let glow = Path(ellipseIn: CGRect(x: x - 4, y: y - 4, width: 8, height: 8))
+                ctx.fill(glow, with: .color(starBlue.opacity(0.06)))
             }
 
-            // Connect some constellation dots
-            var line = Path()
-            line.move(to: CGPoint(x: 20, y: 20))
-            line.addLine(to: CGPoint(x: 15, y: size.height / 2))
-            line.addLine(to: CGPoint(x: 22, y: size.height - 22))
-            ctx.stroke(line, with: .color(purple.opacity(0.1)), lineWidth: 0.5)
+            // 좌측 별자리 연결선
+            var leftLine = Path()
+            leftLine.move(to: CGPoint(x: 20, y: 20))
+            leftLine.addLine(to: CGPoint(x: 15, y: size.height * 0.3))
+            leftLine.addLine(to: CGPoint(x: 18, y: size.height * 0.5))
+            leftLine.addLine(to: CGPoint(x: 20, y: size.height * 0.7))
+            leftLine.addLine(to: CGPoint(x: 22, y: size.height - 22))
+            ctx.stroke(leftLine, with: .color(purple.opacity(0.08)), lineWidth: 0.5)
+
+            // 우측 별자리 연결선
+            var rightLine = Path()
+            rightLine.move(to: CGPoint(x: size.width - 20, y: 20))
+            rightLine.addLine(to: CGPoint(x: size.width - 15, y: size.height * 0.3))
+            rightLine.addLine(to: CGPoint(x: size.width - 18, y: size.height * 0.5))
+            rightLine.addLine(to: CGPoint(x: size.width - 20, y: size.height * 0.7))
+            rightLine.addLine(to: CGPoint(x: size.width - 22, y: size.height - 22))
+            ctx.stroke(rightLine, with: .color(purple.opacity(0.08)), lineWidth: 0.5)
+
+            // 성운 글로우 (코너)
+            let nebulaR: CGFloat = 30
+            let corners: [(CGFloat, CGFloat)] = [
+                (outer, outer), (size.width - outer, outer),
+                (outer, size.height - outer), (size.width - outer, size.height - outer)
+            ]
+            for (cx, cy) in corners {
+                let nebula = Path(ellipseIn: CGRect(x: cx - nebulaR, y: cy - nebulaR, width: nebulaR * 2, height: nebulaR * 2))
+                ctx.fill(nebula, with: .color(purple.opacity(0.03)))
+            }
         }
         .frame(width: w, height: h)
     }
@@ -940,15 +883,6 @@ struct CardDecorationOverlay: View {
                 ctx.stroke(leaf, with: .color(green.opacity(0.18)), lineWidth: 1)
             }
 
-            // --- Daisy flowers in corners ---
-            // Top-right daisy
-            drawDaisy(cx: size.width - outer - 18, cy: outer + 18, petalCount: 8, petalW: 6, petalH: 11, opacity: 0.20)
-            // Bottom-left daisy
-            drawDaisy(cx: outer + 20, cy: size.height - outer - 20, petalCount: 8, petalW: 7, petalH: 12, opacity: 0.18)
-
-            // --- Smaller daisies scattered ---
-            drawDaisy(cx: size.width * 0.82, cy: size.height * 0.22, petalCount: 6, petalW: 4, petalH: 8, opacity: 0.12)
-            drawDaisy(cx: size.width * 0.15, cy: size.height * 0.78, petalCount: 6, petalW: 4, petalH: 8, opacity: 0.12)
 
             // Bottom-right branch
             var branch2 = Path()
@@ -1066,6 +1000,233 @@ struct CardDecorationOverlay: View {
                 node.move(to: CGPoint(x: outer + 5, y: nodeY))
                 node.addLine(to: CGPoint(x: outer + 11, y: nodeY))
                 ctx.stroke(node, with: .color(Color(red: 0.45, green: 0.55, blue: 0.35).opacity(0.15)), lineWidth: 1)
+            }
+        }
+        .frame(width: w, height: h)
+    }
+
+    // MARK: - Ocean Frame
+
+    @ViewBuilder
+    private func oceanFrame(w: CGFloat, h: CGFloat) -> some View {
+        Canvas { ctx, size in
+            let blue = Color(red: 0.20, green: 0.60, blue: 0.85)
+            let inset: CGFloat = 12
+
+            // Wave pattern at top
+            var topWave = Path()
+            for x in stride(from: 0, through: size.width, by: 3) {
+                let y = inset + 8 + sin(Double(x) * 0.05) * 3
+                if x == 0 { topWave.move(to: CGPoint(x: x, y: y)) }
+                else { topWave.addLine(to: CGPoint(x: x, y: y)) }
+            }
+            ctx.stroke(topWave, with: .color(blue.opacity(0.15)), lineWidth: 0.8)
+
+            // Wave pattern at bottom
+            var bottomWave = Path()
+            for x in stride(from: 0, through: size.width, by: 3) {
+                let y = size.height - inset - 8 + sin(Double(x) * 0.05 + 1.5) * 3
+                if x == 0 { bottomWave.move(to: CGPoint(x: x, y: y)) }
+                else { bottomWave.addLine(to: CGPoint(x: x, y: y)) }
+            }
+            ctx.stroke(bottomWave, with: .color(blue.opacity(0.15)), lineWidth: 0.8)
+
+            // Corner bubbles
+            let corners: [(CGFloat, CGFloat)] = [
+                (inset + 10, inset + 10),
+                (size.width - inset - 10, inset + 10),
+                (inset + 10, size.height - inset - 10),
+                (size.width - inset - 10, size.height - inset - 10),
+            ]
+            for (cx, cy) in corners {
+                for r in [6.0, 4.0, 2.5] as [CGFloat] {
+                    let bubble = Path(ellipseIn: CGRect(x: cx - r, y: cy - r, width: r * 2, height: r * 2))
+                    ctx.stroke(bubble, with: .color(blue.opacity(0.12)), lineWidth: 0.6)
+                }
+            }
+        }
+        .frame(width: w, height: h)
+    }
+
+    // MARK: - Neon Cyber Frame
+
+    @ViewBuilder
+    private func neonCyberFrame(w: CGFloat, h: CGFloat) -> some View {
+        Canvas { ctx, size in
+            let pink = Color(red: 0.95, green: 0.20, blue: 0.60)
+            let cyan = Color(red: 0.0, green: 0.95, blue: 0.90)
+            let inset: CGFloat = 8
+
+            // Corner brackets (cyberpunk style)
+            let bracketLen: CGFloat = 25
+            let positions: [(CGFloat, CGFloat, CGFloat, CGFloat)] = [
+                (inset, inset, 1, 1),
+                (size.width - inset, inset, -1, 1),
+                (size.width - inset, size.height - inset, -1, -1),
+                (inset, size.height - inset, 1, -1),
+            ]
+            for (i, (x, y, dx, dy)) in positions.enumerated() {
+                var bracket = Path()
+                bracket.move(to: CGPoint(x: x + dx * bracketLen, y: y))
+                bracket.addLine(to: CGPoint(x: x, y: y))
+                bracket.addLine(to: CGPoint(x: x, y: y + dy * bracketLen))
+                let color = i % 2 == 0 ? pink : cyan
+                ctx.stroke(bracket, with: .color(color.opacity(0.5)), lineWidth: 1.5)
+            }
+
+            // Horizontal scan line
+            let scanY = size.height * 0.3
+            var scanLine = Path()
+            scanLine.move(to: CGPoint(x: inset + 5, y: scanY))
+            scanLine.addLine(to: CGPoint(x: size.width - inset - 5, y: scanY))
+            ctx.stroke(scanLine, with: .color(cyan.opacity(0.08)), lineWidth: 0.5)
+
+            // Data dots along top
+            for i in 0..<8 {
+                let dotX = inset + 30 + CGFloat(i) * ((size.width - inset * 2 - 60) / 7)
+                let dotR: CGFloat = i % 3 == 0 ? 2.0 : 1.2
+                let dot = Path(ellipseIn: CGRect(x: dotX - dotR, y: inset + 4 - dotR, width: dotR * 2, height: dotR * 2))
+                ctx.fill(dot, with: .color(pink.opacity(0.2)))
+            }
+        }
+        .frame(width: w, height: h)
+    }
+
+    // MARK: - Korean Traditional Frame
+
+    @ViewBuilder
+    private func koreanFrame(w: CGFloat, h: CGFloat) -> some View {
+        Canvas { ctx, size in
+            let red = Color(red: 0.78, green: 0.22, blue: 0.28)
+            let blue = Color(red: 0.20, green: 0.35, blue: 0.60)
+            let green = Color(red: 0.15, green: 0.45, blue: 0.35)
+            let yellow = Color(red: 0.85, green: 0.65, blue: 0.15)
+            let inset: CGFloat = 12
+
+            // Dancheong-inspired corner ornaments
+            let cornerSize: CGFloat = 18
+            let cornerPositions: [(CGFloat, CGFloat)] = [
+                (inset, inset),
+                (size.width - inset - cornerSize, inset),
+                (inset, size.height - inset - cornerSize),
+                (size.width - inset - cornerSize, size.height - inset - cornerSize),
+            ]
+            let cornerColors = [red, blue, green, yellow]
+            for (i, (cx, cy)) in cornerPositions.enumerated() {
+                let rect = CGRect(x: cx, y: cy, width: cornerSize, height: cornerSize)
+                ctx.stroke(Path(rect), with: .color(cornerColors[i].opacity(0.15)), lineWidth: 0.8)
+                let inner = CGRect(x: cx + 3, y: cy + 3, width: cornerSize - 6, height: cornerSize - 6)
+                ctx.stroke(Path(inner), with: .color(cornerColors[i].opacity(0.1)), lineWidth: 0.5)
+            }
+
+            // Top center ornament - simplified dancheong
+            let centerX = size.width / 2
+            var topLine = Path()
+            topLine.move(to: CGPoint(x: centerX - 25, y: inset + 6))
+            topLine.addLine(to: CGPoint(x: centerX + 25, y: inset + 6))
+            ctx.stroke(topLine, with: .color(red.opacity(0.2)), lineWidth: 0.8)
+
+            // Bottom center
+            var bottomLine = Path()
+            bottomLine.move(to: CGPoint(x: centerX - 25, y: size.height - inset - 6))
+            bottomLine.addLine(to: CGPoint(x: centerX + 25, y: size.height - inset - 6))
+            ctx.stroke(bottomLine, with: .color(blue.opacity(0.2)), lineWidth: 0.8)
+        }
+        .frame(width: w, height: h)
+    }
+
+    // MARK: - Rainy Day Frame
+
+    @ViewBuilder
+    private func rainyDayFrame(w: CGFloat, h: CGFloat) -> some View {
+        Canvas { ctx, size in
+            let gray = Color(red: 0.50, green: 0.55, blue: 0.65)
+            let blue = Color(red: 0.50, green: 0.65, blue: 0.80)
+
+            // Subtle rain streaks in corners
+            for i in 0..<6 {
+                let x = 15 + CGFloat(i) * 12
+                let startY: CGFloat = 10
+                let endY = startY + CGFloat(8 + i % 3 * 5)
+                var drop = Path()
+                drop.move(to: CGPoint(x: x, y: startY))
+                drop.addLine(to: CGPoint(x: x, y: endY))
+                ctx.stroke(drop, with: .color(blue.opacity(0.08)), lineWidth: 0.8)
+            }
+
+            // Bottom mist effect
+            for i in 0..<3 {
+                let y = size.height - 12 - CGFloat(i) * 5
+                var mist = Path()
+                mist.move(to: CGPoint(x: 20, y: y))
+                mist.addLine(to: CGPoint(x: size.width - 20, y: y))
+                ctx.stroke(mist, with: .color(gray.opacity(0.05 - Double(i) * 0.01)), lineWidth: 0.6)
+            }
+
+            // Window-like corner frame
+            let inset: CGFloat = 14
+            let cornerLen: CGFloat = 15
+            let positions: [(CGFloat, CGFloat, CGFloat, CGFloat)] = [
+                (inset, inset, 1, 1),
+                (size.width - inset, inset, -1, 1),
+                (size.width - inset, size.height - inset, -1, -1),
+                (inset, size.height - inset, 1, -1),
+            ]
+            for (x, y, dx, dy) in positions {
+                var corner = Path()
+                corner.move(to: CGPoint(x: x + dx * cornerLen, y: y))
+                corner.addLine(to: CGPoint(x: x, y: y))
+                corner.addLine(to: CGPoint(x: x, y: y + dy * cornerLen))
+                ctx.stroke(corner, with: .color(gray.opacity(0.12)), lineWidth: 0.8)
+            }
+        }
+        .frame(width: w, height: h)
+    }
+
+    // MARK: - Lavender Frame
+
+    @ViewBuilder
+    private func lavenderFrame(w: CGFloat, h: CGFloat) -> some View {
+        Canvas { ctx, size in
+            let purple = Color(red: 0.60, green: 0.40, blue: 0.80)
+            let inset: CGFloat = 14
+
+            // Delicate inner frame
+            let innerRect = CGRect(x: inset + 6, y: inset + 6, width: size.width - (inset + 6) * 2, height: size.height - (inset + 6) * 2)
+            ctx.stroke(Path(roundedRect: innerRect, cornerRadius: 18), with: .color(purple.opacity(0.08)), lineWidth: 0.6)
+
+            // Top center flower dots
+            let centerX = size.width / 2
+            for i in -1...1 {
+                let dotSize: CGFloat = i == 0 ? 4 : 3
+                let opacity: Double = i == 0 ? 0.25 : 0.15
+                let dot = Path(ellipseIn: CGRect(
+                    x: centerX + CGFloat(i) * 10 - dotSize / 2,
+                    y: inset + 10 - dotSize / 2,
+                    width: dotSize, height: dotSize))
+                ctx.fill(dot, with: .color(purple.opacity(opacity)))
+            }
+
+            // Bottom center dots
+            for i in -1...1 {
+                let dotSize: CGFloat = i == 0 ? 4 : 3
+                let opacity: Double = i == 0 ? 0.25 : 0.15
+                let dot = Path(ellipseIn: CGRect(
+                    x: centerX + CGFloat(i) * 10 - dotSize / 2,
+                    y: size.height - inset - 10 - dotSize / 2,
+                    width: dotSize, height: dotSize))
+                ctx.fill(dot, with: .color(purple.opacity(opacity)))
+            }
+
+            // Side vine-like dots
+            for side in 0..<2 {
+                let x = side == 0 ? inset + 8 : size.width - inset - 8
+                for j in 0..<4 {
+                    let y = size.height * (0.3 + CGFloat(j) * 0.12)
+                    let r: CGFloat = 1.5
+                    let dot = Path(ellipseIn: CGRect(x: x - r, y: y - r, width: r * 2, height: r * 2))
+                    ctx.fill(dot, with: .color(purple.opacity(0.1)))
+                }
             }
         }
         .frame(width: w, height: h)

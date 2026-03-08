@@ -1010,42 +1010,48 @@ struct CardDecorationOverlay: View {
     @ViewBuilder
     private func oceanFrame(w: CGFloat, h: CGFloat) -> some View {
         Canvas { ctx, size in
-            let blue = Color(red: 0.20, green: 0.60, blue: 0.85)
-            let inset: CGFloat = 12
-
-            // Wave pattern at top
-            var topWave = Path()
-            for x in stride(from: 0, through: size.width, by: 3) {
-                let y = inset + 8 + sin(Double(x) * 0.05) * 3
-                if x == 0 { topWave.move(to: CGPoint(x: x, y: y)) }
-                else { topWave.addLine(to: CGPoint(x: x, y: y)) }
-            }
-            ctx.stroke(topWave, with: .color(blue.opacity(0.15)), lineWidth: 0.8)
-
-            // Wave pattern at bottom
-            var bottomWave = Path()
-            for x in stride(from: 0, through: size.width, by: 3) {
-                let y = size.height - inset - 8 + sin(Double(x) * 0.05 + 1.5) * 3
-                if x == 0 { bottomWave.move(to: CGPoint(x: x, y: y)) }
-                else { bottomWave.addLine(to: CGPoint(x: x, y: y)) }
-            }
-            ctx.stroke(bottomWave, with: .color(blue.opacity(0.15)), lineWidth: 0.8)
-
-            // Corner bubbles
-            let corners: [(CGFloat, CGFloat)] = [
-                (inset + 10, inset + 10),
-                (size.width - inset - 10, inset + 10),
-                (inset + 10, size.height - inset - 10),
-                (size.width - inset - 10, size.height - inset - 10),
-            ]
-            for (cx, cy) in corners {
-                for r in [6.0, 4.0, 2.5] as [CGFloat] {
-                    let bubble = Path(ellipseIn: CGRect(x: cx - r, y: cy - r, width: r * 2, height: r * 2))
-                    ctx.stroke(bubble, with: .color(blue.opacity(0.12)), lineWidth: 0.6)
-                }
-            }
+            drawOceanCanvas(ctx: &ctx, size: size)
         }
         .frame(width: w, height: h)
+    }
+
+    private func drawOceanCanvas(ctx: inout GraphicsContext, size: CGSize) {
+        let blue = Color(red: 0.20, green: 0.60, blue: 0.85)
+        let inset: CGFloat = 12
+        let waveColor: Color = blue.opacity(0.15)
+        let bubbleColor: Color = blue.opacity(0.12)
+
+        // Wave pattern at top
+        var topWave = Path()
+        for x in stride(from: 0, through: size.width, by: 3) {
+            let y: CGFloat = inset + 8 + sin(Double(x) * 0.05) * 3
+            if x == 0 { topWave.move(to: CGPoint(x: x, y: y)) }
+            else { topWave.addLine(to: CGPoint(x: x, y: y)) }
+        }
+        ctx.stroke(topWave, with: .color(waveColor), lineWidth: 0.8)
+
+        // Wave pattern at bottom
+        var bottomWave = Path()
+        for x in stride(from: 0, through: size.width, by: 3) {
+            let y: CGFloat = size.height - inset - 8 + sin(Double(x) * 0.05 + 1.5) * 3
+            if x == 0 { bottomWave.move(to: CGPoint(x: x, y: y)) }
+            else { bottomWave.addLine(to: CGPoint(x: x, y: y)) }
+        }
+        ctx.stroke(bottomWave, with: .color(waveColor), lineWidth: 0.8)
+
+        // Corner bubbles
+        let corners: [(CGFloat, CGFloat)] = [
+            (inset + 10, inset + 10),
+            (size.width - inset - 10, inset + 10),
+            (inset + 10, size.height - inset - 10),
+            (size.width - inset - 10, size.height - inset - 10),
+        ]
+        for (cx, cy) in corners {
+            for r in [6.0, 4.0, 2.5] as [CGFloat] {
+                let rect = CGRect(x: cx - r, y: cy - r, width: r * 2, height: r * 2)
+                ctx.stroke(Path(ellipseIn: rect), with: .color(bubbleColor), lineWidth: 0.6)
+            }
+        }
     }
 
     // MARK: - Neon Cyber Frame

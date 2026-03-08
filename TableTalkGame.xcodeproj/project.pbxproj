@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E61699642F5AA509008CE515 /* Build configuration list for PBXProject "TalkDeck" */;
+			buildConfigurationList = E61699642F5AA509008CE515 /* Build configuration list for PBXProject "TableTalkGame" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -315,7 +315,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E61699642F5AA509008CE515 /* Build configuration list for PBXProject "TalkDeck" */ = {
+		E61699642F5AA509008CE515 /* Build configuration list for PBXProject "TableTalkGame" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E61699722F5AA50A008CE515 /* Debug */,

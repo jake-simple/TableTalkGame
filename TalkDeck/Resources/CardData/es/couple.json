@@ -1,0 +1,642 @@
+[
+  {
+    "question": "¿Qué fue lo primero que sentiste cuando me viste por primera vez?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿En qué momento empezaste a darte cuenta de que te gustaba?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Cuándo fue el momento más emocionante mientras nos íbamos conociendo?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Qué fue lo primero que te llamó la atención de mí?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Alguna vez dudaste antes de escribirme?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Sabías que te había gustado desde que me viste por primera vez?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Te pusiste nervioso/a la primera vez que quedamos solos/as?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Qué te parecía más atractivo al principio: cuando me reía o cuando estaba serio/a?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Cómo te sentiste el día antes de confesarme que te gustaba?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Cuándo fue la primera vez que te admitiste a ti mismo/a que te gustaba?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Todavía hay momentos en que te pongo nervioso/a cuando me ves?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Hay algún momento del día en que te alegra especialmente recibir un mensaje mío?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Qué era lo que más anticipabas antes de que empezáramos a salir?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Te gusta escuchar mi voz?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Cuál es la imagen que se te viene a la mente cuando piensas en mí?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Recuerdas la primera vez que comimos juntos/as? ¿Qué sentiste?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Recuerdas el día en que empezamos a salir? ¿Cómo te sentiste ese día?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Qué sientes cuando me ves venir hacia ti desde lejos?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Hubo algún momento en que dijiste 'esta es la persona'?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Todavía te emociona ir a verme?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Cuándo fue la cosa más inesperada que hice y que más te emocionó?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Cómo te sentiste la primera vez que nos tocamos?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Cuándo fue la primera vez que sentiste que me extrañabas?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Alguna vez te emocionaste solo/a pensando en mí y luego tuviste que calmarte?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Hubo algún momento en que el corazón se te cayó al piso de verme?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Esperabas mis respuestas con ansias cuando recién empezamos a hablar?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Qué fue lo que dije que más te emocionó?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Todavía hay momentos en que el corazón te late rápido cuando estás conmigo?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Pensaste mucho en mí después de que nos conocimos por primera vez?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Alguna vez intentaste disimular que te gustaba?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Me buscaste en redes sociales antes de que empezáramos a salir?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Qué fue lo que hice y que te hizo pensar 'esta es la persona'?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Cómo te sentiste la primera vez que le contaste a alguien que te gustaba?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Qué pensaste cuando nos despedimos por primera vez?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Alguna vez te pusiste nervioso/a esperándome?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Alguna vez tuviste miedo de que me alejara?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Hiciste algo especial para impresionarme antes de que empezáramos a salir?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Miraste mis fotos varias veces a escondidas?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Recuerdas qué ropa llevaba el día que nos conocimos?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Todavía hay algo de mí que te emociona en este momento?",
+    "category": "excitement"
+  },
+  {
+    "question": "¿Cuál es tu tipo de cita favorita?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Qué comida se te antoja comer conmigo?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay algún destino al que quieras viajar conmigo?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Cuál es el género que más te ha gustado ver juntos/as?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay alguna comida que quieras que yo pruebe?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay algo que ambos disfrutamos y que descubriste recientemente?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Qué hobby crees que sería más divertido hacer juntos/as?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Qué canción nos recomendarías para escuchar juntos/as?",
+    "category": "taste"
+  },
+  {
+    "question": "¿En qué crees que nuestros gustos encajan mejor?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay algo en lo que hayas empezado a interesarte gracias a mí?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Cuándo fue el momento en que sentiste que el ambiente encajaba perfectamente con los dos?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay algo en lo que nuestros gustos sean completamente opuestos?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Alguna vez te dio alegría descubrir que a los dos nos gustaba lo mismo?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay alguna experiencia nueva que quieras vivir juntos/as?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay algo que me recomendaste y que resultó que me gustó más de lo esperado?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Prefieres las citas al aire libre o en interiores?",
+    "category": "taste"
+  },
+  {
+    "question": "Si creáramos un playlist juntos/as, ¿cuál sería la primera canción?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Crees que tendríamos gustos parecidos para decorar si viviéramos juntos/as?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay alguna película o serie que quieras mostrarme?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Qué es algo en lo que los dos podríamos divertirse como niños/as?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay algo en mis gustos que te parezca curioso o inesperado?",
+    "category": "taste"
+  },
+  {
+    "question": "Si cocináramos juntos/as, ¿qué prepararían?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay alguna exposición o evento al que quieras ir conmigo?",
+    "category": "taste"
+  },
+  {
+    "question": "¿En qué área crees que nuestros gustos son más parecidos?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay alguna comida que conociste gracias a mí?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Qué tipo de café o lugar te gustaría visitar juntos/as?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Qué deporte o actividad física crees que podríamos disfrutar juntos/as?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Crees que nos gustan los mismos libros?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Qué es lo que no puede faltar en nuestras citas?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Qué parte de mi estilo te gusta más?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay algún lugar en el que te gustaría quedarte hasta tarde conmigo?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Ha habido algo bueno que hayan descubierto gracias a que tienen gustos diferentes?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay alguna comida que definitivamente quieras que pruebe?",
+    "category": "taste"
+  },
+  {
+    "question": "¿A qué lugar crees que les daría más disfrute ir a explorar juntos/as?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay algo que a mí me gusta y que también quieras probar?",
+    "category": "taste"
+  },
+  {
+    "question": "¿En qué tipo de comida coinciden más los dos?",
+    "category": "taste"
+  },
+  {
+    "question": "¿En qué temporada del año preferirías viajar conmigo?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay algún deporte o juego que sería más divertido ver o jugar juntos/as?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay algo que yo no disfruto y que secretamente quisieras que probáramos juntos/as?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Hay algo que tienen en común aunque hayan comenzado siendo muy diferentes?",
+    "category": "taste"
+  },
+  {
+    "question": "¿Cuándo fue el momento en que más se rieron juntos/as?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hay alguna escena de nuestra primera cita que recuerdes con claridad?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuándo fue que yo te puse de mejor humor?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hay alguna frase que recuerdes de cuando nos reconciliamos después de una pelea?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hay algo que hicimos juntos/as y que todavía se te viene a la mente de vez en cuando?",
+    "category": "memories"
+  },
+  {
+    "question": "Piensa en algún momento en que yo te conmoví, ¿qué recuerdas?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál es el episodio más memorable de algún viaje que hicimos juntos/as?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuándo fue la primera vez que sentiste mucha gratitud hacia mí?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hay alguna comida que comimos juntos/as y que todavía recuerdas?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál fue el día más sencillo pero más feliz que tuvimos?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál fue el día en que volviste a casa después de estar conmigo y te sentiste mejor?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuándo fue la primera vez que te enojaste conmigo? ¿Ahora te da risa?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hubo alguna sorpresa que no esperabas de mí y que recuerdes bien?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Recuerdas alguna vez en que estuve enfermo/a o mal? ¿Qué sentiste?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Alguna vez nos perdimos o los planes salieron mal? ¿Lo recuerdas?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuándo fue la primera vez que me dijiste de verdad que me agradecías algo?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál fue el episodio que más te emocionó de cuando recién estábamos saliendo?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Alguna vez nos quedamos despiertos/as toda la noche haciendo algo? ¿Qué recuerdo es ese?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál es el momento más chistoso que recuerdas de mí?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hubo algún momento en que sentiste que nos conocimos más profundamente?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Recuerdas la primera vez que peleamos?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hay alguna película o espectáculo que vimos juntos/as y que todavía recuerdes?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál fue la cosa más inesperada que hice y que recuerdes?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál fue el momento más absurdo o divertido que vivimos juntos/as?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Recuerdas alguna vez en que estuve pasándola mal y tú estuviste ahí?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuándo fue la conversación más honesta que tuvimos?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hubo algún día lluvioso o con mal tiempo que terminó siendo especial?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Recuerdas la primera vez que tuvimos una conversación realmente profunda?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál fue algo que hice por ti y que más recuerdas?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuándo fue la primera vez que hicimos un viaje largo juntos/as? ¿Cómo fue?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Ha habido algún día en que el tiempo se fue volando estando conmigo?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hay algo que al principio no te gustó pero luego te terminó gustando?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Qué es lo que más recuerdas de mi cumpleaños o de alguna fecha especial?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál es el lugar donde hemos estado juntos/as y que más recuerdas?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Alguna vez me viste dormido/a? ¿Qué sentiste?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuándo fue la primera vez que me extrañaste después de despedirnos?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál crees que fue el día más romántico que hemos tenido?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Recuerdas alguna vez en que yo resolví algo solo/a y te sentiste orgulloso/a?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál fue la comida más especial que compartimos?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuándo fue el momento en que sentiste que más nos acercamos?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Qué es lo que definitivamente quieres hacer conmigo algún día?",
+    "category": "future"
+  },
+  {
+    "question": "¿Cómo te imaginas que estaremos dentro de 5 años?",
+    "category": "future"
+  },
+  {
+    "question": "¿Adónde quieres que viajemos juntos/as?",
+    "category": "future"
+  },
+  {
+    "question": "Si viviéramos juntos/as, ¿qué sería lo primero que querrías hacer?",
+    "category": "future"
+  },
+  {
+    "question": "¿Hay algo que quieras seguir haciendo conmigo cuando ya seamos viejos/as?",
+    "category": "future"
+  },
+  {
+    "question": "¿Hay algún objetivo que quieras que logremos juntos/as?",
+    "category": "future"
+  },
+  {
+    "question": "¿Cómo te imaginas nuestros días cuando seamos mayores?",
+    "category": "future"
+  },
+  {
+    "question": "¿Hay algún país al que definitivamente quieras ir conmigo?",
+    "category": "future"
+  },
+  {
+    "question": "¿Qué tipo de apoyo quieres darme cuando las cosas se pongan difíciles?",
+    "category": "future"
+  },
+  {
+    "question": "¿Qué espacio de nuestra casa quisieras cuidar más si viviéramos juntos/as?",
+    "category": "future"
+  },
+  {
+    "question": "¿Cómo quisieras que fuera yo en el futuro?",
+    "category": "future"
+  },
+  {
+    "question": "¿Hay algo en lo que quieras ser mejor para nuestra relación?",
+    "category": "future"
+  },
+  {
+    "question": "¿Cuál sería el número uno de tu lista de cosas que quieres hacer conmigo?",
+    "category": "future"
+  },
+  {
+    "question": "¿Hay algo que definitivamente quieres que sigamos haciendo juntos/as?",
+    "category": "future"
+  },
+  {
+    "question": "¿Cómo quieres apoyarme para que logre mis sueños?",
+    "category": "future"
+  },
+  {
+    "question": "¿En qué barrio o zona te gustaría que viviéramos juntos/as?",
+    "category": "future"
+  },
+  {
+    "question": "¿Qué tema te gustaría que pudiéramos hablar riéndonos dentro de 10 años?",
+    "category": "future"
+  },
+  {
+    "question": "¿Hay algo que quieras hacer conmigo y que todavía no hayas podido?",
+    "category": "future"
+  },
+  {
+    "question": "¿Hay alguna tradición que quieras que creemos juntos/as con el tiempo?",
+    "category": "future"
+  },
+  {
+    "question": "¿Hay algún sueño mío que quieras que logre?",
+    "category": "future"
+  },
+  {
+    "question": "¿Hay algo sobre lo que quisieras ser más honesto/a en nuestra relación?",
+    "category": "future"
+  },
+  {
+    "question": "¿Hay algo que te gustaría aprender conmigo?",
+    "category": "future"
+  },
+  {
+    "question": "¿Hay algún espacio que quieras que creemos juntos/as algún día?",
+    "category": "future"
+  },
+  {
+    "question": "¿En qué momentos me necesitas más a tu lado?",
+    "category": "future"
+  },
+  {
+    "question": "¿Qué tipo de citas te gustaría que tuviéramos más seguido?",
+    "category": "future"
+  },
+  {
+    "question": "¿Hay alguna causa o actividad de voluntariado que te gustaría que hiciéramos juntos/as?",
+    "category": "future"
+  },
+  {
+    "question": "¿Qué imagen tienes en mente cuando piensas en casarte?",
+    "category": "future"
+  },
+  {
+    "question": "¿Cómo quisieras ayudarme cuando esté perdido/a?",
+    "category": "future"
+  },
+  {
+    "question": "¿Cuál es el nuevo recuerdo que más quieres crear conmigo?",
+    "category": "future"
+  },
+  {
+    "question": "¿Qué parte de nosotros no quisieras que cambiara con el tiempo?",
+    "category": "future"
+  },
+  {
+    "question": "¿Qué tipo de hogar quisieras que construyéramos si fuéramos pareja para siempre?",
+    "category": "future"
+  },
+  {
+    "question": "¿Cómo quisieras apoyar mi crecimiento personal?",
+    "category": "future"
+  },
+  {
+    "question": "¿Qué es lo que más quieres que intentemos juntos/as?",
+    "category": "future"
+  },
+  {
+    "question": "¿Qué podríamos hacer para ser mejor persona el uno para el otro?",
+    "category": "future"
+  },
+  {
+    "question": "¿Puedes decirme honestamente una cosa que me pides para el futuro?",
+    "category": "future"
+  },
+  {
+    "question": "¿Hay algún patrón en nuestra relación que quisieras que elimináramos?",
+    "category": "future"
+  },
+  {
+    "question": "¿Cuál crees que es la clave para envejecer bien juntos/as?",
+    "category": "future"
+  },
+  {
+    "question": "¿Qué crees que estaremos haciendo juntos/as dentro de 30 años?",
+    "category": "future"
+  },
+  {
+    "question": "¿En qué aspecto quisieras verme crecer?",
+    "category": "future"
+  },
+  {
+    "question": "¿Qué necesitaríamos para hacer nuestro tiempo juntos/as más rico y significativo?",
+    "category": "future"
+  }
+]

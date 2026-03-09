@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Yo nunca he pedido comida a domicilio después de las 3 de la mañana",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he apagado la alarma más de 10 veces",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca me he quedado dormido mientras comía",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca me he levantado justo antes de salir al trabajo o a la escuela",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he abierto el refrigerador y lo he cerrado sin sacar nada",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he comido algo pasado de fecha",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he gastado más del doble de lo que planeaba en el supermercado",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he dejado la ropa sucia más de una semana sin lavar",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he pasado más de dos días sin bañarme",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he tardado más de un día en contestar un mensaje de WhatsApp",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he comido a deshora y luego me he ido a dormir",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca me he quedado despierto toda la noche viendo un video",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he dejado los platos sucios más de un día",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca me he puesto los tenis sin amarrarlos por flojera",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he parado de barrer o limpiar a la mitad por flojera",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he comido algo sin recordar qué comí",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he estado con el celular al 1% de batería y seguido aguantando",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he gastado más de 500 pesos en la tienda de conveniencia sin planearlo",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he dejado crecer demasiado las uñas sin cortarlas",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he derramado salsa en mi ropa mientras comía",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he buscado algo más de 30 minutos sin saber dónde lo dejé",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he usado la tarjeta sin saber cuánto me quedaba en la cuenta",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca me he saltado una comida en casa por flojera",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he tomado más de tres cafés en un día",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca le he dado indicaciones a alguien que no conozco en la calle",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca me he confundido de fecha para recibir un paquete",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he llegado a la tienda a comprar una cosa y me he comprado otra",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he caminado por mucho tiempo con un solo audífono puesto",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca me he pasado de parada en el camión o metro porque me quedé dormido",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he dejado enfriar la comida de delivery porque no la fui a buscar",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he salido de casa olvidando el celular",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca me he puesto a ver YouTube más de dos horas seguidas sin querer",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca me he confundido de fecha de una cita y he ido en balde",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he dejado un paquete sin abrir varios días",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he salido sin cartera y me ha ido mal",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he visto el mismo video más de tres veces",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he probado las muestras del supermercado más de dos veces",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he pasado un día entero sin salir de casa",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca me he acostado y he estado mirando el celular dos horas más",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he cancelado y vuelto a pedir el mismo pedido de comida",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Yo nunca he hecho bungee jumping",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he comprado un boleto de avión de manera espontánea",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he viajado solo al extranjero",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he hecho paracaidismo o parapente",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca me he ido de viaje sin ningún plan",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he armado una tienda de campaña y dormido al aire libre",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he practicado snowboard o ski",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he practicado surf",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he pasado una noche en un lugar sin luz eléctrica ni señal",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he vivido en otro país por más de un mes",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he subido a un lugar muy alto aunque me da vértigo",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca me he perdido en una colonia que no conocía",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he recorrido una larga distancia en moto o bicicleta",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he aprendido a nadar de verdad",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he estado de fiesta hasta el amanecer en una disco",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he marcado ningún punto de mi lista de pendientes",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he subido en globo aerostático o avioneta",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he madrugado a las 4 am para ver el amanecer",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he ido solo a una exposición o concierto",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca me he ido de road trip espontáneo con amigos",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he iniciado una conversación con alguien que no conocía y nos hemos hecho amigos",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he hecho trabajo voluntario",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he probado una comida desconocida y luego decidido si me gustó",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he subido solo a un cerro o montaña",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca me he quedado en la playa o en un río hasta la madrugada",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he ganado el primer lugar en algo por primera vez",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he viajado de mochilero con el mínimo de equipaje",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he pasado más de un día solo en una ciudad que no conocía",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca me he quedado despierto toda la noche jugando videojuegos o leyendo manga",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he subido a un escenario frente a un público",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he aprendido algo de un área completamente nueva",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he hecho un viaje solo en tren dentro del país",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he ido de madrugada de manera impulsiva al río, al lago o al mar",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca me he integrado completamente con desconocidos en una fiesta",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he empezado a aprender un idioma nuevo en serio",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca me he movido expresamente para ver un atardecer o un paisaje nocturno",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he buscado un restaurante desconocido por mi cuenta y fui a comer ahí",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca me he ido a vivir solo",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he hecho una experiencia de terror extrema",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he aguantado un frío o calor extremo al aire libre",
+    "category": "adventure"
+  },
+  {
+    "question": "Yo nunca he dejado plantado a alguien en una primera cita",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he bloqueado a alguien",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca me han declarado su amor",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca le he declarado mi amor a alguien",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca me he aguantado las ganas de escribirle a alguien después de terminar",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he tenido una amistad que se acabó de repente",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he amado a alguien en silencio por más de un año",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he tenido una relación pública con alguien",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he tenido una amistad que se fue enfriando por malentendidos",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he llorado mucho por culpa de un amigo",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he peleado muy fuerte con mi pareja",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca le he dicho directamente a un amigo que me molestó algo",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he dado un consuelo que no sentía",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he sido el primero en terminar una relación",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he llorado por mi pareja",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he seguido en una relación que no quería mantener",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he tratado bien a alguien que me caía mal",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca me he hecho amigo rápidamente de alguien que acababa de conocer",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca le he prestado dinero a un amigo",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he salido de un grupo de WhatsApp",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he vuelto con un ex",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca me he vuelto a encontrar con alguien con quien perdí contacto mucho tiempo",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he peleado fuerte con un familiar",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca le he preparado una sorpresa a mi pareja",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca me he quedado callado en una reunión sin decir nada",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he malentendido a alguien y lo mantuve mucho tiempo",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca me he sentido incómodo con los amigos de mi pareja",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he renunciado a alguien que me gustaba sin intentarlo",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he tenido un recuerdo diferente al de un amigo de mucho tiempo",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he sido el primero en dejar de comunicarme",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca me he trabado hablando frente a alguien que me gustaba",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca le he contado el secreto de un amigo a otra persona",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca le he dicho de verdad gracias a alguien",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca me ha costado ser el primero en pedir disculpas",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca me he sentido aliviado después de terminar una relación",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca me he decepcionado de alguien en quien confiaba",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca le he hablado a un niño que no conocía",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he sacrificado algo mío por alguien que quería",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he perdido el contacto de alguien y no he podido volver a comunicarme",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he escrito una carta de corazón",
+    "category": "relationship"
+  },
+  {
+    "question": "Yo nunca he revisado el perfil de alguien en redes sociales por mucho tiempo sin que se diera cuenta",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he inventado una excusa para cancelar un plan",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he visto un mensaje y fingido que no lo vi",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he llorado solo sin que nadie lo supiera",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca me he decepcionado tanto de mí mismo que me quedé sin ánimo por un tiempo",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he fingido estar enfermo cuando no lo estaba",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca me ha parecido mal un regalo y lo he disimulado",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he aguantado en una reunión con ganas de irme pero sin atreverme",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he dicho que la comida estaba rica cuando no me gustaba",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he tenido envidia de alguien y me lo guardé",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he recibido un cumplido y me ha dejado con sentimientos encontrados",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he fingido haber leído un libro que no había leído",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he fingido interés en algo que me importaba nada",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he fingido que no sabía algo que ya sabía",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he fingido que estaba bien cuando me había molestado algo",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he sabido que estaba equivocado y lo he ignorado",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he llegado bien por fuera a casa pero llorado solo de camino a casa",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca me ha dado envidia genuina que alguien le vaya bien",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he mentido para esconder un error",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he exagerado algo para que me reconocieran",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca me he hecho caras raras frente al espejo cuando estoy solo",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he dicho 'nos vemos' sin tener ninguna intención de que fuera verdad",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca le he dado la razón a alguien que estaba equivocado",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he fingido revisar el celular más tarde para no contestar de inmediato",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he fingido tener más dinero del que tenía",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he escuchado a escondidas la conversación de alguien",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he culpado a la mala suerte cuando algo salió mal",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he querido ir solo al karaoke",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he estado mirando el celular esperando que alguien específico me escribiera",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca me he arrepentido de no haber dicho lo que sentía de verdad",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he sacado una foto, no me ha gustado y la he borrado sin que nadie lo sepa",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he tratado de parecer seguro frente a otras personas",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he escuchado un cumplido sin creerlo en el fondo",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca me he comportado de manera fría con alguien que me gustaba",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca me he reído por fuera en una reunión mientras por dentro estaba mal",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he tenido un pensamiento oscuro y me ha sorprendido a mí mismo",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he tenido algo que decirle a alguien y nunca he podido hacerlo",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he hecho algo que no quería y he fingido que estaba bien",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca he sabido que estaba mal y lo he justificado de todas formas",
+    "category": "secret"
+  },
+  {
+    "question": "Yo nunca me ha dado pena decir mi edad real",
+    "category": "secret"
+  }
+]

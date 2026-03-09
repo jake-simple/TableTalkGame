@@ -1,0 +1,642 @@
+[
+  {
+    "question": "¿Pasta o tacos? ¿Puedes elegir uno sin pensarlo?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿La piña en la pizza sí o no? Danos tus razones",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿El pollo es mejor con hueso o sin hueso?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Camión o metro? ¿Cuál te parece mejor?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Es obligatorio desayunar o no hace falta hacerlo?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿La gente que trabaja con su laptop en cafeterías es normal o no tiene vergüenza?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Hasta cuánto de costo de envío estás dispuesto a pagar para pedir comida a domicilio?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Prefieres sopa fría o sopa caliente?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Entiendes más a la gente que pone muchas alarmas o a la que pone una sola?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Al comprar zapatos lo más importante es la comodidad o el diseño?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Qué es más difícil: el amigo que casi nunca da señales de vida o el que está siempre encima?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "En un restaurante, ¿preferirías buscar mesa o ir directo a pedir?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Hay que llevar siempre bolsa de tela al supermercado o a veces está bien usar bolsa de plástico?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Cuando alguien se cuela en la fila, ¿lo dices o lo dejas pasar?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Prefieres el café frío o caliente sin importar la época del año?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Eres de los que se van caminando para ahorrar en taxi o de los que pagan y van cómodos?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Es de mala educación levantarse primero de una reunión?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Es normal pedir para llevar la comida que sobra en el restaurante?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Silenciar las notificaciones de un grupo de WhatsApp es de grosero o es lo normal?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Qué prefieres de regalo: algo elegido con cariño o efectivo o una tarjeta de regalo?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿En lugares públicos hay que hablar bajito al teléfono o es exagerar pedir silencio?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Es normal comer palomitas en el cine o molesta a los demás?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Te hace sentido ignorar a alguien conocido en la calle?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cómo llamas al mesero? ¿Levantando la mano o diciéndole 'disculpe'?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Leer el mensaje de WhatsApp sin responder es peor que ni leerlo?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Comida a domicilio o salir a comer, cuál importa más para el sabor?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Qué haces cuando en el elevador te queda mirando alguien?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Dejar comida en el plato es desperdicio o comer todo por obligación es peor?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Es obligatorio usar pantuflas en casa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Prefieres que lleguen puntual o cinco minutos antes a una cita?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Las agujetas del tenis hay que amarrarlas o está bien pisarlas?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Prefieres estudiar en la biblioteca o en la cafetería?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Pedir comida a domicilio de madrugada es molestar o es perfectamente normal?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Prefieres que cada quien pague lo suyo o que uno pague y el otro después?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Una torta de la tienda de conveniencia o la comida que haces en casa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Hay que fotografiar la comida antes de comer o mejor comer directo?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Compartir el refrigerador con quien vives contigo es cómodo o incómodo?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Es mejor comer viendo la tele o YouTube o es mejor comer sin pantallas?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Hay que separar la ropa por color antes de meterla a la lavadora?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Guardar un lugar en la cafetería con tu mochila mientras pides está bien o no?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Ir al cine todavía tiene sentido en la era del streaming?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Las redes sociales mejoraron o empeoraron las relaciones humanas?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Los videos cortos de YouTube Shorts o Reels están arruinando la concentración?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Los fandoms de artistas son normales o exagerados?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Un libro físico tiene más valor que un ebook?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Alguna vez un remake de serie o película estuvo mejor que el original?",
+    "category": "culture"
+  },
+  {
+    "question": "¿El arte generado por IA puede considerarse arte de verdad?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Crees que la música latina ha tenido un impacto real en la imagen del continente?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Puedes confiar en un producto que recomienda un famoso?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Hasta dónde está bien que se sepa la vida privada de los famosos?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Alguna vez sentiste que Instagram o YouTube era más preciso que las noticias?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Prefieres ver una película con subtítulos o doblada?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Cuando se compran likes o streams, ¿la culpa es de los fans o del sistema?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Consumir información en video en lugar de leer es flojera?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Viajar a un país con el que tienes diferencias históricas es válido o es algo que te cuestiona?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Seguir a famosos en redes sociales ayuda a tu vida o solo te hace compararte?",
+    "category": "culture"
+  },
+  {
+    "question": "¿La calidad de un videoclip es tan importante como la canción?",
+    "category": "culture"
+  },
+  {
+    "question": "¿La cultura de la comida rápida y el street food tan desarrollada es algo positivo?",
+    "category": "culture"
+  },
+  {
+    "question": "¿La cultura de revender tenis de edición limitada es entendible o exagerada?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Las series de ahora son mejores que las de antes?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Los influencers tienen demasiado poder?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Los videojuegos deberían reconocerse como un deporte?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Las series con villanos interesantes son más entretenidas que las de héroes buenos?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Las webtoons o webcomics siendo tan populares es algo bueno?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Los viajes internacionales siempre son más especiales que los nacionales?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Cuánto crees que es lo correcto para llevar de regalo a una boda?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Crees que las tradiciones de las fiestas familiares deberían cambiar? ¿Cómo?",
+    "category": "culture"
+  },
+  {
+    "question": "¿El uso del celular en un concierto o evento debería estar prohibido totalmente?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Con los traductores de IA, ya no vale la pena estudiar otro idioma?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Es posible hacer marketing sin redes sociales?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Crees que el contenido de ahora es demasiado sensacionalista?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Crees que las grandes empresas tecnológicas tienen demasiado monopolio?",
+    "category": "culture"
+  },
+  {
+    "question": "¿El bienestar y el wellness realmente cambian la vida o es solo marketing?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Los famosos que hacen YouTube de comida son interesantes o solo están gastando su imagen?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Aun sabiendo el final de una película, puedes disfrutarla igual?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Da pena que la cultura del karaoke esté desapareciendo?",
+    "category": "culture"
+  },
+  {
+    "question": "¿En el trabajo la personalidad debería importar más que el currículum?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Los artículos de lujo son un desperdicio de dinero o una inversión con valor?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Los youtubers deben tener tanta responsabilidad por su influencia como los medios de comunicación tradicionales?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Los videos cortos de TikTok o Reels están reemplazando a los videos largos?",
+    "category": "culture"
+  },
+  {
+    "question": "¿Crees que puede existir una amistad pura entre hombres y mujeres?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿En una relación está bien tener secretos?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Las parejas que fueron amigos primero duran más?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Qué tan seguido alguien te escribe refleja cuánto le importas?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Enamorarse a primera vista puede convertirse en amor de verdad?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿La diferencia de edad importa en la amistad?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿En una pareja los dos deben conocer las redes sociales del otro?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Crees que una relación a distancia puede funcionar?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Las personas cambian o la esencia nunca cambia?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Después de terminar, ¿es posible seguir siendo amigos?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿En una pareja siempre es mejor ser completamente honesto?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿El periodo previo a ser novios es necesario o es solo perder el tiempo?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Entre amigos no deben haber transacciones de dinero?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Necesitas saber el historial sentimental de tu pareja?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Crees que alguien que fue infiel es muy difícil de volver a confiar?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿En una relación, lo que más importa es tener cosas en común o ser diferentes?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Amar a alguien en silencio por mucho tiempo es falta de valor o es algo puro?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿En una pareja no es necesario tener los mismos hobbies?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Los amigos pueden importarte más que la familia?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Presentarle a alguien a una posible pareja es una petición incómoda?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Una diferencia de más de diez años en una pareja no es problema?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Casarse sin haber convivido es una aventura?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿El amigo de tu amigo puede ser tu amigo o siempre es raro?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿En una relación, quien manda el primer mensaje es quien más quiere?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿En una pareja es mejor que sean económicamente independientes?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Si un amigo tiene una relación tóxica, hay que decírselo?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿El gusto por alguien puede surgir con esfuerzo o es algo que simplemente pasa?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿El matrimonio es posible solo con amor o también necesita condiciones prácticas?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Cuando peleas con tu pareja, ¿hay que resolver en ese momento o calmarse primero?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Es mejor declararse primero a quien te gusta?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Deberías ser tú quien contacte primero a un amigo con quien perdiste contacto?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Hay que llevarse bien con los amigos de tu pareja?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Qué harías si tus papás se opusieran a tu pareja?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Crees que existe la media naranja?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Cuando te molesta algo de un amigo, es mejor decírselo o dejarlo pasar?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿En una pareja los dos deben poder revisar el celular del otro o la privacidad es sagrada?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Las relaciones hay que trabajarlas o fluyen solas?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Cuando alguien está ocupado y escribe menos, lo entiendes?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Los celos en pareja son señal de amor o de control?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Está bien que salgas con el ex de un amigo cercano?",
+    "category": "relationship"
+  },
+  {
+    "question": "¿Con dinero se puede comprar la mayor parte de la felicidad?",
+    "category": "life"
+  },
+  {
+    "question": "¿Vivir disfrutando es más importante que vivir esforzándose?",
+    "category": "life"
+  },
+  {
+    "question": "¿El éxito es 50% suerte o más?",
+    "category": "life"
+  },
+  {
+    "question": "¿Vivir feliz es vivir bien o vivir con propósito es vivir bien?",
+    "category": "life"
+  },
+  {
+    "question": "¿El nombre de la universidad donde estudiaste todavía importa en la sociedad?",
+    "category": "life"
+  },
+  {
+    "question": "¿Compararse con los demás no es solo algo malo?",
+    "category": "life"
+  },
+  {
+    "question": "¿Priorizarte a ti mismo es egoísta o no?",
+    "category": "life"
+  },
+  {
+    "question": "¿Estás de acuerdo con que si te esfuerzas puedes lograr cualquier cosa?",
+    "category": "life"
+  },
+  {
+    "question": "¿Los treinta tienen más libertad que los veinte?",
+    "category": "life"
+  },
+  {
+    "question": "¿Tener más experiencias te hace mejor persona?",
+    "category": "life"
+  },
+  {
+    "question": "¿Hay que aguantar lo que no quieres hacer ahora por el futuro o la felicidad de hoy es lo primero?",
+    "category": "life"
+  },
+  {
+    "question": "¿Crees que el matrimonio es obligatorio?",
+    "category": "life"
+  },
+  {
+    "question": "¿Las personas crecen más solas o en compañía?",
+    "category": "life"
+  },
+  {
+    "question": "¿Las personas honestas terminan mejor al final?",
+    "category": "life"
+  },
+  {
+    "question": "¿Deberías trabajar en lo que te apasiona o en lo que se te da bien?",
+    "category": "life"
+  },
+  {
+    "question": "¿Una vida estable te hace más feliz o una vida dinámica?",
+    "category": "life"
+  },
+  {
+    "question": "¿Es natural que los sueños se vuelvan más pequeños con la edad?",
+    "category": "life"
+  },
+  {
+    "question": "¿Las decisiones basadas en la razón en vez de las emociones dan mejores resultados?",
+    "category": "life"
+  },
+  {
+    "question": "¿Vivir una vida ordinaria es cada vez más difícil?",
+    "category": "life"
+  },
+  {
+    "question": "¿Realmente el fracaso es la madre del éxito?",
+    "category": "life"
+  },
+  {
+    "question": "¿Nacer en una familia con dinero es un mérito o no?",
+    "category": "life"
+  },
+  {
+    "question": "¿Crees que antes de los cuarenta hay que haberlo intentado todo?",
+    "category": "life"
+  },
+  {
+    "question": "¿Crees que a las buenas personas les pasan cosas buenas?",
+    "category": "life"
+  },
+  {
+    "question": "¿Tu generación lo tiene más difícil que la de tus papás?",
+    "category": "life"
+  },
+  {
+    "question": "¿Sacrificarse por alguien es amor de verdad o no debes perderte a ti mismo?",
+    "category": "life"
+  },
+  {
+    "question": "¿Renunciar y emprender tu negocio vale la pena?",
+    "category": "life"
+  },
+  {
+    "question": "¿Sientes el deber de cuidar a tus papás?",
+    "category": "life"
+  },
+  {
+    "question": "¿Es inteligente aguantar una injusticia?",
+    "category": "life"
+  },
+  {
+    "question": "¿Crees que hay una manera correcta de vivir según tu edad?",
+    "category": "life"
+  },
+  {
+    "question": "¿Preocuparse mucho es ser precavido o es desperdiciar energía?",
+    "category": "life"
+  },
+  {
+    "question": "¿Reducir los arrepentimientos puede ser una meta de vida?",
+    "category": "life"
+  },
+  {
+    "question": "¿Alguna vez cambiaste una decisión por lo que pensaban los demás? ¿Crees que estuvo bien?",
+    "category": "life"
+  },
+  {
+    "question": "¿Crees que hasta las malas experiencias terminan ayudando?",
+    "category": "life"
+  },
+  {
+    "question": "¿Es mejor vivir con pasión o con constancia aunque no haya pasión?",
+    "category": "life"
+  },
+  {
+    "question": "¿Es mejor hacer lo mismo toda la vida o tener una vida variada?",
+    "category": "life"
+  },
+  {
+    "question": "¿Crees que podrás sentir que viviste sin arrepentirte?",
+    "category": "life"
+  },
+  {
+    "question": "¿Si solo pudieras elegir uno entre una buena casa o buenos viajes?",
+    "category": "life"
+  },
+  {
+    "question": "¿El destino importa más que el esfuerzo?",
+    "category": "life"
+  },
+  {
+    "question": "¿La gente que prefiere estar sola sale perdiendo en las relaciones?",
+    "category": "life"
+  },
+  {
+    "question": "¿Sientes que ahora mismo estás en el mejor momento de tu vida?",
+    "category": "life"
+  }
+]

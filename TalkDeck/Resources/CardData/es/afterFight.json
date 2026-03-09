@@ -1,0 +1,962 @@
+[
+  {
+    "question": "¿Cómo describirías tu estado de ánimo ahora mismo con el tiempo meteorológico?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Hubo algún momento bueno hoy, aunque sea uno?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Qué se te antoja comer ahorita?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Respira profundo... ¿Cómo se siente tu cuerpo ahora?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Cómo te sentiste cuando te levantaste esta mañana?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Hay algún contenido que estés siguiendo últimamente?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Qué necesitas más ahorita mismo? ¿Agua? ¿Café? ¿Chocolate?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Qué fue lo más chistoso que pasó últimamente?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Recuerdas la primera vez que nos conocimos?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Cómo está el paisaje desde donde estás ahorita?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Cuál es tu estación del año favorita? ¿Por qué la quieres tanto?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Hay alguna canción que estés escuchando últimamente que valga la pena recomendar?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Dormiste bien anoche?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Cuál es tu método personal para desahogarte cuando estás estresado?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Si pudieras ir a cualquier lugar ahora mismo, ¿adónde irías?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Cuándo fue el momento en que te sentiste más cómodo en el tiempo que hemos pasado juntos?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Cómo sueles calmarte cuando te enojas?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿De qué color describirías cómo te sientes ahorita?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Has salido a caminar o a tomar aire fresco recientemente?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Qué hacías cuando te enojabas de niño?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿A quién quisieras ver más en este momento?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Sabes que puedes hablarme con confianza, ¿verdad?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Has estado durmiendo bien últimamente?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Puedes decir una sola cosa que a los dos nos guste?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Qué quieres hacer después de que hagamos las paces?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Sabes que ya es algo increíble haber empezado esta conversación?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Cuál es el recuerdo más reciente en que los dos nos reímos juntos?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Cuando las cosas se ponen intensas, ¿necesitas tiempo para ti?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿No tienes hambre? ¿Comemos algo?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Cuándo fue el momento en que más agradeciste esta relación?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Si expresaras cómo te sientes con un solo emoji, ¿cuál sería?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Cuando te enojas, ¿prefieres estar solo o que alguien esté contigo?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Hay alguien que te haya hecho reír recientemente?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Si pusieras música ahorita, ¿qué canción querrías escuchar?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Recuerdas cuándo empezamos a llevarnos bien?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Ya se te bajó un poco?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Crees que enojarse el uno con el otro también es una forma de mostrar que te importa?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Cómo está el clima hoy?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Hablamos mientras tomamos algo?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Sabes que eres alguien muy importante para mí, ¿verdad?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Solo con que estés aquí sentado, ya te lo agradezco",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Qué fue lo más rico que comiste hoy?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Descansamos un momento antes de seguir hablando?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Además de estar enojado conmigo, hay otro sentimiento que tengas?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Si le pusieras un título de película a esta situación, ¿cuál sería?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Cuando hay tensión entre nosotros, ¿quién suele ser el primero en hablar?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Hay algo que quieras decirme ahora mismo?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Le puedes dar las gracias a quien sacó esta carta?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Qué necesitas más ahorita, conversar o tiempo?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿En qué momento sentiste que encajábamos bien?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Cuando se te pase el enojo, ¿qué es lo primero que quieres hacer?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Si pudieras empezar el día de hoy de nuevo, ¿cómo lo vivirías?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Puedes cerrar los ojos y descansar solo 3 segundos?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Tienes alguna palabra clave que te ayude a calmarte?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿No crees que los dos estamos agotados en este momento?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Crees que podemos encontrar algo de humor en esta situación?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Me puedes agarrar la mano un momento?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Ser diferentes no es algo malo, ¿verdad?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Juntos hemos superado cosas difíciles antes, ¿lo recuerdas?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Crees que está bien si esto no se resuelve de inmediato?",
+    "category": "coolDown"
+  },
+  {
+    "question": "¿Cuál es la emoción más grande que sientes en tu corazón ahora mismo?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Puedes distinguir si estás enojado, resentido o triste?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Cuándo fue el momento en que más te dolió?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Crees que sin querer dijiste algo que pudo lastimar?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Qué era lo que realmente querías en el fondo?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Cuál es la verdadera razón por la que te enojaste?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Hay algo de este sentimiento que sea difícil expresar con palabras?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Cómo querías que te trataran en esta situación?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿No crees que esto fue acumulándose hasta que explotó?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Hubo algún momento en que reaccionaste de manera muy sensible?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Desde cuándo crees que este sentimiento se fue acumulando?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Qué emoción sientes normalmente en situaciones como esta?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Crees que tu forma de hablar pudo haber sonado agresiva?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Honestamente, también hay algo de miedo en lo que sientes?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Crees que lo que pediste en esta situación fue demasiado?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Sentiste que ignoraron algo que para ti es muy importante?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Hay alguna parte de tus sentimientos que no pudiste expresar completamente?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Hay alguna cosa que dijiste mientras estabas enojado de la que te arrepientes?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Hay algo de lo que sientes ahora que crees que la otra persona no sabe?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Cómo crees que sería mejor transmitir este sentimiento?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Hubo algún momento en que reaccionaste de manera defensiva?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿No crees que en realidad la decepción es más grande que el enojo?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Cuál era la reacción que esperabas?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Puede ser que este sentimiento sea solo tuyo?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Si le explicaras esta situación a alguien, ¿cómo lo contarías?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Te sorprendes tú mismo de haberte enojado tanto?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿No te enoja contigo mismo el hecho de sentirte así?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Lo que te molestó fue el hecho en sí o la actitud de la otra persona?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Sientes que tú también tienes algo de culpa en esto?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Has sentido algo parecido antes en situaciones similares?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Había alguna queja que venías guardando?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Cuál crees que es la necesidad real detrás de este sentimiento?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Qué patrón crees que muestras tú en situaciones de conflicto?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Crees que lo que quisiste decir llegó diferente a como lo pensaste?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Tienes ganas de llorar ahorita?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Qué es lo que más te asusta de esta situación?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Hay algo que te genera inseguridad en esta relación?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Enojarte en sí mismo también te cuesta trabajo?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Por qué crees que es difícil decir honestamente cómo te sientes?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿En qué parte de ti es donde más necesitas sentirte apoyado?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Se te da bien pedir disculpas?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Crees que puedes aprender algo de esta situación?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Tu orgullo no estará bloqueando que expreses tus emociones?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Honestamente, también sientes algo de soledad?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Cuál es la razón por la que te cuesta dar el primer paso?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Crees que este sentimiento va a durar hasta mañana?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Qué tipo de persona quieres ser después de este conflicto?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Si le pusieras un nombre a este sentimiento, ¿cuál sería?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Qué te está tratando de decir este sentimiento?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Y si en realidad no estás enojado sino preocupado?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Hay algo de lo que sientes que quisieras que la otra persona entendiera?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Del 1 al 10, ¿qué tan pesado se siente tu corazón ahorita?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Hubo un momento mientras hablabas en que pensaste 'esto no está bien'?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Cuál es la frase que realmente quisieras escuchar?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Te resulta muy difícil cargar este sentimiento solo?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿De qué manera te resulta más cómodo expresar tus emociones?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Cómo crees que te va a parecer esta situación en una semana?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Sabes cuáles son los puntos que más te duelen a ti?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Cuál es la frase que más necesita escuchar tu corazón ahora mismo?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Cómo crees que te sentirás cuando este sentimiento pase?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "¿Por qué crees que la otra persona dijo eso?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Cómo se vería esta situación desde el punto de vista de la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿No crees que la otra persona también tiene cosas difíciles ahorita?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Qué crees que la otra persona realmente quería decir?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Cómo crees que te veía la otra persona a ti?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Cuál fue el punto en que la otra persona se sintió más resentida?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Hubo algo de lo que dijo la otra persona que tenía razón?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Crees que la otra persona también está sufriendo tanto como tú?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿La otra persona habrá tenido últimamente algo que la estuviera estresando?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Qué era lo que la otra persona esperaba de ti?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Hubo algún momento en que ignoraste los sentimientos de la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Cuál crees que fue la verdadera razón por la que la otra persona se enojó?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Conociendo la personalidad de la otra persona, ¿hay cosas que tiene sentido entender?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Cómo crees que le sonaron tus palabras a la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Habrá alguna razón por la que la otra persona se puso defensiva?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Las experiencias pasadas de la otra persona pudieron influir en su reacción?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Crees que hay sentimientos que la otra persona no pudo expresar?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿No será que pasé por alto la buena intención de la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Crees que esta es la primera vez que la otra persona se siente decepcionada por ti?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Puede ser que la otra persona también quiera disculparse pero no pueda?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Cuál es el cambio que la otra persona más quisiera ver en ti?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Puede ser que la forma de expresar emociones de la otra persona sea diferente a la tuya?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Si la otra persona le contara esta situación a un amigo, ¿qué diría?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Tienes ganas de escuchar el punto de vista de la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Puedes decir solo una cosa por la que le estás agradecido a la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Habrá cosas que la otra persona ha aguantado por ti?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Qué pasa si te concentras en el contenido de lo que dijo la otra persona y no en su tono?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Cómo crees que se siente la otra persona ahorita?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Cuándo fue la última vez que le expresaste a la otra persona que es importante para ti?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿No podría ser que los defectos de la otra persona sean la otra cara de sus virtudes?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Crees que la otra persona quiere que cambies o que la entiendan?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Puede haber inseguridad detrás del comportamiento de la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Crees que la otra persona también valora esta relación?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Habrá algo que la otra persona quiera decirte?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Crees que le has prestado suficiente atención a la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿No será que no me di cuenta de que la otra persona estaba pasándola mal?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Habrá partes en que la otra persona se cansó de adaptarse a ti?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Puedes contar esta situación de nuevo, pero desde la perspectiva de la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Puede ser que la reacción de la otra persona no vaya dirigida directamente hacia ti?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿En qué aspecto siente la otra persona que más necesita ser reconocida por ti?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Puedes ver preocupación en lugar de herida en las palabras de la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Hubo momentos en que di por sentado el esfuerzo de la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Lo que la otra persona espera de ti te parece mucho o razonable?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Por qué crees que la otra persona esconde sus sentimientos?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿No será que toqué un punto débil de la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Qué aspecto de ti suele agradecer más la otra persona normalmente?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Habrá partes en que esta relación tampoco es fácil para la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Cómo crees que es la disculpa que la otra persona espera de ti?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Cuándo fue la última vez que escuchaste a la otra persona hasta el final?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Qué crees que es lo que más le da miedo a la otra persona en esta situación?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Crees que la otra persona también quiere conservar esta relación igual que tú?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Habrá momentos en que fui desconsiderado con la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Puedes mencionar tres cosas buenas de la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Qué es lo que la otra persona más quiere escuchar de ti ahora mismo?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Puedes decir que entiendes al cien por ciento los sentimientos de la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Puede ser que la otra persona intentó cambiar pero yo no lo noté?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Cuándo es el momento en que la otra persona se siente más feliz?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Qué necesito saber más para entender el punto de vista de la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Crees que la otra persona también quiere tener esta conversación?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Has sentido alguna vez cuánto te valora la otra persona?",
+    "category": "yourSide"
+  },
+  {
+    "question": "¿Hay algo que podamos aprender juntos de lo que pasó?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Si en el futuro surge la misma situación, ¿qué podríamos hacer diferente?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Hay alguna parte en la que yo pueda disculparme primero?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué podemos hacer para comunicarnos mejor?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Puede ser que esto que pasó haga nuestra relación más sólida?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Si cada uno pudiera hacer una sola promesa, ¿qué prometerían?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Hay algo que podamos mejorar en la forma en que resolvemos nuestros conflictos?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué te gustaría que hiciéramos juntos después de hacer las paces?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Puedes decirle a la otra persona algo de lo que le estás genuinamente agradecido?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿En qué parte de esta relación puedes esforzarte más?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué podemos hacer para respetar la manera de expresar emociones del otro?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Cuando alguno se enoje en el futuro, ¿qué señal podemos darnos?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué tal si creamos nuestro propio ritual de reconciliación?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Puedes decirle honestamente a la otra persona una sola cosa que esperas de ella?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Cuándo fue el mejor momento de nuestra relación?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Coincide lo que la otra persona quiere que hagas y lo que tú puedes hacer?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué tal si cuando los dos nos enojemos nos damos un tiempo para calmarnos?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Hay algún tema del que deberíamos hablar más seguido?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Puedes decirle 'lo siento' a la otra persona?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Puedes decirme por qué esta relación es importante para ti?",
+    "category": "makingUp"
+  },
+  {
+    "question": "La próxima vez que haya un conflicto similar, ¿podrías preguntar primero antes de reaccionar?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué tal si establecemos algunas reglas para cuando choquen las emociones?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Hay alguna parte en que te cueste aceptar a la otra persona tal como es?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué es lo que más quieres proteger en esta relación?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Puedes decirle tres cosas por las que le estás agradecido a la otra persona?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Crees que hay algo en lo que puedas crecer gracias a esto que pasó?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué podemos hacer para conocer y evitar los puntos sensibles del otro?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué tal si acordamos una palabra clave para cuando las cosas se pongan intensas?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Cuál crees que es la mayor fortaleza de nuestra relación?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Puedes reconocer el esfuerzo que está haciendo la otra persona?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Cómo crees que te sentirás al mirar atrás a esta situación dentro de un año?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué necesitamos para ser más honestos el uno con el otro?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Cuál fue la mayor crisis que superamos juntos?",
+    "category": "makingUp"
+  },
+  {
+    "question": "En lugar de esperar a que la otra persona cambie, ¿qué puedes cambiar tú primero?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Crees que podemos resolver nuestras diferencias de una mejor manera?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Cuál es el paso más pequeño que podemos dar ahora mismo por nuestro futuro?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Puedes decirle 'te quiero' o 'eres muy importante para mí' a la otra persona?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿De qué manera esta relación te ha hecho crecer?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué tal si nos damos un tiempo regularmente para hablar de cómo nos sentimos?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Cuál crees que es el primer paso para reconciliarse?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Hay algo que no hubieras sabido si no hubiera pasado esto?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Podemos ser más generosos el uno con el otro?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué quieres que hagamos juntos?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Cómo te sentirías si la otra persona te dijera 'te entiendo'?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Con una sola palabra, cómo describirías esta relación?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Estás de acuerdo en que los conflictos son parte de cualquier relación?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué significado tiene esta conversación para los dos?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué podemos hacer para entendernos mejor?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué necesitamos para ser más felices juntos?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Podemos darnos un abrazo?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Tienes la certeza de que podemos superar esto?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Podemos prometernos enfocarnos más en las cosas buenas del otro?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Crees que podremos volver a reírnos?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué quieres decir primero mañana cuando te despiertes?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Puedes pensar por un momento en la razón por la que estamos juntos?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Cuál es la razón por la que la otra persona es la mejor persona para ti?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Crees que gracias a esto nuestra relación puede volverse mejor?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Qué tal si nos escribimos una carta el uno al otro?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Hay algo que quieras decirle a la otra persona antes de dormir esta noche?",
+    "category": "makingUp"
+  },
+  {
+    "question": "¿Todo va a estar bien entre nosotros, verdad?",
+    "category": "makingUp"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "question": "¿Cuándo fue el último momento en que tu hijo/a estuvo súper tierno/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cuándo fue el momento del que más orgulloso/a te sentiste como papá/mamá?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cómo te sentiste cuando tu hijo/a te llamó 'mamá' o 'papá' por primera vez?",
+    "category": "parenting"
+  },
+  {
+    "question": "Descríbeme el momento en que tu hijo/a dio sus primeros pasos.",
+    "category": "parenting"
+  },
+  {
+    "question": "¿A qué le gusta jugar más a tu hijo/a últimamente?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Qué es lo más gracioso que ha hecho o dicho tu hijo/a recientemente?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Hay algo que le enseñaste y que aprendió muy rápido?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cuál ha sido el avance más sorprendente de tu hijo/a recientemente?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cuándo tu hijo/a expresa alguna emoción, ¿cuándo se ve más tierno/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Tienes alguna rutina especial para dormir a tu hijo/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cuál es el juguete u objeto favorito de tu hijo/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Qué es lo que mejor funciona para calmarlo/a cuando llora?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿A qué juego disfrutan más juntos/as?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cuál es el gesto tierno que más repite tu hijo/a últimamente?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Recuerdas la primera vez que te sonrió? ¿Cómo te sentiste?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿En qué pensabas cuando lo/la cargaste por primera vez?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cuándo fue el momento más tranquilo y bonito de tu rutina con tu hijo/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cuándo fue la experiencia más difícil que viviste cuando tu hijo/a se enfermó?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Hay alguna historia detrás del nombre que le pusieron a tu hijo/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cómo reaccionó tu hijo/a la primera vez que probó comida sólida?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cómo fue el primer día de tu hijo/a en la guardería o el jardín?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cuál fue la cosa más inesperada que aprendiste de tu hijo/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Alguna vez tu hijo/a te emocionó en un momento que no esperabas?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cuál es tu foto favorita de tu hijo/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Alguna vez te sorprendió lo rápido que creció tu hijo/a de un momento a otro?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cómo fue el primer viaje que hicieron juntos/as con el bebé?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cómo reaccionó tu hijo/a la primera vez que vio la piscina o el mar?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cómo celebraron el primer cumpleaños de tu hijo/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cómo fue la primera vez que tu hijo/a jugó con otros niños de su edad?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Alguna vez te quedaste dormido/a intentando dormir a tu hijo/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Tienes alguna pose especial para las selfies con tu hijo/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Hay alguna comida que quieras prepararle a tu hijo/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cuál es tu canción favorita para cantar con tu hijo/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cómo te sentiste cuando tu hijo/a abrió un libro por primera vez?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Hay alguna anécdota del primer festejo o Navidad de tu hijo/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Hay alguna anécdota de tu hijo/a en el transporte público?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cuál fue el dato más sorprendente que descubriste sobre los bebés mientras criabas a tu hijo/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Cómo te sentiste la primera vez que tu hijo/a dijo 'no'?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Ha habido algún momento en que sentiste que le fallaste a tu hijo/a?",
+    "category": "parenting"
+  },
+  {
+    "question": "Si pudieras enseñarle solo una cosa a tu hijo/a, ¿qué sería?",
+    "category": "parenting"
+  },
+  {
+    "question": "¿Hay algún aspecto nuevo de tu pareja que descubriste después de tener al bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Alguna vez te emocionó ver a tu pareja cuidar al bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Cuál fue la pelea más grande que tuvieron como pareja por temas de crianza?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿De qué hablan más ustedes dos desde que nació el bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Hubo alguna vez que tu pareja tuviera un estilo de crianza diferente al tuyo? ¿Cómo lo resolvieron?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Han hablado con honestidad sobre cómo se dividen la crianza?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Cómo mantienen las citas o tiempo de pareja desde que llegó el bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Cuál es la escena más impresionante que has visto de tu pareja cuidando al bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Hubo algún momento durante la crianza en que te enamoraste de nuevo de tu pareja?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿En qué parte de la crianza sienten que son el mejor equipo?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Sientes que están más unidos/as como pareja desde que llegó el bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Alguna vez tuvieron diferencias sobre cómo educar al bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Crees que hay momentos en que tu pareja se sintió mal contigo en la crianza?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Cuál es la decisión que tomaron juntos/as por el bebé de la que más orgullosos/as están?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Alguna vez pelearon frente al bebé? ¿Qué pensaron en ese momento?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Ha habido algún momento en la crianza en que le fallaste a tu pareja?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Qué aspecto de tu pareja al criar al bebé quisiste imitar?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Tienen algún principio de crianza que sea solo de ustedes como pareja?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Qué puntaje le pondrías al trabajo en equipo de ustedes como papás?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿De qué le agradeces a tu pareja desde que nació el bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Cuál es una anécdota reciente en la que se rieron juntos/as criando al bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Cómo resuelven la falta de tiempo en pareja ahora que tienen al bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Cómo cuidas a tu pareja cuando la ves agotada?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Hay alguna forma en que la crianza los haya hecho crecer juntos/as?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Qué hacen los dos cuando el bebé ya está dormido?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Cómo llegaron a un acuerdo cuando tuvieron opiniones distintas sobre el bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Cuándo sentiste que tu pareja era tu mayor apoyo en la crianza?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Tienen alguna rutina nueva como pareja desde que nació el bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Cuándo fue el momento más gratificante de criar al bebé juntos/as?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Tienen alguna expresión o apodo especial que solo usan entre ustedes al hablar del bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Cuál es el cambio más positivo que el bebé le ha traído a su relación?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Cuándo sentiste que tú y tu pareja comparten los mismos valores de crianza?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Hay algo que aprendieron el uno del otro desde que llegó el bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Qué se ha vuelto más importante en la relación desde que tienen al bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Sientes que el bebé los ha unido más como pareja?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Alguna vez has reflexionado sobre lo que significa criar a un hijo/a juntos/as?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Hay algo que quieras decirle a tu pareja sobre la crianza?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Cómo ha cambiado la forma en que ves a tu pareja desde que nació el bebé?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Qué imagen quieren mostrarle a su hijo/a como pareja?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Hay algo que tu pareja haya hecho en la crianza y por lo que todavía le agradeces?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "¿Alguna vez sentiste que la crianza era tan difícil que querías escapar?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Cuándo fue el momento en que más te faltaron fuerzas durante la crianza?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Cuál fue el día más duro cuando el bebé no te dejó dormir?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Alguna vez te costó mucho no tener tiempo para ti mismo/a durante la crianza?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Hubo algún momento en que perdiste el control de tus emociones con tu hijo/a?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Alguna vez sentiste que tu identidad como persona se tambaleó cuando te convertiste en papá/mamá?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Qué es lo más difícil de equilibrar la crianza con el trabajo?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Alguna vez te sentiste impotente cuando tu hijo/a estaba enfermo/a y no podías hacer nada?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Cuándo fue el momento más solitario que viviste durante la crianza?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Alguna vez quisiste ser tú mismo/a por un momento, sin el rol de papá/mamá?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Alguna vez te sentiste triste o sin energía durante la crianza? ¿Cómo lo superaste?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Cómo te sentiste cuando le gritaste o perdiste la paciencia con tu hijo/a?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Cuál fue la época en que la falta de sueño fue más difícil de aguantar?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Qué fue lo que más te dolió dejar de hacer por la crianza?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Alguna vez dudaste de si lo estabas haciendo bien como papá/mamá?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Hay algo que tu pareja te haya hecho sentir mal durante la crianza y que no dijiste?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Hubo algún conflicto con alguien de afuera relacionado con la crianza de tu hijo/a?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Cómo aguantaste la etapa más difícil de la crianza?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Alguna vez dejaste de lado tus metas o sueños durante la crianza?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Qué sentiste cuando tu hijo/a lloraba sin parar y no había forma de calmarlo/a?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Cómo descargas el estrés de la crianza?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Alguna vez sentiste que tu salud se deterioró desde que llegó el bebé?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Ha habido algún momento en la crianza en que te decepcionaste de ti mismo/a?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Los consejos o la intervención de otras personas en la crianza te han resultado difíciles de manejar?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Hay alguna emoción que te hayas guardado solo/a sin decirle nada a tu pareja durante la crianza?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Cuándo te diste cuenta de que criar a un hijo/a era mucho más difícil de lo que esperabas?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Cuándo fue el momento más desconcertante que viviste al inicio de la crianza?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Qué emoción es la que más te cuesta controlar en la crianza?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Cuándo fue el momento más aterrador de llevar a tu hijo/a al médico?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Hubo alguna vez que descuidaste tu salud por dedicarle tiempo al bebé?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Ha habido alguna situación en la que te sintieras mal por tu hijo/a pero no podías hacer nada diferente?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Cuándo sentiste más el peso económico de tener un hijo/a?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Cuál es tu mayor miedo como papá/mamá?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Alguna vez te sentiste aislado/a socialmente por la crianza?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Sientes que tus defectos se hacen más evidentes al criar a tu hijo/a?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Cuándo fue que más perdiste el control durante la crianza y qué hiciste?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Hubo algún momento en que desearas no estar solo/a en esto?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Con el tiempo sientes más o menos preocupación conforme tu hijo/a va creciendo?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Puedes contarme con honestidad qué es lo más difícil de la crianza ahora mismo?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Cuál es el pensamiento o emoción que más te pesa en la crianza?",
+    "category": "hardships"
+  },
+  {
+    "question": "¿Qué es por lo que más agradeces desde que nació tu hijo/a?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Cuándo fue el momento en que más le agradeciste a tu pareja durante la crianza?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Hay algo valioso que descubriste gracias a tu hijo/a?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Tu hijo/a te ha enseñado alguna lección de vida?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Hay algo por lo que le agradeces más a tus papás desde que te volviste papá/mamá?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Cuándo fue el momento más reciente en que sentiste que eres muy feliz por tener a tu hijo/a?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Qué fue lo más lindo que tu pareja hizo por tu hijo/a?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿El significado de la vida cambió para ti desde que empezaste a criar a tu hijo/a?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Quién en tu entorno te ha ayudado más con la crianza y que más agradeces?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Descríbeme cómo te sientes cuando tu hijo/a se ríe.",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿En qué parte de ti mismo/a sientes que has crecido gracias a la crianza?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Alguna vez una frase de tu hijo/a cambió tu día por completo?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Hay algo de tu pareja que te genera más gratitud desde que están criando juntos/as?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Sientes que desde que tienes a tu hijo/a vives con más intensidad?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Descríbeme cómo te sientes cuando tu hijo/a se abraza a ti.",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Alguna vez la crianza te hizo ver el mundo de forma más bella?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Hay algo que pudiste experimentar gracias a tu hijo/a que agradeces mucho?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Cuándo fue el momento en que sentiste que tu hijo/a era el mejor regalo de tu vida?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Hay algo por lo que quieras darle las gracias a tu pareja hoy mismo?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Cómo te sentiste la primera vez que tu hijo/a te dio un abrazo?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Hay algo a lo que no te habrías rendido si no fuera por tu hijo/a?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Alguna vez agradeciste que la crianza te hiciera ir más despacio en la vida?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Qué sientes cuando ves la cara de tu hijo/a durmiendo?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Qué es lo mejor de criar a tu hijo/a junto a tu pareja?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Hay algo en lo que te sientes más valiente gracias a tu hijo/a?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Cuál es el cambio en ti que más agradeces desde que nació tu hijo/a?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Cómo te sentiste la primera vez que tu hijo/a te dijo 'te quiero'?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Cuándo fue que mirabas a tu pareja y pensabas 'qué bueno que estás aquí'?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Cuál es el valor más importante que te ha enseñado tu hijo/a?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Hay alguna relación que se haya profundizado gracias a la crianza?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Qué sientes cuando tu hijo/a se emociona por algo pequeño?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Qué es por lo que más agradeces desde que eres papá/mamá?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Cuéntame un momento reciente en que la crianza te haya llenado de satisfacción.",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Hay algo de lo que le agradeces a tu pareja por ser papá/mamá?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Cuándo fue que sintiste que solo con que tu hijo/a existiera ya era suficiente?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Hay algo de la crianza que fue muy difícil pero por lo que ahora estás agradecido/a?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Qué significan tu hijo/a, tu pareja y esta familia para ti?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Eres consciente de lo valioso que es este tiempo que tienes como papá/mamá?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿De qué estás más agradecido/a en la crianza?",
+    "category": "gratitude"
+  },
+  {
+    "question": "¿Cuándo fue la última vez que le dijiste 'gracias' a tu pareja?",
+    "category": "gratitude"
+  }
+]

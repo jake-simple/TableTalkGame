@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Dime una cosa que te haya agradecido mucho de mí últimamente.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿En qué soy mejor en casa y en qué eres mejor tú?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cuándo es el momento más tranquilo y agradable en nuestra casa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Siempre terminan en desacuerdo con algo cuando van al supermercado?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cuál fue la última comida que te comiste a escondidas sin decirme?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Qué hay en el refri que claramente es tuyo y solo tuyo?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cuál es la muletilla que más repites últimamente?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Puedes describir en orden tu rutina después de llegar del trabajo?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cuál es la comida que más piden a domicilio?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cuándo te sientes más a gusto cuando estamos juntos/as?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Hay algo que haces inconscientemente cuando estás estresado/a?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cómo es la guerra del aire acondicionado o calefacción en casa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Qué es lo primero que hace tu pareja el sábado por la mañana?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Tu pareja tiene algún hábito raro o especial cuando cocina?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Quién manda con el control remoto en casa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cómo se dividen las tareas del hogar cuando limpian juntos/as?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cuál crees que es la app que más usa tu pareja en el celular?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Quién saca la basura en casa? ¡Con honestidad!",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Hay algún gesto inconsciente que hace tu pareja cuando está de buen humor?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Has adoptado algún hábito de tu pareja desde que viven juntos/as?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Cuando están los dos viendo el celular y se ríen, ¿qué suelen estar viendo?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Tu pareja tiene alguna rutina que hace justo antes de dormirse?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cómo se dividen el espacio en la cama?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Tu pareja tiene algún patrón de comportamiento característico cuando se enoja?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cuál fue lo más comprado después de casarse?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Se llaman de formas diferentes según la situación?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Hay alguna señal que te dice cómo viene tu pareja del trabajo antes de que hable?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Hay algo de tu pareja que secretamente te gustaría tirar a la basura?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Hay algo que te molesta en casa pero a tu pareja no le importa para nada?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿El estilo de alarmas matutinas de tu pareja es muy diferente al tuyo?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cuál fue el hábito de tu pareja que más te sorprendió al vivir juntos/as?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cuál es el gusto cotidiano en el que más coinciden como pareja?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Tu pareja tiene alguna expresión o gesto particular cuando está cansado/a?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Hay algún hobby nuevo al que tu pareja le está poniendo atención últimamente?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿A qué negocio del barrio van más seguido como pareja?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cuál es el regaño o recordatorio que tu pareja te hace con más frecuencia?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cuál de los dos disfruta más de abrir un paquete cuando llega a casa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Tu pareja es de los que se quejan cuando se enferma o de los que aguantan en silencio?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cómo es el orden de la rutina matutina en casa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Tienen alguna palabra o apodo propio que solo usan entre ustedes?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "¿Cuál fue la primera impresión que te dio tu pareja antes de casarse?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Qué sentiste de verdad cuando te pidieron matrimonio (o cuando lo pediste)?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál es la escena de tu boda que más recuerdas?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hubo algún momento incómodo al inicio de su vida juntos/as?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Recuerdas su primera pelea grande? ¿Qué aprendieron de ella?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Qué fue lo más difícil de preparar la boda?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hubo alguna anécdota cuando decoraron su primera casa juntos/as?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cómo fue la primera reunión familiar importante después de casarse?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuándo fue que tu pareja te hizo reír más?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Alguna vez lloraron juntos/as? ¿Por qué?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál fue el primer mueble u objeto que compraron juntos/as al casarse?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál es el momento más memorable de algún viaje que hicieron en pareja?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Tienes alguna anécdota del primer encuentro con la familia de tu pareja?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál es el malentendido o situación más graciosa que vivieron en la relación?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál fue la fecha especial más memorable que celebraron como pareja?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hay alguna anécdota divertida de cuando cocinaron juntos/as?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Tienen un lugar especial que solo es de ustedes dos? ¿Cuál es?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hubo alguna noche que pasaste solo/a después de casarte? ¿Cómo te sentiste?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Tienen alguna forma particular de hacer las paces después de una pelea?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Alguna vez le diste o te dieron una sorpresa especial en pareja?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál fue el talento más sorprendente que descubriste de tu pareja viviendo juntos/as?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuándo fue el momento en que pensaste 'qué buena decisión casarme con esta persona'?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cómo ha cambiado la forma en que ves a tu pareja desde que estaban de novios/as hasta ahora?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuándo fue el momento más tenso de la vida matrimonial?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Alguna vez intentaron algo juntos/as y les salió mal? ¿Cómo resultó?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Alguna vez hiciste algo a escondidas y tu pareja te descubrió?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Qué fue lo más lindo que tu pareja hizo por ti?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál es la mayor diferencia entre el matrimonio que imaginabas y el que tienen?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Qué fue lo que más le ayudó a tu pareja cuando estuvo mal?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cómo te sentiste la primera vez que tu pareja te llamó 'mi amor' o 'cariño'?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Tienen alguna tradición o rutina que se haya creado de forma natural?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Tu relación con tus amigos/as cambió después de casarte?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hay alguna actividad o hobby que empezaste gracias a tu pareja?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hay algún hábito de tu pareja que al principio no te gustaba y ahora te parece encantador?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál fue el momento más inesperado de tu vida matrimonial?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuándo fue la primera vez que sintieron que ese lugar era 'su hogar'?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuál fue el primer hábito de vida que cambió al casarte?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Han tenido algún proyecto u objetivo que hayan completado juntos/as?",
+    "category": "memories"
+  },
+  {
+    "question": "¿De qué logro juntos/as se sienten más orgullosos/as?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Cuándo fue el momento más tranquilo y feliz de su vida matrimonial?",
+    "category": "memories"
+  },
+  {
+    "question": "¿Hay algo por lo que le debes una gratitud a tu pareja y que todavía no le has expresado bien?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿En qué parte de la relación sientes que todavía te falta crecer?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Hay algo por lo que le debes una disculpa a tu pareja y que todavía no has podido decir?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Qué es lo que más aguantas en silencio dentro de tu matrimonio?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Hay algo de tu pareja que esperas que nunca cambie?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Cuál es el tema más difícil de tratar honestamente con tu pareja?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Alguna vez has sentido que la forma de expresar amor de los dos es diferente?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Crees que hay algo que hayas dicho o hecho sin darte cuenta que pudo haberle lastimado a tu pareja?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Qué crees que espera tu pareja de ti? ¿Se lo estás dando?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Hay algo que querías decirle a tu pareja pero se te pasó el momento?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Qué es lo que sientes que no puedes sacrificar en tu vida de pareja?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Has sentido que la conversación entre ustedes ha disminuido? ¿A qué crees que se debe?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Hay algo del matrimonio que sientes que cargas solo/a?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Cuál fue el momento más amoroso que has recibido de tu pareja?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Crees que se dan las gracias suficientemente en la relación?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Qué podrías hacer para entender mejor a tu pareja?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Cuándo fue que más sentiste una diferencia de valores en el matrimonio?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Alguna vez te has preocupado por pedir demasiado a tu pareja?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿En qué creen que lo están haciendo bien como pareja ahorita?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Hay algo que quieras mejorar en la forma de resolver conflictos con tu pareja?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿En qué sientes que has cambiado como persona desde que te casaste?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Qué crees que le está pesando a tu pareja últimamente?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Tienen alguna regla no escrita en el matrimonio? ¿Se cumple?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Alguna vez te has sentido solo/a dentro del matrimonio?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Han hablado con honestidad sobre el contacto físico o el afecto entre los dos?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Cuál fue el mayor sacrificio que hiciste en el matrimonio? ¿Te arrepientes?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Cuándo sientes que tu pareja te entiende mejor?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Qué necesitarían para ser más felices como pareja?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Crees que estás apoyando bien los sueños y metas de tu pareja?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Qué le dirías al tú de antes de casarte?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Te preocupa cómo se ve tu pareja a sí misma? ¿Hay algo que te inquiete?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Qué podrían hacer concretamente para prestarse más atención el uno al otro?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Están hablando con sinceridad sobre el dinero y las finanzas del hogar?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Qué le dirías a tu pareja si le explicaras cómo te ha hecho cambiar para bien?",
+    "category": "honestly"
+  },
+  {
+    "question": "En el matrimonio, ¿quién suele ceder primero: tú o tu pareja?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Qué parte de tu pareja te genera respeto o admiración?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Qué piensas sobre tener tiempo individual en el matrimonio?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿En qué parte del matrimonio sientes que más has crecido?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Cuál es la frase que tu pareja te ha dicho y que llevas más tiempo recordando?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Cuál es la lección más grande que te ha dado la vida en pareja?",
+    "category": "honestly"
+  },
+  {
+    "question": "¿Cómo te gustaría que fuera nuestra relación dentro de 5 años?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algo que definitivamente quieras hacer con tu pareja en el futuro?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algo que quieran hacer juntos/as cuando se jubilen?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Cuál es el número uno de su lista de cosas por hacer juntos/as?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algún compromiso que quieras que sigan cumpliendo como pareja?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Dónde te gustaría vivir cuando sean mayores?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algo que quieras aprender junto a tu pareja?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Cuál es su criterio propio de felicidad como pareja?",
+    "category": "ahead"
+  },
+  {
+    "question": "Si pudieran empezar un hobby juntos/as ahora mismo, ¿cuál sería?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algún sueño de tu pareja que quieras apoyar en el futuro?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Qué podrían hacer desde ya para acercarse más como pareja?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algún aspecto de ti mismo/a que quieras mejorar en la vida matrimonial?",
+    "category": "ahead"
+  },
+  {
+    "question": "Si pudieran aprender otro idioma juntos/as, ¿cuál elegirían?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Cómo te imaginas que serán dentro de 10 años?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algún destino al que quieran volver o ir seguido en el futuro?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay alguna meta que quieran alcanzar juntos/as en la vida matrimonial?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿En qué quieres ser mejor para tu pareja?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algún evento especial que quieran celebrar de forma diferente algún aniversario?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algo que quieras agregar a su hogar en el futuro?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Qué sientes cuando piensas en envejecer juntos/as?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Con qué palabra te gustaría describir su relación en el futuro?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algo que quieras hacer por tu pareja por el resto de la vida?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algún hábito en la conversación que quieras mejorar juntos/as?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay alguna rutina que te gustaría tener juntos/as cuando sean mayores?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Qué sueño de tu pareja te gustaría apoyar más adelante?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algún paso que quieran dar juntos/as en su vida matrimonial?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay alguna tradición o ritual que quieran crear juntos/as?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay alguna forma en que les gustaría contribuir a la comunidad como pareja?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Cómo te gustaría transformar su hogar en el futuro?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿De qué manera quisieras cambiar la forma en que expresas tu amor?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Cuál es una pequeña meta que quieras lograr en tu matrimonio el próximo año?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algo en lo que sientas que juntos/as podrían lograr cualquier cosa?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Qué es lo que más quieres proteger en su relación hacia adelante?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Cómo te imaginas su rutina de fin de semana dentro de 20 años?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay alguna sorpresa que quieras darle a tu pareja en algún momento?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algo que quieras decirle a tu pareja después de esta conversación?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algún contenido — libro, serie, película — que quieran ver o leer juntos/as?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Han pensado en hacer alguna actividad de voluntariado o ayudar a otros juntos/as?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Qué podrían hacer para ser más honestos/as el uno con el otro?",
+    "category": "ahead"
+  },
+  {
+    "question": "¿Hay algún hábito de salud que quieran adoptar juntos/as desde ahora?",
+    "category": "ahead"
+  }
+]

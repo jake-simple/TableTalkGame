@@ -113,7 +113,7 @@ struct AnimatedBackgroundView: View {
         // 눈송이 결정
         for i in 0..<10 {
             let seed = Double(i) * 73.1
-            let x = fmod(seed * 31.7 + sin(time * 0.12 + seed) * 65, size.width)
+            let x = (Double(i) / 10.0) * size.width + sin(time * 0.12 + seed) * 65
             let fallSpeed = 10.0 + fmod(seed * 11.3, 15.0)
             let y = fmod(time * fallSpeed + seed * 47.1, Double(size.height + 50)) - 25
             let radius: CGFloat = CGFloat(7 + fmod(seed * 2.3, 8))
@@ -150,7 +150,7 @@ struct AnimatedBackgroundView: View {
         // 눈 입자
         for i in 0..<20 {
             let seed = Double(i) * 97.3
-            let x = fmod(seed * 41.7 + sin(time * 0.2 + seed) * 35, size.width)
+            let x = (Double(i) / 20.0) * size.width + sin(time * 0.2 + seed) * 35
             let fallSpeed = 20.0 + fmod(seed * 17.3, 28.0)
             let y = fmod(time * fallSpeed + seed * 53.1, Double(size.height + 20)) - 10
             let radius: CGFloat = CGFloat(2 + fmod(seed * 3.7, 4))
@@ -166,7 +166,7 @@ struct AnimatedBackgroundView: View {
             let colorIndex = Int(fmod(seed * 3.1, Double(colors.count)))
             let color = colors[colorIndex]
 
-            let x = fmod(seed * 43.3 + sin(time * 0.15 + seed * 0.8) * 50, size.width)
+            let x = (Double(i) / 25.0) * size.width + sin(time * 0.15 + seed * 0.8) * 50
             let fallSpeed = 12.0 + fmod(seed * 9.7, 18.0)
             let y = fmod(time * fallSpeed + seed * 31.9, Double(size.height + 40)) - 20
             let baseSize: CGFloat = CGFloat(3 + fmod(seed * 2.9, 5))
@@ -193,8 +193,8 @@ struct AnimatedBackgroundView: View {
         // 반짝이
         for i in 0..<6 {
             let seed = Double(i) * 137.5
-            let x = fmod(seed * 23.1, size.width)
-            let y = fmod(seed * 51.7, size.height)
+            let x = (Double(i) / 6.0) * size.width + sin(seed) * size.width * 0.06
+            let y = (Double(i) / 6.0) * size.height * 0.6 + sin(seed * 1.7) * size.height * 0.1
             let twinkle = (sin(time * 2.0 + seed * 3.1) + 1) * 0.5
             let starSize: CGFloat = CGFloat(3 + twinkle * 4)
             let opacity = 0.12 + twinkle * 0.2
@@ -271,7 +271,7 @@ struct AnimatedBackgroundView: View {
             let duration = 2.5 + fmod(seed * 0.3, 1.5)
             let progress = fmod(time * 0.6 + seed * 0.7, duration) / duration
 
-            let startX = fmod(seed * 37.1, size.width * 0.7) + size.width * 0.1
+            let startX = (Double(i) / 4.0) * size.width * 0.7 + size.width * 0.1 + sin(seed) * 20
             let startY = fmod(seed * 19.3, size.height * 0.25)
             let length = 100.0 + fmod(seed * 11.3, 60.0)
             let endX = startX + length
@@ -299,7 +299,7 @@ struct AnimatedBackgroundView: View {
 
         for i in 0..<15 {
             let seed = Double(i) * 113.7
-            let baseX = fmod(seed * 37.1, size.width)
+            let baseX = (Double(i) / 15.0) * size.width + sin(seed * 2.1) * size.width * 0.04
             let fallSpeed = 12.0 + fmod(seed * 11.3, 20.0)
             let y = fmod(time * fallSpeed + seed * 53.7, Double(size.height + 45)) - 22
             let drift = sin(time * 0.3 + seed) * 40 + cos(time * 0.18 + seed * 0.7) * 18
@@ -324,7 +324,7 @@ struct AnimatedBackgroundView: View {
 
         for i in 0..<6 {
             let seed = Double(i) * 179.3
-            let x = fmod(seed * 47.1 + time * 10, size.width + 20) - 10
+            let x = (Double(i) / 6.0) * size.width + fmod(time * 10 + seed, 40) - 20
             let y = fmod(seed * 29.3, size.height * 0.5) + sin(time * 0.5 + seed) * 22
             let r: CGFloat = CGFloat(3 + fmod(seed * 1.1, 3))
 
@@ -356,7 +356,7 @@ struct AnimatedBackgroundView: View {
 
         for i in 0..<7 {
             let seed = Double(i) * 79.3
-            let x = fmod(seed * 41.7, size.width)
+            let x = (Double(i) / 7.0) * size.width + sin(seed * 1.3) * size.width * 0.05
             let speed = 10.0 + fmod(seed * 13.1, 20.0)
             let y = size.height - fmod(time * speed + seed * 37.3, Double(size.height + 30)) + 15
             let blockSize: CGFloat = CGFloat(6 + i % 3 * 3)
@@ -384,7 +384,7 @@ struct AnimatedBackgroundView: View {
 
         for i in 0..<12 {
             let seed = Double(i) * 127.3
-            let baseX = fmod(seed * 29.7, size.width)
+            let baseX = (Double(i) / 12.0) * size.width + sin(seed * 1.7) * size.width * 0.04
             let fallSpeed = 10.0 + fmod(seed * 9.7, 18.0)
             let y = fmod(time * fallSpeed + seed * 41.3, Double(size.height + 35)) - 18
             let drift = sin(time * 0.2 + seed) * 35 + cos(time * 0.12 + seed * 0.5) * 16
@@ -424,8 +424,8 @@ struct AnimatedBackgroundView: View {
 
         for i in 0..<4 {
             let seed = Double(i) * 193.7
-            let x = fmod(seed * 31.1, size.width)
-            let y = fmod(seed * 47.3, size.height * 0.4) + size.height * 0.1
+            let x = (Double(i) / 4.0) * size.width + sin(seed * 1.5) * size.width * 0.08
+            let y = (Double(i) / 4.0) * size.height * 0.4 + size.height * 0.1
             let r: CGFloat = CGFloat(40 + fmod(seed * 7.1, 35))
             let pulse = sin(time * 0.3 + seed) * 0.012
 
@@ -502,7 +502,7 @@ struct AnimatedBackgroundView: View {
 
         for i in 0..<18 {
             let seed = Double(i) * 103.7
-            let x = fmod(seed * 33.1, size.width)
+            let x = (Double(i) / 18.0) * size.width + sin(seed * 1.9) * size.width * 0.04
             let fallSpeed = 15.0 + fmod(seed * 7.7, 20.0)
             let y = fmod(time * fallSpeed + seed * 59.3, Double(size.height + 20)) - 10
             let rotation = time * 1.5 + seed
@@ -545,7 +545,7 @@ struct AnimatedBackgroundView: View {
 
         for i in 0..<14 {
             let seed = Double(i) * 109.3
-            let baseX = fmod(seed * 33.7, size.width)
+            let baseX = (Double(i) / 14.0) * size.width + sin(seed * 2.3) * size.width * 0.04
             let fallSpeed = 12.0 + fmod(seed * 8.7, 16.0)
             let y = fmod(time * fallSpeed + seed * 47.1, Double(size.height + 35)) - 18
             let drift = sin(time * 0.3 + seed) * 30
@@ -562,7 +562,7 @@ struct AnimatedBackgroundView: View {
 
         for i in 0..<5 {
             let seed = Double(i) * 193.7
-            let x = fmod(seed * 29.3, size.width)
+            let x = (Double(i) / 5.0) * size.width + sin(seed * 1.8) * size.width * 0.06
             let floatSpeed = 6.0 + fmod(seed * 5.1, 8.0)
             let y = size.height - fmod(time * floatSpeed + seed * 37.1, Double(size.height + 45)) + 22
             let driftX = sin(time * 0.2 + seed) * 18
@@ -606,7 +606,7 @@ struct AnimatedBackgroundView: View {
 
         for i in 0..<8 {
             let seed = Double(i) * 127.3
-            let x = fmod(seed * 41.1, size.width) + sin(time * 0.25 + seed) * 22
+            let x = (Double(i) / 8.0) * size.width + sin(time * 0.25 + seed) * 22
             let floatSpeed = 8.0 + fmod(seed * 6.3, 12.0)
             let y = size.height - fmod(time * floatSpeed + seed * 43.7, Double(size.height + 45)) + 22
             let color = candyColors[i % candyColors.count]
@@ -636,8 +636,8 @@ struct AnimatedBackgroundView: View {
 
         for i in 0..<8 {
             let seed = Double(i) * 89.1
-            let x = fmod(seed * 47.3, size.width)
-            let y = fmod(seed * 31.7, size.height)
+            let x = (Double(i) / 8.0) * size.width + sin(seed * 2.1) * size.width * 0.05
+            let y = (Double(i) / 8.0) * size.height * 0.8 + sin(seed * 1.3) * size.height * 0.08
             let twinkle = (sin(time * 2.5 + seed * 2.1) + 1) * 0.5
             let starSize: CGFloat = CGFloat(2.5 + twinkle * 3)
             let color = candyColors[i % candyColors.count]
@@ -686,8 +686,8 @@ struct AnimatedBackgroundView: View {
 
         for i in 0..<5 {
             let seed = Double(i) * 151.3
-            let x = fmod(seed * 37.1 + time * 2, size.width)
-            let y = fmod(seed * 53.7, size.height)
+            let x = fmod((Double(i) / 5.0) * size.width + time * 2 + sin(seed) * 30, size.width)
+            let y = (Double(i) / 5.0) * size.height + sin(seed * 1.5) * size.height * 0.08
             let r: CGFloat = CGFloat(28 + fmod(seed * 3.1, 25))
             let opacity = 0.025 + sin(time * 0.3 + seed) * 0.012
 
@@ -818,7 +818,7 @@ struct AnimatedBackgroundView: View {
         // Floating bubbles
         for i in 0..<10 {
             let seed = Double(i) * 97.3
-            let x = fmod(seed * 41.7, size.width) + sin(time * 0.3 + seed) * 20
+            let x = (Double(i) / 10.0) * size.width + sin(time * 0.3 + seed) * 20
             let floatSpeed = 6.0 + fmod(seed * 5.3, 10.0)
             let y = size.height - fmod(time * floatSpeed + seed * 37.1, Double(size.height + 40)) + 20
             let r: CGFloat = CGFloat(3 + fmod(seed * 2.1, 5))
@@ -893,7 +893,7 @@ struct AnimatedBackgroundView: View {
         // Digital rain particles
         for i in 0..<12 {
             let seed = Double(i) * 73.1
-            let x = fmod(seed * 37.3, size.width)
+            let x = (Double(i) / 12.0) * size.width + sin(seed * 1.7) * size.width * 0.03
             let speed = 25.0 + fmod(seed * 9.1, 20.0)
             let y = fmod(time * speed + seed * 41.7, Double(size.height + 20)) - 10
             let h: CGFloat = CGFloat(4 + i % 3 * 3)
@@ -914,7 +914,7 @@ struct AnimatedBackgroundView: View {
         // Floating hanji fiber particles
         for i in 0..<10 {
             let seed = Double(i) * 113.7
-            let x = fmod(seed * 33.1, size.width) + sin(time * 0.12 + seed) * 18
+            let x = (Double(i) / 10.0) * size.width + sin(time * 0.12 + seed) * 18
             let floatSpeed = 4.0 + fmod(seed * 3.7, 6.0)
             let y = size.height - fmod(time * floatSpeed + seed * 47.3, Double(size.height + 35)) + 18
             let rotation = time * 0.1 + seed
@@ -932,8 +932,8 @@ struct AnimatedBackgroundView: View {
         // Subtle warm glow spots
         for i in 0..<4 {
             let seed = Double(i) * 179.3
-            let x = fmod(seed * 29.1, size.width)
-            let y = fmod(seed * 43.7, size.height)
+            let x = (Double(i) / 4.0) * size.width + sin(seed * 1.5) * size.width * 0.08
+            let y = (Double(i) / 4.0) * size.height + sin(seed * 2.1) * size.height * 0.08
             let r: CGFloat = CGFloat(35 + fmod(seed * 5.3, 30))
             let pulse = sin(time * 0.2 + seed) * 0.01
 
@@ -944,7 +944,7 @@ struct AnimatedBackgroundView: View {
         // Dancheong-inspired subtle pattern circles at edges
         for i in 0..<3 {
             let seed = Double(i) * 97.1
-            let x = fmod(seed * 51.3, size.width)
+            let x = (Double(i) / 3.0) * size.width + sin(seed * 1.3) * size.width * 0.06
             let y: CGFloat = i % 2 == 0 ? 15 : size.height - 15
             let colors = [red, blue, warm]
 
@@ -959,44 +959,47 @@ struct AnimatedBackgroundView: View {
         let blue = Color(red: 0.50, green: 0.65, blue: 0.80)
         let gray = Color(red: 0.55, green: 0.60, blue: 0.68)
 
-        // Rain drops
-        for i in 0..<25 {
+        // Rain drops — evenly distributed, fast, visible
+        let dropCount = 50
+        for i in 0..<dropCount {
+            let ratio = Double(i) / Double(dropCount)
             let seed = Double(i) * 67.3
-            let x = fmod(seed * 41.7, size.width) + sin(time * 0.1 + seed) * 5
-            let speed = 30.0 + fmod(seed * 11.3, 25.0)
-            let y = fmod(time * speed + seed * 53.1, Double(size.height + 30)) - 15
-            let h: CGFloat = CGFloat(8 + fmod(seed * 2.3, 12))
-            let opacity = 0.06 + fmod(seed * 0.02, 0.04)
+            let x = ratio * size.width + sin(seed * 3.7) * size.width * 0.04
+            let windDrift = sin(time * 0.3 + seed) * 8
+            let speed = 80.0 + fmod(seed * 11.3, 60.0)
+            let y = fmod(time * speed + seed * 53.1, Double(size.height + 40)) - 20
+            let h: CGFloat = CGFloat(12 + fmod(seed * 2.3, 16))
+            let opacity = 0.15 + fmod(seed * 0.02, 0.10)
 
             var drop = Path()
-            drop.move(to: CGPoint(x: x, y: y))
-            drop.addLine(to: CGPoint(x: x, y: y + h))
-            ctx.stroke(drop, with: .color(blue.opacity(opacity)), lineWidth: 0.8)
+            drop.move(to: CGPoint(x: x + windDrift, y: y))
+            drop.addLine(to: CGPoint(x: x + windDrift + 2, y: y + h))
+            ctx.stroke(drop, with: .color(blue.opacity(opacity)), lineWidth: 1.2)
         }
 
-        // Puddle ripples at bottom
-        for i in 0..<4 {
+        // Puddle ripples at bottom — spread across width
+        for i in 0..<8 {
+            let cx = size.width * (Double(i) + 0.5) / 8.0
+            let cy = size.height * (0.85 + CGFloat(i % 3) * 0.04)
             let seed = Double(i) * 151.7
-            let cx = fmod(seed * 31.3, size.width)
-            let cy = size.height * (0.85 + CGFloat(i) * 0.03)
-            let ripplePhase = fmod(time * 0.8 + seed, 3.0) / 3.0
-            let r: CGFloat = CGFloat(ripplePhase * 20)
-            let opacity = 0.08 * (1.0 - ripplePhase)
+            let ripplePhase = fmod(time * 1.2 + seed, 2.5) / 2.5
+            let r: CGFloat = CGFloat(ripplePhase * 25)
+            let opacity = 0.12 * (1.0 - ripplePhase)
 
             let ripple = Path(ellipseIn: CGRect(x: cx - r, y: cy - r * 0.4, width: r * 2, height: r * 0.8))
-            ctx.stroke(ripple, with: .color(blue.opacity(opacity)), lineWidth: 0.6)
+            ctx.stroke(ripple, with: .color(blue.opacity(opacity)), lineWidth: 0.8)
         }
 
         // Mist/fog layers
-        for i in 0..<3 {
+        for i in 0..<4 {
+            let x = size.width * (Double(i) + 0.5) / 4.0
+            let y = size.height * (0.25 + CGFloat(i) * 0.15)
             let seed = Double(i) * 127.3
-            let x = size.width * (0.15 + CGFloat(i) * 0.35)
-            let y = size.height * (0.3 + CGFloat(i) * 0.15)
-            let drift = sin(time * 0.08 + seed) * 25
-            let r: CGFloat = CGFloat(50 + fmod(seed * 3.1, 30))
+            let drift = sin(time * 0.15 + seed) * 30
+            let r: CGFloat = CGFloat(55 + fmod(seed * 3.1, 35))
 
             let mist = Path(ellipseIn: CGRect(x: x + drift - r, y: y - r * 0.3, width: r * 2, height: r * 0.6))
-            ctx.fill(mist, with: .color(gray.opacity(0.03)))
+            ctx.fill(mist, with: .color(gray.opacity(0.05)))
         }
     }
 
@@ -1007,21 +1010,23 @@ struct AnimatedBackgroundView: View {
         let lightPurple = Color(red: 0.75, green: 0.60, blue: 0.90)
         let green = Color(red: 0.50, green: 0.65, blue: 0.45)
 
-        // Floating lavender petals
-        for i in 0..<12 {
+        // Floating lavender petals — evenly distributed
+        let petalCount = 18
+        for i in 0..<petalCount {
+            let ratio = Double(i) / Double(petalCount)
             let seed = Double(i) * 97.3
-            let baseX = fmod(seed * 37.1, size.width)
-            let fallSpeed = 8.0 + fmod(seed * 7.3, 12.0)
+            let baseX = ratio * size.width + sin(seed * 2.3) * size.width * 0.05
+            let fallSpeed = 10.0 + fmod(seed * 7.3, 15.0)
             let y = fmod(time * fallSpeed + seed * 43.7, Double(size.height + 35)) - 18
-            let drift = sin(time * 0.25 + seed) * 30
+            let drift = sin(time * 0.3 + seed) * 35
             let x = baseX + drift
-            let rotation = time * 0.2 + seed
+            let rotation = time * 0.25 + seed
 
             ctx.drawLayer { layerCtx in
-                layerCtx.opacity = 0.14
+                layerCtx.opacity = 0.20
                 let transform = CGAffineTransform(translationX: x, y: y).rotated(by: rotation)
                 var petal = Path()
-                petal.addEllipse(in: CGRect(x: -3, y: -5, width: 6, height: 10))
+                petal.addEllipse(in: CGRect(x: -4, y: -6, width: 8, height: 12))
                 let color = i % 3 == 0 ? lightPurple : purple
                 layerCtx.fill(petal.applying(transform), with: .color(color))
             }
@@ -1043,8 +1048,8 @@ struct AnimatedBackgroundView: View {
         // Sparkle twinkles
         for i in 0..<6 {
             let seed = Double(i) * 137.5
-            let x = fmod(seed * 23.1, size.width)
-            let y = fmod(seed * 51.7, size.height)
+            let x = (Double(i) / 6.0) * size.width + sin(seed * 1.9) * size.width * 0.06
+            let y = (Double(i) / 6.0) * size.height * 0.8 + sin(seed * 2.7) * size.height * 0.08
             let twinkle = (sin(time * 2.0 + seed * 3.1) + 1) * 0.5
             let starSize: CGFloat = CGFloat(2 + twinkle * 3)
             let opacity = 0.08 + twinkle * 0.12

@@ -24,9 +24,9 @@ struct ThemePickerView: View {
 
     var body: some View {
         ZStack {
-            // Background — aurora effect
+            // Background — dreamy flowing effect
             ZStack {
-                Color(red: 0.10, green: 0.08, blue: 0.18)
+                Color(red: 0.06, green: 0.04, blue: 0.14)
 
                 TimelineView(.animation(minimumInterval: 1.0 / 30)) { timeline in
                     let time = timeline.date.timeIntervalSinceReferenceDate
@@ -36,23 +36,65 @@ struct ThemePickerView: View {
                         let w = size.width
                         let h = size.height
 
-                        // Draw aurora bands
-                        for band in 0..<5 {
+                        // Floating orbs — bright glowing circles drifting across screen
+                        let orbs: [(cx: Double, cy: Double, r: CGFloat, spdX: Double, spdY: Double, hueOff: Double, opacity: Double)] = [
+                            (0.25, 0.15, 120, 0.40, 0.30, 0.0,  0.60),
+                            (0.75, 0.35, 150, -0.35, 0.25, 0.15, 0.50),
+                            (0.50, 0.65, 130, 0.30, -0.35, 0.30, 0.55),
+                            (0.15, 0.50, 100, -0.25, -0.28, 0.45, 0.45),
+                            (0.85, 0.75, 110, 0.32, 0.20, 0.60, 0.40),
+                        ]
+
+                        for orb in orbs {
+                            let driftX = sin(time * orb.spdX + orb.hueOff * 10) * w * 0.20
+                            let driftY = cos(time * orb.spdY + orb.hueOff * 8) * h * 0.18
+                            let cx = w * orb.cx + driftX
+                            let cy = h * orb.cy + driftY
+                            let pulse = 1.0 + sin(time * 0.8 + orb.hueOff * 5) * 0.2
+                            let r = orb.r * pulse
+
+                            let orbRect = CGRect(x: cx - r, y: cy - r, width: r * 2, height: r * 2)
+                            let orbPath = Path(ellipseIn: orbRect)
+
+                            context.drawLayer { ctx in
+                                ctx.opacity = orb.opacity
+                                ctx.addFilter(.blur(radius: r * 0.45))
+                                ctx.fill(
+                                    orbPath,
+                                    with: .radialGradient(
+                                        Gradient(colors: [
+                                            accent,
+                                            accent.opacity(0.6),
+                                            Color(
+                                                hue: orb.hueOff,
+                                                saturation: 0.7,
+                                                brightness: 0.9
+                                            ).opacity(0.3),
+                                            .clear
+                                        ]),
+                                        center: CGPoint(x: cx, y: cy),
+                                        startRadius: 0,
+                                        endRadius: r
+                                    )
+                                )
+                            }
+                        }
+
+                        // Aurora bands — visible flowing waves
+                        for band in 0..<3 {
                             let seed = Double(band)
-                            let baseY = h * (0.15 + seed * 0.15)
-                            let speed = 0.25 + seed * 0.08
-                            let amplitude: CGFloat = 30 + CGFloat(band) * 12
+                            let baseY = h * (0.20 + seed * 0.25)
+                            let speed = 0.8 + seed * 0.2
+                            let amplitude: CGFloat = 50 + CGFloat(band) * 20
 
                             var path = Path()
-                            path.move(to: CGPoint(x: -20, y: baseY))
 
-                            // Wavy top edge
-                            let steps = 12
+                            let steps = 20
                             for s in 0...steps {
                                 let t = CGFloat(s) / CGFloat(steps)
                                 let x = -20 + (w + 40) * t
-                                let wave1 = sin(time * speed + Double(t) * 6 + seed * 2.5) * Double(amplitude)
-                                let wave2 = cos(time * speed * 0.7 + Double(t) * 4 + seed * 1.8) * Double(amplitude * 0.5)
+                                let wave1 = sin(time * speed + Double(t) * 4.5 + seed * 2.0) * Double(amplitude)
+                                let wave2 = cos(time * speed * 0.7 + Double(t) * 3.0 + seed * 1.5) * Double(amplitude * 0.5)
                                 let y = baseY + CGFloat(wave1 + wave2)
                                 if s == 0 {
                                     path.move(to: CGPoint(x: x, y: y))
@@ -61,36 +103,34 @@ struct ThemePickerView: View {
                                 }
                             }
 
-                            // Wavy bottom edge (offset down)
-                            let bandHeight: CGFloat = 60 + CGFloat(band) * 20
+                            let bandHeight: CGFloat = 100 + CGFloat(band) * 30
                             for s in stride(from: steps, through: 0, by: -1) {
                                 let t = CGFloat(s) / CGFloat(steps)
                                 let x = -20 + (w + 40) * t
-                                let wave1 = sin(time * speed + Double(t) * 6 + seed * 2.5 + 1.0) * Double(amplitude * 0.8)
-                                let wave2 = cos(time * speed * 0.7 + Double(t) * 4 + seed * 1.8 + 0.5) * Double(amplitude * 0.4)
-                                let y = baseY + bandHeight + CGFloat(wave1 + wave2)
+                                let wave1 = sin(time * speed + Double(t) * 4.5 + seed * 2.0 + 1.5) * Double(amplitude * 0.6)
+                                let y = baseY + bandHeight + CGFloat(wave1)
                                 path.addLine(to: CGPoint(x: x, y: y))
                             }
                             path.closeSubpath()
 
-                            let bandOpacity = [0.40, 0.30, 0.35, 0.25, 0.20][band]
-                            let hueShift = Double(band) * 0.15
+                            let bandOpacity = [0.50, 0.40, 0.35][band]
+                            let hueShift = Double(band) * 0.2
 
                             context.drawLayer { ctx in
                                 ctx.opacity = bandOpacity
-                                ctx.addFilter(.blur(radius: 25 + CGFloat(band) * 8))
+                                ctx.addFilter(.blur(radius: 20 + CGFloat(band) * 8))
                                 ctx.fill(
                                     path,
                                     with: .linearGradient(
                                         Gradient(colors: [
                                             accent.opacity(0.9),
-                                            accent.opacity(0.5),
+                                            accent.opacity(0.6),
                                             Color(
                                                 hue: hueShift,
                                                 saturation: 0.6,
                                                 brightness: 0.8
-                                            ).opacity(0.4),
-                                            accent.opacity(0.2)
+                                            ).opacity(0.5),
+                                            accent.opacity(0.3)
                                         ]),
                                         startPoint: CGPoint(x: 0, y: baseY),
                                         endPoint: CGPoint(x: w, y: baseY + bandHeight)
@@ -100,7 +140,6 @@ struct ThemePickerView: View {
                         }
                     }
                 }
-                .animation(.easeInOut(duration: 0.8), value: scrollPosition)
             }
             .opacity(appeared ? 1 : 0)
             .ignoresSafeArea()

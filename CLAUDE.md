@@ -15,7 +15,7 @@ TalkDeck (이야기 카드) is a Korean-language iOS card game app for conversat
 
 ## Build
 
-Open `TableTalkGame.xcodeproj` in Xcode and build. No external dependencies or package managers.
+Open `TalkDeck.xcodeproj` in Xcode and build. No external dependencies or package managers.
 
 ## Architecture
 

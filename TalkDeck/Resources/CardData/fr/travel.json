@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Pour les voyages, t'es plutôt planificateur ou spontané ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Voyager seul vs voyager avec des gens, tu préfères quoi ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Tu préfères les voyages en ville ou les voyages dans la nature ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Tu voyages léger ou tu remplis ta valise à fond ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Dans l'avion, hublot ou couloir ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "En voyage, tu prends les transports en commun ou tu loues une voiture ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Tu préfères des voyages courts et fréquents ou de longs voyages moins souvent ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'aimes plutôt te balader dans les quartiers locaux que faire les sites touristiques ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "En voyage, t'oses manger des trucs locaux ou tu joues la sécurité ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Tu préfères l'hôtel, l'Airbnb ou l'auberge de jeunesse ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'es du genre à faire plein de photos en voyage ? T'aimes photographier quoi ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Tu postes en temps réel sur les réseaux ou tu attends de rentrer ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'as besoin de temps de repos à l'hébergement pendant ton voyage ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Valise ou sac à dos ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'arrives combien de temps à l'avance à l'aéroport en général ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'es du genre à te lever tôt pour explorer ta destination ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Quand tu prépares un voyage, tu commences par faire une liste de bons restos ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'aimes lire ou écouter des podcasts pendant ton voyage ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Tu fais une playlist spéciale pour tes voyages ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Dans l'avion, tu passes le temps comment ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Quand tu voyages à l'étranger, tu as la nostalgie de la cuisine française ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'essaies de passer dans les musées ou les galeries d'art en voyage ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Tu fais beaucoup de shopping en voyage ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Sur place, tu vas d'abord à l'endroit recommandé par un local ou aux sites touristiques connus ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Quand tu rentres d'un voyage, tu planifies déjà le suivant ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'es anxieux si t'as pas de wifi pendant ton voyage ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Tu fais des siestes pendant tes voyages ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'aimes le repas dans l'avion ? Tu choisis quoi comme menu ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'arrives à maintenir une activité physique pendant ton voyage ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'apprends quelques mots de la langue locale avant de partir ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'aimes te balader pour voir les lumières de nuit ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'as un journal ou un carnet de voyage ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Tu préfères la mer ou la montagne en voyage ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'aimes visiter les marchés locaux ou les supermarchés du coin en voyage ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Tu changes de l'argent avant de partir ou sur place ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "La veille d'un voyage, t'arrives à dormir normalement ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'aimes faire les boutiques hors-taxe à l'aéroport ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "En voyage, t'aimes les endroits que tu découvres par hasard ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Tu tries tes photos juste après le voyage ou tu laisses traîner ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "T'as plus envie de voir un lever ou un coucher de soleil en voyage ?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "C'est quoi l'endroit que t'as préféré parmi tous tes voyages ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as un épisode vraiment gênant qui t'est arrivé en voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "Y a quelqu'un que t'as rencontré en voyage et dont tu te souviens encore ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as déjà eu une bonne expérience inattendue parce que tu t'étais perdu ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi le truc le plus surprenant que t'as mangé en voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as déjà voyagé seul ? C'était comment ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi le paysage le plus émouvant que t'as vu en voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as eu un épisode drôle dans un avion ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as un voyage raté dont tu peux me parler ?",
+    "category": "memories"
+  },
+  {
+    "question": "Y a un endroit où tu voudrais retourner ? Pourquoi ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as galéré à cause de la barrière de la langue en voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "Y a eu un moment où t'as eu la gorge nouée pendant un voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "Un voyage t'a changé quelque chose dans le quotidien après ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi l'anecdote la plus drôle qui t'est arrivée en voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi l'hébergement le plus mémorable que t'as eu ?",
+    "category": "memories"
+  },
+  {
+    "question": "La météo t'a déjà complètement fait changer tes plans de voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi la meilleure chose que t'as mangée en voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as eu un moment en voyage que tu regrettes de ne pas avoir pris en photo ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'était quoi ton premier voyage à l'étranger ? T'en as quel souvenir ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as déjà assisté par hasard à une fête ou un événement local en voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as déjà perdu quelque chose en voyage ? Ça s'est terminé comment ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as eu un transport annulé ou en retard qui t'a causé des galères ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi le lever ou le coucher de soleil le plus impressionnant que t'as vu ?",
+    "category": "memories"
+  },
+  {
+    "question": "La culture locale t'a déjà vraiment surpris en voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi le souvenir le plus précieux que t'as ramené d'un voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi le trajet le plus galère que t'as vécu en voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as eu une anecdote mémorable à un aéroport ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as déjà croisé quelqu'un de ton pays dans un endroit vraiment inattendu en voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi la plus belle mer ou le plus beau lac que t'as vu en voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as déjà eu des galères parce que t'avais pas réservé à l'avance ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as pris un transport vraiment insolite en voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as vu quelque chose d'exceptionnel à l'aube pendant un voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as eu une indigestion à cause d'un plat en voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi le meilleur souvenir d'un voyage en famille ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as essayé une activité pour la première fois pendant un voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as un endroit où tu es allé de façon spontanée et qui était génial ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as une anecdote avec un animal pendant un voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as un souvenir marquant d'un voyage sous la pluie ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as été invité chez un habitant ou fait un homestay en voyage ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi le moment de voyage que tu garderais à vie dans ta mémoire ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi le meilleur moment de ce voyage pour toi ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "C'était quoi le meilleur truc que t'as mangé aujourd'hui ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Y a quelque chose dans ce voyage qui a dépassé tes attentes ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "C'est quoi la photo d'aujourd'hui que tu préfères ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "En un seul mot, c'est quoi l'émotion que tu ressens là maintenant ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "C'est quoi le moment de ce voyage que tu penses que tu vas retenir ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "C'est quoi l'endroit le plus impressionnant que t'as visité aujourd'hui ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Y a quelque chose dans ce voyage qui t'a un peu déçu ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "C'est quoi le moment le plus drôle d'aujourd'hui ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "En une phrase, tu décris ce voyage comment ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "T'as eu un moment difficile pendant ce voyage ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Y a eu quelque chose qui t'a vraiment touché aujourd'hui ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Quand le voyage sera fini, c'est quoi ce qui va te manquer le plus ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Y a quelque chose que t'as pas encore fait dans ce voyage et qui te manque ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Y a quelque chose que t'as appris aujourd'hui et qui t'a intrigué ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "C'est où que t'as passé le meilleur moment de ce voyage ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "La personne à côté de toi là, pour quelle raison t'es content qu'elle soit là ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "C'est quoi le meilleur choix que t'as fait dans ce voyage ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "En marchant aujourd'hui, c'est quoi ce qui t'a le plus frappé ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Y a un endroit dans cette destination où tu voudrais revenir ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Parmi ce que t'espérais de ce voyage, c'est quoi ce qui a le mieux correspondu à tes attentes ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "C'était quand le moment le plus paisible d'aujourd'hui ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "C'est quoi la plus grande surprise de ce voyage ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "En voyageant ensemble, t'as découvert quelque chose de nouveau sur l'autre ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "C'est quoi le truc que t'as le plus envie de manger aujourd'hui ? Si tu l'as pas encore eu ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Là maintenant, c'est quoi ce qui te manque de chez toi ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Ce voyage, il va avoir quelle signification pour toi ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "C'était quand le moment où t'avais le plus d'énergie aujourd'hui ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "En une couleur, ce voyage c'est quoi ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Y a un moment dans ce voyage où t'as vraiment bien ri ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "C'est quoi la chose qui t'a le plus intrigué pendant le voyage aujourd'hui ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Là maintenant, t'as envie de contacter qui ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Y a quelque chose que ce voyage t'a donné envie d'essayer quand tu rentres ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "T'as eu un moment difficile ou un défi dans ce voyage aujourd'hui ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Décris l'ambiance de cette destination en une phrase.",
+    "category": "thisNow"
+  },
+  {
+    "question": "Parmi les nouvelles choses que t'as faites dans ce voyage, laquelle t'as le plus plu ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Y a une raison pour laquelle tu voudrais que ce moment ne se termine pas ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "C'est quoi le moment précis où t'étais le plus heureux aujourd'hui ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "T'as appris quelque chose sur toi-même dans ce voyage ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Tu mettrais combien d'étoiles à ce voyage ? Pourquoi ?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Y a un endroit dans le monde que tu veux absolument voir avant de mourir ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Y a un style de voyage que tu veux absolument faire un jour ? Croisière, camping-car ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "C'est quel pays que tu veux le plus visiter ? Pourquoi ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Si tu pouvais vivre un mois quelque part dans le monde, ce serait où ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as déjà rêvé de voir les aurores boréales en vrai ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Si tu faisais le tour du monde, quelles seraient tes trois villes incontournables ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Y a un transport que tu voudrais vraiment essayer un jour ? L'Orient Express, un paquebot ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Y a un patrimoine naturel mondial que tu veux voir de tes propres yeux ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Y a un plat d'un autre pays que tu veux absolument goûter ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Y a un festival quelque part dans le monde que tu veux absolument vivre ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as envie d'essayer le parachutisme ou le saut à l'élastique en voyage ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as envie de voyager dans un désert ? Lequel ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as envie d'aller en Antarctique ou dans l'Arctique ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as déjà rêvé d'explorer l'Amazonie ou une jungle ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Y a un musée ou une galerie d'art célèbre dans le monde que tu veux absolument visiter ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as envie de voir le monde sous l'eau ? Faire de la plongée quelque part ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as sur ta bucket list l'ascension d'une montagne célèbre ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Y a un pays où tu voudrais vivre comme un local pendant plus de 6 mois ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Quel est selon toi l'endroit dans le monde qui offre la plus belle vue de nuit ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as envie de faire le Chemin de Saint-Jacques ou un long chemin de randonnée ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Y a une île que tu veux absolument visiter un jour ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as envie d'apprendre la cuisine d'un pays en le visitant ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as déjà pensé à voyager en faisant du bénévolat ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as envie de traverser l'Europe ou l'Asie en train ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Y a un patrimoine culturel mondial que tu veux absolument voir ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as rêvé d'un voyage de pêche ou d'un séjour dans la nature profonde ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Y a une destination de rêve comme Santorin ou les Maldives que tu veux absolument voir ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as envie de faire le tour des marchés nocturnes dans le monde ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'irais dans quel pays pour apprendre un sport en particulier ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as envie d'aller dans des destinations peu fréquentées comme l'Europe de l'Est ou l'Asie centrale ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Si le voyage dans l'espace devenait possible, tu voudrais y aller ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Y a une destination que tu veux absolument voir avec quelqu'un en particulier ? Laquelle ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as envie de faire un long voyage sac à dos un jour ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as envie de faire un safari en Afrique ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Y a un pays ou une ville où tu voudrais vraiment habiter ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as envie de faire du kayak ou du canoë sur une rivière ou un lac en voyage ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "T'as rêvé de faire un long road trip traversant un pays ou un continent ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Y a une destination où tu voudrais aller pour célébrer quelque chose de spécial ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Y a un voyage sur ta bucket list que tu veux vraiment réaliser un jour, même si c'est pas pour tout de suite ?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Sur ta bucket list de voyages, c'est quoi celui qui a le plus de chances de se réaliser prochainement ?",
+    "category": "bucketList"
+  }
+]

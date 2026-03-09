@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Je n'ai jamais commandé une livraison après 3h du matin",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais éteint mon réveil plus de 10 fois de suite",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais mangé et m'être endormi comme ça en plein repas",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais sauté du lit pile à l'heure avant d'aller travailler ou en cours",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais ouvert le frigo, regardé dedans, et refermé sans rien prendre",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais mangé un aliment périmé",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais dépensé le double de mon budget en faisant les courses",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais laissé le linge traîner plus d'une semaine sans le laver",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais passé deux jours ou plus sans me doucher",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais mis plus d'un jour à répondre à un message",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais mangé un snack de nuit et me suis endormi juste après",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais passé une nuit blanche en regardant une série ou des vidéos",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais laissé la vaisselle s'accumuler plus d'un jour",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais mis mes chaussures sans les lacer parce que c'était trop la flemme",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais arrêté d'aspirer en plein milieu par flemme",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais eu le souvenir flou de ce que j'avais mangé à un repas",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais tenu avec mon téléphone à moins de 1% de batterie",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais claqué plus de 50€ sans rien prévoir dans une épicerie ou une supérette",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais laissé mes ongles pousser vraiment trop long avant de les couper",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais renversé de la sauce sur mes vêtements en mangeant",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais cherché un objet pendant plus de 30 minutes sans savoir où je l'avais mis",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais payé par carte sans savoir combien il me restait sur le compte",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais sauté un repas chez moi parce que cuisiner c'était trop la flemme",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais bu trois cafés ou plus dans la même journée",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais indiqué le chemin à un inconnu dans la rue",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais attendu un colis en me trompant de date de livraison",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais acheté autre chose que ce que j'étais venu chercher",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais porté qu'un seul écouteur en me baladant longtemps",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais raté mon arrêt en m'endormant dans le bus ou le métro",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais laissé ma commande livrée refroidir complètement sans y toucher",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais oublié mon téléphone en sortant de chez moi",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais passé plus de deux heures à enchaîner des vidéos YouTube sans m'en rendre compte",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais me suis déplacé pour un rendez-vous en me trompant de date",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais laissé un colis non déballé traîner pendant plusieurs jours",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais eu un problème parce que j'avais oublié mon portefeuille",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais regardé la même vidéo plus de trois fois",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais repris deux fois le même échantillon au supermarché",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais passé une journée entière sans sortir de chez moi",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais traîné deux heures de plus sur mon téléphone alors que j'étais allongé pour dormir",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais annulé puis recommandé la même commande en livraison",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Je n'ai jamais fait un saut à l'élastique",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais acheté un billet d'avion de façon spontanée",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais voyagé seul à l'étranger",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais fait du parachutisme ou du parapente",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais pris la route sans aucun plan",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais dormi sous une tente en plein air",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais fait du snowboard ou du ski",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais fait du surf",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais passé une nuit dans un endroit isolé ou reculé",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais vécu dans un autre pays plus d'un mois",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais monté en hauteur alors que j'ai le vertige",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais me suis perdu dans un quartier ou une ville que je ne connaissais pas",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais roulé en moto ou à vélo sur une longue distance",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais appris vraiment à nager",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais fait la fête en boîte jusqu'au petit matin",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais coché un élément sur ma bucket list",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais pris une montgolfière ou un ULM",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais me levé à 4h du matin pour voir le lever du soleil",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais été voir une expo ou un spectacle seul",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais parti en road trip spontané avec des amis",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais abordé un inconnu et finalement lié amitié",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais fait du bénévolat",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais goûté un aliment inconnu sans demander ce que c'était",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais grimpé une montagne seul",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais traîné toute une nuit au bord de la mer ou d'une rivière",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais été le premier à quelque chose en me lançant un défi",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais voyagé sac au dos avec un minimum de bagages",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais passé plus d'une journée seul dans une ville inconnue",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais enchaîné des jeux vidéo ou des mangas toute une nuit",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais été sur scène devant un public",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais appris quelque chose dans un domaine totalement nouveau",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais voyagé seul en train sur une longue distance",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais foncé à la mer ou au bord d'un lac de façon impulsive au milieu de la nuit",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais totalement m'intégré à des inconnus dans une soirée",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais sérieusement commencé à apprendre une nouvelle langue",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais me déplacé exprès pour voir un beau coucher de soleil ou une vue de nuit",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais cherché et testé un restaurant peu connu par moi-même",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais vécu seul de façon indépendante",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais vécu une expérience horrifique ou une attraction de la peur",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais tenu face à un froid ou une chaleur extrême en extérieur",
+    "category": "adventure"
+  },
+  {
+    "question": "Je n'ai jamais fui une rencontre arrangée en plein milieu",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais bloqué quelqu'un sur mon téléphone",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais reçu une déclaration d'amour",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais fait le premier pas pour déclarer mes sentiments",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais retenu l'envie de contacter quelqu'un après une rupture",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais vécu une amitié qui s'est soudainement brisée",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais eu le béguin pour quelqu'un pendant plus d'un an sans le dire",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais été en couple officiel affiché publiquement",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais vu une relation se distancer à cause de malentendus accumulés",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais vraiment pleuré à cause d'un ami",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais eu une grosse dispute avec mon ou ma partenaire",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais dit directement à un ami que j'en avais marre de lui",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais réconforté quelqu'un sans vraiment le penser",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais mis fin en premier à une relation amoureuse",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais pleuré à cause d'un ou d'une partenaire",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais maintenu une relation par obligation",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais été gentil forcément avec quelqu'un que je n'aimais pas",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais lié amitié rapidement avec quelqu'un que je venais de rencontrer",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais prêté de l'argent à un ami",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais quitté un groupe WhatsApp",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais revu un ex",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais retrouvé quelqu'un avec qui j'avais perdu contact longtemps",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais eu une grosse dispute avec quelqu'un de ma famille",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais fait une surprise à mon ou ma partenaire",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais été dans un groupe sans dire un mot",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais vécu longtemps avec un malentendu sur quelqu'un",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais été mal à l'aise avec les amis de mon ou ma partenaire",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais renoncé à quelqu'un que je voulais séduire",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais eu un souvenir différent d'un vieil ami sur un événement commun",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais été le premier à couper le contact",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais bafouillé ou perdu mes mots devant quelqu'un que j'aimais",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais révélé un secret d'ami à quelqu'un d'autre",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais dit sincèrement merci à quelqu'un du fond du cœur",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais eu du mal à m'excuser en premier",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais ressenti un soulagement après la fin d'une relation",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais été déçu par quelqu'un en qui j'avais mis de l'espoir",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais adressé la parole à un enfant que je ne connaissais pas",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais renoncé à quelque chose qui m'appartenait pour quelqu'un que j'aimais",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais perdu le contact de quelqu'un sans pouvoir le retrouver",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais écrit une lettre sincère à quelqu'un",
+    "category": "relationship"
+  },
+  {
+    "question": "Je n'ai jamais passé du temps à scruter le profil de quelqu'un sur les réseaux",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais annulé un rendez-vous avec un prétexte mensonger",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais lu un message et fait semblant de ne pas l'avoir vu",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais pleuré seul sans que personne le sache",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais été tellement déçu de moi-même que j'ai été sans énergie pendant un moment",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais prétendu être malade sans l'être",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais reçu un cadeau et pensé intérieurement que c'était nul",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais tenu dans un repas ou une soirée épuisé parce que je n'osais pas partir",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais dit qu'un plat était bon alors que je le trouvais mauvais",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais jalousé quelqu'un en souffrant intérieurement tout seul",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais reçu un compliment et intérieurement ressenti quelque chose de complexe",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais fait semblant d'avoir lu un livre que je n'avais pas lu",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais feint l'intérêt pour un sujet qui m'ennuyait",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais fait semblant de découvrir quelque chose que je savais déjà",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais fait semblant que ça allait alors que j'étais vexé",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais fait semblant de ne pas savoir quelque chose que je savais",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais eu l'air normal devant les autres mais pleuré seul sur le chemin du retour",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais ressenti sincèrement de la jalousie en voyant quelqu'un réussir",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais menti pour cacher une erreur",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais exagéré quelque chose pour être reconnu",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais fait des grimaces bizarres devant un miroir quand j'étais seul",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais dit 'on se revoit bientôt' sans avoir vraiment l'intention de le faire",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais acquiescé à quelqu'un qui avait tort",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais fait exprès de répondre tardivement à un message",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais fait semblant d'avoir de l'argent alors que j'en avais pas",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais écouté en douce la conversation de quelqu'un",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais mis un mauvais résultat sur le compte de la malchance",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais voulu aller au karaoké seul",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais regardé mon téléphone en attendant qu'une personne précise m'écrive",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais regretté de ne pas avoir dit ce que je ressentais vraiment",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais pris une photo et l'ai supprimée discrètement parce qu'elle me déplaisait",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais essayé de paraître confiant devant des gens en faisant des efforts",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais reçu un compliment en ne me croyant pas intérieurement",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais été froid avec quelqu'un que j'aimais",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais souri devant les autres en étant vraiment mal intérieurement",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais eu une pensée étrange et me suis surpris moi-même",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais voulu dire quelque chose à quelqu'un et ne l'ai jamais dit",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais fait quelque chose que je n'avais pas envie de faire en faisant bonne figure",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais su que je faisais quelque chose de mal mais me le suis justifié quand même",
+    "category": "secret"
+  },
+  {
+    "question": "Je n'ai jamais eu envie de cacher mon vrai âge",
+    "category": "secret"
+  }
+]

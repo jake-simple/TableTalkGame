@@ -1,0 +1,642 @@
+[
+  {
+    "question": "C'est quoi l'impression que t'as eu en me voyant pour la première fois ?",
+    "category": "excitement"
+  },
+  {
+    "question": "C'est quand que tu as commencé à avoir des sentiments pour moi ?",
+    "category": "excitement"
+  },
+  {
+    "question": "C'est quand que tu t'es senti le plus fébrile quand on flirtait ?",
+    "category": "excitement"
+  },
+  {
+    "question": "C'est quel côté de moi qui t'a fait battre le cœur la première fois ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'as hésité avant de m'envoyer un message ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'as remarqué que je t'avais tapé dans l'œil la première fois qu'on s'est vus ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'étais nerveux quand on s'est vus seuls pour la première fois ?",
+    "category": "excitement"
+  },
+  {
+    "question": "C'est quoi qui t'a attiré en premier — quand je ris ou quand je suis sérieux ?",
+    "category": "excitement"
+  },
+  {
+    "question": "C'est quoi ce que tu ressentais la veille de me faire ta déclaration ?",
+    "category": "excitement"
+  },
+  {
+    "question": "C'est quand que t'as admis pour la première fois à toi-même que tu m'aimais bien ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'as encore des moments où tu as des papillons dans le ventre en me voyant ?",
+    "category": "excitement"
+  },
+  {
+    "question": "C'est quand le meilleur moment pour recevoir un message de ma part ?",
+    "category": "excitement"
+  },
+  {
+    "question": "C'est quoi ce que t'attendais le plus avant qu'on soit ensemble ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'aimes bien entendre ma voix ?",
+    "category": "excitement"
+  },
+  {
+    "question": "C'est quelle image qui te vient en premier quand tu penses à moi ?",
+    "category": "excitement"
+  },
+  {
+    "question": "Tu te souviens du premier repas qu'on a fait ensemble ? C'était comment ?",
+    "category": "excitement"
+  },
+  {
+    "question": "Tu te souviens du jour où on a commencé à sortir ensemble ? T'étais comment ce jour-là ?",
+    "category": "excitement"
+  },
+  {
+    "question": "Qu'est-ce que tu ressens quand tu me vois arriver de loin ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'as un moment précis où t'as su que t'étais vraiment tombé pour moi ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'as encore le cœur qui bat vite quand tu viens me voir ?",
+    "category": "excitement"
+  },
+  {
+    "question": "C'est quoi le truc inattendu que j'ai fait qui t'a le plus donné des frissons ?",
+    "category": "excitement"
+  },
+  {
+    "question": "C'était comment la première fois qu'on s'est touchés ?",
+    "category": "excitement"
+  },
+  {
+    "question": "C'est quand la première fois que t'as eu envie de me revoir ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'as déjà eu des papillons à cause de moi et essayé de te calmer tout seul ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'as eu le cœur qui s'est décroché à un moment en me regardant ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'attendais ma réponse avec impatience au début ?",
+    "category": "excitement"
+  },
+  {
+    "question": "C'est quoi ce que j'ai dit qui t'a le plus fait battre le cœur ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'as encore le cœur qui s'emballe quand on est ensemble ?",
+    "category": "excitement"
+  },
+  {
+    "question": "Tu as beaucoup pensé à moi après notre première rencontre ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'as essayé de cacher que tu t'intéressais à moi ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'as cherché des infos sur moi en secret avant qu'on sorte ensemble ?",
+    "category": "excitement"
+  },
+  {
+    "question": "C'est quoi ce que j'ai fait qui t'a fait penser « c'est lui/elle » ?",
+    "category": "excitement"
+  },
+  {
+    "question": "Comment t'as réagi la première fois que t'as dit à quelqu'un que tu m'aimais bien ?",
+    "category": "excitement"
+  },
+  {
+    "question": "À quoi tu pensais en rentrant chez toi après notre toute première fois ensemble ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'as eu le cœur qui s'est emballé en m'attendant une fois ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'as eu peur que je m'éloigne à un moment ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'as essayé de faire bonne impression sur moi avant qu'on soit ensemble ?",
+    "category": "excitement"
+  },
+  {
+    "question": "T'as regardé mes photos plusieurs fois en secret ?",
+    "category": "excitement"
+  },
+  {
+    "question": "Tu te souviens de ce que je portais le jour où on s'est rencontrés ?",
+    "category": "excitement"
+  },
+  {
+    "question": "En ce moment même, t'as encore une partie de toi qui s'excite à cause de moi ?",
+    "category": "excitement"
+  },
+  {
+    "question": "C'est quel type de rendez-vous que tu préfères entre nous ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quoi le plat que t'as envie de manger avec moi ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un endroit où tu voudrais voyager avec moi ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quel genre qu'on a le plus aimé regarder ensemble ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quoi le plat que tu voudrais absolument me faire goûter ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as découvert récemment quelque chose qu'on aime tous les deux ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un hobby que tu penses qu'on aimerait faire ensemble ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as une chanson à me recommander qu'on pourrait écouter ensemble ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est dans quel domaine nos goûts se rejoignent le mieux ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as développé un intérêt pour quelque chose grâce à moi ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un moment où t'as senti qu'on était vraiment en phase ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un domaine où nos goûts sont vraiment opposés ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as été content de découvrir qu'on aimait les mêmes choses ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as une nouvelle expérience que tu voudrais tenter avec moi ?",
+    "category": "taste"
+  },
+  {
+    "question": "Y'a un truc que tu m'as recommandé et que j'ai finalement bien aimé ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'es plutôt sorties en plein air ou en intérieur pour nos rendez-vous ?",
+    "category": "taste"
+  },
+  {
+    "question": "Si on faisait une playlist ensemble, c'est quoi la première chanson ?",
+    "category": "taste"
+  },
+  {
+    "question": "Tu penses qu'on aurait des goûts déco compatibles si on vivait ensemble ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un film ou une série que tu voudrais absolument me montrer ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quoi le truc auquel on pourrait s'amuser comme des gosses ensemble ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quoi mon goût ou ma passion qui t'a surpris ou étonné ?",
+    "category": "taste"
+  },
+  {
+    "question": "Si on cuisinait ensemble, c'est quoi ce qu'on ferait ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as une expo ou un concert où tu voudrais aller avec moi ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est dans quel domaine on a les goûts les plus similaires ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as découvert un nouveau plat ou un nouvel aliment grâce à moi ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quelle ambiance de café que tu aimerais qu'on fréquente ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quel sport ou activité on ferait bien ensemble ?",
+    "category": "taste"
+  },
+  {
+    "question": "Tu penses qu'on a des goûts littéraires similaires ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quoi ce qui manquerait dans nos rendez-vous si c'était absent ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quoi mon style vestimentaire que tu préfères ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un endroit où tu voudrais traîner tard avec moi ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as découvert quelque chose de bien grâce au fait qu'on a des goûts différents ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quoi le plat que tu veux absolument me faire goûter ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quel endroit qui serait le plus fun à explorer ensemble ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as quelque chose que tu aimes et que tu voudrais partager avec moi ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quoi ce qu'on partage le plus au niveau cuisine ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quelle saison tu préférerais pour voyager avec moi ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un sport ou un jeu qui serait plus marrant à deux ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as quelque chose que tu n'aimes pas mais que tu voudrais tester avec moi ?",
+    "category": "taste"
+  },
+  {
+    "question": "Y'a quelque chose qu'on aime tous les deux différemment mais qu'on arrive à apprécier ensemble ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quand qu'on a le plus ri depuis qu'on est ensemble ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as un moment de notre premier rendez-vous qui t'a marqué ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quand que tu t'es senti le mieux à cause de moi ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi le mot le plus mémorable qui a été dit quand on s'est réconciliés après une dispute ?",
+    "category": "memories"
+  },
+  {
+    "question": "Y'a quelque chose qu'on a fait ensemble qui te revient encore parfois ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi le moment où j'ai le plus touché ton cœur ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi l'anecdote la plus mémorable de nos voyages ensemble ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quand la première fois que tu m'as vraiment été reconnaissant ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as un plat qu'on a mangé ensemble et dont tu te souviens encore ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi notre journée la plus banale mais la plus heureuse ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quelle journée où tu t'es senti le mieux en rentrant chez toi après m'avoir vu ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi la première chose qui t'a mis en colère avec moi ? Tu peux en rire maintenant ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi le moment le plus surprenant depuis qu'on est ensemble ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as un souvenir d'une fois où j'étais malade ou dans une période difficile ? Comment tu te sentais ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as un souvenir d'une fois où on s'est perdus ou où les plans ont mal tourné ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quand la première fois que tu m'as dit merci avec sincérité ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi l'anecdote la plus excitante du début de notre relation ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as un souvenir d'une nuit blanche qu'on a passée ensemble ? C'était comment ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi le moment le plus drôle que t'as en mémoire ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as un moment où t'as senti qu'on se connaissait vraiment mieux ?",
+    "category": "memories"
+  },
+  {
+    "question": "Tu te souviens de notre première dispute ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as un film ou un spectacle qu'on a vu ensemble et dont tu te souviens encore ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi le comportement inattendu de ma part dont tu te souviens le plus ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi l'incident le plus absurde depuis qu'on est ensemble ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as été là pour moi dans une période difficile ? Tu te souviens comment c'était ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quand notre conversation la plus honnête ?",
+    "category": "memories"
+  },
+  {
+    "question": "Y'a un jour de mauvais temps qui s'est finalement révélé super bien ?",
+    "category": "memories"
+  },
+  {
+    "question": "Tu te souviens de notre première vraie discussion sérieuse ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi ce que j'ai fait pour toi dont tu te souviens le plus ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quand la première fois qu'on a fait un long trajet ensemble ? C'était comment ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as un jour où le temps a passé super vite quand on était ensemble ?",
+    "category": "memories"
+  },
+  {
+    "question": "Y'a un truc qu'on a fait ensemble que t'aimais pas au départ mais que t'as finalement aimé ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi le meilleur souvenir de mon anniversaire ou d'une occasion spéciale ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quel endroit où on a été ensemble qui te revient le plus ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as déjà vu dormir ? C'était comment ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quand la première fois où tu t'es senti me manquer après qu'on se soit séparés ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quelle journée la plus romantique depuis qu'on est ensemble selon toi ?",
+    "category": "memories"
+  },
+  {
+    "question": "T'as un souvenir d'une fois où tu t'es senti fier de moi parce que j'avais géré un truc seul ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quel repas le plus spécial qu'on a partagé ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quand le moment où t'as senti qu'on était le plus proches ?",
+    "category": "memories"
+  },
+  {
+    "question": "C'est quoi le truc que t'as vraiment envie qu'on fasse ensemble un jour ?",
+    "category": "future"
+  },
+  {
+    "question": "T'imagines comment dans 5 ans ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est où tu voudrais voyager avec moi ?",
+    "category": "future"
+  },
+  {
+    "question": "Si on vivait ensemble, c'est quoi la première chose que t'aimerais faire ?",
+    "category": "future"
+  },
+  {
+    "question": "T'as quelque chose que tu voudrais encore faire avec moi quand on sera vieux ?",
+    "category": "future"
+  },
+  {
+    "question": "T'as un objectif qu'on devrait atteindre ensemble ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est comment tu imagines notre quotidien quand on sera âgés ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est quel pays tu voudrais visiter avec moi en prochain voyage ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est comment tu voudrais être là pour moi dans mes moments difficiles ?",
+    "category": "future"
+  },
+  {
+    "question": "Si on aménageait un espace commun, c'est quelle pièce tu soignerais le plus ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est comment tu espères me voir évoluer dans le futur ?",
+    "category": "future"
+  },
+  {
+    "question": "Y'a quelque chose que tu voudrais mieux faire dans notre relation à l'avenir ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est quoi le numéro 1 de ta liste de choses à faire ensemble ?",
+    "category": "future"
+  },
+  {
+    "question": "Y'a quelque chose que tu veux qu'on garde toujours entre nous ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est comment tu veux soutenir mes rêves ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est dans quel quartier tu voudrais qu'on vive ensemble ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est quoi le sujet dont tu voudrais qu'on rie ensemble dans 10 ans ?",
+    "category": "future"
+  },
+  {
+    "question": "T'as quelque chose que tu voulais faire pour moi mais que t'as pas encore fait ?",
+    "category": "future"
+  },
+  {
+    "question": "T'as une tradition qu'on devrait créer ensemble en vieillissant ?",
+    "category": "future"
+  },
+  {
+    "question": "T'as un rêve que tu voudrais voir s'accomplir pour moi ?",
+    "category": "future"
+  },
+  {
+    "question": "Y'a un sujet sur lequel tu voudrais être plus transparent dans notre relation à l'avenir ?",
+    "category": "future"
+  },
+  {
+    "question": "Y'a quelque chose que tu voudrais apprendre avec moi ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est quel espace tu voudrais qu'on crée ou qu'on aménage ensemble plus tard ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est dans quelle situation tu voudrais que je sois là à tes côtés ?",
+    "category": "future"
+  },
+  {
+    "question": "T'as un type de rendez-vous que tu voudrais qu'on fasse plus souvent à l'avenir ?",
+    "category": "future"
+  },
+  {
+    "question": "Si on faisait du bénévolat ensemble, c'est quoi tu ferais ?",
+    "category": "future"
+  },
+  {
+    "question": "T'as une idée du mariage que tu te fais dans ta tête ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est comment tu voudrais m'aider quand je traverse une période de doute ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est quoi le nouveau souvenir que tu voudrais absolument qu'on crée ensemble ?",
+    "category": "future"
+  },
+  {
+    "question": "Y'a quelque chose de nous que tu ne voudrais pas voir changer avec le temps ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est quel genre de foyer tu voudrais qu'on bâtisse ensemble ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est comment tu voudrais me soutenir quand je grandis ou que j'évolue ?",
+    "category": "future"
+  },
+  {
+    "question": "T'as un défi que tu voudrais qu'on relève ensemble ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est quoi ce qu'on devrait faire pour être de meilleures personnes l'un pour l'autre ?",
+    "category": "future"
+  },
+  {
+    "question": "Y'a quelque chose que tu voudrais me demander honnêtement pour l'avenir ?",
+    "category": "future"
+  },
+  {
+    "question": "Y'a un schéma dans notre relation dont tu voudrais qu'on se débarrasse à l'avenir ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est quoi selon toi la façon de vieillir sainement ensemble ?",
+    "category": "future"
+  },
+  {
+    "question": "Tu imagines qu'on fait quoi ensemble dans 30 ans ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est dans quel domaine tu voudrais me voir progresser ?",
+    "category": "future"
+  },
+  {
+    "question": "C'est quoi ce qu'il faudrait pour que notre temps ensemble soit encore plus riche ?",
+    "category": "future"
+  }
+]

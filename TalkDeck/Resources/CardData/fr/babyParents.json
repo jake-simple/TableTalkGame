@@ -1,0 +1,642 @@
+[
+  {
+    "question": "C'est quoi le moment le plus craquant de bébé récemment ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quoi le moment dont tu as été le plus fier dans ton rôle de parent ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'était comment quand bébé a dit « maman » ou « papa » pour la première fois ?",
+    "category": "parenting"
+  },
+  {
+    "question": "Décris le moment où bébé a fait ses premiers pas.",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quoi le jeu préféré de bébé en ce moment ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quoi ce que bébé a dit ou fait récemment qui vous a fait éclater de rire ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quoi la chose que bébé a appris le plus vite quand tu lui as montrée ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quoi la progression récente de bébé qui t'a le plus épaté(e) ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quelle émotion de bébé que tu trouves la plus adorable ?",
+    "category": "parenting"
+  },
+  {
+    "question": "T'as une routine à toi pour endormir bébé ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quoi le jouet ou l'objet préféré de bébé ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quelle technique qui marche le mieux pour calmer bébé ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quel jeu que t'aimes le plus faire avec bébé ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quoi le petit geste adorable que bébé fait souvent en ce moment ?",
+    "category": "parenting"
+  },
+  {
+    "question": "Tu te souviens du premier sourire de bébé ? T'as ressenti quoi ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quoi ce qui t'est passé par la tête quand tu as tenu bébé pour la première fois ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quel moment le plus paisible de ta vie avec bébé ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quelle expérience la plus éprouvante quand bébé était malade ?",
+    "category": "parenting"
+  },
+  {
+    "question": "T'as une histoire sur la façon dont vous avez choisi le prénom de bébé ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'était comment la réaction de bébé quand il/elle a mangé pour la première fois ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'était comment le premier jour de crèche ou de maternelle ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quoi la chose la plus inattendue que bébé t'a apprise ?",
+    "category": "parenting"
+  },
+  {
+    "question": "Bébé t'a touché(e) au cœur dans un moment auquel tu t'attendais pas ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quelle photo avec bébé ta préférée ?",
+    "category": "parenting"
+  },
+  {
+    "question": "T'as eu l'impression que bébé avait grandi d'un coup du jour au lendemain ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'était comment le premier voyage avec bébé ?",
+    "category": "parenting"
+  },
+  {
+    "question": "Comment bébé a réagi la première fois à la piscine ou à la mer ?",
+    "category": "parenting"
+  },
+  {
+    "question": "Comment vous avez célébré le premier anniversaire de bébé ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'était comment la première fois que bébé a joué avec d'autres enfants ?",
+    "category": "parenting"
+  },
+  {
+    "question": "T'as déjà commencé à endormir bébé et t'es endormi(e) avant lui/elle ?",
+    "category": "parenting"
+  },
+  {
+    "question": "T'as une pose exclusive que tu fais sur les selfies avec bébé ?",
+    "category": "parenting"
+  },
+  {
+    "question": "T'as un plat que tu rêves de cuisiner pour bébé ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quelle chanson que vous chantez ensemble que tu préfères ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'était comment quand bébé a ouvert un livre tout seul pour la première fois ?",
+    "category": "parenting"
+  },
+  {
+    "question": "T'as un souvenir du premier Noël ou des premières fêtes avec bébé ?",
+    "category": "parenting"
+  },
+  {
+    "question": "T'as une anecdote avec bébé dans les transports en commun ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quoi la découverte la plus surprenante que t'as faite sur les bébés depuis que t'as le vôtre ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'était comment quand bébé a dit « non » pour la première fois ?",
+    "category": "parenting"
+  },
+  {
+    "question": "T'as eu un moment où tu t'es senti(e) vraiment désolé(e) pour bébé ?",
+    "category": "parenting"
+  },
+  {
+    "question": "C'est quoi la chose la plus importante que tu veux transmettre à ton enfant ?",
+    "category": "parenting"
+  },
+  {
+    "question": "Depuis que bébé est là, t'as découvert quelque chose de nouveau chez ton/ta partenaire ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "T'as été touché(e) en voyant ton/ta partenaire s'occuper de bébé ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "C'est quelle dispute que vous avez eue à cause de l'éducation du bébé ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Comment vos sujets de conversation ont changé depuis l'arrivée de bébé ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Le style parental de ton/ta partenaire était différent du tien ? Comment vous avez trouvé un équilibre ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Vous avez parlé honnêtement de la répartition des tâches parentales ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Comment vous arrivez à préserver votre temps en couple depuis l'arrivée de bébé ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "C'est quelle scène de ton/ta partenaire avec bébé qui t'a le plus marqué(e) ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "T'as eu un moment où tu as retrouvé des sentiments pour ton/ta partenaire grâce à votre rôle de parents ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "C'est quoi le domaine où vous êtes le plus en accord depuis que bébé est là ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Vous vous sentez plus proches qu'avant avec l'arrivée de bébé ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Vous avez eu des désaccords sur l'éducation de bébé ? Lesquels ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "T'as l'impression d'avoir blessé ton/ta partenaire sans le/la dire lors du quotidien parental ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "C'est quoi la décision que vous avez prise ensemble pour bébé dont vous êtes le plus fiers ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Vous vous êtes disputés devant bébé ? À quoi tu as pensé à ce moment-là ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "T'as eu un moment où tu t'es senti(e) désolé(e) pour ton/ta partenaire pendant la parentalité ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "C'est quelle qualité de ton/ta partenaire dans son rôle de parent que t'aimerais imiter ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Vous avez des principes à vous sur l'éducation de bébé ? Lesquels ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Si vous deviez noter votre travail d'équipe parental, c'est combien sur 10 ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "C'est quoi ce pour quoi tu es le plus reconnaissant(e) envers ton/ta partenaire depuis que bébé est là ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "C'est quoi votre dernière bonne anecdote partagée en tant que parents ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Comment vous gérez le manque de temps à deux à cause de bébé ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Comment tu prends soin de ton/ta partenaire quand il/elle est épuisé(e) ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "T'as l'impression que vous avez grandi ensemble en tant que parents ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Qu'est-ce que vous faites une fois que bébé est endormi le soir ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Quand vous avez eu des désaccords sur bébé, comment vous avez trouvé un accord ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "C'est quand le moment où tu as le plus compté sur ton/ta partenaire pendant la parentalité ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Vous avez une nouvelle routine de couple depuis l'arrivée de bébé ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "C'est quoi le moment le plus gratifiant que vous avez vécu ensemble en tant que parents ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Vous avez des mots ou expressions qui vous appartiennent depuis que vous êtes parents ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "C'est quelle évolution positive que bébé a apportée dans votre relation ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "C'est quand que tu as senti que vous partagiez les mêmes valeurs sur l'éducation ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Vous avez découvert quelque chose de nouveau l'un sur l'autre depuis que bébé est là ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "C'est quoi ce qui est devenu plus important entre vous depuis que vous êtes parents ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "T'as l'impression que bébé vous rapproche encore plus ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Élever bébé ensemble, ça signifie quoi pour vous deux ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Y'a quelque chose que tu voudrais dire à ton/ta partenaire pendant ce temps de parentalité ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Comment ton regard sur ton/ta partenaire a changé depuis l'arrivée de bébé ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "C'est quelle image vous voulez donner à bébé de vous en tant que couple ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "C'est quoi ce que ton/ta partenaire a fait pour bébé pour lequel tu lui es encore reconnaissant(e) ?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Franchement, tu as eu envie de tout fuir tellement la parentalité c'était dur ?",
+    "category": "hardships"
+  },
+  {
+    "question": "C'est quand que t'as été le plus à plat physiquement pendant la parentalité ?",
+    "category": "hardships"
+  },
+  {
+    "question": "C'est quelle nuit la plus difficile quand bébé se réveillait sans arrêt ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as eu des moments difficiles parce que tu avais plus de temps pour toi ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as eu un moment où tu as perdu le contrôle de tes émotions avec bébé ?",
+    "category": "hardships"
+  },
+  {
+    "question": "Depuis que t'es parent, tu as eu des doutes sur ton identité en dehors de ton rôle ?",
+    "category": "hardships"
+  },
+  {
+    "question": "C'est quoi la partie la plus dure dans l'équilibre entre parentalité et travail ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as ressenti de l'impuissance quand bébé était malade et que tu ne pouvais rien faire ?",
+    "category": "hardships"
+  },
+  {
+    "question": "C'est quand le moment où tu t'es senti(e) le plus seul(e) pendant la parentalité ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as eu envie de retrouver ta vie d'avant, juste toi sans le rôle de parent ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as traversé des moments de déprime ou d'épuisement pendant la parentalité ? Comment tu t'en es sorti(e) ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as eu un moment où tu as crié ou perdu patience avec bébé ? Comment tu t'es senti(e) après ?",
+    "category": "hardships"
+  },
+  {
+    "question": "C'est quelle période de manque de sommeil la plus difficile ?",
+    "category": "hardships"
+  },
+  {
+    "question": "C'est quoi ce à quoi tu as renoncé à cause de la parentalité que tu regrettes le plus ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as eu des moments d'anxiété sur le fait d'être un bon/bonne parent ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as eu de la rancœur envers ton/ta partenaire pendant la parentalité mais tu l'as pas dit ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as eu un conflit avec quelqu'un dans ton entourage à cause de bébé ?",
+    "category": "hardships"
+  },
+  {
+    "question": "Comment tu as tenu pendant la période la plus difficile de la parentalité ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as mis de côté tes rêves ou objectifs le temps de t'occuper de bébé ?",
+    "category": "hardships"
+  },
+  {
+    "question": "Comment tu te suis senti(e) quand bébé pleurait sans qu'on puisse le/la calmer ?",
+    "category": "hardships"
+  },
+  {
+    "question": "Comment tu gères le stress parental ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as l'impression que ta santé a souffert depuis l'arrivée de bébé ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as eu un moment où tu t'es déçu(e) toi-même en tant que parent ?",
+    "category": "hardships"
+  },
+  {
+    "question": "Les conseils non sollicités ou les interférences des autres sur ton éducation t'ont pesé ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as gardé des émotions pour toi sans en parler à ton/ta partenaire pendant la parentalité ?",
+    "category": "hardships"
+  },
+  {
+    "question": "C'est quand que tu as réalisé que c'était bien plus dur que tu l'imaginais ?",
+    "category": "hardships"
+  },
+  {
+    "question": "C'est quoi le moment le plus déstabilisant de tes débuts en tant que parent ?",
+    "category": "hardships"
+  },
+  {
+    "question": "C'est quelle émotion que tu retiens le plus souvent pendant la parentalité ?",
+    "category": "hardships"
+  },
+  {
+    "question": "C'est quoi ce que tu as craint le plus en emmenant bébé chez le médecin ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as déjà négligé ta propre santé à cause de la parentalité ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as eu une situation où tu te sentais vraiment désolé(e) pour bébé mais tu pouvais rien faire ?",
+    "category": "hardships"
+  },
+  {
+    "question": "C'est quand que tu as le plus ressenti le poids financier de la parentalité ?",
+    "category": "hardships"
+  },
+  {
+    "question": "C'est quoi ce qui te fait le plus peur en tant que parent ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as parfois ressenti un isolement social à cause de la parentalité ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as l'impression que tes défauts ressortent encore plus depuis que tu élèves bébé ?",
+    "category": "hardships"
+  },
+  {
+    "question": "C'est quand que tu as le plus perdu le contrôle émotionnellement pendant la parentalité ? Comment t'as géré ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as eu des moments où tu aurais vraiment voulu que quelqu'un soit là avec toi ?",
+    "category": "hardships"
+  },
+  {
+    "question": "T'as plus d'inquiétudes depuis que bébé grandit ou tu en as moins ?",
+    "category": "hardships"
+  },
+  {
+    "question": "Tu peux me dire honnêtement ce qui est le plus dur pour toi dans la parentalité en ce moment ?",
+    "category": "hardships"
+  },
+  {
+    "question": "C'est quelle pensée ou émotion qui te pèse le plus dans la parentalité ?",
+    "category": "hardships"
+  },
+  {
+    "question": "C'est quoi la chose la plus précieuse pour laquelle tu es reconnaissant(e) depuis la naissance de bébé ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quoi le moment où tu as été le plus reconnaissant(e) envers ton/ta partenaire pendant la parentalité ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "T'as découvert quelque chose de précieux grâce à bébé ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Bébé t'a appris une leçon de vie importante ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Depuis que tu es parent, tu vois tes propres parents différemment ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quand le moment le plus récent où tu t'es senti(e) heureux/heureuse grâce à bébé ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quoi ce que ton/ta partenaire a fait pour bébé dont tu es le plus reconnaissant(e) ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Le sens que tu donnes à la vie a changé depuis que t'as bébé ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est qui dans votre entourage vous a aidés avec bébé et dont tu es le plus reconnaissant(e) ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Essaie de décrire ce que tu ressens dans ta poitrine quand bébé sourit.",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est en quoi tu as l'impression de t'être développé(e) grâce à la parentalité ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Bébé a dit quelque chose qui t'a transformé(e) dans ta journée ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quoi chez ton/ta partenaire dont tu es encore plus reconnaissant(e) grâce à la parentalité ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "T'as l'impression que bébé te donne plus envie de te dépasser dans la vie ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Décris l'émotion que tu ressens quand bébé se blottit contre toi.",
+    "category": "gratitude"
+  },
+  {
+    "question": "T'as eu un moment pendant la parentalité où le monde t'a semblé encore plus beau ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quoi une nouvelle expérience que tu as vécue grâce à bébé et dont tu es reconnaissant(e) ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quel moment le plus précieux de la parentalité dont tu as ressenti la chance ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Y'a quelque chose pour lequel tu voudrais dire merci à ton/ta partenaire là maintenant ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'était comment la première fois que bébé t'a serré(e) fort dans ses bras ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Bébé t'a aidé à ne pas abandonner quelque chose ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "T'as trouvé que le rythme de vie différent depuis bébé était finalement une bénédiction ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quoi ce que tu ressens quand tu regardes bébé dormir ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quoi l'avantage d'élever bébé avec ton/ta partenaire ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "T'es devenu(e) plus courageux/courageuse grâce à bébé ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quoi le changement en toi dont tu es le plus reconnaissant(e) depuis la naissance de bébé ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'était comment quand bébé a dit « je t'aime » pour la première fois ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quand que tu as eu la pensée « je suis tellement content(e) de t'avoir » envers ton/ta partenaire pendant la parentalité ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quelle valeur précieuse que bébé t'a transmise ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "T'as une relation qui s'est approfondie grâce à la parentalité ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quoi ce que tu ressens quand bébé est tout heureux/heureuse pour des petits riens ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quoi la chose pour laquelle tu es le plus reconnaissant(e) depuis que t'es devenu(e) parent ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quoi ton souvenir récent le plus gratifiant de la parentalité ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Y'a quelque chose pour lequel tu es reconnaissant(e) envers ton/ta partenaire grâce à bébé ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quand que tu as ressenti que la simple existence de bébé suffisait à te rendre heureux/heureuse ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "T'as une expérience difficile de la parentalité qui avec le recul te rend reconnaissant(e) ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quelle signification cette famille — bébé, ton/ta partenaire — a pour toi dans ta vie ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "T'es conscient(e) à quel point ce temps de parentalité est précieux ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quoi ce dont tu es le plus reconnaissant(e) dans le fait d'élever bébé ?",
+    "category": "gratitude"
+  },
+  {
+    "question": "C'est quand la dernière fois que t'as dit merci à ton/ta partenaire aujourd'hui ?",
+    "category": "gratitude"
+  }
+]

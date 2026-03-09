@@ -1,0 +1,642 @@
+[
+  {
+    "question": "T'étais en train de faire quoi avant de venir ici aujourd'hui ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Tu décrirais ton humeur en ce moment comme quel temps ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "C'est quoi ce qui t'a amené à être là aujourd'hui ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "La première chose que tu remarques chez quelqu'un que tu rencontres pour la première fois ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Si tu devais te présenter en un seul mot, ce serait lequel ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "C'est quoi ce que t'attends le plus de ce moment ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "En venant ici, tu t'imaginais rencontrer quel genre de personnes ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Dans un groupe qu'on vient de former, tu joues plutôt quel rôle ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Rencontrer des nouvelles personnes, ça t'enthousiasme ou ça te stresse ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "C'est quoi la toute première chose que t'as faite ce matin en te levant ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Si tu prenais une photo de ce moment, ce serait quelle composition ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "T'as pensé à quoi en venant jusqu'ici ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Les vêtements que t'as mis aujourd'hui reflètent ton humeur ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "T'arrives facilement à t'intégrer dans un nouveau groupe en général ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "C'est quoi le truc le plus difficile quand tu rencontres des gens pour la première fois ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Y a une histoire que t'as vraiment envie de raconter là ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Si tu devais te comparer à un plat, lequel ce serait ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Comment tu penses que tu parais dans ce groupe ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "C'est quoi la première chose que t'as envie de demander à quelqu'un que tu rencontres ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Si tu étais pas venu ici aujourd'hui, tu serais en train de faire quoi ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Ton prénom a une signification ? T'aimes bien ton prénom ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "T'as mangé aujourd'hui ? C'était quoi ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "L'ambiance ici, tu la ressens comment ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Y a quelque chose que tu fais absolument jamais lors d'une première rencontre ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Le dernier message que t'as reçu sur ton téléphone, c'était de qui ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Quand t'as du temps libre ces derniers temps, tu fais quoi ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Comment tu présenterais cette soirée à un ami ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "T'as l'impression de t'entendre rapidement avec quel type de personne ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Avant de venir, t'attendais quoi de cette soirée ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "T'as eu un bon moment aujourd'hui ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Comment tu te présenterais en une phrase ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "T'es plutôt du genre à mettre de l'ambiance dans un groupe ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "C'est quoi tes plans après ce soir ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Trois mots qui te viennent à l'esprit là maintenant ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "T'as une technique pour vite t'entendre avec quelqu'un que tu connais pas ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "C'est quoi l'emoji que tu utilises le plus en ce moment ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Dans ce groupe, c'est quel type de personne que t'aurais envie de connaître en premier ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "T'étais nerveux en venant ici ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Si tu comparais ton humeur à un plat, ce serait quoi ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Quand tu as une bonne première impression de quelqu'un, tu te comportes comment ?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "C'est quoi le genre de musique que t'écoutes le plus en ce moment ?",
+    "category": "taste"
+  },
+  {
+    "question": "Tu bois du café ? Americano ou latte ?",
+    "category": "taste"
+  },
+  {
+    "question": "Au resto, tu commences par quoi en premier ?",
+    "category": "taste"
+  },
+  {
+    "question": "Au ciné, c'est quoi le snack que tu achètes systématiquement ?",
+    "category": "taste"
+  },
+  {
+    "question": "Quand tu ouvres Netflix, c'est quoi le genre que tu cherches en premier ?",
+    "category": "taste"
+  },
+  {
+    "question": "Pour toi c'est quoi le meilleur fast-food ?",
+    "category": "taste"
+  },
+  {
+    "question": "Quand t'écoutes de la musique, t'es plutôt paroles ou mélodie ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'es plutôt sandwich jambon-beurre ou croque-monsieur à la boulangerie ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as une série ou une émission en ce moment qui te tient ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as l'habitude de commander quoi au café ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'es plutôt steak ou poulet ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quoi ta garniture préférée sur une pizza ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as une chanson que tu mets à fond en karaoké ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'aimes quel genre de films ?",
+    "category": "taste"
+  },
+  {
+    "question": "Tu lis ? T'aimes quel genre ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quoi ta boisson préférée en soirée ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'utilises quelle appli pour écouter de la musique ?",
+    "category": "taste"
+  },
+  {
+    "question": "Moelleux ou croustillant, t'as une préférence ?",
+    "category": "taste"
+  },
+  {
+    "question": "Sucré ou salé, ton camp c'est lequel ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quoi les chaînes YouTube que tu regardes le plus ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as déjà été fan d'un artiste ou d'un groupe ? C'était qui ?",
+    "category": "taste"
+  },
+  {
+    "question": "Quand tu fais des pâtes, c'est quoi ta sauce préférée ?",
+    "category": "taste"
+  },
+  {
+    "question": "Pizza ou burger, t'as ton camp ?",
+    "category": "taste"
+  },
+  {
+    "question": "Tu fais du sport ? T'as un sport que tu pratiques ?",
+    "category": "taste"
+  },
+  {
+    "question": "En voyage, t'as plutôt une destination nature ou city break ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as l'habitude de regarder les avis avant de commander en livraison ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quoi ton repas de minuit préféré quand t'as faim tout seul ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un sport préféré ? Tu le pratiques ou tu le regardes ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quel réseau social que tu utilises le plus ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'aimes les jeux vidéo ? T'as un genre de prédilection ?",
+    "category": "taste"
+  },
+  {
+    "question": "Tu préfères faire du shopping en ligne ou en magasin ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quelle ta saison préférée ? Pourquoi ?",
+    "category": "taste"
+  },
+  {
+    "question": "Tu mets du parfum ? T'as une famille olfactive préférée ?",
+    "category": "taste"
+  },
+  {
+    "question": "Tu écoutes de la musique quand t'es chez toi ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'es plutôt style mignon ou style élégant ?",
+    "category": "taste"
+  },
+  {
+    "question": "Tu sais cuisiner ? T'as un plat dont t'es fier ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quoi l'activité que t'aimes le plus faire pendant ton temps libre ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as déjà vu une comédie musicale ou une pièce de théâtre ? T'es intéressé ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'aimes prendre des photos ? C'est quoi ton genre de photo préféré ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un style vestimentaire particulier ?",
+    "category": "taste"
+  },
+  {
+    "question": "Si l'ambiance de ce soir c'était un titre de chanson, ce serait lequel ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si tu devais donner un nom à ta tenue d'aujourd'hui, ce serait quoi ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si ce moment était un film, il aurait quel titre ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si tu devais vendre quelque chose là en 1 minute, ce serait quoi ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "C'est quoi la pensée la plus bizarre que t'aies jamais eue ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si tu comparais ton humeur d'aujourd'hui à un plat, ce serait quoi ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si tu étais un super-héros, c'est quoi le pouvoir que tu voudrais ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "La musique de fond de ta vie en ce moment, c'est quoi ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "C'est quoi ton fond d'écran de téléphone là ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si t'étais un animal, ce serait lequel ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si tu devenais célèbre du jour au lendemain, ce serait pour quelle raison ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Ce groupe, ce serait quelle plante si vous étiez des plantes ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "C'est quoi l'appli la plus bizarre que t'as sur ton téléphone ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Juste avant de t'endormir, à quoi tu penses le plus souvent ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Ce matin en ouvrant les yeux, c'est quoi ta première pensée ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si ta vie avait une sauvegarde automatique, quel moment tu sauvegarderais ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si ce soir avait un dress code, ce serait quoi ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si tu devais tourner une pub là maintenant, c'est pour quel produit ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si tu étais un animal de zoo, lequel ce serait ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si ta vie était une émission de télé-réalité, elle aurait quel titre ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "T'es capable de faire rire tout le monde là en 5 secondes ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "C'est quoi ton talent le plus inutile ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "C'est quoi la chose la plus bizarre que t'as dite lors d'une première rencontre ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "La différence entre ton profil Instagram et toi en vrai, elle est grande ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si on partait en voyage tous là maintenant, c'est quoi la première chose que tu dirais ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "T'as une habitude bizarre que tu peux nous avouer ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "C'est quoi la phrase que t'entends le plus souvent des gens autour de toi ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "C'est quoi le truc le plus bizarre que t'as fait aujourd'hui ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si t'avais une chaîne YouTube sur ce soir, quel serait le titre de la vidéo ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "C'est quoi la boulette la plus drôle que t'aies jamais faite ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si t'avais à manger une combinaison de nourriture bizarre, ce serait quoi ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si tu devais monter sur scène là maintenant, tu ferais quoi ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "En un dicton ou une expression, tu résumes ce soir comment ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si t'étais un mème là maintenant, ce serait lequel ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Tu peux raconter le rêve le plus WTF que t'aies fait ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "C'est quoi le plat qui correspondrait le mieux à cette soirée ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Aujourd'hui, tu avais l'impression d'être le héros de quel type d'histoire ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Si un ami devait te décrire en un seul mot, ce serait lequel ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "C'est quoi l'expérience la plus WTF de ta vie ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Ce groupe ce soir, ça ressemblerait à quel groupe d'animaux ?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Y a une facette de toi qui est différente de ta première impression ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "C'est quoi la chose qui surprend le plus les gens à ton sujet ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "C'est quoi la plus grande différence entre l'image que tu donnes et qui tu es vraiment ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "T'as un passe-temps secret que personne ne connaît ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "T'es vraiment doué pour quelque chose mais personne le sait ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Les gens qui te rencontrent pour la première fois, ils te croient souvent à tort sur quelque chose ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "T'as des goûts qui vont pas du tout avec ton look ou ton image ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Même tes amis proches ne connaissent pas un certain côté de toi ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "T'as déjà fait quelque chose qui allait complètement à l'encontre de ton image habituelle ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Y a une version de toi qui sort uniquement quand t'es seul ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "C'est quoi ton charme surprenant que tu reconnais toi-même ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "C'est quoi l'expérience la plus inattendue de ta vie ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "En te voyant pour la première fois, les gens te rangent dans quelle catégorie ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "T'as l'air de maîtriser quelque chose alors qu'en vrai t'es nul dedans ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "C'est quoi le plus grand retournement de situation dans ta personnalité ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Y a un comportement ou une façon de parler de toi qui peut être mal compris ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "T'as des trucs que t'aimes qui semblent pas correspondre à ton âge ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "T'as un passe-temps qui colle pas du tout avec ton travail ou tes études ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Les gens autour de toi sont le plus surpris par quel aspect de toi ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Comment tu changes entre le moment où on vient de te rencontrer et quand on te connaît vraiment ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Il y a une facette de toi que tu connais mal toi-même ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "T'as quelque chose qui te fait vraiment peur alors que les gens ne s'y attendraient pas ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "T'écoutes un genre de musique qui ne correspond pas du tout à ton image ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "C'est quoi l'habitude la plus bizarre que tu as de toi-même ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Les gens ont souvent une réaction inattendue à laquelle tu réagis d'une façon qu'ils n'attendaient pas ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Y a une info sur toi qui est une idée reçue ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "T'as quelque chose que tu prends vraiment très au sérieux de façon surprenante ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Les gens qui te connaissent bien, ils connaissent quelle version de toi ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "T'as un rêve que personne n'associerait à ton image ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Y a un truc que tu fais qui te surprend toi-même ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Y a une question que les gens ne t'posent jamais mais qu'ils pourraient ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "C'est quoi une caractéristique de toi qu'on pourrait jamais deviner au premier regard ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Y a quelque chose que tout le monde fait facilement mais toi t'y arrives pas ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "T'as un surnom ou un pseudo qui est surprenant ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "T'as des trucs que t'aimes qui surprennent les gens quand tu leur dis ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Y a un moment où tu es stressé que personne autour de toi ne voit ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Y a un côté de toi dont tu penses que les gens t'apprécieront encore plus s'ils le connaissent ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "T'as quelque chose dont tu t'occupes vraiment bien de façon surprenante ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "C'est quoi la plus grande différence entre tes réseaux sociaux et toi en vrai ?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "C'est quoi un métier que les gens n'imagineraient jamais pour toi ?",
+    "category": "unexpectedSide"
+  }
+]

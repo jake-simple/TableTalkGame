@@ -1,0 +1,642 @@
+[
+  {
+    "question": "C'est quoi le plat que tu préférais quand t'étais petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quelle matière préférée à l'école ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est qui ton meilleur ami d'enfance et t'as un souvenir avec lui/elle ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quoi l'objet que tu voulais le plus avoir quand t'étais petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quoi le métier que t'écrivais comme rêve quand t'étais à l'école primaire ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quoi le souvenir de punition de tes parents qui t'est resté le plus ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quoi la première chose que tu faisais en rentrant de l'école ?",
+    "category": "childhood"
+  },
+  {
+    "question": "T'avais un dessin animé ou un jeu vidéo dont t'étais obsédé étant petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quel endroit dans le quartier où tu grandissais que tu préférais ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quoi les jeux auxquels tu jouais souvent avec tes frères, sœurs ou amis étant petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quoi le plat de la cantine qui était ton préféré ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quoi ce qui te faisait le plus peur quand t'étais petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quoi ce que tu faisais le plus souvent pendant les grandes vacances étant petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "T'avais une image de l'adulte que tu voulais devenir quand t'étais petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "Tu te souviens de la première fois où tu as pris les transports seul ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quel prof que tu adorais et pourquoi ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quelle sortie scolaire ou voyage de classe dont tu te souviens le mieux ?",
+    "category": "childhood"
+  },
+  {
+    "question": "T'as fait quelque chose en cachette de tes parents quand t'étais petit que tu peux raconter maintenant ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quoi ce que t'as acheté avec ton premier argent de poche ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quoi ta matière ou ton cours le plus détesté à l'école ?",
+    "category": "childhood"
+  },
+  {
+    "question": "T'avais une émission de télé que tu regardais sans faute quand t'étais petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quoi le cadeau d'anniversaire dont tu te souviens le mieux étant petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "Tu te souviens quand tu as appris à faire du vélo ?",
+    "category": "childhood"
+  },
+  {
+    "question": "T'avais un animal de compagnie à la maison quand t'étais petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quoi ton snack ou ta boisson préférée d'enfance ?",
+    "category": "childhood"
+  },
+  {
+    "question": "T'as quelque chose dans lequel tu te sentais particulièrement bon à l'école ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quoi ce que les adultes te disaient souvent quand t'étais petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "Tu te souviens de la première fois où t'étais seul à la maison ? T'as ressenti quoi ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quel commerce du quartier que tu fréquentais le plus étant petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "T'as traversé une période difficile dans ton enfance ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quel genre de gamin t'étais parmi tes amis ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quand la première fois que t'as fait une nuit blanche ? Pour quoi ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quoi ton livre ou BD préféré quand t'étais petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "T'as un souvenir d'enfance qui est encore très vivace dans ta tête ?",
+    "category": "childhood"
+  },
+  {
+    "question": "T'allais dans une boulangerie ou un snack après l'école ?",
+    "category": "childhood"
+  },
+  {
+    "question": "T'avais des vêtements ou des chaussures que tu voulais absolument avoir étant petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "T'imaginais comment ta maison de rêve quand t'étais enfant ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est pour quoi qu'on te faisait le plus de compliments quand t'étais petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "Tu te souviens de l'odeur de la maison en rentrant de l'école quand t'étais petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "T'avais une émission que tu regardais systématiquement en mangeant étant petit ?",
+    "category": "childhood"
+  },
+  {
+    "question": "C'est quoi ce sur quoi tu craques en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as un nouveau hobby ou centre d'intérêt depuis peu ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "C'est quoi le contenu que tu regardes le plus en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "C'est quoi l'événement le plus mémorable de ce mois-ci ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Comment tu prends soin de ta santé en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as mangé quelque chose de délicieux récemment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as un endroit où tu vas souvent en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Dis-moi quelque chose de drôle qui s'est passé cette semaine.",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as quelque chose sur lequel tu réfléchis en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as appris un fait intéressant récemment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as quelqu'un avec qui tu es souvent en contact en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as voyagé récemment ou t'as un voyage prévu ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "C'est quand le moment le plus agréable de ta journée en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "C'est quoi ta meilleure réussite de ce mois-ci ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "C'est comment ta journée type en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as appris ou étudié quelque chose récemment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "C'est quelle appli ou quel service que t'utilises le plus en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "C'est quoi ton moment le plus touchant ou agréable récemment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as un plat ou une boisson dont t'es en phase en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as rencontré quelqu'un de nouveau récemment ? Comment c'est arrivé ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "C'est quoi la première chose que t'as envie de faire quand t'es de bonne humeur ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "C'est quoi le meilleur repas que t'as eu cette semaine ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as un objectif en tête en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "C'est quoi l'achat récent dont tu es le plus satisfait ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "C'est quelle musique ou chanson que t'écoutes le plus en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as été reconnaissant(e) envers quelqu'un dans ton entourage récemment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as une série ou un film en ce moment qui te prend ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "C'est quoi le moment le plus difficile de ce mois-ci ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as un rêve que tu nourris en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tes habitudes sportives ou de santé ont changé récemment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as eu une conversation mémorable récemment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as essayé quelque chose pour la première fois récemment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as un livre ou du contenu qui t'a accroché en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "C'est quoi ce que tu penses avoir le mieux réussi cette semaine ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as un nouveau domaine qui t'intéresse en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as eu un moment récemment qui t'a réchauffé le cœur ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "C'est quoi ce qui te rend le plus heureux/heureuse en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as relevé un défi ou fait un changement récemment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tu dors bien en ce moment ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "C'est quoi ce que tu veux absolument accomplir ce mois-ci ?",
+    "category": "recentLife"
+  },
+  {
+    "question": "T'as un souvenir drôle d'un voyage en famille ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as une tradition que votre famille fait toujours pour les fêtes ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "C'est quoi le plat de tes parents dont tu te souviens le mieux ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "C'est quel endroit spécial visité en famille que tu n'oublies pas ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as vu un spectacle ou un événement sportif en famille dont tu te souviens ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "C'est quoi quelque chose que tes parents t'ont dit et qui te reste encore ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "C'est quelle scène que tu gardes de tes grands-parents ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as un souvenir où vous avez cuisiné en famille ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as une tradition ou un événement propre à votre famille ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Votre famille a traversé une période difficile ensemble ? Comment vous l'avez surmontée ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "C'est quelle raison absurde ou drôle qui a provoqué une dispute avec un frère/sœur ou cousin ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as un membre de ta famille qui t'a vraiment touché(e) à un moment ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "C'est quoi le meilleur souvenir chez tes grands-parents ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as été surpris(e) en regardant un vieux album photo de famille ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as un événement récent qui a fait rire toute la famille ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as une anecdote drôle qui s'est passée lors d'une réunion de famille ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Tu connais l'histoire de la rencontre de tes parents ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as un Noël ou une fête de famille qui était particulièrement spécial ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as un souvenir d'un déménagement vécu en famille ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Quelqu'un dans ta famille a découvert un secret que tu gardais ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Tu te souviens de moments tendres entre tes parents ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "On t'a déjà dit que tu ressembles à un membre de ta famille dans tes habitudes ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as un souvenir d'un anniversaire en famille qui t'est resté ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as un objet lié à ta famille que tu gardes encore précieusement ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as réalisé à un moment ce que tes parents ont sacrifié pour toi ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as un souvenir de sport ou de promenade avec ta famille ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "C'est quand le meilleur souvenir de complicité avec tes frères/sœurs ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as un souvenir d'un grand ménage en famille ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as eu un moment où tu as vraiment compris le métier de tes parents ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Tu te souviens du premier resto au restau en famille ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as un souvenir de mauvaise météo en famille qui est resté drôle ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as un souvenir de balade en voiture avec tes parents ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as développé un hobby grâce à un membre de ta famille ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Tu sais à quel moment tes parents ont été particulièrement fiers de toi ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Tu te souviens d'un cadeau que tu as offert à ta famille pour la première fois ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "C'est quoi ton souvenir de Noël ou de fin d'année en famille quand t'étais petit ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Tu te souviens de ta première vraie rébellion contre tes parents ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as découvert un talent inattendu chez un membre de ta famille ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as eu un moment de gratitude envers un frère ou une sœur ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "C'est quoi le sujet de ta plus longue conversation téléphonique avec ta famille ?",
+    "category": "familyStory"
+  },
+  {
+    "question": "T'as des choses de la génération plus jeune que tu comprends pas vraiment ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as eu du mal à comprendre la génération de tes parents à un moment ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "C'est quoi ce que t'as appris de la génération de tes parents qui t'est encore utile ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as appris quelque chose d'inattendu auprès de la génération plus jeune ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "C'est quand que tu ressens le plus le fossé entre les générations ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as une tendance actuelle que tu comprends vraiment pas ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "C'est quoi un truc qui était normal dans ton enfance mais que les jeunes ne connaissent plus ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "C'est sur quel sujet tu as le plus de désaccords avec tes parents ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as parfois envié les jeunes d'aujourd'hui ? Pour quoi ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as une chose que les aînés trouvent normale et que toi tu comprends pas ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Le fossé des générations a créé une situation drôle dans ta famille ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as un souvenir des débuts de tes parents avec le smartphone ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as des jeux ou activités d'enfance que les jeunes ne connaissent plus ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "C'est quoi l'enseignement de tes parents dont tu penses encore qu'il avait raison ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Tes parents ne comprenaient pas une de tes tendances ou cultures ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "C'est quoi selon toi la plus grande différence entre la génération de tes parents et la nôtre ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Comment tu penses qu'on peut surmonter les différences entre générations ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as eu envie de résister aux règles de tes parents ? Avec le recul, qu'est-ce que tu en penses ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as des choses pour lesquelles tu penses que la génération de tes parents était meilleure ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as des choses pour lesquelles tu penses que la génération actuelle est meilleure ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "C'est quoi les valeurs de tes parents que tu as héritées ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "C'est quoi les valeurs de tes parents que tu aurais voulu changer ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as eu des difficultés à communiquer avec ta famille à cause de l'écart générationnel ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Comment tu te sentais quand tes parents disaient « les jeunes d'aujourd'hui... » ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Tu t'es déjà surpris à dire « les jeunes d'aujourd'hui... » ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as l'impression que la génération de tes parents était plus solide que la nôtre sur certains points ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as des choses dans lesquelles la jeune génération excelle par rapport à celle de tes parents ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Tes parents ont fait des efforts pour s'approprier les codes de la culture actuelle ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "C'est quoi ce que tu fais pour mieux communiquer avec les générations plus jeunes ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as eu une conversation qui a vraiment transcendé le fossé des générations dans ta famille ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Comment tu t'es senti quand tes parents ont essayé de suivre une tendance actuelle ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as compris en grandissant quelque chose que tes parents faisaient ou disaient ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as joué le rôle d'intermédiaire entre différentes générations dans ta famille ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as des remarques de tes parents dont tu penses maintenant qu'ils avaient raison ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "C'est quel sujet où l'écart de génération est le plus visible dans ta famille ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "C'est quoi ta vision sur la façon dont tes parents voyaient le mariage et la famille ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Comment tu penses que la génération de tes parents voit le rapport au travail de la génération actuelle ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "T'as déjà parlé des réseaux sociaux ou de YouTube avec tes parents ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "C'est quoi la valeur que tu voudrais transmettre à la prochaine génération ?",
+    "category": "generationGap"
+  },
+  {
+    "question": "C'est quoi ce que votre famille peut faire ensemble malgré les différences entre générations ?",
+    "category": "generationGap"
+  }
+]

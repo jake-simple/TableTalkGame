@@ -1,0 +1,642 @@
+[
+  {
+    "question": "C'est quoi l'état d'esprit dans lequel t'étais avant de venir ce soir ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "C'est quoi l'impression que t'as eu en me voyant ? Tu peux être honnête.",
+    "category": "firstImpression"
+  },
+  {
+    "question": "C'est quoi ce sur quoi tu t'es le plus interrogé avant de venir ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "T'as imaginé quel genre de personne j'allais être avant qu'on se rencontre ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "C'est quoi la première chose qui t'a frappé quand on s'est salués ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "T'es souvent nerveux dans ce genre de situation ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "T'as une raison particulière d'être venu ce soir ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "C'est quoi ce que tu es le plus curieux de savoir sur moi ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "T'as eu une première impression mémorable lors d'une première rencontre par le passé ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "C'est quoi chez quelqu'un que tu rencontres pour la première fois qui te met à l'aise ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "C'est à quoi t'as le plus fait attention avant de venir ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "C'est quoi ce qui compte le plus pour toi lors d'une première rencontre ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "On t'a dit quoi sur moi quand on t'a présenté ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "À quoi tu pensais sur le chemin pour venir ici ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "T'es à l'aise ou encore un peu gêné là ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Si tu devais me comparer à un animal, ce serait lequel ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "C'est quoi ce que tu veux le plus savoir sur quelqu'un lors d'une première conversation ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "C'est quel genre d'ambiance ou de personnalité qui t'attire lors de premières rencontres ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Tu t'en sors bien dans ce genre de rencontres comme ce soir ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "T'as une première rencontre mémorable dans ta vie ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "C'est quel métier tu m'aurais donné rien qu'en me regardant ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "T'aimes mieux quand quelqu'un rit beaucoup ou quand il est calme à la première rencontre ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "C'est quoi cet endroit ? Il te plaît ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Ta première impression de quelqu'un est souvent juste à long terme ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Tu peux me poser une première question, là maintenant ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "T'as l'impression que la conversation coule bien ce soir ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "C'est quoi la situation qui te met le plus mal à l'aise dans ce genre de rencontre ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "C'est quoi le sujet sur lequel tu peux être le plus honnête avec quelqu'un que tu viens de rencontrer ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "T'as contacté un ami avant de venir ce soir ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "L'ambiance ici ce soir, elle te convient ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Tu te fais des amis facilement dès le premier contact ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "T'as un signe qui te dit que la rencontre se passe bien ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Y'a un moment dans notre conversation jusqu'ici qui t'a marqué ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Si tu devais me décrire en deux mots, ce serait quoi ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "T'as été surpris par quelque chose dans notre échange jusqu'ici ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "C'est quoi ce qu'un inconnu pourrait dire qui te mettrait vraiment à l'aise ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "T'as une technique pour te déstresser avant une rencontre comme ça ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Tu peux me dire honnêtement l'impression que je te donne là ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "T'es content d'être venu ce soir ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Comment tu sais que le courant passe bien avec quelqu'un dans une première conversation ?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "C'est quel genre de musique t'écoutes le plus en ce moment ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un style de cuisine préféré ? Entre la cuisine française, italienne, asiatique ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quel genre de film tu choisis le plus souvent ?",
+    "category": "taste"
+  },
+  {
+    "question": "Tu vas souvent au café ? C'est quelle ambiance que t'aimes ?",
+    "category": "taste"
+  },
+  {
+    "question": "Comment tu voyages ? T'es plutôt planning chargé ou au feeling ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as vu une série ou un film récemment qui t'a bien plu ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un aliment que tu manges absolument jamais ?",
+    "category": "taste"
+  },
+  {
+    "question": "Si t'as du temps libre le weekend, tu fais quoi ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quelle saison ta préférée et pourquoi ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un plat ou une boisson dont tu te lasses pas en ce moment ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un hobby ? C'est quoi ce que tu aimes le plus faire en ce moment ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quel genre de livres ou de contenus que tu aimes ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'aimes le sport ? T'en pratiques un ?",
+    "category": "taste"
+  },
+  {
+    "question": "Tu aimes boire un verre ? T'as une boisson préférée ?",
+    "category": "taste"
+  },
+  {
+    "question": "Quand t'écoutes de la musique, tu te concentres sur les paroles ou la mélodie ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as une destination de voyage où tu voudrais retourner ?",
+    "category": "taste"
+  },
+  {
+    "question": "Tu te détends comment chez toi ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quoi le meilleur repas que t'aies jamais eu ?",
+    "category": "taste"
+  },
+  {
+    "question": "Sur les réseaux, c'est quel genre de contenu que tu consommes le plus ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'aimes cuisiner ? T'as un plat que tu maîtrises bien ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quelle section tu traînes le plus longtemps quand tu fais du shopping ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'es plutôt activités dehors ou en intérieur ?",
+    "category": "taste"
+  },
+  {
+    "question": "Pour les vacances d'été, plage ou montagne ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un thème ou une ambiance dans ta playlist ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'es en pleine phase de quelque chose en ce moment ? Un hobby, une passion ?",
+    "category": "taste"
+  },
+  {
+    "question": "C'est quoi ton snack préféré ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as une chaîne YouTube ou un compte Insta que tu suis régulièrement ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'utilises un parfum ? C'est quelle odeur que t'aimes ?",
+    "category": "taste"
+  },
+  {
+    "question": "Tu bois du café ? T'as un café préféré ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'écoutes de la musique quand tu travailles ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'aimes les plats épicés ?",
+    "category": "taste"
+  },
+  {
+    "question": "Si tu commandes en livraison, c'est quoi d'habitude ?",
+    "category": "taste"
+  },
+  {
+    "question": "Quand tu voyages, c'est quoi ta priorité — l'hébergement, la nourriture ou les visites ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as développé un intérêt pour quelque chose de nouveau récemment ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un sport ou une équipe que tu suis ?",
+    "category": "taste"
+  },
+  {
+    "question": "Tes goûts ont beaucoup changé avec le temps ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as une fleur ou une plante préférée ?",
+    "category": "taste"
+  },
+  {
+    "question": "Tu préfères les vidéos courtes ou les longues ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'aimes les desserts ? C'est quoi ton préféré ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'as un hobby que t'as jamais essayé mais qui t'attire ?",
+    "category": "taste"
+  },
+  {
+    "question": "T'es plutôt lève-tôt ou couche-tard ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Tu peux me décrire brièvement ta journée type en semaine ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "C'est comment ta journée idéale le weekend ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'es plutôt casanier ou tu préfères être dehors ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Tu vis seul ou avec ta famille ? Les deux ont leurs avantages j'imagine.",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'as une activité sportive régulière ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'as l'habitude de manger souvent seul ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'as un rituel que tu fais avant de te coucher ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Tu fais attention à ta santé d'une façon particulière ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'es plutôt organisé ou spontané dans ta façon de vivre ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Si une journée se libère spontanément, tu la passes comment ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'es plutôt économe ou tu dépenses sans trop compter ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Tu fais souvent le ménage ? T'es quelqu'un d'ordonné ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Tu cuisines souvent chez toi ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Tu gardes souvent contact avec les gens ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'as l'habitude de faire la sieste ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'arrives à bien équilibrer travail et repos ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'as un quartier ou un endroit où tu passes le plus de temps ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Tu fais quoi après le boulot pour décompresser ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'es du genre à faire des achats impulsifs ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Tu manges au restau combien de fois par mois à peu près ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'as besoin de combien de temps seul pour te ressourcer ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Tu pars en voyage souvent ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Sur les réseaux, tu postes ou tu regardes plutôt ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "C'est comment chez toi ? Quel genre d'espace t'as créé ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'es régulier dans la lecture ou l'apprentissage ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Tu vois tes amis souvent ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Tu dors bien en général ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Comment tu gères le stress quand ça monte ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'as un animal de compagnie ou tu en voudrais un ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'aimes te balader ou marcher ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'as beaucoup d'engagements sociaux en général ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Tu vas souvent voir ta famille pour les fêtes ou les occasions ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "C'est quoi ta dépense dont tu n'as jamais de regrets ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'as tendance à te coucher tôt ou tard ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Les relations sociales te demandent beaucoup d'énergie ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'as une vie très rythmée et régulière ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "T'aimes essayer de nouvelles choses ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Y'a quelque chose dans tes habitudes actuelles que t'aimerais changer ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "C'est quand que tu te sens le plus toi-même dans ta journée ?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "C'est quoi ce qui compte le plus pour toi dans la vie ?",
+    "category": "values"
+  },
+  {
+    "question": "Pour toi, une bonne relation amoureuse c'est quoi en un mot ?",
+    "category": "values"
+  },
+  {
+    "question": "Y'a quelque chose sur quoi tu ne feras jamais de compromis dans une relation ?",
+    "category": "values"
+  },
+  {
+    "question": "C'est comment tu voudrais être dans une relation ?",
+    "category": "values"
+  },
+  {
+    "question": "Tu penses que deux personnes très différentes peuvent bien s'entendre ?",
+    "category": "values"
+  },
+  {
+    "question": "Comment tu vois les choses par rapport à la fréquence de contact dans un couple ?",
+    "category": "values"
+  },
+  {
+    "question": "Tu penses que la confiance c'est ce qui compte le plus dans une relation ?",
+    "category": "values"
+  },
+  {
+    "question": "T'as besoin de temps seul de façon régulière ?",
+    "category": "values"
+  },
+  {
+    "question": "C'est quoi une bonne conversation pour toi ?",
+    "category": "values"
+  },
+  {
+    "question": "C'est quoi ton rapport à l'argent dans ta vie ?",
+    "category": "values"
+  },
+  {
+    "question": "La famille c'est quoi pour toi ?",
+    "category": "values"
+  },
+  {
+    "question": "La liberté ou la stabilité, laquelle tu privilégierais ?",
+    "category": "values"
+  },
+  {
+    "question": "T'as quelque chose pour lequel tu es particulièrement reconnaissant dans ta vie ?",
+    "category": "values"
+  },
+  {
+    "question": "Tu penses que les mots de tendresse sont importants dans une relation ?",
+    "category": "values"
+  },
+  {
+    "question": "Quand le boulot est chargé, comment tu gardes une relation vivante selon toi ?",
+    "category": "values"
+  },
+  {
+    "question": "Entre amis et partenaire, à qui tu donnes le plus de temps selon toi ?",
+    "category": "values"
+  },
+  {
+    "question": "Comment tu règles les conflits dans une relation selon toi ?",
+    "category": "values"
+  },
+  {
+    "question": "Tu penses que les gens peuvent vraiment changer ?",
+    "category": "values"
+  },
+  {
+    "question": "T'as une valeur qui a évolué avec l'âge ?",
+    "category": "values"
+  },
+  {
+    "question": "C'est comment ta vision du mariage ?",
+    "category": "values"
+  },
+  {
+    "question": "T'aimes mieux quelqu'un qui te ressemble ou quelqu'un de différent ?",
+    "category": "values"
+  },
+  {
+    "question": "Tu penses qu'il faut connaître le passé de l'autre dans une relation ?",
+    "category": "values"
+  },
+  {
+    "question": "T'es du style à te concentrer vraiment sur une seule personne à la fois ?",
+    "category": "values"
+  },
+  {
+    "question": "La franchise c'est important pour toi dans une relation ?",
+    "category": "values"
+  },
+  {
+    "question": "C'est quoi ton critère pour te sentir heureux ?",
+    "category": "values"
+  },
+  {
+    "question": "C'est quoi un geste de l'autre qui te fait sentir vraiment pris en compte ?",
+    "category": "values"
+  },
+  {
+    "question": "Tu penses que s'aimer soi-même c'est la base pour bien aimer les autres ?",
+    "category": "values"
+  },
+  {
+    "question": "Tu penses qu'une bonne alchimie vaut mieux qu'un idéal sur papier ?",
+    "category": "values"
+  },
+  {
+    "question": "Tu penses qu'un couple doit garder ses espaces personnels ?",
+    "category": "values"
+  },
+  {
+    "question": "T'as vécu une expérience qui t'a fait vraiment grandir ?",
+    "category": "values"
+  },
+  {
+    "question": "T'aimes mieux les grands groupes ou les échanges en petit comité ?",
+    "category": "values"
+  },
+  {
+    "question": "C'est avec quel genre de personne tu te sens le plus à l'aise ?",
+    "category": "values"
+  },
+  {
+    "question": "Tu te préoccupes du regard des autres ?",
+    "category": "values"
+  },
+  {
+    "question": "T'as un rêve que tu veux réaliser en ce moment ?",
+    "category": "values"
+  },
+  {
+    "question": "C'est quoi selon toi le secret pour qu'une bonne relation dure ?",
+    "category": "values"
+  },
+  {
+    "question": "C'est quoi chez une personne qui fait qu'on la retient longtemps ?",
+    "category": "values"
+  },
+  {
+    "question": "Si tu devais te décrire en un mot, ce serait lequel ?",
+    "category": "values"
+  },
+  {
+    "question": "Tu exprimes bien ce que tu ressens en général ?",
+    "category": "values"
+  },
+  {
+    "question": "T'as quelque chose que tu veux absolument faire dans ta vie ?",
+    "category": "values"
+  },
+  {
+    "question": "C'est comment tu espères que cette soirée se passe ?",
+    "category": "values"
+  }
+]

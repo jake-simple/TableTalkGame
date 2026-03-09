@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Pizza margherita ou pizza 4 fromages, t'hésites ou c'est direct ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ananas sur la pizza OK ou non ? Dis-nous aussi pourquoi.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Blanc ou cuisse, c'est quoi la meilleure partie du poulet ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Bus ou métro, lequel tu préfères vraiment ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Le petit-déjeuner c'est obligatoire ou on peut s'en passer ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Les gens qui travaillent sur leur ordi au café, c'est OK ou ça prend trop de place ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Les frais de livraison, tu les acceptes jusqu'à combien ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Soupe ou salade, t'as une préférence claire ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Quelqu'un qui met plusieurs alarmes le matin ou une seule, lequel tu comprends le mieux ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Pour les chaussures, le confort c'est plus important que le style ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Un ami qui répond peu vs un ami qui répond trop, lequel te pèse le plus ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Au resto, t'aimes mieux garder la table ou aller commander, lequel tu détestes le plus ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Tu dois toujours amener ton sac réutilisable quand tu fais les courses ou le sachet plastique c'est pas si grave ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "En cas de resquillage dans la file, tu dis quelque chose ou tu laisses tomber ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Café froid ou chaud, peu importe la saison ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Marcher pour économiser le taxi ou payer pour l'aisance, c'est quoi ton style ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Partir en premier d'une soirée, c'est impoli ou pas ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Demander un doggy bag au resto c'est tout à fait naturel ou encore un peu gênant ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Couper les notifications d'un groupe WhatsApp c'est impoli ou totalement justifié ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Pour un cadeau, tu préfères quelque chose de choisi avec soin ou un chèque cadeau ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Baisser la voix en lieu public pour téléphoner c'est nécessaire ou on est trop pointilleux là-dessus ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Manger du popcorn au cinéma c'est normal ou dérangeant ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Faire semblant de pas avoir vu quelqu'un qu'on connaît dans la rue, t'arrives à comprendre ça ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Pour appeler un serveur, tu lèves la main ou tu dis 'excusez-moi', lequel est le plus à l'aise pour toi ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Lu mais sans réponse ou pas vu du tout, c'est lequel le pire ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "En livraison ou en mangeant sur place, quel est le plus important pour toi le goût ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Dans l'ascenseur avec un inconnu, t'arrives à garder le contact visuel ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Laisser de la nourriture dans l'assiette c'est du gaspillage ou tout finir c'est une obsession ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Porter des chaussons à la maison c'est obligatoire ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Quelqu'un qui arrive à l'heure pile ou quelqu'un qui arrive 5 minutes avant, lequel tu préfères ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Les lacets de baskets, tu les noues vraiment ou tu les laisses toujours attachés ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Bibliothèque ou café, où tu travailles mieux ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Commander une livraison en pleine nuit, c'est pas cool pour les voisins ou c'est ton droit ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Au resto entre amis, chacun paye sa part ou on fait tourner, lequel tu préfères ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Un sandwich de boulangerie ou se faire à manger chez soi, lequel tu choisis ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Prendre une photo avant de manger c'est normal ou autant juste manger directement ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Partager le frigo avec quelqu'un avec qui tu vis, c'est confortable ou compliqué ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Mettre la TV ou YouTube pendant les repas c'est mieux ou t'aimes mieux manger tranquillement ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Trier les vêtements par couleur avant de mettre en machine c'est vraiment nécessaire ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Garder une place au café avec son sac, c'est acceptable ou pas ?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "À l'ère du streaming, aller au cinéma ça a encore un sens ?",
+    "category": "culture"
+  },
+  {
+    "question": "Les réseaux sociaux ont amélioré ou détérioré les relations humaines ?",
+    "category": "culture"
+  },
+  {
+    "question": "Les Shorts YouTube et les Reels nuisent vraiment à notre concentration ?",
+    "category": "culture"
+  },
+  {
+    "question": "La culture fandom des groupes de pop, tu comprends ou tu trouves ça excessif ?",
+    "category": "culture"
+  },
+  {
+    "question": "Les livres papier ont plus de valeur que les ebooks ?",
+    "category": "culture"
+  },
+  {
+    "question": "Les remakes de films ou séries, il y en a qui surpassent l'original selon toi ?",
+    "category": "culture"
+  },
+  {
+    "question": "Un dessin créé par une IA peut-il être considéré comme de l'art ?",
+    "category": "culture"
+  },
+  {
+    "question": "La culture française a gagné en image grâce à son rayonnement culturel international ?",
+    "category": "culture"
+  },
+  {
+    "question": "Les produits promus par des célébrités, t'y fais confiance ?",
+    "category": "culture"
+  },
+  {
+    "question": "Jusqu'où est-ce acceptable de rendre publique la vie privée des célébrités ?",
+    "category": "culture"
+  },
+  {
+    "question": "T'as déjà eu l'impression qu'Instagram ou YouTube était plus fiable que les infos ?",
+    "category": "culture"
+  },
+  {
+    "question": "Regarder un film avec ou sans sous-titres, t'as une préférence ?",
+    "category": "culture"
+  },
+  {
+    "question": "Le streaming a tué l'industrie musicale ou l'a sauvée ?",
+    "category": "culture"
+  },
+  {
+    "question": "Consommer de l'information en vidéo plutôt qu'en texte, c'est paresseux ou adapté au monde d'aujourd'hui ?",
+    "category": "culture"
+  },
+  {
+    "question": "Voyager dans un pays avec lequel on a des différends politiques, c'est OK ou problématique ?",
+    "category": "culture"
+  },
+  {
+    "question": "Suivre des célébrités sur les réseaux sociaux, ça t'inspire ou ça te pousse à la comparaison ?",
+    "category": "culture"
+  },
+  {
+    "question": "La qualité d'un clip vidéo est aussi importante que la chanson ?",
+    "category": "culture"
+  },
+  {
+    "question": "Le développement de la culture des plats préparés et livraisons, c'est bien ou pas ?",
+    "category": "culture"
+  },
+  {
+    "question": "La culture de la revente de sneakers en édition limitée, tu comprends ou tu trouves ça excessif ?",
+    "category": "culture"
+  },
+  {
+    "question": "Les séries d'aujourd'hui sont meilleures qu'avant ?",
+    "category": "culture"
+  },
+  {
+    "question": "L'influence des influenceurs est devenue trop importante ?",
+    "category": "culture"
+  },
+  {
+    "question": "L'esport devrait être reconnu comme un sport officiel ?",
+    "category": "culture"
+  },
+  {
+    "question": "Les séries avec des méchants complexes sont plus intéressantes que celles avec des héros irréprochables ?",
+    "category": "culture"
+  },
+  {
+    "question": "La bande dessinée numérique qui remplace la BD papier, c'est une bonne chose ?",
+    "category": "culture"
+  },
+  {
+    "question": "Un voyage à l'étranger est toujours plus spécial qu'un voyage en France ?",
+    "category": "culture"
+  },
+  {
+    "question": "Pour un mariage, c'est quoi le montant correct à offrir selon toi ?",
+    "category": "culture"
+  },
+  {
+    "question": "Les traditions de fêtes de famille doivent évoluer ? Comment ?",
+    "category": "culture"
+  },
+  {
+    "question": "Les téléphones devraient être totalement interdits pendant un spectacle ?",
+    "category": "culture"
+  },
+  {
+    "question": "Avec les traducteurs IA, apprendre une langue étrangère est devenu moins nécessaire ?",
+    "category": "culture"
+  },
+  {
+    "question": "Le marketing sans réseaux sociaux, c'est encore possible ?",
+    "category": "culture"
+  },
+  {
+    "question": "Les contenus d'aujourd'hui sont devenus trop sensationnalistes ?",
+    "category": "culture"
+  },
+  {
+    "question": "Les grandes plateformes tech comme Google ou Meta ont trop de monopole ?",
+    "category": "culture"
+  },
+  {
+    "question": "La tendance bien-être change vraiment la vie ou c'est juste du marketing ?",
+    "category": "culture"
+  },
+  {
+    "question": "Des célébrités qui font des chaînes de cuisine YouTube, c'est intéressant ou c'est juste pour l'image ?",
+    "category": "culture"
+  },
+  {
+    "question": "Connaître la fin d'un film à l'avance, ça ruine le plaisir ou pas forcément ?",
+    "category": "culture"
+  },
+  {
+    "question": "Le karaoké qui disparaît progressivement, ça te manque ?",
+    "category": "culture"
+  },
+  {
+    "question": "Dans la culture du travail des jeunes, le savoir-être devrait primer sur le CV ?",
+    "category": "culture"
+  },
+  {
+    "question": "Le luxe c'est du gaspillage ou une consommation qui a de la valeur ?",
+    "category": "culture"
+  },
+  {
+    "question": "Les YouTubeurs devraient avoir autant de responsabilité que les médias traditionnels concernant leur influence ?",
+    "category": "culture"
+  },
+  {
+    "question": "Les vidéos courtes comme TikTok sont en train de remplacer les vidéos longues ?",
+    "category": "culture"
+  },
+  {
+    "question": "Une vraie amitié entre personnes de sexes différents, tu penses que c'est possible ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Dans un couple, avoir des secrets c'est acceptable ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Être amis avant d'être en couple, ça dure plus longtemps ?",
+    "category": "relationship"
+  },
+  {
+    "question": "La fréquence des messages reflète l'intensité des sentiments ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Le coup de foudre peut devenir un vrai amour ?",
+    "category": "relationship"
+  },
+  {
+    "question": "La différence d'âge est importante dans une amitié ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Dans un couple, chacun doit avoir accès aux comptes de l'autre sur les réseaux ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Une relation à distance, c'est viable ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Les gens changent vs le caractère fondamental ne change pas, tu es plutôt de quel côté ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Rester amis après une rupture, tu penses que c'est possible ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Être totalement honnête avec son ou sa partenaire c'est toujours la meilleure chose ?",
+    "category": "relationship"
+  },
+  {
+    "question": "La phase de flirt est une étape nécessaire ou c'est juste une perte de temps ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Les transactions d'argent entre amis c'est à éviter ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Le passé amoureux de ton ou ta partenaire, tu dois nécessairement le connaître ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Quelqu'un qui a trompé, c'est difficile de lui faire confiance à nouveau ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Dans une relation, les points communs ou les différences, c'est quoi le plus important ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Avoir le béguin pour quelqu'un longtemps sans se déclarer, c'est lâche ou romantique ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Partager les mêmes loisirs que son ou sa partenaire, c'est pas vraiment obligatoire ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Les amis peuvent être plus importants que la famille ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Organiser une rencontre arrangée pour quelqu'un, c'est une demande trop lourde ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Une relation avec plus de 10 ans de différence d'âge, tu vois pas de problème ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Vivre ensemble avant le mariage, c'est nécessaire ?",
+    "category": "relationship"
+  },
+  {
+    "question": "L'ami d'un ami peut devenir ton ami ou c'est toujours un peu gênant ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Dans une relation, c'est toujours celui qui contacte en premier qui est le plus amoureux ?",
+    "category": "relationship"
+  },
+  {
+    "question": "L'indépendance financière dans un couple rend la relation plus saine ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Quand un ami est dans une mauvaise relation, tu dois le lui dire franchement ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Les sentiments amoureux peuvent se développer par la volonté ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Le mariage par amour seul c'est possible vs la réalité pratique doit aussi s'aligner ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Dans un couple, les disputes doivent se régler sur le moment ou après un temps de recul ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Se déclarer en premier à quelqu'un qu'on aime, c'est mieux ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Contacter en premier un ami avec qui on s'est éloigné, c'est la bonne chose à faire ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Se lier d'amitié avec les amis de son ou sa partenaire c'est important ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Si tes parents s'opposent à ta relation, tu fais quoi ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Tu crois aux âmes sœurs ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Quand t'es en colère contre un ami, tu lui dis directement ou tu passes à autre chose ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Dans un couple, chacun peut regarder le téléphone de l'autre ou l'espace privé doit être respecté ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Une relation ça s'entretient avec des efforts ou ça suit son cours naturellement ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Moins de messages quand on est occupé, c'est compréhensible ?",
+    "category": "relationship"
+  },
+  {
+    "question": "La jalousie dans un couple c'est une preuve d'amour ou de la possessivité ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Sortir avec l'ex d'un bon ami, c'est acceptable ?",
+    "category": "relationship"
+  },
+  {
+    "question": "Avec de l'argent, la plupart des bonheurs sont accessibles ?",
+    "category": "life"
+  },
+  {
+    "question": "Vivre de façon épanouissante est plus important que de travailler dur ?",
+    "category": "life"
+  },
+  {
+    "question": "La chance représente plus de 50% du succès ?",
+    "category": "life"
+  },
+  {
+    "question": "Bien vivre c'est être heureux vs bien vivre c'est vivre de façon significative ?",
+    "category": "life"
+  },
+  {
+    "question": "Le diplôme compte encore vraiment dans la société aujourd'hui ?",
+    "category": "life"
+  },
+  {
+    "question": "Se comparer aux autres c'est pas forcément négatif ?",
+    "category": "life"
+  },
+  {
+    "question": "Se prioriser soi-même c'est égoïste ou pas ?",
+    "category": "life"
+  },
+  {
+    "question": "On peut tout réussir avec de l'effort, tu y crois vraiment ?",
+    "category": "life"
+  },
+  {
+    "question": "La trentaine ou la vingtaine, c'est lequel qui est plus libre selon toi ?",
+    "category": "life"
+  },
+  {
+    "question": "Accumuler des expériences fait de nous une meilleure personne ?",
+    "category": "life"
+  },
+  {
+    "question": "Il faut supporter ce qu'on n'aime pas maintenant pour le futur ou le bonheur présent prime ?",
+    "category": "life"
+  },
+  {
+    "question": "Se marier c'est vraiment nécessaire selon toi ?",
+    "category": "life"
+  },
+  {
+    "question": "On grandit seul vs on grandit dans les relations, lequel tu penses ?",
+    "category": "life"
+  },
+  {
+    "question": "Les gens honnêtes finissent par mieux s'en sortir ?",
+    "category": "life"
+  },
+  {
+    "question": "Pour le travail, t'aimes mieux faire ce qu'on aime ou faire ce qu'on fait bien ?",
+    "category": "life"
+  },
+  {
+    "question": "Une vie stable rend plus heureux qu'une vie pleine de rebondissements ?",
+    "category": "life"
+  },
+  {
+    "question": "Avoir des rêves de moins en moins grands en vieillissant, c'est naturel ?",
+    "category": "life"
+  },
+  {
+    "question": "La raison donne de meilleurs résultats que l'émotion dans les décisions importantes ?",
+    "category": "life"
+  },
+  {
+    "question": "Vivre normalement est devenu vraiment difficile dans notre époque ?",
+    "category": "life"
+  },
+  {
+    "question": "L'échec est la mère du succès, tu y adhères vraiment ?",
+    "category": "life"
+  },
+  {
+    "question": "Naître riche c'est une capacité ou juste de la chance ?",
+    "category": "life"
+  },
+  {
+    "question": "Avant la quarantaine, il faut avoir tout essayé ?",
+    "category": "life"
+  },
+  {
+    "question": "Vivre bien finit toujours par attirer de bonnes choses, tu y crois ?",
+    "category": "life"
+  },
+  {
+    "question": "La génération actuelle a plus de difficultés que celle des parents ?",
+    "category": "life"
+  },
+  {
+    "question": "Se sacrifier pour les autres c'est le vrai amour vs on ne doit pas se perdre soi-même ?",
+    "category": "life"
+  },
+  {
+    "question": "Quitter son emploi pour monter sa boîte, ça vaut le coup ?",
+    "category": "life"
+  },
+  {
+    "question": "Le sentiment de devoir être un bon fils ou une bonne fille pour ses parents, tu le ressens ?",
+    "category": "life"
+  },
+  {
+    "question": "Quand on se fait avoir injustement, se taire c'est la sagesse ?",
+    "category": "life"
+  },
+  {
+    "question": "Il y a une façon de vivre qui correspond à chaque âge ?",
+    "category": "life"
+  },
+  {
+    "question": "S'inquiéter beaucoup c'est être prévoyant ou gaspiller son énergie ?",
+    "category": "life"
+  },
+  {
+    "question": "Minimiser les regrets peut être un objectif de vie ?",
+    "category": "life"
+  },
+  {
+    "question": "T'as déjà changé de décision à cause du regard des autres ? Et tu penses que c'était juste ?",
+    "category": "life"
+  },
+  {
+    "question": "Les mauvaises expériences finissent toujours par servir ?",
+    "category": "life"
+  },
+  {
+    "question": "Sans passion mais avec sérieux et constance, c'est une meilleure vie ?",
+    "category": "life"
+  },
+  {
+    "question": "Faire le même travail toute sa vie c'est mieux ou avoir des vies variées ?",
+    "category": "life"
+  },
+  {
+    "question": "T'auras l'impression de ne rien regretter avant de mourir ?",
+    "category": "life"
+  },
+  {
+    "question": "Un bel appartement ou de beaux voyages, si tu devais choisir ?",
+    "category": "life"
+  },
+  {
+    "question": "La chance est plus importante que l'effort dans la vie ?",
+    "category": "life"
+  },
+  {
+    "question": "Quelqu'un qui préfère être seul est désavantagé dans les relations sociales ?",
+    "category": "life"
+  },
+  {
+    "question": "Ce moment de ta vie, t'as l'impression que c'est le meilleur ?",
+    "category": "life"
+  }
+]

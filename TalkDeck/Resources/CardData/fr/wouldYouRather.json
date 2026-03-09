@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Pizza ou burger, si tu pouvais en manger qu'un seul pour toujours ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Été ou hiver, si tu devais vivre dans une seule saison pour toujours ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Lève-tôt ou couche-tard, si t'avais pas le choix pour le reste de ta vie ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Café ou thé, si tu pouvais boire qu'un seul pour le reste de ta vie ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "SMS ou appels, si tu ne pouvais utiliser qu'un seul moyen de contact ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Poulet rôti ou poulet frit, si tu devais choisir pour toujours ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Cinéma ou streaming à la maison, si tu pouvais n'en avoir qu'un pour toujours ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Pâtes ou riz, si tu devais te limiter à une seule glucide pour toujours ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Escaliers ou escalator, si t'avais pas le choix pour toujours ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Bus ou métro, si tu pouvais utiliser qu'un seul transport en commun ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Porc ou bœuf, si tu ne pouvais manger qu'une seule viande pour toujours ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Livraison à domicile ou manger sur place, si tu devais choisir une seule option ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Musique ou podcast, si tu pouvais écouter qu'une seule chose en déplacement ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Instagram ou YouTube, si tu ne pouvais en garder qu'un ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Sieste ou snack de minuit, si tu pouvais n'en profiter que d'un ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Pain ou riz, si tu ne pouvais manger qu'un seul féculent pour toujours ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "En intérieur ou en extérieur, si tu devais toujours manger au même endroit ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Chat ou chien, si tu ne pouvais avoir qu'un seul animal de compagnie ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Sport ou marche, si tu ne pouvais faire qu'une seule activité physique pour toujours ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Voyages en France ou à l'étranger, si tu pouvais n'en faire qu'un ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Sucré ou salé, si tes snacks devaient tous avoir le même goût ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Écouteurs ou enceinte, si tu ne pouvais écouter de la musique que d'une façon ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Douche ou bain, si tu devais n'utiliser qu'une seule méthode pour toujours ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Livres ou YouTube, si tu ne pouvais obtenir des infos que d'une seule façon ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Glace ou gâteau, si tu ne pouvais manger qu'un seul dessert pour toujours ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Café ou maison, si ton lieu de travail ou d'étude était fixé pour toujours ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Texte ou mémo vocal, si tu ne pouvais envoyer des messages que d'une seule façon ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Films ou séries, si tu ne pouvais regarder qu'un seul type de contenu ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Cuisiner soi-même ou se faire livrer, si tu devais choisir une méthode pour tous les repas ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Baskets ou chaussures de ville, si tu ne pouvais porter qu'un seul type de chaussures ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Épicerie du coin ou supermarché, si tu devais toujours faire tes courses au même endroit ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Salade ou soupe, si tu ne pouvais manger qu'un seul type de plat léger ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Café calme ou café animé, si tu devais toujours en choisir un ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Voyager avec un plan ou de façon spontanée, si tu devais n'avoir qu'un seul style ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Chaud et ensoleillé ou frais et nuageux, si c'était la météo permanente de ta vie ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Sucré-salé ou neutre et doux, si ton goût alimentaire était fixé pour toujours ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Se coucher tôt et se lever tôt ou se coucher tard et se lever tard, pour toujours ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Sortir le week-end ou rester chez soi, si tu ne pouvais te reposer que d'une seule façon ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Nouveau menu ou plat habituel, si tu devais toujours n'en choisir qu'un ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Smartphone ou ordinateur portable, si tu ne pouvais garder qu'un seul appareil ?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Riche mais solitaire ou pauvre mais entouré d'amour ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Tout se souvenir ou effacer tous les mauvais souvenirs ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Faire ce qu'on aime en vivant pauvrement ou faire ce qu'on déteste en vivant dans l'aisance ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Réussir 10 ans plus tôt mais mourir jeune ou vivre longtemps normalement ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Être le seul à dire la vérité dans un monde de menteurs ou mentir librement dans un monde honnête ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Être aimé de tout le monde ou être vraiment aimé par une seule personne ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Réaliser ton rêve mais perdre ta famille ou renoncer à ton rêve pour rester avec ta famille ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Connaître le passé mais ignorer le futur ou connaître le futur mais oublier le passé ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Être célèbre mais que personne ne te connaisse vraiment ou être inconnu mais être sincèrement aimé ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Dix courtes joies ou une seule joie parfaite ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Être en parfaite santé mais sans argent ou être riche mais toujours malade ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Être bon dans tout sans spécialité ou être parfait dans une seule chose ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "La personne que t'aimes t'oublie ou c'est toi qui oublies la personne que t'aimes ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Perdre ton meilleur ami mais réussir ou perdre ta réussite mais garder ton meilleur ami ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "N'aimer qu'une seule personne toute ta vie ou aimer plusieurs personnes mais superficiellement ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Lire dans les pensées de tout le monde mais exposer les tiennes ou ne rien savoir mais garder tes secrets ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "N'exceller que dans ce qu'on aime ou être bon dans tout même ce qu'on déteste ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Être mémorable mais malheureux ou être oublié mais heureux ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Être en bonne santé jusqu'à la mort ou réaliser tous ses rêves mais mourir jeune ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Être aimé mais pas respecté ou être respecté mais pas aimé ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Perdre ce que t'as maintenant pour une chance d'avoir plus ou garder ce que t'as sans progresser ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "N'avoir jamais de temps seul mais ne jamais être seul ou toujours être seul mais complètement libre ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Admettre qu'on a tort ou vivre en croyant toujours avoir raison ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Avoir fait des efforts et échouer ou ne pas avoir essayé et réussir quand même ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Avoir essayé courageusement et regretter ou ne pas avoir osé et regretter ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Vivre selon les attentes des autres ou vivre selon ses propres critères ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Connaître toutes les vérités et en souffrir ou vivre dans de beaux mensonges et être heureux ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Aimer une seule chose passionnément ou aimer plein de choses modérément ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Tout obtenir mais avec un chemin difficile ou un chemin agréable mais sans résultat ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Ne jamais pardonner complètement quelqu'un ou ne jamais être complètement pardonné ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Prendre la douleur de quelqu'un qu'on aime à sa place ou que quelqu'un qu'on aime prenne la nôtre ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Profiter du présent mais s'inquiéter du futur ou sacrifier le présent pour le futur ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Toujours décider seul ou que quelqu'un décide toujours à ta place ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Être génial mais ne jamais travailler ou être ordinaire mais travailler sans relâche ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Garder tous les mauvais souvenirs et grandir ou effacer les mauvais souvenirs et vivre léger ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Que tout le monde te connaisse ou que personne ne te connaisse ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Être heureux maintenant mais regretter plus tard ou souffrir maintenant mais être fier plus tard ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Perdre l'amour pour gagner la liberté ou perdre la liberté pour gagner l'amour ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Réussir au maximum mais que personne le reconnaisse ou vivre normalement mais être reconnu par tous ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Une grande erreur ou des dizaines de petites erreurs, laquelle tu préfères ?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Que chacun de tes pas fasse un bruit de klaxon ou que chacun de tes rires soit un bruit de pet ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Tes pieds qui sentent le chocolat ou ta bouche qui sent l'ail pour toujours ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Avoir des cheveux en spaghettis ou des ongles en baguettes de pain ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Devoir chanter tout ce que tu dis ou rapper tout ce que tu dis ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Un selfie se prend chaque fois que tu cligne des yeux ou des feux d'artifice s'allument chaque fois que tu éternues ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ton corps est invisible mais tes vêtements voient ou tes vêtements sont invisibles mais ton corps voit ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Avoir la voix d'un enfant pour toujours ou la voix d'un vieux monsieur pour toujours ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Avoir 10 mains ou 10 pieds ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Parler dans une autre langue en dormant ou oublier ton prénom chaque matin au réveil ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Un coq chante quand t'as faim ou tu chantes comme un rossignol quand t'as l'estomac plein ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Tes pensées apparaissent en bulles au-dessus de ta tête ou ton humeur s'affiche comme la météo sur ton visage ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Une musique de fond joue partout où tu marches ou les lumières changent selon ton humeur ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Devoir exprimer le goût de ta nourriture avec des sons ou avoir des sous-titres qui apparaissent quand tu parles ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ta taille change de 1 cm chaque jour ou ton poids change de 1 kg chaque jour ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Avoir le nez d'un éléphant ou les oreilles d'un lapin ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Des trompettes sonnent chaque fois que tu vas aux toilettes ou tu rottes comme une sirène de voiture ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Voir les odeurs en couleurs ou ressentir les sons comme des goûts ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ne porter que des claquettes pour toujours ou ne porter qu'un costume-cravate pour toujours ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ton prénom change chaque mois ou ton visage change légèrement chaque mois ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Réagir toujours une seconde trop tard ou rire d'avance à quelque chose qui n'est pas encore arrivé ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ne pouvoir marcher qu'en reculant ou ne pouvoir t'asseoir que de côté ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Quelqu'un mastique pour toi à chaque repas ou tu entends les pensées des gens à voix haute quand tu réfléchis ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Fermer obligatoirement les yeux sur chaque photo ou tirer obligatoirement la langue sur chaque photo ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Entendre l'histoire de chaque objet que tu touches ou entendre les préoccupations récentes de chaque personne que tu touches ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Parler toujours en double vitesse ou bouger toujours au ralenti ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Tes rêves sont diffusés en direct ou tu te réveilles en les racontant à voix haute ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Vivre dans un monde entièrement en LEGO ou entièrement en autocollants ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Tu t'envoles quand tu ris ou tu te colles au sol quand tu pleures ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "La nourriture que tu manges change la couleur de tes cheveux ou la musique que t'écoutes change la couleur de tes yeux ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ton corps rétrécit quand t'as sommeil ou devient deux fois plus grand quand t'es excité ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Les gens t'entendent miauler quand tu leur téléphones ou tu parles avec une voix de robot quand tu salues quelqu'un ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Avoir les pieds magnétiques ou les mains en velcro ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Perdre 1 an de mémoire à chaque anniversaire ou rajeunir d'un an à chaque anniversaire ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Devoir danser une fois par jour ou devoir chanter une fois par jour ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Avoir des yeux comme des jumelles ou des oreilles comme un radar ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ne dormir que dans un frigo ou ne prendre sa douche que dans un lave-linge ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Tous les aliments ont le même goût ou le même aliment a un goût différent à chaque bouchée ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Tes souvenirs de la veille sont mélangés au hasard chaque matin ou tu rêves de quelqu'un d'aléatoire chaque nuit ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Pleurer quand tu ris et rire quand tu es triste ou éternuer quand tu es joyeux et avoir le hoquet quand tu es en colère ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ton ombre ne suit pas tes mouvements ou ton reflet dans le miroir fait le contraire ?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Toujours dire la vérité ou mentir librement ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Perdre la mémoire ou perdre les émotions ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Être aimé mais pas compris ou être compris mais pas aimé ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Vivre longtemps mais de façon ennuyeuse ou vivre court mais intensément ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Tout faire seul ou toujours avoir besoin de l'aide des autres ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Réaliser son rêve mais être seul ou abandonner son rêve mais être entouré ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Pouvoir changer le passé mais perdre le présent ou garder le passé intact mais connaître le futur ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Aimer quelqu'un de mauvais en le sachant ou être avec quelqu'un de bien sans amour ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Apprendre toute sa vie ou enseigner toute sa vie ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Vivre pour soi ou vivre pour les autres ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Être aimé par tous ou se sentir épanoui par soi-même ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Avoir essayé courageusement et échoué ou avoir joué la sécurité et ne jamais avoir tenté ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Connaître un bonheur parfait brièvement ou un bonheur ordinaire durablement ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Être libre mais seul ou être entouré mais encadré ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Avoir raison mais se taire ou risquer de se tromper mais parler ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Un monde où personne ne te juge ou un monde où tout le monde te dit honnêtement ce qu'il pense ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Savoir qu'on va mourir et vivre avec ou croire qu'on est immortel ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Être mémorisé comme quelqu'un de fort ou comme quelqu'un de chaleureux ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Avoir toujours le choix libre ou que chaque choix soit toujours accompagné de responsabilité ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Exprimer sa sincérité mais ne jamais être compris ou être compris de tous sans avoir besoin de parler ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Être trahi par quelqu'un en qui t'avais confiance ou trahir quelqu'un toi-même ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Une vie stable sans changement ou une vie instable mais en croissance constante ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Prendre ses distances pour ne pas blesser ou rester proche même si ça blesse ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Que tout le monde connaisse tes faiblesses ou que personne ne connaisse tes forces ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Ne rien savoir et être heureux ou tout savoir et être anxieux ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Commencer à aimer en premier ou terminer une relation en premier ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Ressentir la souffrance des autres ou être insensible à la souffrance des autres ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Répéter des erreurs mais apprendre ou ne faire aucune erreur mais ne rien apprendre ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Ne pas pouvoir dire ce qu'on veut ou dire ce qu'on veut mais ne jamais l'obtenir ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Traiter tout le monde équitablement ou se concentrer uniquement sur les personnes qui comptent ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Se perdre pour préserver une relation ou perdre une relation pour se préserver ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Pardonner facilement ou ne pas pouvoir oublier facilement ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "S'ouvrir aux autres facilement ou avoir un cœur solide ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Accepter ce qu'on ne peut pas changer ou continuer à lutter contre malgré tout ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Prendre toutes les décisions seul toute sa vie ou toujours les prendre avec quelqu'un ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Se voir offrir la chance de revivre sa vie et l'accepter ou la refuser ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Être respecté ou être aimé à la fin de sa vie ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Grandir grâce aux regrets ou vivre sans regrets et en paix ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Tout laisser tomber et recommencer à zéro ou s'accrocher à ce qu'on a et continuer ?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Avoir haï sincèrement quelqu'un une fois dans sa vie ou n'avoir jamais vraiment haï personne ?",
+    "category": "seriousChoice"
+  }
+]

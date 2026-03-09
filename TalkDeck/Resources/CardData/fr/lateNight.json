@@ -1,0 +1,642 @@
+[
+  {
+    "question": "C'est quoi la chanson qui te vient à l'esprit là maintenant ?",
+    "category": "emotional"
+  },
+  {
+    "question": "C'est quoi le meilleur moment de ta journée aujourd'hui ?",
+    "category": "emotional"
+  },
+  {
+    "question": "T'as une chanson que t'écoutes beaucoup en ce moment ? Pourquoi tu penses que c'est celle-là ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Si tu devais choisir une couleur pour cette nuit, ce serait laquelle ?",
+    "category": "emotional"
+  },
+  {
+    "question": "En un seul mot, quelle est ton émotion la plus honnête aujourd'hui ?",
+    "category": "emotional"
+  },
+  {
+    "question": "C'est quoi l'émotion qui revient le plus souvent en ce moment ?",
+    "category": "emotional"
+  },
+  {
+    "question": "C'est quand la dernière fois que tu as eu le cœur chaud ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Le soir seul, t'as tendance à penser à quoi ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Si ce moment était une photo, c'est quelle scène que tu garderais ?",
+    "category": "emotional"
+  },
+  {
+    "question": "C'est quoi l'émotion qui te semble la plus étrange en ce moment ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Y a des moments où t'as soudainement envie de contacter quelqu'un ? Lesquels ?",
+    "category": "emotional"
+  },
+  {
+    "question": "C'était quand la dernière fois que tu as ressenti de l'enthousiasme pour quelque chose ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Quand tu es triste, tu fais quoi pour t'apaiser ?",
+    "category": "emotional"
+  },
+  {
+    "question": "À quoi tu penses le plus avant de t'endormir ces derniers temps ?",
+    "category": "emotional"
+  },
+  {
+    "question": "C'était quand la dernière fois que t'as pleuré d'émotion ?",
+    "category": "emotional"
+  },
+  {
+    "question": "C'est quoi ce qui te manque le plus là maintenant ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Comment tu fais la différence entre les moments où tu préfères être seul et ceux où tu as besoin de quelqu'un ?",
+    "category": "emotional"
+  },
+  {
+    "question": "T'as l'impression de retenir une émotion en ce moment ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Quand t'as la tête qui tourne, tu t'en sors comment ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Quand tu penses à ton souvenir le plus heureux, quelle scène te vient ?",
+    "category": "emotional"
+  },
+  {
+    "question": "T'as un endroit ou un espace que tu aimes particulièrement ces temps-ci ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Y a quelqu'un envers qui t'as de la gratitude là maintenant ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Quand tu vas pas bien, t'as un comportement que tu fais sans t'en rendre compte ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Si cette nuit avait une odeur, ce serait laquelle ?",
+    "category": "emotional"
+  },
+  {
+    "question": "C'était quand le moment où t'as le plus ri aujourd'hui ?",
+    "category": "emotional"
+  },
+  {
+    "question": "T'es émotionnellement épuisé en ce moment ? Sur quoi ?",
+    "category": "emotional"
+  },
+  {
+    "question": "C'est quoi ce qui te procure de la sérénité ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Tu peux me dire honnêtement ce que tu ressens là maintenant ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Dans quels moments tu ressens de la solitude ces derniers temps ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Y a quelque chose que tu veux faire avant que cette nuit se termine ?",
+    "category": "emotional"
+  },
+  {
+    "question": "En une couleur, ta journée d'aujourd'hui c'est quoi ?",
+    "category": "emotional"
+  },
+  {
+    "question": "T'as eu un moment où tu t'es vraiment senti réconforté ?",
+    "category": "emotional"
+  },
+  {
+    "question": "C'est quoi la phrase que t'aimerais entendre là maintenant ?",
+    "category": "emotional"
+  },
+  {
+    "question": "T'as des moments où ton moral descend sans raison particulière ?",
+    "category": "emotional"
+  },
+  {
+    "question": "C'est quand que tu te sens le plus apaisé ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Y a eu un moment difficile aujourd'hui ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Y a quelqu'un que t'aimerais avoir à côté de toi là maintenant ?",
+    "category": "emotional"
+  },
+  {
+    "question": "T'as eu un moment de bonne humeur sans raison récemment ?",
+    "category": "emotional"
+  },
+  {
+    "question": "C'est quoi ce qui te fait le plus réfléchir à toi-même en ce moment ?",
+    "category": "emotional"
+  },
+  {
+    "question": "Dans quel état tu veux rentrer chez toi après cette soirée ?",
+    "category": "emotional"
+  },
+  {
+    "question": "C'est quoi le bonheur pour toi au fond ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Pourquoi tu penses que les gens ont besoin de connexion ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Pour toi, vieillir c'est quoi ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Tu crois que la vraie liberté existe ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Au fond tu penses que les humains sont plutôt bons ou plutôt mauvais ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "C'est quoi une vie bien vécue selon toi ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Pour toi, où se situe la frontière entre l'amour et l'amitié ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Pour ne pas avoir peur de la mort, comment il faudrait vivre selon toi ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Tu crois au destin ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Tu penses que le temps est notre ressource la plus précieuse ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "On est plus honnête quand on est seul ou quand on est avec les autres ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Pourquoi c'est si difficile d'être dans le moment présent ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "C'est quoi pour toi quelqu'un de bien ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Trouver un sens à la vie, c'est quelque chose d'important pour toi ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Tu crois qu'on peut vivre sans regrets ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Une relation ça s'entretient ou ça suit son cours naturellement ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "T'as l'impression que réussite et bonheur c'est la même chose ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Changer, c'est une bonne ou une mauvaise chose ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "T'as l'impression d'être le protagoniste de ta propre vie ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "C'est quoi la différence entre le courage et l'imprudence ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Dire la vérité c'est toujours la bonne chose à faire ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "S'aimer soi-même, ça veut dire quoi pour toi ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Nos souvenirs, c'est la vérité ou juste des histoires qu'on se raconte ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Tu crois qu'une relation parfaite existe ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Ce moment présent, qu'est-ce qu'il représentera pour toi dans 10 ans ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "S'appuyer sur les autres, c'est une faiblesse ou une force ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Y a des moments où l'échec est plus important que la réussite ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Tu penses qu'une relation où on se comprend sans se dire les choses, ça existe ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "L'idée qu'on naît seul et qu'on meurt seul, ça te réconforte ou ça te rend triste ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Pourquoi c'est si difficile de rester reconnaissant longtemps ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "T'as l'impression que tes choix d'aujourd'hui te construisent ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Avec le temps, la plupart des choses finissent par paraître moins graves ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Tu penses que tu te connais bien toi-même ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "C'est quoi selon toi la conversation la plus significative ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Les épreuves rendent plus fort, t'y crois ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "C'est quoi la chose la plus précieuse que l'argent ne peut pas acheter ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "C'est quoi selon toi la chose la plus gaspillée dans une vie ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Ce dont tu es le plus sûr en ce moment, et ce qui est le plus incertain ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Le bonheur se multiplie quand on le partage, tu y crois ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "C'est quoi la chose dont tu as le plus besoin là maintenant dans ta vie ?",
+    "category": "philosophy"
+  },
+  {
+    "question": "T'as quelque chose à me dire honnêtement ce soir ?",
+    "category": "confession"
+  },
+  {
+    "question": "Y a quelque chose que tu voulais me demander mais tu as pas osé ?",
+    "category": "confession"
+  },
+  {
+    "question": "T'as une histoire que tu n'as racontée à personne ces derniers temps ?",
+    "category": "confession"
+  },
+  {
+    "question": "T'as quelque chose qui te pèse en ce moment mais que tu montres pas ?",
+    "category": "confession"
+  },
+  {
+    "question": "C'était quand la dernière fois où t'as fait preuve de courage ?",
+    "category": "confession"
+  },
+  {
+    "question": "T'as quelque chose où tu fais semblant d'être à l'aise alors que c'est pas le cas ?",
+    "category": "confession"
+  },
+  {
+    "question": "Y a quelqu'un ou quelque chose qui te préoccupe beaucoup en ce moment ?",
+    "category": "confession"
+  },
+  {
+    "question": "T'as une inquiétude que t'as jamais dite à voix haute ?",
+    "category": "confession"
+  },
+  {
+    "question": "Y a quelque chose que t'aimerais dire honnêtement pour la première fois ce soir ?",
+    "category": "confession"
+  },
+  {
+    "question": "T'as été blessé par quelqu'un récemment ?",
+    "category": "confession"
+  },
+  {
+    "question": "C'est quoi le problème le plus difficile à résoudre dans ta vie en ce moment ?",
+    "category": "confession"
+  },
+  {
+    "question": "T'as un secret que toi seul connais ?",
+    "category": "confession"
+  },
+  {
+    "question": "C'était dans quelle situation la dernière fois que t'as dit un mensonge ?",
+    "category": "confession"
+  },
+  {
+    "question": "Y a quelque chose qui te préoccupe encore maintenant ?",
+    "category": "confession"
+  },
+  {
+    "question": "T'as un défaut que tu préfères ne pas reconnaître ?",
+    "category": "confession"
+  },
+  {
+    "question": "Y a quelqu'un qui te comprend mal et ça te pèse ?",
+    "category": "confession"
+  },
+  {
+    "question": "T'as quelqu'un que tu envies vraiment ?",
+    "category": "confession"
+  },
+  {
+    "question": "Y a quelque chose dans ta vie dont tu t'excuses à toi-même ?",
+    "category": "confession"
+  },
+  {
+    "question": "T'as quelqu'un à qui tu voudrais vraiment redonner de tes nouvelles ?",
+    "category": "confession"
+  },
+  {
+    "question": "Ce soir dans ce moment, t'as enfin pu rire vraiment ?",
+    "category": "confession"
+  },
+  {
+    "question": "T'as un désir que t'as jamais dit à personne ?",
+    "category": "confession"
+  },
+  {
+    "question": "Y a quelque chose que tu évites dans ta vie en ce moment ?",
+    "category": "confession"
+  },
+  {
+    "question": "C'est quoi l'émotion que t'admets le moins facilement ?",
+    "category": "confession"
+  },
+  {
+    "question": "Y a quelqu'un à qui t'as pas réussi à dire pardon ?",
+    "category": "confession"
+  },
+  {
+    "question": "T'as l'impression de te pousser trop fort ces temps-ci ?",
+    "category": "confession"
+  },
+  {
+    "question": "Y a quelque chose qui te fait peur mais que tu veux quand même faire ?",
+    "category": "confession"
+  },
+  {
+    "question": "C'est quoi la phrase dont tu aurais le plus besoin en ce moment ?",
+    "category": "confession"
+  },
+  {
+    "question": "Y a quelque chose que t'as pas encore complètement oublié ?",
+    "category": "confession"
+  },
+  {
+    "question": "T'as quelque chose qui te préoccupe vraiment mais tu fais semblant de pas y penser ?",
+    "category": "confession"
+  },
+  {
+    "question": "C'est quoi la phrase que tu te répètes le plus à toi-même ces temps-ci ?",
+    "category": "confession"
+  },
+  {
+    "question": "C'est quoi le truc que tu voudrais avoir le courage de faire ?",
+    "category": "confession"
+  },
+  {
+    "question": "T'as l'impression d'être trop dur avec toi-même récemment ?",
+    "category": "confession"
+  },
+  {
+    "question": "C'est quoi le choix que tu regrettes le plus dans ta vie ?",
+    "category": "confession"
+  },
+  {
+    "question": "C'est quoi ce dont tu veux te libérer le plus honnêtement là ?",
+    "category": "confession"
+  },
+  {
+    "question": "Y a quelque chose que tu cogites depuis longtemps déjà ?",
+    "category": "confession"
+  },
+  {
+    "question": "Dans quel domaine tu te trouves fier de toi en ce moment ?",
+    "category": "confession"
+  },
+  {
+    "question": "Y a quelque chose que si tu le dis pas ce soir, tu penses ne jamais pouvoir le dire ?",
+    "category": "confession"
+  },
+  {
+    "question": "C'était dans quel état tu étais juste avant de venir ce soir ?",
+    "category": "confession"
+  },
+  {
+    "question": "C'est quoi la phrase que tu veux entendre de ma part ?",
+    "category": "confession"
+  },
+  {
+    "question": "C'est quoi la meilleure décision que t'aies prise dans ta vie ?",
+    "category": "confession"
+  },
+  {
+    "question": "T'as des rêves récurrents en ce moment ?",
+    "category": "dream"
+  },
+  {
+    "question": "T'as un rêve que tu veux réaliser mais qui te gêne d'en parler ?",
+    "category": "dream"
+  },
+  {
+    "question": "T'as encore un rêve d'enfance qui est resté quelque part en toi ?",
+    "category": "dream"
+  },
+  {
+    "question": "Si tout était possible là maintenant, c'est quoi que tu ferais en premier ?",
+    "category": "dream"
+  },
+  {
+    "question": "Dans 5 ans, tu te vois où et en train de faire quoi ?",
+    "category": "dream"
+  },
+  {
+    "question": "C'est quoi le rêve que tu as fait et dont tu te souviens encore ? C'était quoi ?",
+    "category": "dream"
+  },
+  {
+    "question": "T'as un endroit qui revient souvent dans tes rêves ?",
+    "category": "dream"
+  },
+  {
+    "question": "T'as abandonné un rêve ? Il te reste encore en toi ?",
+    "category": "dream"
+  },
+  {
+    "question": "Y a quelque chose que tu veux absolument réaliser cette année ?",
+    "category": "dream"
+  },
+  {
+    "question": "Y a quelque chose que tu dois absolument faire avant de mourir ?",
+    "category": "dream"
+  },
+  {
+    "question": "Tu te réveilles en général dans quel état émotionnel après avoir rêvé ?",
+    "category": "dream"
+  },
+  {
+    "question": "Si ton toi de dans 10 ans regardait ton toi d'aujourd'hui, il dirait quoi ?",
+    "category": "dream"
+  },
+  {
+    "question": "Tu penses que le rêve que tu veux réaliser est réaliste ?",
+    "category": "dream"
+  },
+  {
+    "question": "Y a quelqu'un que tu aimerais voir dans tes rêves ?",
+    "category": "dream"
+  },
+  {
+    "question": "Y a un rêve que tu lâcherais jamais même si t'arrives pas à le réaliser ?",
+    "category": "dream"
+  },
+  {
+    "question": "C'est quoi la vie de tes rêves ?",
+    "category": "dream"
+  },
+  {
+    "question": "C'est quoi ce qui te garde à poursuivre tes rêves malgré la réalité ?",
+    "category": "dream"
+  },
+  {
+    "question": "C'est quoi le courage dont tu as le plus besoin en ce moment ?",
+    "category": "dream"
+  },
+  {
+    "question": "T'as imaginé récemment à quoi ressemblerait ton futur ?",
+    "category": "dream"
+  },
+  {
+    "question": "Y a un souvenir que tu aimerais revivre en rêve ?",
+    "category": "dream"
+  },
+  {
+    "question": "Y a quelque chose que tu veux faire même si les gens t'en dissuadent ?",
+    "category": "dream"
+  },
+  {
+    "question": "Ce que tu fais maintenant, ça a un lien avec tes rêves ?",
+    "category": "dream"
+  },
+  {
+    "question": "Parmi les rêves que tu avais enfant, y en a qui se sont réalisés ?",
+    "category": "dream"
+  },
+  {
+    "question": "Y a quelqu'un qui revient souvent dans tes rêves ?",
+    "category": "dream"
+  },
+  {
+    "question": "C'est quoi ta journée idéale de rêve ?",
+    "category": "dream"
+  },
+  {
+    "question": "C'est quoi ce que tu désires le plus intensément là ?",
+    "category": "dream"
+  },
+  {
+    "question": "T'es en train de faire quelque chose pour réaliser tes rêves ?",
+    "category": "dream"
+  },
+  {
+    "question": "C'est quoi le rêve le plus absurde que t'aies fait ?",
+    "category": "dream"
+  },
+  {
+    "question": "Y a quelque chose que tu n'as pas pu réaliser dans la réalité mais que tu voudrais vivre en rêve ?",
+    "category": "dream"
+  },
+  {
+    "question": "C'est quoi le toi de dans 10 ans que tu imagines ?",
+    "category": "dream"
+  },
+  {
+    "question": "T'as déjà regretté de te réveiller d'un rêve ?",
+    "category": "dream"
+  },
+  {
+    "question": "T'as un rêve que t'as pas encore commencé à poursuivre ?",
+    "category": "dream"
+  },
+  {
+    "question": "C'est qui qui connaît le mieux tes rêves aujourd'hui ?",
+    "category": "dream"
+  },
+  {
+    "question": "Si ton rêve se réalisait, c'est quoi la première chose que tu ferais ?",
+    "category": "dream"
+  },
+  {
+    "question": "Si tu pouvais ne réaliser qu'un seul rêve là maintenant, lequel tu choisirais ?",
+    "category": "dream"
+  },
+  {
+    "question": "C'est quoi ton rêve le plus réaliste et ton rêve le plus fou ?",
+    "category": "dream"
+  },
+  {
+    "question": "T'as déjà hésité entre poursuivre tes rêves et la stabilité ?",
+    "category": "dream"
+  },
+  {
+    "question": "T'as été encouragé par quelqu'un et ça t'a redonné envie de rêver ?",
+    "category": "dream"
+  },
+  {
+    "question": "C'est quoi le plus grand obstacle entre toi et tes rêves ?",
+    "category": "dream"
+  },
+  {
+    "question": "Y a quelque chose que t'attends pour demain quand cette nuit sera finie ?",
+    "category": "dream"
+  }
+]

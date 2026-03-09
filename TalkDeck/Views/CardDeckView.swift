@@ -279,14 +279,14 @@ struct CardDeckView: View {
                 .font(.system(size: 50))
                 .foregroundStyle(theme.accentColor)
 
-            Text("모든 카드를 확인했어요!")
+            Text("ui_all_cards_seen")
                 .font(.system(.title2, design: theme.fontDesign, weight: .bold))
                 .foregroundStyle(theme.textColor)
 
             Button {
                 performShuffle()
             } label: {
-                Text("다시 섞기")
+                Text("ui_shuffle_again")
                     .font(.system(.headline, design: theme.fontDesign))
                     .foregroundStyle(theme == .halloween ? .white : theme.cardTextColor)
                     .padding(.horizontal, 32)

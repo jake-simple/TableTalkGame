@@ -160,7 +160,7 @@ struct ThemePickerView: View {
                 }
                 .opacity(appeared ? 1 : 0)
 
-                Text("테마 선택")
+                Text("ui_theme_picker_title")
                     .font(.system(.title3, design: .rounded, weight: .bold))
                     .foregroundStyle(.white)
                     .opacity(appeared ? 1 : 0)
@@ -189,10 +189,10 @@ struct ThemePickerView: View {
                     HStack(spacing: 8) {
                         if selectedTheme == currentTheme {
                             Image(systemName: "checkmark.circle.fill")
-                            Text("선택됨")
+                            Text("ui_selected")
                         } else {
                             Image(systemName: "paintbrush.fill")
-                            Text("이 테마 적용")
+                            Text("ui_apply_this_theme")
                         }
                     }
                     .font(.system(.headline, design: .rounded, weight: .bold))

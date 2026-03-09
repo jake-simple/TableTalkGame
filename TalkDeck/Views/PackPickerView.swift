@@ -101,7 +101,7 @@ struct PackPickerView: View {
 
                 // Title area
                 VStack(spacing: 12) {
-                    Text("카드팩 선택")
+                    Text("ui_pack_picker_title")
                         .font(.system(.title3, design: theme.fontDesign, weight: .bold))
                         .foregroundStyle(.white)
 
@@ -130,10 +130,10 @@ struct PackPickerView: View {
                     HStack(spacing: 8) {
                         if selectedPack == currentPack {
                             Image(systemName: "checkmark.circle.fill")
-                            Text("선택됨")
+                            Text("ui_selected")
                         } else {
                             Image(systemName: "hand.tap.fill")
-                            Text("이 팩으로 시작")
+                            Text("ui_start_with_this_pack")
                         }
                     }
                     .font(.system(.headline, design: theme.fontDesign, weight: .bold))

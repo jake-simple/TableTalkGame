@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CD0001012F5AA509008CE515 /* TalkDeck/Resources/CardData in Resources */ = {isa = PBXBuildFile; fileRef = CD0001002F5AA509008CE515 /* TalkDeck/Resources/CardData */; };
+		CD0001012F5AA509008CE515 /* CardData in Resources */ = {isa = PBXBuildFile; fileRef = CD0001002F5AA509008CE515 /* CardData */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,7 +38,7 @@
 			isa = PBXGroup;
 			children = (
 				E616996B2F5AA509008CE515 /* TalkDeck */,
-				CD0001002F5AA509008CE515 /* TalkDeck/Resources/CardData */,
+				CD0001002F5AA509008CE515 /* CardData */,
 				E616996A2F5AA509008CE515 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -97,6 +97,14 @@
 			knownRegions = (
 				en,
 				Base,
+				ko,
+				ja,
+				"zh-Hans",
+				es,
+				"pt-BR",
+				fr,
+				de,
+				id,
 			);
 			mainGroup = E61699602F5AA509008CE515;
 			minimizedProjectReferenceProxies = 1;
@@ -115,7 +123,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD0001012F5AA509008CE515 /* TalkDeck/Resources/CardData in Resources */,
+				CD0001012F5AA509008CE515 /* CardData in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

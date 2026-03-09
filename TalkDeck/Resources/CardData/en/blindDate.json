@@ -1,0 +1,642 @@
+[
+  {
+    "question": "How were you feeling before coming out today?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What was your first impression of me? You can be honest.",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What were you most worried about before meeting up today?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What kind of person did you imagine me to be before we met?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What was the first thing you noticed when we said hello?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Do you usually get nervous on blind dates?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What made you decide to come today?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What are you most curious about me right now?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Is there a first impression from a past blind date that stands out?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What kind of vibe makes you feel open when you meet someone for the first time?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What did you spend the most time on before coming today?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What's the most important thing you look for in a first meeting?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What did you hear about me from the person who set us up?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What were you thinking on the way here?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Does this feel awkward right now, or are you comfortable?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "If you had to compare me to an animal, what animal would I be?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What's the thing you most want to find out about someone in a first conversation?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What kind of energy do you find yourself drawn to when meeting someone?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Are you usually good at situations like this — meeting someone for the first time?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Is there a blind date you've been on that you still remember?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What profession did I look like when you first saw me?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Do you prefer someone who laughs a lot or someone calm when you first meet?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "How do you like this spot? Do you like it?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Do your first impressions usually hold up over time?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Want to ask me one question — the first one that comes to mind?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Does the conversation feel like it's flowing naturally so far?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What's the most uncomfortable situation for you on a blind date?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What topic can you be the most honest about with someone you just met?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Did you text a friend before coming today?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What's the vibe like for you right now?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Do you tend to warm up quickly when meeting someone new?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What's a sign to you that a blind date is going well?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Is there anything from our conversation so far that stuck with you?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "If you had to describe me in two words, what would they be?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Has anything surprised you about me so far?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What makes you feel at ease when someone says it in a first meeting?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Do you do anything to calm your nerves before a blind date?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Can you honestly tell me what impression I'm giving you right now?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Glad you came today?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "How do you know when a conversation is clicking in an early meeting?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "What music genre do you listen to the most lately?",
+    "category": "taste"
+  },
+  {
+    "question": "What kind of food do you like? If you had to pick — Korean, Western, or Japanese?",
+    "category": "taste"
+  },
+  {
+    "question": "What genre do you choose most when watching movies?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you go to cafes often? What kind of vibe do you like?",
+    "category": "taste"
+  },
+  {
+    "question": "What's your travel style? Packed itinerary or taking it easy?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there a drama or movie you've really enjoyed recently?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there anything you absolutely won't eat?",
+    "category": "taste"
+  },
+  {
+    "question": "What do you usually do when you get free time on the weekend?",
+    "category": "taste"
+  },
+  {
+    "question": "What's your favorite season? Would love to know why.",
+    "category": "taste"
+  },
+  {
+    "question": "What food or café order are you most into right now?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you have hobbies? What are you enjoying most these days?",
+    "category": "taste"
+  },
+  {
+    "question": "What kind of books or content do you like?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you enjoy working out? Is there a sport or exercise you do regularly?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you drink? What's your go-to?",
+    "category": "taste"
+  },
+  {
+    "question": "When you listen to music, do you focus on the lyrics or the melody?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there a travel destination you'd love to go back to?",
+    "category": "taste"
+  },
+  {
+    "question": "What do you do when you're relaxing at home?",
+    "category": "taste"
+  },
+  {
+    "question": "What's the best thing you've ever eaten?",
+    "category": "taste"
+  },
+  {
+    "question": "What kind of content do you mostly browse on social media?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you like to cook? What's a dish you're proud of?",
+    "category": "taste"
+  },
+  {
+    "question": "What section do you spend the most time browsing when you shop?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you prefer outdoor activities or indoor ones?",
+    "category": "taste"
+  },
+  {
+    "question": "For summer vacation, are you a beach person or a mountain person?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you have a go-to playlist theme?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there anything you're really into right now? Hobby or otherwise?",
+    "category": "taste"
+  },
+  {
+    "question": "What's your favorite snack?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you have a favorite Instagram or YouTube channel?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you wear perfume? What kind of scent do you like?",
+    "category": "taste"
+  },
+  {
+    "question": "Are you a coffee person? What's your usual order?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you listen to music while working?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you handle spicy food well?",
+    "category": "taste"
+  },
+  {
+    "question": "What do you usually order for a late-night snack?",
+    "category": "taste"
+  },
+  {
+    "question": "When traveling, what matters most to you — accommodation, food, or sightseeing?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there a new area you've gotten interested in lately?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you follow any sports or have a team you root for?",
+    "category": "taste"
+  },
+  {
+    "question": "Has your taste changed a lot over time?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you have a favorite flower or plant?",
+    "category": "taste"
+  },
+  {
+    "question": "When watching video content, are you a short-video or long-video person?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you like desserts? What's your favorite?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there a hobby you've never tried but want to?",
+    "category": "taste"
+  },
+  {
+    "question": "Are you a morning person or a night owl?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Can you walk me through what a typical weekday looks like for you?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "What does your ideal weekend day look like?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you prefer being at home or out and about?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you live alone or with family? I imagine both have their pros and cons.",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you exercise regularly?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you often eat alone?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Is there something you always do before bed?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you actively do anything to take care of your health?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Are you a planner or more of a go-with-the-flow type?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "If a whole day suddenly opened up, how would you spend it?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Are you more of a saver or a spender?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you clean often? Are you a tidy person?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you cook for yourself often?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "How often do you stay in touch with people?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you take naps?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Are you good at balancing work and rest?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Is there a neighborhood or place you go to most often?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "How do you usually wind down after work?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you tend to impulse buy?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "How often do you eat out in a month?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "How much alone time do you need?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "How often do you travel?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you post on social media often, or mostly just browse?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "What's your place like? What kind of space is it?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you read or study regularly?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "How often do you see your friends?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you sleep well?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "How do you de-stress?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you have a pet, or would you like one?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you enjoy going for walks?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you have a lot of social plans?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you often go to family gatherings or holidays?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "What do you feel is the most worthwhile thing to spend money on?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you tend to go to bed early or stay up late?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you find relationships take a lot of energy for you?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Do you tend to stick to a regular routine?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Are you someone who likes trying new things?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Is there anything about your current lifestyle you'd like to change?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "When do you feel most like yourself?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "What's the most important thing to you in life?",
+    "category": "values"
+  },
+  {
+    "question": "How would you describe a good relationship in one phrase?",
+    "category": "values"
+  },
+  {
+    "question": "Is there something in a relationship you absolutely can't compromise on?",
+    "category": "values"
+  },
+  {
+    "question": "What kind of person do you want to be when you're in a relationship?",
+    "category": "values"
+  },
+  {
+    "question": "Do you think two people with a lot of differences can still work well together?",
+    "category": "values"
+  },
+  {
+    "question": "What are your thoughts on how often to stay in contact?",
+    "category": "values"
+  },
+  {
+    "question": "Do you think trust is the most important thing in a relationship?",
+    "category": "values"
+  },
+  {
+    "question": "Do you need a lot of personal space?",
+    "category": "values"
+  },
+  {
+    "question": "What does a good conversation look like to you?",
+    "category": "values"
+  },
+  {
+    "question": "What's your relationship with money like?",
+    "category": "values"
+  },
+  {
+    "question": "How important is family to you?",
+    "category": "values"
+  },
+  {
+    "question": "Do you value freedom or stability more?",
+    "category": "values"
+  },
+  {
+    "question": "Is there something in your life you feel especially grateful for?",
+    "category": "values"
+  },
+  {
+    "question": "Do you think showing affection often matters in a relationship?",
+    "category": "values"
+  },
+  {
+    "question": "When work gets really busy, how do you think a relationship should be maintained?",
+    "category": "values"
+  },
+  {
+    "question": "Do you think you should invest more time in friends or a partner?",
+    "category": "values"
+  },
+  {
+    "question": "When conflict comes up, how do you think it's best to resolve it?",
+    "category": "values"
+  },
+  {
+    "question": "Do you believe people can change?",
+    "category": "values"
+  },
+  {
+    "question": "Has your value system shifted as you've gotten older?",
+    "category": "values"
+  },
+  {
+    "question": "What are your thoughts on marriage?",
+    "category": "values"
+  },
+  {
+    "question": "Do you prefer someone with a similar personality, or someone different?",
+    "category": "values"
+  },
+  {
+    "question": "Do you think you need to know each other's past when dating?",
+    "category": "values"
+  },
+  {
+    "question": "Are you someone who focuses all their attention on one person at a time?",
+    "category": "values"
+  },
+  {
+    "question": "Do you think honesty is important in a relationship?",
+    "category": "values"
+  },
+  {
+    "question": "What's your standard for happiness?",
+    "category": "values"
+  },
+  {
+    "question": "What makes you feel cared for by someone?",
+    "category": "values"
+  },
+  {
+    "question": "Do you think someone who loves themselves is better at loving others?",
+    "category": "values"
+  },
+  {
+    "question": "Do you think a compatible person beats an ideal type?",
+    "category": "values"
+  },
+  {
+    "question": "Do you believe couples need their own personal space?",
+    "category": "values"
+  },
+  {
+    "question": "Is there an experience in life that made you feel like you really grew?",
+    "category": "values"
+  },
+  {
+    "question": "Do you prefer big group settings or going deep with a small group of people?",
+    "category": "values"
+  },
+  {
+    "question": "What kind of person makes you feel most at ease?",
+    "category": "values"
+  },
+  {
+    "question": "Do you worry about what others think of you?",
+    "category": "values"
+  },
+  {
+    "question": "Do you have a dream or something you want to achieve right now?",
+    "category": "values"
+  },
+  {
+    "question": "What do you think is the key to keeping a good relationship going?",
+    "category": "values"
+  },
+  {
+    "question": "What kind of person tends to stay in your memory?",
+    "category": "values"
+  },
+  {
+    "question": "If you had to describe yourself in one phrase right now?",
+    "category": "values"
+  },
+  {
+    "question": "Are you good at expressing your emotions?",
+    "category": "values"
+  },
+  {
+    "question": "Is there something you absolutely want to do in your lifetime?",
+    "category": "values"
+  },
+  {
+    "question": "What do you hope tonight turns into?",
+    "category": "values"
+  }
+]

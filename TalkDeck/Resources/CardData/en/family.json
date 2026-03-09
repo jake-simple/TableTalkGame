@@ -1,0 +1,642 @@
+[
+  {
+    "question": "What was your favorite food as a kid?",
+    "category": "childhood"
+  },
+  {
+    "question": "What was your favorite subject in school?",
+    "category": "childhood"
+  },
+  {
+    "question": "Who was your best friend growing up, and what's a memory you have with them?",
+    "category": "childhood"
+  },
+  {
+    "question": "What's the one thing you wanted most as a kid?",
+    "category": "childhood"
+  },
+  {
+    "question": "What did you write as your dream job in elementary school?",
+    "category": "childhood"
+  },
+  {
+    "question": "What's the most memorable time you got in trouble with your parents?",
+    "category": "childhood"
+  },
+  {
+    "question": "What was the first thing you did when you got home from school?",
+    "category": "childhood"
+  },
+  {
+    "question": "Was there a cartoon or game you were obsessed with as a kid?",
+    "category": "childhood"
+  },
+  {
+    "question": "What was your favorite spot in the neighborhood where you grew up?",
+    "category": "childhood"
+  },
+  {
+    "question": "What games did you play with siblings or friends as a kid?",
+    "category": "childhood"
+  },
+  {
+    "question": "What was your favorite school lunch menu?",
+    "category": "childhood"
+  },
+  {
+    "question": "What were you most scared of as a kid?",
+    "category": "childhood"
+  },
+  {
+    "question": "What did you do most during summer vacation as a kid?",
+    "category": "childhood"
+  },
+  {
+    "question": "What did you imagine yourself looking like as a grown-up?",
+    "category": "childhood"
+  },
+  {
+    "question": "Do you remember the first time you took the bus or subway alone?",
+    "category": "childhood"
+  },
+  {
+    "question": "What was your favorite teacher like growing up?",
+    "category": "childhood"
+  },
+  {
+    "question": "What's the most memorable field trip or school excursion you remember?",
+    "category": "childhood"
+  },
+  {
+    "question": "Is there something you did as a kid behind your parents' backs that you can share now?",
+    "category": "childhood"
+  },
+  {
+    "question": "What was the first thing you bought when you got your first allowance?",
+    "category": "childhood"
+  },
+  {
+    "question": "What was your most disliked subject or class in school?",
+    "category": "childhood"
+  },
+  {
+    "question": "Was there a TV show you never missed as a kid?",
+    "category": "childhood"
+  },
+  {
+    "question": "What's the most memorable birthday gift you received as a kid?",
+    "category": "childhood"
+  },
+  {
+    "question": "Do you remember learning to ride a bike?",
+    "category": "childhood"
+  },
+  {
+    "question": "Did you have a pet growing up?",
+    "category": "childhood"
+  },
+  {
+    "question": "What was your favorite snack or drink as a kid?",
+    "category": "childhood"
+  },
+  {
+    "question": "Was there something you were really good at in school?",
+    "category": "childhood"
+  },
+  {
+    "question": "Is there something adults always told you growing up?",
+    "category": "childhood"
+  },
+  {
+    "question": "Do you remember the first time you were home alone? How did it feel?",
+    "category": "childhood"
+  },
+  {
+    "question": "What was your favorite local shop as a kid?",
+    "category": "childhood"
+  },
+  {
+    "question": "Was there a particularly hard time in your childhood?",
+    "category": "childhood"
+  },
+  {
+    "question": "What kind of kid were you among your friends?",
+    "category": "childhood"
+  },
+  {
+    "question": "When was the first time you stayed up all night? Why?",
+    "category": "childhood"
+  },
+  {
+    "question": "What was your favorite book or comic as a kid?",
+    "category": "childhood"
+  },
+  {
+    "question": "Is there a scene from childhood that still comes to you vividly?",
+    "category": "childhood"
+  },
+  {
+    "question": "Was there a snack shop you always stopped at after school?",
+    "category": "childhood"
+  },
+  {
+    "question": "Was there an outfit or pair of shoes you really wanted as a kid?",
+    "category": "childhood"
+  },
+  {
+    "question": "Did you have a dream home in mind when you were little?",
+    "category": "childhood"
+  },
+  {
+    "question": "What were you most complimented on as a kid?",
+    "category": "childhood"
+  },
+  {
+    "question": "Do you remember the smell of home when you came back from school?",
+    "category": "childhood"
+  },
+  {
+    "question": "Was there a TV show you always watched while eating as a kid?",
+    "category": "childhood"
+  },
+  {
+    "question": "What are you most into lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Have you picked up any new hobbies or interests recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What content do you watch the most lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What's the most memorable thing that happened this month?",
+    "category": "recentLife"
+  },
+  {
+    "question": "How have you been taking care of your health lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there something delicious you've eaten recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there a place you've been going to a lot lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tell me one funny thing that happened this week.",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there something you've been thinking about lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Have you learned any interesting new facts recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there someone you've been in touch with a lot recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Have you been anywhere recently, or are you planning a trip?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What's the most comfortable moment in your life right now?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What's one thing you'd say you did best this month?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What does a typical day look like for you lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Have you been learning or studying anything recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What app or service do you use most often lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What's a recent moment that made you happy or touched you?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there a food or drink you've been enjoying a lot lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Have you recently met someone new? How did that come about?",
+    "category": "recentLife"
+  },
+  {
+    "question": "When you're in a good mood, what's the first thing you want to do?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What was the best thing you ate this week?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What goals are you working toward these days?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What's the best thing you've bought recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What song or music have you been listening to most lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Has anyone around you done something you were grateful for recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there a show or movie you've been hooked on lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What was the hardest moment this month?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there something you've been dreaming about lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Has anything changed in your exercise or health habits recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Has there been a conversation that stuck with you recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Have you tried something for the first time recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there a book or article you've been drawn into lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What's one thing you feel you did well this week?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Has a new field or area sparked your interest lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Was there a moment recently that warmed your heart?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What's making you happiest in your life right now?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there something you've challenged yourself on or changed recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Are you sleeping well these days?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there something you really want to accomplish this month?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What's the funniest episode from a family trip?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Is there something our family always does at the holidays?",
+    "category": "familyStory"
+  },
+  {
+    "question": "What's the most memorable meal your parents made?",
+    "category": "familyStory"
+  },
+  {
+    "question": "What's the most special place you've traveled to with family?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Is there a performance or sporting event you went to as a family that you remember?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Is there something one of your parents said that you still remember?",
+    "category": "familyStory"
+  },
+  {
+    "question": "What's the most vivid memory you have of your grandparents?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Is there a memory of cooking together with family that comes to mind?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Does our family have a tradition or annual event that's just ours?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Is there a hard time that your family got through together?",
+    "category": "familyStory"
+  },
+  {
+    "question": "What's the funniest reason you ever fought with a sibling or cousin?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Has a family member ever really moved you?",
+    "category": "familyStory"
+  },
+  {
+    "question": "What's your happiest memory at your grandparents' place?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Have you ever been surprised by a photo in the family album?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Is there something that recently made the whole family laugh together?",
+    "category": "familyStory"
+  },
+  {
+    "question": "What's a funny episode that happened at a family gathering?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Have you ever heard your parents' love story?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Is there something special that happened at a Lunar New Year or Chuseok with family?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Is there a memorable story from a time your family moved?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Have you ever had a secret found out by someone in the family?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Do you have a memory of your parents being affectionate with each other?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Have you ever been told you picked up a habit from someone in the family?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Is there a family birthday party that stands out in your memory?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Is there something connected to family that you still have?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Was there a moment when you found out something your parents gave up for you?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Is there a memory of exercising or going for a walk with your family?",
+    "category": "familyStory"
+  },
+  {
+    "question": "When did you and your siblings get along best?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Do you have a memory of the whole family doing a big cleanup together?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Was there a moment when you first truly understood what your parents did for work?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Do you remember the first time your family ate out together?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Has your family ever been caught in bad weather together?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Is there a memorable drive you went on with your parents?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Did a family member ever inspire a hobby in you?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Do you know a moment when your parents felt proud of you?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Do you remember the first time you bought a gift for someone in the family yourself?",
+    "category": "familyStory"
+  },
+  {
+    "question": "What's a childhood Christmas or New Year's memory with your family?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Do you remember the first time you pushed back against your parents?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Have you ever discovered a surprising talent in a family member?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Is there a moment you were grateful to a sibling?",
+    "category": "familyStory"
+  },
+  {
+    "question": "What was the longest phone call you ever had with family, and what was it about?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Is there something about today's younger generation you just don't get?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Has there been a moment when you found it hard to understand the older generation?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Is there something from your parents' generation that still helps you today?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Is there something unexpected you've learned from younger family members?",
+    "category": "generationGap"
+  },
+  {
+    "question": "When do you feel the generation gap the most?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Is there a trend right now that you just can't quite grasp?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Is there something that was normal when you were young that today's generation doesn't know about?",
+    "category": "generationGap"
+  },
+  {
+    "question": "What topic do you and your parents disagree on the most?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Have you ever envied today's kids? What for?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Is there something the older generation takes for granted that you don't quite get?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Has a generation gap ever created a funny situation in your family?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Do you have a story from when your parents first started using smartphones?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Is there a childhood game or pastime that today's kids don't know about?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Is there something your parents taught you that you still believe is right?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Was there a time when your parents just didn't understand your generation's trends?",
+    "category": "generationGap"
+  },
+  {
+    "question": "What do you think is the biggest difference between your parents' generation and your own?",
+    "category": "generationGap"
+  },
+  {
+    "question": "What do you think is the best way to bridge the generation gap?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Was there a time you didn't want to listen to your parents? How do you feel about it now?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Is there anything about your parents' era that you think was actually better?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Is there anything about today's generation that you think is actually better?",
+    "category": "generationGap"
+  },
+  {
+    "question": "What values from your parents did you inherit?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Was there a value from your parents that you wanted to change?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Has the generation gap ever made it hard to talk within your family?",
+    "category": "generationGap"
+  },
+  {
+    "question": "How did you feel when your parents said 'kids these days'?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Have you ever caught yourself saying 'kids these days'?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Is there a way you feel your parents' generation was tougher than ours?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Is there something today's younger generation does better than the previous one?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Have your parents ever made an effort to learn about today's culture?",
+    "category": "generationGap"
+  },
+  {
+    "question": "What do you do to connect with the younger generation?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Has there ever been a conversation that cut across the generation gap and really resonated?",
+    "category": "generationGap"
+  },
+  {
+    "question": "How did you feel when your parents tried to follow a current trend?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Is there something your parents did or said that you only understood as an adult?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Have you ever played a bridging role between generations in your family?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Is there a piece of parental nagging that you now agree with?",
+    "category": "generationGap"
+  },
+  {
+    "question": "What topic creates the biggest generation gap in your family?",
+    "category": "generationGap"
+  },
+  {
+    "question": "What do you think about your parents' generation's view on marriage and family?",
+    "category": "generationGap"
+  },
+  {
+    "question": "What do you think the older generation thinks about today's younger generation's attitude toward work?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Have you ever talked with your parents about social media or YouTube?",
+    "category": "generationGap"
+  },
+  {
+    "question": "What values do you want to pass on to the next generation?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Is there something your family can do together across the generation gap?",
+    "category": "generationGap"
+  }
+]

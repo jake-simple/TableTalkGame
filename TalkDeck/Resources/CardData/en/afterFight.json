@@ -1,0 +1,962 @@
+[
+  {
+    "question": "If you had to describe your current mood as weather, what would it be?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Was there any moment today that felt good?",
+    "category": "coolDown"
+  },
+  {
+    "question": "What food do you feel like eating right now?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Take a deep breath — how does your body feel right now?",
+    "category": "coolDown"
+  },
+  {
+    "question": "How were you feeling when you woke up this morning?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Is there anything you've been watching or reading lately that you enjoy?",
+    "category": "coolDown"
+  },
+  {
+    "question": "What do you need most right now — water, coffee, something sweet?",
+    "category": "coolDown"
+  },
+  {
+    "question": "What's something that made you laugh recently?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Do you remember when we first met?",
+    "category": "coolDown"
+  },
+  {
+    "question": "What does it look like outside right now?",
+    "category": "coolDown"
+  },
+  {
+    "question": "What's your favorite season, and why?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Is there a song you've been listening to lately that you'd recommend?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Did you sleep okay last night?",
+    "category": "coolDown"
+  },
+  {
+    "question": "What's your go-to way to de-stress?",
+    "category": "coolDown"
+  },
+  {
+    "question": "If you could go anywhere right now, where would you go?",
+    "category": "coolDown"
+  },
+  {
+    "question": "When did you feel most at ease with me?",
+    "category": "coolDown"
+  },
+  {
+    "question": "How do you usually calm yourself down when you're angry?",
+    "category": "coolDown"
+  },
+  {
+    "question": "If your current mood were a color, what would it be?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Have you gone for a walk or gotten some fresh air lately?",
+    "category": "coolDown"
+  },
+  {
+    "question": "What did you used to do when you were upset as a kid?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Who do you most want to see right now?",
+    "category": "coolDown"
+  },
+  {
+    "question": "You know you can talk to me freely, right?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Have you been sleeping well lately?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Can you name one thing we both like?",
+    "category": "coolDown"
+  },
+  {
+    "question": "What do you want to do after we make up?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Do you know that just starting this conversation takes a lot of courage?",
+    "category": "coolDown"
+  },
+  {
+    "question": "What's the most recent memory of us laughing together?",
+    "category": "coolDown"
+  },
+  {
+    "question": "When emotions run high, do you usually need some time to yourself?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Aren't you hungry? Want to grab something to eat?",
+    "category": "coolDown"
+  },
+  {
+    "question": "What moment in our relationship are you most grateful for?",
+    "category": "coolDown"
+  },
+  {
+    "question": "If you had to express your mood as a single emoji, what would it be?",
+    "category": "coolDown"
+  },
+  {
+    "question": "When you're angry, do you prefer to be alone or with someone?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Is there someone who made you smile recently?",
+    "category": "coolDown"
+  },
+  {
+    "question": "If you could put on any song right now, what would it be?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Do you remember when we first got close?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Have your feelings settled a little?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Do you think getting angry at each other is also a form of caring?",
+    "category": "coolDown"
+  },
+  {
+    "question": "What's the weather like outside today?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Want to talk over a cup of tea or coffee?",
+    "category": "coolDown"
+  },
+  {
+    "question": "You know you mean a lot to me, right?",
+    "category": "coolDown"
+  },
+  {
+    "question": "I'm just grateful you're here right now.",
+    "category": "coolDown"
+  },
+  {
+    "question": "What was the most delicious thing you ate today?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Want to take a short break and come back to this?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Beyond the anger at me, is there another emotion in there too?",
+    "category": "coolDown"
+  },
+  {
+    "question": "If this situation were a movie, what would the title be?",
+    "category": "coolDown"
+  },
+  {
+    "question": "When things get awkward between us, who usually breaks the silence first?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Is there something you want to say to me right now?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Can we be grateful to the person who pulled out this card?",
+    "category": "coolDown"
+  },
+  {
+    "question": "What do you need more right now — a conversation or some time?",
+    "category": "coolDown"
+  },
+  {
+    "question": "When did you feel like we were really in sync?",
+    "category": "coolDown"
+  },
+  {
+    "question": "What's the first thing you want to do once your heart feels lighter?",
+    "category": "coolDown"
+  },
+  {
+    "question": "If you could redo today, how would you want to spend it?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Can you close your eyes and rest for just three seconds?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Is there a word or phrase that helps you calm down?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Are we both just tired right now?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Can we find any humor in this situation?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Can we hold hands for a moment?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Being different isn't a bad thing, right?",
+    "category": "coolDown"
+  },
+  {
+    "question": "We've gotten through tough things together before, remember?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Do you think it's okay if this doesn't get resolved right now?",
+    "category": "coolDown"
+  },
+  {
+    "question": "What's the biggest emotion inside you right now?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Can you tell if it's anger, hurt, or sadness?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "When did it hurt the most?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Do you feel like you said something that might have wounded the other person without realizing it?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "What did you actually want in that moment?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "What do you think is the real reason you got so angry?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Is there a part of this feeling that's hard to put into words?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "How did you want to be treated in this situation?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Was this something you'd been holding in that finally came out?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Do you think you reacted more sensitively than usual?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "How long do you think this feeling has been building up?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "What do you usually feel in situations like this?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Could your tone have come across as more aggressive than you intended?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Honestly, is there some fear mixed in there too?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Is what you're asking for in this situation too much?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Did it feel like something important to you was being dismissed?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Was there something you held back from expressing fully?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Is there something you said while angry that you regret?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Is there something you're feeling right now that the other person probably doesn't know about?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "What's the best way for you to express this feeling?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Was there a moment where you got defensive?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Is the disappointment actually bigger than the anger?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "What reaction were you hoping for?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Could this feeling partly be something coming from within yourself?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "If you had to explain this situation to someone, how would you describe it?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Are you even surprised at yourself for getting this worked up?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Do you feel bad about yourself for feeling this way?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Is it the situation itself that's upsetting you, or the way you were treated?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Do you feel like you had some part in this too?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Have you felt something similar before?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Were you carrying a frustration you hadn't expressed?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "What do you think is the deeper need behind this feeling?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "What pattern do you think you tend to fall into during conflict?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Do you feel like what you said came across differently than you meant it to?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Do you feel like crying right now?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "What are you most scared of in this situation?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Is there some anxiety you carry in this relationship?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Is even the act of being angry exhausting for you?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Why do you think it's hard to talk about your feelings honestly?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "What part of yourself do you most want to be comforted on right now?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Are you usually good at apologizing?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Is there something you can take away from this situation?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Is your pride getting in the way of expressing how you feel?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Honestly, do you feel a little lonely right now too?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "What makes it hard for you to make the first move?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Do you think this feeling will still be with you tomorrow?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Who do you want to be after this conflict passes?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "If you gave this feeling a name, what would it be?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "What do you think this feeling is trying to tell you?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Is it possible that you're not actually angry, but worried?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Is there something about your feelings you wish the other person understood?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "On a scale of 1 to 10, how heavy does your heart feel right now?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Was there a moment mid-conversation when you thought, 'that was wrong of me'?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "What's something you really need to hear right now?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Does this feeling feel too heavy to carry alone?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "What way of expressing feelings feels most natural to you?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "How do you think you'll feel looking back on this in a week?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Do you know what your emotional triggers are?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "What's the one thing your heart needs to hear most right now?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "How do you think you'll feel once this emotion passes?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Why do you think they said that?",
+    "category": "yourSide"
+  },
+  {
+    "question": "If you tried to see this situation from their perspective, how would it look?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Could they be going through something hard right now too?",
+    "category": "yourSide"
+  },
+  {
+    "question": "What do you think they were really trying to say?",
+    "category": "yourSide"
+  },
+  {
+    "question": "How do you think you came across to them?",
+    "category": "yourSide"
+  },
+  {
+    "question": "What do you think was the most hurtful moment for them?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Was there anything they said that had a point?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Do you think they're as upset as you are?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Was there something stressing them out lately?",
+    "category": "yourSide"
+  },
+  {
+    "question": "What do you think they were hoping you'd do?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Have there been times when you dismissed their feelings?",
+    "category": "yourSide"
+  },
+  {
+    "question": "What do you think is the real reason they got angry?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Knowing their personality, is there a part of this that makes sense?",
+    "category": "yourSide"
+  },
+  {
+    "question": "How do you think your words landed on them?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Could there be a reason they got defensive?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Could their past experiences have influenced how they reacted?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Do you think there are feelings they haven't been able to express?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Is it possible that you missed their good intentions?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Is this the first time they've felt hurt by you?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Could they want to apologize but not know how?",
+    "category": "yourSide"
+  },
+  {
+    "question": "What change do you think they most want to see from you?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Their way of expressing emotions might just be different from yours, right?",
+    "category": "yourSide"
+  },
+  {
+    "question": "If they were describing this to a friend, what do you think they'd say?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Do you have any desire to hear their side of things?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Can you name one thing you're grateful to them for?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Is there something they've been tolerating for your sake?",
+    "category": "yourSide"
+  },
+  {
+    "question": "What if you focus on what they said, not how they said it?",
+    "category": "yourSide"
+  },
+  {
+    "question": "What do you think they're feeling right now?",
+    "category": "yourSide"
+  },
+  {
+    "question": "When was the last time you told them they matter to you?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Could their weaknesses actually be the flip side of their strengths?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Do you think they want you to change, or do they want to feel understood?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Could there be some anxiety behind their behavior?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Do you think they care about this relationship too?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Is there something they've been wanting to say to you?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Have you been giving them enough attention?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Could you have missed signs that they were struggling?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Could they be tired from always trying to accommodate you?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Can you try retelling this situation from their point of view?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Is it possible their reaction wasn't really about you?",
+    "category": "yourSide"
+  },
+  {
+    "question": "What do you think they most want to be recognized for?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Can you read concern rather than hurt in what they said?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Have you ever taken their effort for granted?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Are the expectations they have of you too high, or about right?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Why do you think they hide their feelings?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Did you accidentally touch on one of their sore spots?",
+    "category": "yourSide"
+  },
+  {
+    "question": "What aspect of you do you think they appreciate most?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Is there a part of this relationship that isn't easy for them either?",
+    "category": "yourSide"
+  },
+  {
+    "question": "What kind of apology do you think they're hoping for?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Has there been a recent time when you really listened to them all the way through?",
+    "category": "yourSide"
+  },
+  {
+    "question": "What do you think they're most afraid of in this situation?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Do you think they want to hold onto this relationship as much as you do?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Were there moments when you were cold or indifferent toward them?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Can you name three good things about them?",
+    "category": "yourSide"
+  },
+  {
+    "question": "What do you think they most want to hear from you right now?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Can you say you fully understand their feelings?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Could they have been trying to change, and you just didn't notice?",
+    "category": "yourSide"
+  },
+  {
+    "question": "When do you think they feel happiest?",
+    "category": "yourSide"
+  },
+  {
+    "question": "What else do you think you need to know to understand where they're coming from?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Do you think they want to have this conversation too?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Has there been a moment when you genuinely felt how much they care about you?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Is there something we can learn from this?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What could we do differently if the same situation comes up again?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Is there something you can apologize for first?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What do we need to do to communicate better with each other?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Could this bring us closer in the end?",
+    "category": "makingUp"
+  },
+  {
+    "question": "If you could each make one promise to the other, what would it be?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Is there room to improve how we handle conflict?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Is there something you'd like to do together after making up?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Can you say something genuinely thankful to the other person?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What's one area in this relationship where you can try harder?",
+    "category": "makingUp"
+  },
+  {
+    "question": "How can we better respect each other's ways of expressing feelings?",
+    "category": "makingUp"
+  },
+  {
+    "question": "When you're upset next time, what signal would you like to give?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What if we created a little ritual for making up?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Can you each share one honest thing you'd like from the other?",
+    "category": "makingUp"
+  },
+  {
+    "question": "When was the best time in our relationship?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Is what you want from them something they're also capable of giving?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What if we agree to take a breather when things get heated?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Is there a topic we need to talk about more often?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Can you say 'I'm sorry' to them?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Can you tell me why this relationship matters to you?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Next time a similar conflict comes up, can we ask first before assuming?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What if we set some ground rules for when emotions clash?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Is there a part of the other person that's hard for you to accept as they are?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What's the most important thing you want to protect in this relationship?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Can you name three things you're grateful to them for?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Is there something you can personally grow from in this situation?",
+    "category": "makingUp"
+  },
+  {
+    "question": "How can we get better at knowing and avoiding each other's triggers?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What if we came up with a safe word for when things get too intense?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What do you think is the greatest strength of our relationship?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Can you acknowledge the effort the other person has been making?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Looking back on this in a year, how do you think you'll feel?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What do we each need to be more honest with each other?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What's been the biggest challenge we've faced together?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Instead of waiting for them to change, what's something you can change first?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Is there a better way to work through disagreements together?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What's the smallest step we can take right now toward a better future together?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Can you say 'I love you' or 'you mean the world to me' to them?",
+    "category": "makingUp"
+  },
+  {
+    "question": "How has this relationship helped you grow?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What if we set aside regular time to check in with each other?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What do you think the first step to making up looks like?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Is there something you wouldn't have known without this happening?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Can we be a little more patient with each other?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What's something we both want to do together?",
+    "category": "makingUp"
+  },
+  {
+    "question": "How would it feel to hear the other person say 'I understand'?",
+    "category": "makingUp"
+  },
+  {
+    "question": "If you had to sum up our relationship in one word, what would it be?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Do you agree that conflict is just a part of any relationship?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What do you think this conversation means for us?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What could we do to understand each other even better?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What do you think we need to be happier together going forward?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Can we give each other a hug right now?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Do you feel sure that we can get through this?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Can we promise to focus more on each other's good qualities?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Do you think we can smile again?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What's the first thing you want to say when you wake up tomorrow morning?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Can we think for a moment about why we're in each other's lives?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What makes them the most important person to you?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Could this be what makes our relationship even stronger?",
+    "category": "makingUp"
+  },
+  {
+    "question": "What if we wrote each other a little letter?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Is there anything you want to say to each other before you go to sleep tonight?",
+    "category": "makingUp"
+  },
+  {
+    "question": "We're going to be okay, right?",
+    "category": "makingUp"
+  }
+]

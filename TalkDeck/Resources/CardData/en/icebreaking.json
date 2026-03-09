@@ -1,0 +1,642 @@
+[
+  {
+    "question": "What were you up to before you came here today?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "If your current mood were a weather forecast, what would it be?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "What brought you here today?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "What's the first thing you notice about a person you've just met?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "If you had to introduce yourself in just one word, what would it be?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "What are you most looking forward to about this gathering?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "On your way here, what kind of person were you imagining you'd meet?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "What role do you usually end up playing when you meet people for the first time?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "How do you feel about meeting new people — exciting, or a little nerve-wracking?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "What was the first thing you did when you woke up this morning?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "If this moment were a photo, what would the composition look like?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "What was on your mind on the way here?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Does what you're wearing today reflect how you're feeling?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Do you usually warm up quickly in new social settings?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "What's the hardest part about meeting people for the first time?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Is there a topic you were hoping to talk about here today?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "If you had to describe yourself using a food, what would it be?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "How do you think you're coming across to everyone here?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Is there something you always want to ask when you first meet someone?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "If you hadn't come today, what do you think you'd be doing instead?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Does your name have a special meaning? Do you like it?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Did you eat today? What did you have?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "What's the vibe like here for you right now?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Is there something you never do when you meet someone for the first time?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Who texted or called you most recently?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "What do you usually do with your free time lately?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "How would you describe this gathering to a friend?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "What kind of people do you click with quickly?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "How excited were you for this before you got here?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Did anything good happen today?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "How would you introduce yourself in one sentence?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Do you usually end up being the energy of the group?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "What are you doing after this?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Three words that are on your mind right now?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Do you have a trick for warming up to strangers quickly?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "What emoji do you use the most lately?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "What kind of person here are you most hoping to connect with?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Were you nervous coming here today?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "If your current mood were a food, what would it be?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "How do you act when you immediately like someone's vibe?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "What music genre do you listen to the most lately?",
+    "category": "taste"
+  },
+  {
+    "question": "Are you a coffee person? Iced black or latte?",
+    "category": "taste"
+  },
+  {
+    "question": "When you order fried chicken, which piece do you go for first?",
+    "category": "taste"
+  },
+  {
+    "question": "What's your go-to movie theater snack?",
+    "category": "taste"
+  },
+  {
+    "question": "When you open Netflix, what genre do you look for first?",
+    "category": "taste"
+  },
+  {
+    "question": "What's the number one comfort food for you?",
+    "category": "taste"
+  },
+  {
+    "question": "When you listen to music, do you focus on the lyrics or the melody?",
+    "category": "taste"
+  },
+  {
+    "question": "What's your favorite convenience store snack?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there a show or variety program you're currently hooked on?",
+    "category": "taste"
+  },
+  {
+    "question": "What do you usually order at a café?",
+    "category": "taste"
+  },
+  {
+    "question": "Pork belly or pork shoulder — if you're grilling, which do you prefer?",
+    "category": "taste"
+  },
+  {
+    "question": "What's your favorite pizza topping?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you have a go-to song at karaoke?",
+    "category": "taste"
+  },
+  {
+    "question": "What's your favorite movie genre?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you read? What kind of books are you into?",
+    "category": "taste"
+  },
+  {
+    "question": "What's your drink of choice when you go out?",
+    "category": "taste"
+  },
+  {
+    "question": "What music app do you use?",
+    "category": "taste"
+  },
+  {
+    "question": "Chewy or crispy — which texture do you prefer?",
+    "category": "taste"
+  },
+  {
+    "question": "Sweet or salty — which side are you on?",
+    "category": "taste"
+  },
+  {
+    "question": "What YouTube channels do you watch a lot lately?",
+    "category": "taste"
+  },
+  {
+    "question": "Have you ever been obsessed with a musician or group? Who?",
+    "category": "taste"
+  },
+  {
+    "question": "What do you always add when you cook instant noodles?",
+    "category": "taste"
+  },
+  {
+    "question": "Black bean noodles or spicy seafood noodle soup — always which one?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you work out? Is there a sport or exercise you enjoy?",
+    "category": "taste"
+  },
+  {
+    "question": "City trip or nature trip — which do you prefer?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you always check reviews before ordering delivery?",
+    "category": "taste"
+  },
+  {
+    "question": "What's your go-to late-night snack?",
+    "category": "taste"
+  },
+  {
+    "question": "Are you into any sports — playing or watching?",
+    "category": "taste"
+  },
+  {
+    "question": "Which social media platform do you use the most?",
+    "category": "taste"
+  },
+  {
+    "question": "Are you into gaming? What's your favorite genre?",
+    "category": "taste"
+  },
+  {
+    "question": "Online or in-store shopping — which do you prefer?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you have a favorite season? Why?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you wear perfume? What kind of scent do you like?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you usually play music at home?",
+    "category": "taste"
+  },
+  {
+    "question": "Cute or sleek — which style do you lean toward?",
+    "category": "taste"
+  },
+  {
+    "question": "Can you cook? Is there a dish you're proud of?",
+    "category": "taste"
+  },
+  {
+    "question": "What's your favorite thing to do with free time?",
+    "category": "taste"
+  },
+  {
+    "question": "Have you seen any musicals or plays? Are you interested?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you like taking photos? What kind of shots do you usually take?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you have a fashion style you're drawn to?",
+    "category": "taste"
+  },
+  {
+    "question": "If you had to describe the vibe here with a song title, what would it be?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If what you're wearing today were an outfit with a name, what would it be called?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If this moment were a movie title, what would it be?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If you had to sell something for one minute right now, what would you sell?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "What's the most random thought you've ever had?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If your current mood were a dish, what would it be?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If you were a character, what superpower would you want?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "What song would be the soundtrack of your life right now?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "What's your phone lock screen right now?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If you were an animal, which one would you be?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If you suddenly became famous, what would it be for?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If this gathering were a plant, which one would it be?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "What's the weirdest app on your phone?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "What do you think about most right before you fall asleep?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "What was the first thought that crossed your mind when you woke up today?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If your life had an autosave feature, which moment would you save?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If there were a dress code for this gathering, what would it be?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If you suddenly had to film an ad, what product do you think would suit you best?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If you were an animal at a zoo, which animal would you be?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If your life were a variety show, what would the title be?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Can you make everyone here laugh within five seconds?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "What's your most useless hidden talent?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "What's the most random thing you've ever said when first meeting someone?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "How different is your Instagram feed from what you're actually like?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If you suddenly went on a trip with everyone here, what's the first thing you'd say?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Do you have a weird habit that's uniquely yours?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "What do people say to you the most?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "What's the weirdest thing you did today?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If someone made a YouTube video about this gathering, what would the title be?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "What's the funniest mistake you've ever made?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "What's a weird food combination that somehow works for you?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If you suddenly had to go on stage right now, what would you do?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Describe today's gathering as a four-word phrase or idiom.",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If you were turned into a meme right now, what would the situation be?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "What's the wildest dream you've ever had?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If you had to pair a food with this gathering, what would it be?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "What kind of main character energy did you have today?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "How do you think your best friend would describe you in one word?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "What's the most surreal experience you've ever had?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "If this group were a herd of animals, which ones would you be?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Is there a version of you that people wouldn't expect based on first impressions?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "What surprises people most when they get to know you?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "What's the biggest difference between how you come across and who you actually are?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Do you have a secret hobby no one knows about?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there something you're really good at that almost no one knows?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there something people tend to misread about you when they first meet you?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Do you have a taste or interest that totally doesn't fit your look or vibe?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there a side of you that even your closest friends don't know?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Have you ever done something that completely surprised the people who know you?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there a version of yourself that only comes out when you're alone?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "What's a surprising quality about yourself that you're actually proud of?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "What's the most unexpected experience of your life?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "What type do you think people peg you as when they first meet you?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there something you pretend to be good at but are actually pretty bad at?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "What's your biggest plot twist?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there something you do or say that often gets misread?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Do you like something that seems out of place for your age?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Do you have a hobby that has nothing to do with your job or studies?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "What's the thing about you that surprises people most?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "How do you change between when someone first meets you and when they actually know you?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there a version of yourself that you don't fully understand yet?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there something you're surprisingly afraid of?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there a music genre you like that doesn't match your image at all?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "What's the weirdest habit you know you have?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there a reaction of yours that always catches people off guard?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there a common misconception about you?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there something you take surprisingly seriously?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "What do people who know you really well know about you?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there a dream of yours that people would never guess based on how you look or act?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there something you yourself find surprising about how you act?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there a question people would never think to ask you?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "What's something about you that's hard to notice when you first meet?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there something everyone else seems to find easy that you genuinely struggle with?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Do you have a nickname that surprises people?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there something you like that makes people raise an eyebrow?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there a moment when you get nervous that nobody can tell from the outside?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there a side of you that people tend to like more once they get to know you?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Is there something you take surprisingly good care of?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "What's the biggest gap between your social media and your real self?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "What's a job people would never picture you doing?",
+    "category": "unexpectedSide"
+  }
+]

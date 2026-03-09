@@ -1,0 +1,642 @@
+[
+  {
+    "question": "What did you feel when you first saw me?",
+    "category": "excitement"
+  },
+  {
+    "question": "When did you start having feelings for me?",
+    "category": "excitement"
+  },
+  {
+    "question": "What was the most exciting moment during the 'talking stage'?",
+    "category": "excitement"
+  },
+  {
+    "question": "What was it about me that made your heart race at first?",
+    "category": "excitement"
+  },
+  {
+    "question": "Did you ever hesitate before reaching out to me?",
+    "category": "excitement"
+  },
+  {
+    "question": "Did you know you liked me the first time you saw me?",
+    "category": "excitement"
+  },
+  {
+    "question": "Were you nervous the first time we were alone together?",
+    "category": "excitement"
+  },
+  {
+    "question": "Was it my smile or my serious side that felt more attractive to you at first?",
+    "category": "excitement"
+  },
+  {
+    "question": "How were you feeling the night before you confessed to me?",
+    "category": "excitement"
+  },
+  {
+    "question": "When was the first moment you admitted to yourself that you liked me?",
+    "category": "excitement"
+  },
+  {
+    "question": "Are there still moments when you get butterflies looking at me?",
+    "category": "excitement"
+  },
+  {
+    "question": "Is there a time of day when getting a message from me feels the best?",
+    "category": "excitement"
+  },
+  {
+    "question": "What were you most excited about before we started dating?",
+    "category": "excitement"
+  },
+  {
+    "question": "Do you like hearing my voice?",
+    "category": "excitement"
+  },
+  {
+    "question": "What image comes to mind first when you think of me?",
+    "category": "excitement"
+  },
+  {
+    "question": "Do you remember our first meal together? How did it feel?",
+    "category": "excitement"
+  },
+  {
+    "question": "Do you remember the day we got together? How were you feeling?",
+    "category": "excitement"
+  },
+  {
+    "question": "How do you feel when you see me walking towards you from a distance?",
+    "category": "excitement"
+  },
+  {
+    "question": "Was there a moment when you knew for sure you had a crush on me?",
+    "category": "excitement"
+  },
+  {
+    "question": "Does your heart still race when you're on your way to meet me?",
+    "category": "excitement"
+  },
+  {
+    "question": "What was the most exciting thing I did unexpectedly for you?",
+    "category": "excitement"
+  },
+  {
+    "question": "How did you feel the first time we had physical contact?",
+    "category": "excitement"
+  },
+  {
+    "question": "When did you first feel like you missed me?",
+    "category": "excitement"
+  },
+  {
+    "question": "Have you ever gotten flustered by me and had to calm yourself down?",
+    "category": "excitement"
+  },
+  {
+    "question": "Was there a moment when your heart dropped because of me?",
+    "category": "excitement"
+  },
+  {
+    "question": "Did you wait anxiously for replies when we first started texting?",
+    "category": "excitement"
+  },
+  {
+    "question": "What did I say that made you flutter the most?",
+    "category": "excitement"
+  },
+  {
+    "question": "Is there still a moment when your heart beats faster when we're together?",
+    "category": "excitement"
+  },
+  {
+    "question": "Did you think about me a lot after our first meeting?",
+    "category": "excitement"
+  },
+  {
+    "question": "Did you ever try to hide the fact that you were interested in me?",
+    "category": "excitement"
+  },
+  {
+    "question": "Did you ever secretly look me up before we started dating?",
+    "category": "excitement"
+  },
+  {
+    "question": "What did I do that made you think 'this is the one'?",
+    "category": "excitement"
+  },
+  {
+    "question": "How did it feel when you first told someone you liked me?",
+    "category": "excitement"
+  },
+  {
+    "question": "What were you thinking on your way home after the first time we said goodbye?",
+    "category": "excitement"
+  },
+  {
+    "question": "Did you ever get nervous waiting for me?",
+    "category": "excitement"
+  },
+  {
+    "question": "Did you ever worry about me drifting away?",
+    "category": "excitement"
+  },
+  {
+    "question": "Was there something you did to impress me before we started dating?",
+    "category": "excitement"
+  },
+  {
+    "question": "Have you ever looked at my photos more than once on the sly?",
+    "category": "excitement"
+  },
+  {
+    "question": "Do you remember what I was wearing the day we first met?",
+    "category": "excitement"
+  },
+  {
+    "question": "Is there something about me that still gives you butterflies right now?",
+    "category": "excitement"
+  },
+  {
+    "question": "What type of date do you enjoy most with me?",
+    "category": "taste"
+  },
+  {
+    "question": "What food do you want to share with me?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there a place you want to travel to with me?",
+    "category": "taste"
+  },
+  {
+    "question": "What genre do you enjoy most when we watch things together?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there a food you absolutely want to introduce me to?",
+    "category": "taste"
+  },
+  {
+    "question": "Have you discovered something we both like recently?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there a hobby you think would be more fun to do together with me?",
+    "category": "taste"
+  },
+  {
+    "question": "What song would you recommend we listen to together?",
+    "category": "taste"
+  },
+  {
+    "question": "What do you think we click on the most taste-wise?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there something you got interested in because of me?",
+    "category": "taste"
+  },
+  {
+    "question": "Have you ever felt like the vibe was just right between us?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there something we have completely opposite tastes in?",
+    "category": "taste"
+  },
+  {
+    "question": "Was there a moment you were happy to find out we like the same thing?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there a new experience you want to try together?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there something I recommended that you ended up liking more than expected?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you prefer outdoor or indoor dates?",
+    "category": "taste"
+  },
+  {
+    "question": "If we made a shared playlist, what would the first song be?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you think our interior style would match if we lived together?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there a movie or show you really want to show me?",
+    "category": "taste"
+  },
+  {
+    "question": "What's something we could both enjoy in a totally carefree, childlike way?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there something about my taste that surprised you or felt unexpected?",
+    "category": "taste"
+  },
+  {
+    "question": "If we cooked together, what would you want to make?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there an exhibition or performance you'd like to go to with me?",
+    "category": "taste"
+  },
+  {
+    "question": "What's the field where our tastes overlap the most?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there a food or dish you discovered because of me?",
+    "category": "taste"
+  },
+  {
+    "question": "What kind of café vibe do you want to find together?",
+    "category": "taste"
+  },
+  {
+    "question": "If we exercised together, what do you think would suit us?",
+    "category": "taste"
+  },
+  {
+    "question": "Do you think our taste in books is similar?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there something that would feel missing from our dates if it weren't there?",
+    "category": "taste"
+  },
+  {
+    "question": "What's your favorite look of mine style-wise?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there a place you want to stay at with me until late?",
+    "category": "taste"
+  },
+  {
+    "question": "Have our different tastes led us to discover something good together?",
+    "category": "taste"
+  },
+  {
+    "question": "What's a food you really want me to try?",
+    "category": "taste"
+  },
+  {
+    "question": "What's the most fun place for us to explore together?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there something I like that you'd want to try with me?",
+    "category": "taste"
+  },
+  {
+    "question": "What do we have the biggest overlap on food-wise?",
+    "category": "taste"
+  },
+  {
+    "question": "What season would you want to travel with me in?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there a sport or game that would be more fun to watch or play together?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there something I don't like that you secretly want to try with me?",
+    "category": "taste"
+  },
+  {
+    "question": "Is there something we have really different tastes in but still enjoyed together?",
+    "category": "taste"
+  },
+  {
+    "question": "When's the moment you laughed the hardest while we've been together?",
+    "category": "memories"
+  },
+  {
+    "question": "What's a scene from our first date that you still remember?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the moment I made you feel the happiest?",
+    "category": "memories"
+  },
+  {
+    "question": "After we fought and made up, what word sticks in your memory the most?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there something we did together that still crosses your mind sometimes?",
+    "category": "memories"
+  },
+  {
+    "question": "Think of a time I genuinely moved you — what comes to mind?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most memorable episode from a trip we took together?",
+    "category": "memories"
+  },
+  {
+    "question": "When was the first time you felt truly grateful for me?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there food we ate together that you still think about?",
+    "category": "memories"
+  },
+  {
+    "question": "Was there a day that was totally ordinary but made you genuinely happy?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the day you felt the best heading home after being with me?",
+    "category": "memories"
+  },
+  {
+    "question": "What was the first thing that made you genuinely annoyed at me? Do you laugh at it now?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there a moment together that felt like a real surprise to you?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you remember a time when I was sick or struggling? How did you feel?",
+    "category": "memories"
+  },
+  {
+    "question": "Did we ever get lost or have plans go sideways? Do you remember?",
+    "category": "memories"
+  },
+  {
+    "question": "When was the first time you sincerely said thank you to me?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most exciting story from the early days of us dating?",
+    "category": "memories"
+  },
+  {
+    "question": "Have we ever stayed up all night doing something together? What's the memory like?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the funniest moment you remember me being funny?",
+    "category": "memories"
+  },
+  {
+    "question": "Was there a moment when you felt like you really got to know me on a deeper level?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you remember the day we had our first fight?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there a movie or performance we saw together that you still remember?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most memorable thing I did that you didn't expect?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most absurd or funny mishap we've had while dating?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you remember being there for me when I was going through something hard?",
+    "category": "memories"
+  },
+  {
+    "question": "When did we have the most honest conversation?",
+    "category": "memories"
+  },
+  {
+    "question": "Was there a day the weather was bad but things ended up being great anyway?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you remember the first time we had a really serious talk?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most memorable thing you remember me doing for you?",
+    "category": "memories"
+  },
+  {
+    "question": "When was the first time we traveled a long distance together? How was it?",
+    "category": "memories"
+  },
+  {
+    "question": "Was there a day with me when you felt time just flew by?",
+    "category": "memories"
+  },
+  {
+    "question": "Was there something we did together that you didn't enjoy at first but ended up loving?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most memorable thing about my birthday or our anniversary?",
+    "category": "memories"
+  },
+  {
+    "question": "Which place we spent time together do you think about most?",
+    "category": "memories"
+  },
+  {
+    "question": "Have you ever watched me sleep? How did it feel?",
+    "category": "memories"
+  },
+  {
+    "question": "After we said goodbye for the first time, when did you first miss me?",
+    "category": "memories"
+  },
+  {
+    "question": "Which day in our relationship do you think was the most romantic?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you remember feeling proud when I handled something on my own?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most special meal we've had together?",
+    "category": "memories"
+  },
+  {
+    "question": "When did you feel closest to me?",
+    "category": "memories"
+  },
+  {
+    "question": "What's one thing you definitely want us to do together someday?",
+    "category": "future"
+  },
+  {
+    "question": "What do you hope we look like 5 years from now?",
+    "category": "future"
+  },
+  {
+    "question": "Where do you want to travel with me?",
+    "category": "future"
+  },
+  {
+    "question": "If we moved in together, what's the first thing you'd want to do?",
+    "category": "future"
+  },
+  {
+    "question": "Is there something you want us to still be doing together when we're older?",
+    "category": "future"
+  },
+  {
+    "question": "Is there a goal you really want us to achieve together?",
+    "category": "future"
+  },
+  {
+    "question": "What kind of everyday life do you want to have with me when we're old?",
+    "category": "future"
+  },
+  {
+    "question": "Is there a country you really want us to travel to next?",
+    "category": "future"
+  },
+  {
+    "question": "What kind of person do you want to be for me when I'm going through a hard time?",
+    "category": "future"
+  },
+  {
+    "question": "If we decorated our own place, which space would you care about most?",
+    "category": "future"
+  },
+  {
+    "question": "What do you hope I look like in the future?",
+    "category": "future"
+  },
+  {
+    "question": "Is there something you want to do better in our relationship going forward?",
+    "category": "future"
+  },
+  {
+    "question": "What's number one on the bucket list you want us to achieve together?",
+    "category": "future"
+  },
+  {
+    "question": "Is there something you hope we always keep between us?",
+    "category": "future"
+  },
+  {
+    "question": "How do you want to cheer me on as I chase my dreams?",
+    "category": "future"
+  },
+  {
+    "question": "If we lived together, what neighborhood would you want to live in?",
+    "category": "future"
+  },
+  {
+    "question": "Is there something you hope we'll laugh about together 10 years from now?",
+    "category": "future"
+  },
+  {
+    "question": "Is there something you've wanted to do for me but haven't done yet?",
+    "category": "future"
+  },
+  {
+    "question": "Is there a tradition you want us to keep as we grow old together?",
+    "category": "future"
+  },
+  {
+    "question": "Is there a dream of mine you hope comes true?",
+    "category": "future"
+  },
+  {
+    "question": "Is there something in our relationship you want to be more open about going forward?",
+    "category": "future"
+  },
+  {
+    "question": "Is there something you want us to learn together?",
+    "category": "future"
+  },
+  {
+    "question": "Is there a space you want us to create together someday?",
+    "category": "future"
+  },
+  {
+    "question": "What kind of situation do you most want me to be there for you in?",
+    "category": "future"
+  },
+  {
+    "question": "Is there a type of date you want to go on more often?",
+    "category": "future"
+  },
+  {
+    "question": "If we could do something meaningful or volunteer together, what would you choose?",
+    "category": "future"
+  },
+  {
+    "question": "What does marriage look like in your mind?",
+    "category": "future"
+  },
+  {
+    "question": "How do you want to support me when I'm lost?",
+    "category": "future"
+  },
+  {
+    "question": "What new memory do you most want us to create together?",
+    "category": "future"
+  },
+  {
+    "question": "Is there something you hope doesn't change about us as we get older?",
+    "category": "future"
+  },
+  {
+    "question": "If we became a married couple, what kind of home would you want to build?",
+    "category": "future"
+  },
+  {
+    "question": "How do you want to support me as I grow?",
+    "category": "future"
+  },
+  {
+    "question": "Is there something you really want to take on together with me?",
+    "category": "future"
+  },
+  {
+    "question": "What do you think we each need to do to be better for each other?",
+    "category": "future"
+  },
+  {
+    "question": "Can you honestly tell me one thing you'd love me to do for you?",
+    "category": "future"
+  },
+  {
+    "question": "Is there a pattern in our relationship you'd like us to let go of?",
+    "category": "future"
+  },
+  {
+    "question": "What do you think is the key to growing old together in a healthy way?",
+    "category": "future"
+  },
+  {
+    "question": "What do you think we'll be doing together 30 years from now?",
+    "category": "future"
+  },
+  {
+    "question": "What area of my life do you hope I grow in?",
+    "category": "future"
+  },
+  {
+    "question": "What do you think we need to make our time together even richer?",
+    "category": "future"
+  }
+]

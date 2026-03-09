@@ -1,0 +1,642 @@
+[
+  {
+    "question": "What was the most rewarding moment you've had at work?",
+    "category": "workLife"
+  },
+  {
+    "question": "What's the most absurd thing that's ever happened at work?",
+    "category": "workLife"
+  },
+  {
+    "question": "Do you remember your first day at work? How did it feel?",
+    "category": "workLife"
+  },
+  {
+    "question": "Is there a coworker you've been especially grateful for?",
+    "category": "workLife"
+  },
+  {
+    "question": "Which workplace you've been at left the biggest impression on you?",
+    "category": "workLife"
+  },
+  {
+    "question": "Is there a memorable story from a time you had to work late?",
+    "category": "workLife"
+  },
+  {
+    "question": "Can you share an episode about the coworker you got closest to?",
+    "category": "workLife"
+  },
+  {
+    "question": "What was the funniest moment you've had at the office?",
+    "category": "workLife"
+  },
+  {
+    "question": "When did you break out in a cold sweat the most over a work mistake?",
+    "category": "workLife"
+  },
+  {
+    "question": "What's the most satisfying achievement you've had at work?",
+    "category": "workLife"
+  },
+  {
+    "question": "Is there an unforgettable episode from a company dinner or outing?",
+    "category": "workLife"
+  },
+  {
+    "question": "When was the first time you felt genuinely recognized at work?",
+    "category": "workLife"
+  },
+  {
+    "question": "Is there a memory of getting scolded by a manager that seems funny now?",
+    "category": "workLife"
+  },
+  {
+    "question": "What was the most overwhelming situation you faced as a new employee?",
+    "category": "workLife"
+  },
+  {
+    "question": "Have you ever had fun hanging out with coworkers outside of work?",
+    "category": "workLife"
+  },
+  {
+    "question": "Is there a funny or embarrassing episode from a work trip or business travel?",
+    "category": "workLife"
+  },
+  {
+    "question": "Tell me about the most challenging project you've ever worked on.",
+    "category": "workLife"
+  },
+  {
+    "question": "Have you discovered a talent through your work that you didn't expect?",
+    "category": "workLife"
+  },
+  {
+    "question": "What do you miss most about a former workplace?",
+    "category": "workLife"
+  },
+  {
+    "question": "What did you do when you received your very first paycheck?",
+    "category": "workLife"
+  },
+  {
+    "question": "Is there a funny episode from working remotely?",
+    "category": "workLife"
+  },
+  {
+    "question": "Have you ever worked through the night? What was the situation?",
+    "category": "workLife"
+  },
+  {
+    "question": "Have you ever been misunderstood at work? How did you resolve it?",
+    "category": "workLife"
+  },
+  {
+    "question": "How did you resolve a conflict with a coworker?",
+    "category": "workLife"
+  },
+  {
+    "question": "Has work ever made you emotional? What happened?",
+    "category": "workLife"
+  },
+  {
+    "question": "What was your reason for applying to this company?",
+    "category": "workLife"
+  },
+  {
+    "question": "What was the best day off you ever took and what did you do?",
+    "category": "workLife"
+  },
+  {
+    "question": "Have you ever gotten a nickname at a workplace?",
+    "category": "workLife"
+  },
+  {
+    "question": "Is there a coworker who left that you still miss?",
+    "category": "workLife"
+  },
+  {
+    "question": "What's the biggest way you've changed from early in your career to now?",
+    "category": "workLife"
+  },
+  {
+    "question": "Has something a coworker said ever had a big impact on you?",
+    "category": "workLife"
+  },
+  {
+    "question": "Is there a senior or coworker who you've genuinely admired?",
+    "category": "workLife"
+  },
+  {
+    "question": "Has a work incident ever brought a team closer together?",
+    "category": "workLife"
+  },
+  {
+    "question": "What was the bravest thing you did at work?",
+    "category": "workLife"
+  },
+  {
+    "question": "What's the most memorable team project you've been on?",
+    "category": "workLife"
+  },
+  {
+    "question": "Was there a work experience that turned out to be surprisingly fun?",
+    "category": "workLife"
+  },
+  {
+    "question": "When was the busiest period of your career?",
+    "category": "workLife"
+  },
+  {
+    "question": "Have you developed any new habits from working?",
+    "category": "workLife"
+  },
+  {
+    "question": "When was the most recent moment you thought 'I'm glad I do this'?",
+    "category": "workLife"
+  },
+  {
+    "question": "Have you received any especially meaningful feedback about your work?",
+    "category": "workLife"
+  },
+  {
+    "question": "Do you listen to music while working? What kind of vibe do you like?",
+    "category": "workStyle"
+  },
+  {
+    "question": "What's your messaging reply style? Instant replies or batch responses?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Is there something you always need on your desk to work?",
+    "category": "workStyle"
+  },
+  {
+    "question": "What's your desk setup style? Spotless, or creative chaos?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Are you a morning person or an afternoon person when it comes to work?",
+    "category": "workStyle"
+  },
+  {
+    "question": "In meetings, do you take notes or mostly just listen?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you write a to-do list before starting work?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Does working from home make you more or less productive?",
+    "category": "workStyle"
+  },
+  {
+    "question": "How much time do you think you spend zoning out during the workday?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you focus better with a tight deadline?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you prefer juggling multiple tasks or focusing on one at a time?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you have any personal productivity tricks for staying focused?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you prefer working quietly alone or being active with the team?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you use a lot of emojis on Slack or messaging apps?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you spend a lot of time thinking about how to word work emails?",
+    "category": "workLife"
+  },
+  {
+    "question": "Do you walk around when you're on a call or sit still?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Is there a piece of office stationery you're low-key obsessed with?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you put a lot of effort into the design of your reports?",
+    "category": "workStyle"
+  },
+  {
+    "question": "When you make a mistake, do you admit it quickly or investigate the cause first?",
+    "category": "workStyle"
+  },
+  {
+    "question": "When you're stuck at work, do you try to figure it out alone or ask for help quickly?",
+    "category": "workStyle"
+  },
+  {
+    "question": "In meetings, do you speak up first or wait to hear others' opinions?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you enjoy sharing your work results with the team?",
+    "category": "workStyle"
+  },
+  {
+    "question": "When you get a compliment, do you get shy or take it naturally?",
+    "category": "workStyle"
+  },
+  {
+    "question": "How does your perfectionist side show up in your work?",
+    "category": "workStyle"
+  },
+  {
+    "question": "What app or tool do you use most at work?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you have a routine you do when you first arrive at work?",
+    "category": "workStyle"
+  },
+  {
+    "question": "When you don't know something, do you look it up first or ask someone right away?",
+    "category": "workStyle"
+  },
+  {
+    "question": "For long projects, do you manage them in chunks or see the whole picture at once?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you give feedback directly or tend to soften it?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you have your own system for setting work priorities?",
+    "category": "workStyle"
+  },
+  {
+    "question": "When learning a new task, do you dive in or study the theory first?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Which do you think matters more — teamwork or individual capability?",
+    "category": "workStyle"
+  },
+  {
+    "question": "What do you think helps growth more — praise or feedback?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you think your MBTI shows up in your work style?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you put stickers on your laptop?",
+    "category": "workStyle"
+  },
+  {
+    "question": "What do you do to get back on track when you lose focus?",
+    "category": "workStyle"
+  },
+  {
+    "question": "What kind of feedback style motivates you the most?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Does your emotional state affect how you work?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you feel more pressure when your name is on the deliverable?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Do you check work messages on weekends?",
+    "category": "workStyle"
+  },
+  {
+    "question": "What do you think you'll be doing 5 years from now?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Is there something in your career you absolutely refuse to compromise on?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Is there something you want to try doing beyond what you do now?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Beyond money, what else do you want to get from your work?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "What's the most important value to you in your career?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "If you moved to a completely different field, what would you want to do?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Have you ever thought about starting a business? What kind?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Do you think the job you're doing now will still exist in 10 years?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "What do you think it takes to be a true expert in your field?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Is the dream job you had as a kid related to what you do now?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Right now in your career, which matters more — passion or stability?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Have you seriously considered changing jobs? What criteria did you use to decide?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "What does career success look like to you?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "What's the area you most want to grow in at work right now?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "How do you want to be remembered by the people who come after you at work?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Is there a skill or knowledge you want to pick up these days?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Have you done a side project or gig? Is there one you'd like to start?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "How do you hope your work impacts society?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "What was the biggest turning point in your career?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "If you could give one career piece of advice to yourself 10 years ago, what would it be?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "What's a specific moment when you feel your current work is meaningful?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "How do you want to work in the future? Remote, office, freelance?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Right now, are you more focused on promotions or deepening your expertise?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Is there a goal you want to achieve at the company you're at now?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "What kind of work do you want to be doing after you retire?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "What kind of person do you want to grow into through your work?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "If you weren't in your current career, what path do you think you'd have taken?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Is there something in your career you haven't done yet that you really want to try?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Have you ever thought about building your own personal brand or expertise?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Do you feel like choosing your current job was the right call?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Right now, which side weighs more in your work-life balance?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "When you burned out, how did you recover or find your motivation again?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Do you have a career mentor? What kind of person are they?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Would you prefer a team lead or management role, or a specialist track?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "What's the skill you most want to develop in your current role?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Is there work you want to keep doing even as you get older?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Have you ever wanted to work abroad?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "What's a new field you most want to challenge yourself with right now?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "What does your ideal work environment look like?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Is there a life goal — not career-related — that you want to achieve?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "What's the first thing you do when you get home from work?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Do you have your own way to de-stress after work?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Is there a hobby you're really into right now?",
+    "category": "afterWork"
+  },
+  {
+    "question": "After work alone time — does it recharge you or feel lonely?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Do you have a routine you always do on weekends?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Do you exercise consistently after work? What do you do?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Is there a show or movie you've been enjoying lately?",
+    "category": "afterWork"
+  },
+  {
+    "question": "After work, do you cook for yourself or order and pick up food?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Is there a place you most want to go after work?",
+    "category": "afterWork"
+  },
+  {
+    "question": "How much YouTube or Netflix do you watch after work?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Do you spend a lot on hobbies?",
+    "category": "afterWork"
+  },
+  {
+    "question": "On weekends, do you pack your schedule or do nothing?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Do you enjoy reading? Is there a book you're reading right now?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Do you hang out with friends often after work?",
+    "category": "afterWork"
+  },
+  {
+    "question": "What's your favorite spot at home?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Do you make use of early morning hours? How?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Do you do any self-improvement after work? What?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Have you picked up any new hobbies recently?",
+    "category": "afterWork"
+  },
+  {
+    "question": "On weekends, do you prefer being alone or with someone?",
+    "category": "afterWork"
+  },
+  {
+    "question": "What's the one thing you look forward to most after work?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Is there a playlist or podcast you've been enjoying lately?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Do you go to cafes often? What kind do you like?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Is there someone you're in touch with a lot after work?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Have you ever gone to the movies alone on a day off?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Do you enjoy going for walks? What's a route you like?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Do you enjoy watching food content after work?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Is your sleep schedule pretty consistent?",
+    "category": "afterWork"
+  },
+  {
+    "question": "What's your favorite time of day at home?",
+    "category": "afterWork"
+  },
+  {
+    "question": "What activity gives you the most energy right now?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Do you play games? What kind?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Do you spend a lot of time on social media after work?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Have you traveled solo? How was it?",
+    "category": "afterWork"
+  },
+  {
+    "question": "What's the moment you look forward to most in your daily life right now?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Do you enjoy cooking at home? Is there a dish you make often?",
+    "category": "afterWork"
+  },
+  {
+    "question": "What do you do most after work?",
+    "category": "afterWork"
+  },
+  {
+    "question": "After work, can you usually switch off and stop thinking about work?",
+    "category": "afterWork"
+  },
+  {
+    "question": "What are you planning to do after work today?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Have your hobbies changed since you started working?",
+    "category": "afterWork"
+  },
+  {
+    "question": "What's your own way to refresh after work?",
+    "category": "afterWork"
+  },
+  {
+    "question": "On a day off, do you sleep in or wake up early?",
+    "category": "afterWork"
+  }
+]

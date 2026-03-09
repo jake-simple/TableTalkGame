@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Black bean noodles or spicy seafood noodle soup — can you decide immediately?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Pineapple on pizza — yes or no? Give your reasoning.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Bone-in fried chicken or boneless — which actually tastes better?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Bus or subway — which do you think is better?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Breakfast is non-negotiable vs. not really necessary — where do you stand?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "People working on laptops at cafés — totally fine or a little inconsiderate?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's the most you'd pay in delivery fees before you decide not to order?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Soup or spicy noodles — which are you?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Setting multiple alarms vs. one and done — which person do you understand more?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "When buying shoes, is comfort more important or design?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "A friend who texts rarely vs. a friend who texts too much — which is harder?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Grabbing a table vs. going up to order first — which role do you hate more?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Always bring a reusable bag vs. plastic bags are fine sometimes — where do you stand?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "When someone cuts in line, do you say something or let it go?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Iced or hot coffee — regardless of season, which is it for you?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Walking to save on a cab vs. paying for the ride — what's your style?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Is it rude to be the first person to leave a group hangout?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Is asking to box up your leftovers at a restaurant something you'd do naturally?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Muting a group chat notification — rude or completely normal?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "A gift someone personally picked out vs. cash or a gift card — which do you prefer?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Keeping your voice down on a call in public is common courtesy vs. the expectation is too much — what do you think?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eating popcorn at the movies — totally normal or actually kind of rude?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "When you spot someone you know on the street, do you get it if they pretend not to see you?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Raising your hand to get the server's attention vs. calling out — which do you prefer?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Being left on read vs. not being read at all — which is worse?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Delivery vs. eating out — which actually matters more for taste?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What do you do when you accidentally make eye contact with someone in an elevator?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Is leaving food on your plate wasteful, or is cleaning your plate compulsive?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "House slippers — essential or not really?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Someone who's exactly on time vs. someone who shows up five minutes early — which do you prefer?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Tying your sneakers properly vs. just stepping into them — which is fine?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Study room or café — which is the better study spot?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ordering delivery in the middle of the night — inconsiderate or totally fine?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "When eating out, split the bill vs. take turns paying — which is more comfortable?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Convenience store grab vs. making your own food at home — which is the better choice?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Taking a photo of your food before eating — totally normal or just eat already?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Sharing a fridge with a roommate — comfortable or not really?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Watching TV or YouTube while eating — good or better to just eat?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Separating laundry by color — necessary or not really?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Leaving your bag to hold a café table — acceptable or not okay?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Do you think going to a movie theater still makes sense in the streaming era?",
+    "category": "culture"
+  },
+  {
+    "question": "Has social media made relationships better or worse?",
+    "category": "culture"
+  },
+  {
+    "question": "Do you think short-form video — Reels, Shorts — is destroying people's attention spans?",
+    "category": "culture"
+  },
+  {
+    "question": "Idol fandom culture — do you get it, or does it feel a bit over-the-top?",
+    "category": "culture"
+  },
+  {
+    "question": "Do you think reading a physical book is more meaningful than an e-book?",
+    "category": "culture"
+  },
+  {
+    "question": "Do you think a remake can ever surpass the original?",
+    "category": "culture"
+  },
+  {
+    "question": "Can art made by AI count as real art?",
+    "category": "culture"
+  },
+  {
+    "question": "Do you think the global K-wave has actually helped the image of Korea?",
+    "category": "culture"
+  },
+  {
+    "question": "Can you trust products endorsed by celebrities?",
+    "category": "culture"
+  },
+  {
+    "question": "How much of a public figure's private life is okay to be made public?",
+    "category": "culture"
+  },
+  {
+    "question": "Have you ever felt like Instagram or YouTube was more accurate than the news?",
+    "category": "culture"
+  },
+  {
+    "question": "Do you prefer watching films without subtitles or with them?",
+    "category": "culture"
+  },
+  {
+    "question": "Streaming charts being manipulated — is it the fans' fault, or is the system broken?",
+    "category": "culture"
+  },
+  {
+    "question": "Consuming information through video instead of text — is that laziness?",
+    "category": "culture"
+  },
+  {
+    "question": "Traveling to Japan — do you think that's separate from historical issues, or not?",
+    "category": "culture"
+  },
+  {
+    "question": "Following celebrities on social media — does it actually enrich your life, or just lead to comparison?",
+    "category": "culture"
+  },
+  {
+    "question": "Do you think the quality of a music video matters as much as the music itself?",
+    "category": "culture"
+  },
+  {
+    "question": "Is the rise of convenience store meal culture a good trend?",
+    "category": "culture"
+  },
+  {
+    "question": "The sneaker resale culture — do you get it, or is it too much?",
+    "category": "culture"
+  },
+  {
+    "question": "Do you think TV dramas have gotten better than they used to be?",
+    "category": "culture"
+  },
+  {
+    "question": "Do you think influencers have too much power now?",
+    "category": "culture"
+  },
+  {
+    "question": "Should gaming be officially recognized as a sport?",
+    "category": "culture"
+  },
+  {
+    "question": "Do you find a villain-driven drama more interesting than one with a purely good protagonist?",
+    "category": "culture"
+  },
+  {
+    "question": "Is the shift toward webtoons over physical comics a good thing?",
+    "category": "culture"
+  },
+  {
+    "question": "Is international travel always more special than traveling domestically?",
+    "category": "culture"
+  },
+  {
+    "question": "What's a reasonable wedding gift amount, in your opinion?",
+    "category": "culture"
+  },
+  {
+    "question": "Do you think holiday traditions should change? How?",
+    "category": "culture"
+  },
+  {
+    "question": "Should using your phone during a performance be completely banned?",
+    "category": "culture"
+  },
+  {
+    "question": "Do you think AI translation tools have reduced the need to learn foreign languages?",
+    "category": "culture"
+  },
+  {
+    "question": "Is it possible to do marketing without social media anymore?",
+    "category": "culture"
+  },
+  {
+    "question": "Do you think content has gotten too sensational lately?",
+    "category": "culture"
+  },
+  {
+    "question": "Do you feel like big tech platforms have too much of a monopoly on everything?",
+    "category": "culture"
+  },
+  {
+    "question": "Does the wellness trend actually change people's lives, or is it mostly marketing?",
+    "category": "culture"
+  },
+  {
+    "question": "Celebrities doing their own food YouTube channels — interesting or just image-building?",
+    "category": "culture"
+  },
+  {
+    "question": "Do you think you can still enjoy something even if you know the spoilers?",
+    "category": "culture"
+  },
+  {
+    "question": "Is it a shame that karaoke culture is slowly disappearing?",
+    "category": "culture"
+  },
+  {
+    "question": "In hiring culture for young people, should personality matter more than credentials?",
+    "category": "culture"
+  },
+  {
+    "question": "Is buying luxury goods a waste of money or a valid form of self-expression?",
+    "category": "culture"
+  },
+  {
+    "question": "Should YouTubers be held to the same standard of responsibility as traditional broadcasters?",
+    "category": "culture"
+  },
+  {
+    "question": "Do you think short-form video is actually replacing longer content now?",
+    "category": "culture"
+  },
+  {
+    "question": "Can men and women be purely platonic friends?",
+    "category": "relationship"
+  },
+  {
+    "question": "Is it okay for couples to keep secrets from each other?",
+    "category": "relationship"
+  },
+  {
+    "question": "Do you think relationships that start as friendships last longer?",
+    "category": "relationship"
+  },
+  {
+    "question": "Does how often someone texts you indicate how much they care?",
+    "category": "relationship"
+  },
+  {
+    "question": "Do you think love at first sight can turn into real love?",
+    "category": "relationship"
+  },
+  {
+    "question": "Does age difference matter in friendships?",
+    "category": "relationship"
+  },
+  {
+    "question": "Should couples know each other's social media passwords?",
+    "category": "relationship"
+  },
+  {
+    "question": "Do you think long-distance relationships can actually work?",
+    "category": "relationship"
+  },
+  {
+    "question": "People fundamentally change vs. personality never really changes — which side are you on?",
+    "category": "relationship"
+  },
+  {
+    "question": "Is it possible to stay friends after a breakup?",
+    "category": "relationship"
+  },
+  {
+    "question": "Is total honesty in a relationship always a good thing?",
+    "category": "relationship"
+  },
+  {
+    "question": "Is the talking phase before dating necessary, or just a waste of time?",
+    "category": "relationship"
+  },
+  {
+    "question": "Should friends never lend money to each other?",
+    "category": "relationship"
+  },
+  {
+    "question": "Do you really need to know about your partner's past relationships?",
+    "category": "relationship"
+  },
+  {
+    "question": "Do you think it's very hard to trust someone again after they've cheated?",
+    "category": "relationship"
+  },
+  {
+    "question": "What matters more in a relationship — similarities or differences?",
+    "category": "relationship"
+  },
+  {
+    "question": "Is being in a one-sided love for a long time lack of courage, or is it pure?",
+    "category": "relationship"
+  },
+  {
+    "question": "Do couples need to share hobbies?",
+    "category": "relationship"
+  },
+  {
+    "question": "Can friends ever matter more than family?",
+    "category": "relationship"
+  },
+  {
+    "question": "Is setting someone up on a blind date a favor or a burden?",
+    "category": "relationship"
+  },
+  {
+    "question": "A 10-year age gap in a relationship — no problem?",
+    "category": "relationship"
+  },
+  {
+    "question": "Is it risky to get married without having lived together first?",
+    "category": "relationship"
+  },
+  {
+    "question": "Can a friend-of-a-friend become a real friend, or is it always a little awkward?",
+    "category": "relationship"
+  },
+  {
+    "question": "Does the person who texts first in a relationship like the other more?",
+    "category": "relationship"
+  },
+  {
+    "question": "Do you think financial independence is healthier for a couple?",
+    "category": "relationship"
+  },
+  {
+    "question": "If a friend is in a bad relationship, should you say something honestly?",
+    "category": "relationship"
+  },
+  {
+    "question": "Can you make yourself fall for someone through effort and intention?",
+    "category": "relationship"
+  },
+  {
+    "question": "Love alone is enough for marriage vs. practical compatibility has to be there too — where do you stand?",
+    "category": "relationship"
+  },
+  {
+    "question": "When you fight with a partner, should you resolve it on the spot or cool off separately first?",
+    "category": "relationship"
+  },
+  {
+    "question": "Is it better to be the one who confesses first?",
+    "category": "relationship"
+  },
+  {
+    "question": "If you drift from a friend, should you be the one to reach out first?",
+    "category": "relationship"
+  },
+  {
+    "question": "Should you feel obligated to get along with your partner's friends?",
+    "category": "relationship"
+  },
+  {
+    "question": "What would you do if your parents disapproved of your partner?",
+    "category": "relationship"
+  },
+  {
+    "question": "Do you believe soulmates exist?",
+    "category": "relationship"
+  },
+  {
+    "question": "When you're upset with a friend, is it better to say something or just let it go?",
+    "category": "relationship"
+  },
+  {
+    "question": "Couples should be able to see each other's phones vs. everyone deserves personal privacy — where do you stand?",
+    "category": "relationship"
+  },
+  {
+    "question": "Is a relationship something you have to actively maintain, or does it just naturally unfold?",
+    "category": "relationship"
+  },
+  {
+    "question": "Can you forgive someone for going quiet when they're busy?",
+    "category": "relationship"
+  },
+  {
+    "question": "Is jealousy between partners a sign of love, or just possessiveness?",
+    "category": "relationship"
+  },
+  {
+    "question": "Is it okay to date your close friend's ex?",
+    "category": "relationship"
+  },
+  {
+    "question": "Do you think money can buy most forms of happiness?",
+    "category": "life"
+  },
+  {
+    "question": "Is living joyfully more important than working hard?",
+    "category": "life"
+  },
+  {
+    "question": "Do you think luck accounts for more than 50% of success?",
+    "category": "life"
+  },
+  {
+    "question": "Living happily is living well vs. living meaningfully is living well — where do you stand?",
+    "category": "life"
+  },
+  {
+    "question": "Do you think where you went to school still matters in society today?",
+    "category": "life"
+  },
+  {
+    "question": "Do you think comparing yourself to others isn't always a bad thing?",
+    "category": "life"
+  },
+  {
+    "question": "Is putting yourself first selfish, or actually healthy?",
+    "category": "life"
+  },
+  {
+    "question": "Hard work can achieve anything — do you actually believe that?",
+    "category": "life"
+  },
+  {
+    "question": "Do you think your 30s or your 20s are when you're freer?",
+    "category": "life"
+  },
+  {
+    "question": "Do you think the more experiences you have, the better a person you become?",
+    "category": "life"
+  },
+  {
+    "question": "Endure things you hate now for a better future vs. happiness in the present comes first — which do you believe?",
+    "category": "life"
+  },
+  {
+    "question": "Do you think marriage is something you need to do?",
+    "category": "life"
+  },
+  {
+    "question": "People grow through solitude vs. people grow through relationships — which is closer to your view?",
+    "category": "life"
+  },
+  {
+    "question": "Do you think honest people end up doing better in the long run?",
+    "category": "life"
+  },
+  {
+    "question": "Should you do what you love vs. what you're good at — which makes for a better career?",
+    "category": "life"
+  },
+  {
+    "question": "Is a stable life happier, or a dynamic one?",
+    "category": "life"
+  },
+  {
+    "question": "Is it natural for dreams to shrink as you get older?",
+    "category": "life"
+  },
+  {
+    "question": "Do you think reason-based decisions lead to better outcomes than emotional ones?",
+    "category": "life"
+  },
+  {
+    "question": "Does it feel harder to live an ordinary life today than it used to?",
+    "category": "life"
+  },
+  {
+    "question": "Failure is the mother of success — do you genuinely agree?",
+    "category": "life"
+  },
+  {
+    "question": "Is being born wealthy a talent, or is it just luck?",
+    "category": "life"
+  },
+  {
+    "question": "Do you think you should do everything you want before you turn forty?",
+    "category": "life"
+  },
+  {
+    "question": "Do you believe that good things come to good people?",
+    "category": "life"
+  },
+  {
+    "question": "Do you think today's generation has it harder than their parents did?",
+    "category": "life"
+  },
+  {
+    "question": "Sacrificing yourself is true love vs. you can't love well if you lose yourself — which do you believe?",
+    "category": "life"
+  },
+  {
+    "question": "Quitting your job to start a business — do you think the risk is worth it?",
+    "category": "life"
+  },
+  {
+    "question": "Do you feel a sense of obligation to take care of your parents?",
+    "category": "life"
+  },
+  {
+    "question": "When something unfair happens to you, is it wiser to keep your head down?",
+    "category": "life"
+  },
+  {
+    "question": "Do you think there's a way you're supposed to act at a certain age?",
+    "category": "life"
+  },
+  {
+    "question": "Is worrying a lot a sign of being prepared, or just wasted energy?",
+    "category": "life"
+  },
+  {
+    "question": "Can minimizing regret be a life goal?",
+    "category": "life"
+  },
+  {
+    "question": "Have you ever changed a decision because of what others would think? Do you think that was right?",
+    "category": "life"
+  },
+  {
+    "question": "Do you think bad experiences eventually help you in some way?",
+    "category": "life"
+  },
+  {
+    "question": "Is a life lived consistently and without passion actually a better life than one with passion?",
+    "category": "life"
+  },
+  {
+    "question": "Is spending your whole life doing one thing better, or is variety better?",
+    "category": "life"
+  },
+  {
+    "question": "Do you think you'll be able to feel that you lived without regret?",
+    "category": "life"
+  },
+  {
+    "question": "If you could only choose one — a great home or great travel experiences?",
+    "category": "life"
+  },
+  {
+    "question": "Do you think luck matters more than effort in life?",
+    "category": "life"
+  },
+  {
+    "question": "Do you think people who prefer being alone get the short end of the stick in relationships?",
+    "category": "life"
+  },
+  {
+    "question": "Do you feel like right now is the best time of your life?",
+    "category": "life"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Who do you talk to the most these days?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What was the most fun thing that happened this month?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What's been on your mind the most lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Have you added any new routines recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What app are you using the most right now?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What was the best thing you ate this week?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Where do you spend most of your time these days?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there any new show or content you've been hooked on recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What time have you been going to sleep lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What's the best decision you made this month?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What's the newest thing you've gotten interested in?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What's the most satisfying thing you've spent money on recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is the weather or season affecting your mood lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What was the most ridiculous thing that happened this week?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there anywhere you've been recently that you'd want to go back to?",
+    "category": "recentLife"
+  },
+  {
+    "question": "How's your energy level? Doing anything to take care of yourself?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What are you most looking forward to this month?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Are you keeping in touch with friends much these days?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there anything you tried solo recently that turned out to be surprisingly good?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What's on your mind before you fall asleep lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Did you get stressed this month? How did you deal with it?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Do you eat out often? Where do you usually go?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Have you tried anything new recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What's your favorite time of day lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "When did you laugh the hardest this week?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Are you learning or picking up anything new right now?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there anything you've read or watched recently that you'd recommend?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Have you been spending more time at home or out lately?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Who were you most grateful for this month?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What emotion do you feel most often these days?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Has anything unexpected happened recently?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there anything you want to declutter lately — stuff, relationships, anything?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What plan were you most excited about this week?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What do you usually do when you're alone these days?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there anything you recently gave up or quit?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Is there anything you keep putting in your cart when you shop?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Do you have any plans for this month?",
+    "category": "recentLife"
+  },
+  {
+    "question": "What habit or routine are you paying the most attention to these days?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Have you reconnected with someone you haven't heard from in a while?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Are you sleeping okay? Do you remember any dreams?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Do you remember how we first became close?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there something that happened between us that you still think about sometimes?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most memorable scene from your school days?",
+    "category": "memories"
+  },
+  {
+    "question": "Was there a food you absolutely refused to eat as a kid?",
+    "category": "memories"
+  },
+  {
+    "question": "How did you meet your oldest friend?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there a childhood memory that still pops into your head sometimes?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most ridiculous episode you ever had with a friend?",
+    "category": "memories"
+  },
+  {
+    "question": "What games or activities did you love playing as a kid?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you remember the first time you accomplished something on your own?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most memorable thing that happened in school?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most memorable place you've ever traveled to?",
+    "category": "memories"
+  },
+  {
+    "question": "What was your favorite place to be as a kid?",
+    "category": "memories"
+  },
+  {
+    "question": "What did you want to be when you grew up?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you remember the first time you confided a secret in a friend?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most memorable birthday party or celebration you've had?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the funniest reason you ever got in trouble with your parents?",
+    "category": "memories"
+  },
+  {
+    "question": "What did you do when you earned money for the first time?",
+    "category": "memories"
+  },
+  {
+    "question": "What was your favorite and least favorite subject in school?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you still like the food you loved most as a kid?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you remember your first trip abroad?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there a trend from when you were younger that makes you cringe now?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you remember your favorite song from middle school?",
+    "category": "memories"
+  },
+  {
+    "question": "What TV show did you never miss as a kid?",
+    "category": "memories"
+  },
+  {
+    "question": "When was the first time you traveled far by yourself?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there a moment in school where a teacher praised you that you still remember?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there an old friend you still miss sometimes?",
+    "category": "memories"
+  },
+  {
+    "question": "Did you have a secret hideout or hiding spot as a kid?",
+    "category": "memories"
+  },
+  {
+    "question": "What was your first impression of your longest-running friend?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you still have something old that you've kept all this time?",
+    "category": "memories"
+  },
+  {
+    "question": "Was there a hobby or character you were obsessed with as a kid?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there a memory that feels really pure and innocent when you look back at it?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you remember the first time you drank alcohol?",
+    "category": "memories"
+  },
+  {
+    "question": "What was your 'role' in your class growing up?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the happiest memory you have with your parents?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there someone from your past who had a big impact on who you are?",
+    "category": "memories"
+  },
+  {
+    "question": "What was the scariest thing that happened to you as a kid?",
+    "category": "memories"
+  },
+  {
+    "question": "If you could go back to just one day in high school, which day would you pick?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there a teacher you still think about sometimes?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you have a story of a prank that backfired on you as a kid?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most memorable graduation or enrollment day story you have?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there something you've never said to me that you could say now?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Has there been a moment when you found it hard to be honest with a friend?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Have you ever acted like you were fine when things were actually really tough?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Is there something people misunderstand about you?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Is there an emotion you don't show very often?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Is there someone you owe an apology to but haven't properly said sorry to yet?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Is there anything that genuinely scares you a little?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Was there a period when you looked cheerful on the outside but were struggling inside?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Is there something everyone else seems fine with that's actually a bit hard for you?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Is there someone you were really grateful to but never got to express it?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "What's the hardest thing for you to honestly admit to yourself?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Have you ever felt burdened by others' expectations?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Is there an emotion that only comes up when you're alone?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Is there a side of you that doesn't really show around other people?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Is there something you pretended to know about but actually had no clue?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Is there something you've envied about a friend? Can you be honest about it?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "What's the part of you that gets hurt the most easily?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "What's the worry that comes up most often for you these days?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Have you ever said something you regret?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "In what situation do you feel most unlike yourself?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Have you ever wanted someone to understand how you were feeling, but they didn't?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "What do you need most from yourself right now?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Have you ever tried hard to seem perfect?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Have you ever felt like hiding your emotions has become a habit?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Have you ever felt lonely even when you were with friends?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "What's the part of yourself you feel least confident about?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Has a relationship ever gone sideways because you weren't honest with someone?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "What situation makes you blame yourself the most?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Is there something a little embarrassing that you still like?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Have you ever had a different feeling inside than what you showed on your face?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Is there something you've been mulling over on your own lately?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Is there a situation or feeling you've been unconsciously avoiding?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Is there something you want to do well but keep hesitating on?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "When you were going through your toughest time, why couldn't you tell anyone?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Do you tend to hide how you feel, or do you usually show it?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Have you ever felt like people expected too much of you?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "How are you really feeling right now, in this moment?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Have you ever smiled around people while feeling something completely different inside?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "When's the last time you really wanted to cry?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Is there something you want to say to me right now? Anything goes.",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Was there a moment that made you realize we were truly friends?",
+    "category": "friendship"
+  },
+  {
+    "question": "Have you had an experience where a friendship nearly broke but came back stronger?",
+    "category": "friendship"
+  },
+  {
+    "question": "Is there something a friend said that's stuck with you?",
+    "category": "friendship"
+  },
+  {
+    "question": "How do you feel like your relationship with old friends has changed as you've grown up?",
+    "category": "friendship"
+  },
+  {
+    "question": "What's the biggest sacrifice you've made for a friend?",
+    "category": "friendship"
+  },
+  {
+    "question": "What do you think is the most important thing in keeping a friendship going?",
+    "category": "friendship"
+  },
+  {
+    "question": "Do you think your differences have actually helped bring you closer?",
+    "category": "friendship"
+  },
+  {
+    "question": "Have you ever told a friend something honest that was hard to say?",
+    "category": "friendship"
+  },
+  {
+    "question": "When you're really struggling, who's the first person you want to reach out to?",
+    "category": "friendship"
+  },
+  {
+    "question": "If you had to pick one most precious moment from our friendship, what would it be?",
+    "category": "friendship"
+  },
+  {
+    "question": "Has the way you think about friendship changed as you've gotten older?",
+    "category": "friendship"
+  },
+  {
+    "question": "What's something you think should never happen in a friendship?",
+    "category": "friendship"
+  },
+  {
+    "question": "Has it become harder to make new friends as you've gotten older?",
+    "category": "friendship"
+  },
+  {
+    "question": "What does having a friend mean to you?",
+    "category": "friendship"
+  },
+  {
+    "question": "What do you think is the secret to keeping a friendship going for so long?",
+    "category": "friendship"
+  },
+  {
+    "question": "What's the most touching thing a friend has ever done for you?",
+    "category": "friendship"
+  },
+  {
+    "question": "Do you think friendship or romance lasts longer?",
+    "category": "friendship"
+  },
+  {
+    "question": "How did you feel when you drifted apart from a friend?",
+    "category": "friendship"
+  },
+  {
+    "question": "Have you ever leaned on a friend? What was going on?",
+    "category": "friendship"
+  },
+  {
+    "question": "Do you think this friendship we have will still be here 10 years from now?",
+    "category": "friendship"
+  },
+  {
+    "question": "Have you ever felt let down by a friend? How did you work it out?",
+    "category": "friendship"
+  },
+  {
+    "question": "When do you feel like a friendship gets deeper?",
+    "category": "friendship"
+  },
+  {
+    "question": "Is there something between us that you don't even need to say out loud?",
+    "category": "friendship"
+  },
+  {
+    "question": "What's most important to you when making a new friend?",
+    "category": "friendship"
+  },
+  {
+    "question": "Is there something that's just ours that hasn't changed over time?",
+    "category": "friendship"
+  },
+  {
+    "question": "Which friend brings out the most 'you' in you?",
+    "category": "friendship"
+  },
+  {
+    "question": "Have you ever lost a friend? How did you come to terms with it?",
+    "category": "friendship"
+  },
+  {
+    "question": "What's the hardest part of maintaining a friendship?",
+    "category": "friendship"
+  },
+  {
+    "question": "When was the last time you told a friend you were grateful?",
+    "category": "friendship"
+  },
+  {
+    "question": "Has anything changed between us since we first met?",
+    "category": "friendship"
+  },
+  {
+    "question": "What's the one most precious friendship memory you have?",
+    "category": "friendship"
+  },
+  {
+    "question": "What's the most important thing you've learned from a friend?",
+    "category": "friendship"
+  },
+  {
+    "question": "Do you think friendship and loyalty are the same thing or different?",
+    "category": "friendship"
+  },
+  {
+    "question": "Is there a friend you've lost touch with that you want to reach out to again?",
+    "category": "friendship"
+  },
+  {
+    "question": "What kind of action makes you really feel like someone is a true friend?",
+    "category": "friendship"
+  },
+  {
+    "question": "Has a big fight with a friend ever changed the relationship?",
+    "category": "friendship"
+  },
+  {
+    "question": "Is there a friend who knew you were struggling without you saying a word?",
+    "category": "friendship"
+  },
+  {
+    "question": "Do you feel like it gets harder to keep friendships alive as you grow up?",
+    "category": "friendship"
+  },
+  {
+    "question": "Is there something you want to do better in your friendships?",
+    "category": "friendship"
+  },
+  {
+    "question": "Is there someone here right now you want to say thank you to?",
+    "category": "friendship"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "question": "I have never ordered delivery after 3 AM.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never snoozed my alarm more than ten times.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never fallen asleep mid-meal.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never woken up right before I had to leave for work or school.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never opened the fridge, stared into it, and closed it without taking anything.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never eaten something past its expiration date.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never gone grocery shopping and spent more than twice my budget.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never let laundry sit for more than a week.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never skipped showering for two days or more.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never left a message unread for more than a day.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never eaten a late-night snack and gone straight to bed.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never pulled an all-nighter watching a single video.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never let dishes pile up for more than a day.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never been too lazy to tie my shoes and worn them anyway.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never stopped vacuuming halfway because it got annoying.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never finished a meal with no memory of what I ate.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never survived on under 1% battery for an extended stretch.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never spontaneously spent more than fifty dollars at a convenience store.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never let my nails grow way too long before cutting them.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never spilled sauce on my clothes while eating.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never spent more than thirty minutes searching for something I forgot where I put.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never swiped my card without knowing how much was left in my account.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never been too lazy to cook and just skipped a meal.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never had more than three coffees in a single day.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never given someone on the street directions.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never been confused about when my package was supposed to arrive and just waited.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never gone to buy one thing and come back with something completely different.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never walked around with one earphone in for a weirdly long time.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never fallen asleep on public transit and missed my stop.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never let a delivery meal go completely cold before eating it.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never left home without my phone.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never fallen into a YouTube rabbit hole for two-plus hours.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never gotten the date of a plan wrong and shown up for nothing.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never left a package sitting unopened for days.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never left home without my wallet and been caught out.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never rewatched the same video more than three times.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never taken a free sample at a store more than twice.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never stayed home all day without stepping outside once.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never laid down to sleep and then spent another two hours on my phone.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never canceled a food delivery and then reordered it.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "I have never done a bungee jump.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never bought a plane ticket on impulse.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never traveled abroad alone.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never gone skydiving or paragliding.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never taken a trip with no plan at all.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never pitched a tent and slept outdoors.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never snowboarded or skied.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never tried surfing.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never spent a night somewhere completely remote or off-the-grid.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never lived in another country for more than a month.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never climbed to a high place despite having a fear of heights.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never gotten genuinely lost in an unfamiliar neighborhood.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never ridden a motorcycle or cycled long distance.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never properly learned how to swim.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never stayed out at a club until dawn.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never checked off a single item on my bucket list.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never ridden in a hot air balloon or a small plane.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never gotten up at 4 AM to go watch the sunrise.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never gone to an exhibition or a show alone.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never gone on a spontaneous road trip with friends.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never started a conversation with a stranger and become friends.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never done volunteer work.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never just ordered something unfamiliar and judged it after eating.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never hiked alone.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never stayed up all night at a beach or river.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never competed in something and come in first place.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never gone backpacking with just the bare essentials.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never spent a full day alone in an unfamiliar city.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never stayed up all night gaming or binging a series.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never performed on a stage in front of people.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never learned something from a completely new field.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never taken a solo train trip.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never impulsively driven or headed out to a river or the ocean in the middle of the night.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never fully clicked with a group of strangers at a party.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never seriously started learning a new language.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never deliberately gone somewhere just to see an impressive sunset or city lights.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never gone out of my way to find and eat at an unknown restaurant.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never moved out and lived on my own.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never done a haunted house or extreme scare attraction.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never endured extreme cold or heat outdoors for an extended stretch.",
+    "category": "adventure"
+  },
+  {
+    "question": "I have never walked out of a blind date.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never blocked someone's number.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never had someone confess their feelings to me.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never been the first one to confess.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never held back from texting an ex after a breakup.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never had a friendship just suddenly fade out.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never had a one-sided crush for more than a year.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never been in a public relationship.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never had a relationship drift apart because of accumulated misunderstandings.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never cried hard over a friend.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never had a really big fight with a partner.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never told a friend directly that they hurt my feelings.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never given hollow or insincere comfort to someone.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never been the first one to end a relationship.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never cried over a partner.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never forced myself to maintain a relationship I didn't want to be in.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never been nice to someone I genuinely disliked just to keep the peace.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never gotten close to someone extremely quickly the first time I met them.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never lent money to a friend.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never left a group chat.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never gotten back together with an ex.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never reconnected with someone I lost touch with for a long time.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never had a serious argument with a family member.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never planned a surprise for a partner.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never stayed completely quiet in a group gathering.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never carried a misunderstanding about someone for a long time.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never felt awkward around my partner's friends.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never given up on someone I wanted to be with.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never been surprised by a memory that was different from an old friend's.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never been the first one to cut off contact.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never fumbled my words in front of someone I liked.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never shared a friend's secret with someone else.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never genuinely thanked someone and told them so.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never found it hard to be the first one to say sorry.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never felt relieved after a relationship ended.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never been let down by someone I had high hopes for.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never walked up to a kid I didn't know and started talking to them.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never given up something important for someone I love.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never lost someone's contact and been unable to reach them again.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never written a heartfelt letter.",
+    "category": "relationship"
+  },
+  {
+    "question": "I have never quietly spent a long time going through someone's social media.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never made up an excuse to cancel plans.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never seen a message and pretended I hadn't.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never cried alone without anyone knowing.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never been disappointed in myself and stayed unmotivated for a while.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never said I was sick when I wasn't.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never received a gift and privately thought it was bad.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never wanted to leave a gathering because I was tired but stayed anyway to avoid awkwardness.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never said food was delicious when it wasn't.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never quietly stewed in jealousy over someone.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never received a compliment and internally felt weird about it.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never pretended to have read a book I hadn't.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never pretended to be interested in a conversation I didn't care about at all.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never acted like I was hearing something for the first time when I already knew it.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never pretended I was fine when I wasn't.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never known something was wrong and looked the other way.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never held it together in front of everyone and then cried on the way home.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never been genuinely envious watching someone else succeed.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never lied to cover up a mistake.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never exaggerated something to get recognition.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never made weird faces at myself in the mirror when I was alone.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never said 'let's hang out soon' with no real intention of following through.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never just agreed with someone even though they were wrong.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never deliberately taken a long time to reply to a message to seem less available.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never pretended I had money when I didn't.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never overheard a conversation that wasn't meant for me.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never blamed bad luck when something went wrong because of me.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never genuinely wanted to go to karaoke alone.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never stared at my phone waiting for a specific person to text.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never regretted not saying how I actually felt.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never taken a photo and quietly deleted it because I didn't like how I looked.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never tried to appear confident in front of people when I wasn't.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never received a compliment and deep down not believed it.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never been cold to someone I actually liked.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never smiled in front of others while struggling on the inside.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never had a dark thought and then been startled by my own mind.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never had something I wanted to say to someone but never got the chance.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never done something I didn't want to do while acting perfectly fine on the outside.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never rationalized something I knew was wrong.",
+    "category": "secret"
+  },
+  {
+    "question": "I have never felt reluctant to say my real age.",
+    "category": "secret"
+  }
+]

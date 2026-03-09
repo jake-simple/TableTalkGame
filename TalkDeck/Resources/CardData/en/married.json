@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Tell me one thing you've been most grateful for lately.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's something I do better at home vs. something you do better?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "When is the most peaceful moment in our home?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Is there something we always disagree on when grocery shopping?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's the most recent food you ate behind my back?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's the one thing always in our fridge that belongs to your spouse?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's the phrase your spouse says the most these days?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Can you describe your spouse's after-work routine in order?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's the delivery food we order the most as a couple?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "When do you feel most at ease being together?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What does your spouse unconsciously do when stressed?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's the AC/heater temperature battle in our house like?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's the first thing your spouse does on a weekend morning?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Does your spouse have a quirky habit they always do while cooking?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Who controls the TV remote in our house?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "How do you two divide up tasks when cleaning together?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What app do you think your spouse uses most on their phone?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Who mainly handles the recycling at home? Be honest!",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What does your spouse unconsciously do when they're in a good mood?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Has living together given you any of your spouse's habits?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "When you're both on your phones and laughing at the same time, what are you usually looking at?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What does your spouse always do right before falling asleep?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's the territory split in our bed like?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's your spouse's behavior pattern when they're upset?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's the most-bought appliance or item since getting married?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Do we call each other different things depending on the situation?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Is there a signal that tells you how your spouse is feeling when they get home from work?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Is there something of your spouse's you secretly want to throw away?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Is there something that bothers you at home that your spouse doesn't care about at all?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's your spouse's morning alarm style? Is it different from yours?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's the most surprising habit of your spouse you discovered after moving in together?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's the one everyday preference you two are most in sync on?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Is there a look or behavior your spouse has when they're tired?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Is there a new hobby your spouse has been into lately?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's the local shop we go to together most often?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What does your spouse nag you about the most?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Which one of you enjoys opening packages more?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's your spouse like when they have a cold? Quietly suffering or overdramatic?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What's the order of our morning routine as a couple?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Do we have any inside words or nicknames that developed from living together?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "What was your first impression of your spouse before you got married?",
+    "category": "memories"
+  },
+  {
+    "question": "What was really going through your mind when you got (or gave) the proposal?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most memorable scene from your wedding day?",
+    "category": "memories"
+  },
+  {
+    "question": "Was there an awkward moment early in your marriage?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you remember your first big fight? What did you learn from it?",
+    "category": "memories"
+  },
+  {
+    "question": "What was the hardest part of planning the wedding?",
+    "category": "memories"
+  },
+  {
+    "question": "Was there a funny story when you first decorated the house together?",
+    "category": "memories"
+  },
+  {
+    "question": "What was the first holiday after getting married like?",
+    "category": "memories"
+  },
+  {
+    "question": "When did your spouse make you laugh the hardest?",
+    "category": "memories"
+  },
+  {
+    "question": "Have you two cried together? What was going on?",
+    "category": "memories"
+  },
+  {
+    "question": "What was the first piece of furniture or item you got together after marrying?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most memorable moment from a trip you've taken together?",
+    "category": "memories"
+  },
+  {
+    "question": "Was there a story from when you first met your spouse's family?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the funniest misunderstanding or mix-up in your married life?",
+    "category": "memories"
+  },
+  {
+    "question": "Which anniversary stands out as the most special?",
+    "category": "memories"
+  },
+  {
+    "question": "Was there a funny episode from cooking together?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there a place that holds special memories just for the two of you? What's it like?",
+    "category": "memories"
+  },
+  {
+    "question": "Was there a night you spent alone after getting married? How was it?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there your own way of making up after a fight?",
+    "category": "memories"
+  },
+  {
+    "question": "Have you surprised your spouse or has your spouse surprised you with something special?",
+    "category": "memories"
+  },
+  {
+    "question": "What unexpected talent of your spouse surprised you most after living together?",
+    "category": "memories"
+  },
+  {
+    "question": "When did you think 'I'm so glad I married this person'?",
+    "category": "memories"
+  },
+  {
+    "question": "How has the way you see your spouse changed from when you were dating to now?",
+    "category": "memories"
+  },
+  {
+    "question": "When was the most nerve-wracking moment of your married life?",
+    "category": "memories"
+  },
+  {
+    "question": "Have you two tried something together and failed? What happened?",
+    "category": "memories"
+  },
+  {
+    "question": "Have you ever been caught doing something behind your spouse's back?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most touching thing your spouse has done for you?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the biggest difference between the married life you imagined before and real life?",
+    "category": "memories"
+  },
+  {
+    "question": "What did you do for your spouse when they were struggling that actually helped?",
+    "category": "memories"
+  },
+  {
+    "question": "How did it feel when your spouse first called you 'honey' or 'babe'?",
+    "category": "memories"
+  },
+  {
+    "question": "How did your couple traditions or routines come about?",
+    "category": "memories"
+  },
+  {
+    "question": "Did your friendships change after getting married?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there a hobby or activity you started because of your spouse?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there a habit of your spouse's that bothered you at first but now seems endearing?",
+    "category": "memories"
+  },
+  {
+    "question": "What was the most unexpected moment in your married life?",
+    "category": "memories"
+  },
+  {
+    "question": "When did you first feel like it was truly 'our home'?",
+    "category": "memories"
+  },
+  {
+    "question": "What was the first habit to change after getting married?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there a project or goal you two completed together?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the thing you feel most proud of achieving together as a couple?",
+    "category": "memories"
+  },
+  {
+    "question": "When was the most peaceful moment in your married life?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there something you haven't properly expressed gratitude to your spouse for yet?",
+    "category": "honestly"
+  },
+  {
+    "question": "What's an area where you feel you're still falling short as a spouse?",
+    "category": "honestly"
+  },
+  {
+    "question": "Is there something you feel sorry about to your spouse but haven't said yet?",
+    "category": "honestly"
+  },
+  {
+    "question": "What's the thing you're tolerating the most in your married life?",
+    "category": "honestly"
+  },
+  {
+    "question": "Is there something you hope your spouse never changes?",
+    "category": "honestly"
+  },
+  {
+    "question": "What's the hardest topic to be honest with your spouse about?",
+    "category": "honestly"
+  },
+  {
+    "question": "Have you ever felt like you and your spouse show love differently?",
+    "category": "honestly"
+  },
+  {
+    "question": "Is there something you might have said or done that hurt your spouse without realizing it?",
+    "category": "honestly"
+  },
+  {
+    "question": "What do you think your spouse wants from you? Are you giving them that?",
+    "category": "honestly"
+  },
+  {
+    "question": "Is there something you've wanted to say to your spouse but missed the timing?",
+    "category": "honestly"
+  },
+  {
+    "question": "What's something in your marriage you feel you must never give up on?",
+    "category": "honestly"
+  },
+  {
+    "question": "Have you felt like you two talk less these days? Why do you think that is?",
+    "category": "honestly"
+  },
+  {
+    "question": "Is there something in your married life you're carrying alone?",
+    "category": "honestly"
+  },
+  {
+    "question": "What's the warmest moment of love you've received from your spouse?",
+    "category": "honestly"
+  },
+  {
+    "question": "Do you think you express enough gratitude in your relationship?",
+    "category": "honestly"
+  },
+  {
+    "question": "What can you do to better understand your spouse?",
+    "category": "honestly"
+  },
+  {
+    "question": "When did you feel the biggest difference in values in your married life?",
+    "category": "honestly"
+  },
+  {
+    "question": "Have you ever worried that you're asking too much of your spouse?",
+    "category": "honestly"
+  },
+  {
+    "question": "What do you think you two are doing well as a couple lately?",
+    "category": "honestly"
+  },
+  {
+    "question": "Is there something about how you handle conflict with your spouse that you want to improve?",
+    "category": "honestly"
+  },
+  {
+    "question": "How do you think you've changed as a person since getting married?",
+    "category": "honestly"
+  },
+  {
+    "question": "What do you think your spouse is struggling with lately?",
+    "category": "honestly"
+  },
+  {
+    "question": "Do you two have unspoken rules in your relationship? Are they being kept?",
+    "category": "honestly"
+  },
+  {
+    "question": "Have you ever felt lonely in your marriage?",
+    "category": "honestly"
+  },
+  {
+    "question": "Have you ever honestly talked with your spouse about physical affection and how you show love?",
+    "category": "honestly"
+  },
+  {
+    "question": "What's the biggest sacrifice you've made in your marriage? Any regrets?",
+    "category": "honestly"
+  },
+  {
+    "question": "When do you feel your spouse understands you best?",
+    "category": "honestly"
+  },
+  {
+    "question": "What do you think we need to be happier as a couple?",
+    "category": "honestly"
+  },
+  {
+    "question": "Do you feel like you're cheering on your spouse's dreams and goals enough?",
+    "category": "honestly"
+  },
+  {
+    "question": "Is there advice you'd give your pre-married self?",
+    "category": "honestly"
+  },
+  {
+    "question": "How do you think your spouse sees themselves? Is there anything that worries you?",
+    "category": "honestly"
+  },
+  {
+    "question": "What can you concretely do to be more attentive to each other?",
+    "category": "honestly"
+  },
+  {
+    "question": "Are you and your spouse able to talk honestly about money and household matters?",
+    "category": "honestly"
+  },
+  {
+    "question": "If you could tell your spouse 'I've become this way because of you,' what would you say?",
+    "category": "honestly"
+  },
+  {
+    "question": "In your marriage, do you tend to give in first, or does your spouse?",
+    "category": "honestly"
+  },
+  {
+    "question": "What aspect of your spouse do you genuinely admire?",
+    "category": "honestly"
+  },
+  {
+    "question": "How do you feel about having 'alone time' within a marriage?",
+    "category": "honestly"
+  },
+  {
+    "question": "What's the area where you feel you've grown the most in your marriage?",
+    "category": "honestly"
+  },
+  {
+    "question": "What's the most memorable thing your spouse has ever said to you?",
+    "category": "honestly"
+  },
+  {
+    "question": "What's the biggest life lesson your married life has taught you?",
+    "category": "honestly"
+  },
+  {
+    "question": "What do you hope we look like as a couple 5 years from now?",
+    "category": "ahead"
+  },
+  {
+    "question": "What's one thing you definitely want to do together with your spouse someday?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there something you want to do together after retirement?",
+    "category": "ahead"
+  },
+  {
+    "question": "What's one bucket list item you want to take on together?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there one promise you hope we always keep as a couple?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there a place you'd want to live in your later years? What kind of place?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there something you want to learn together with your spouse?",
+    "category": "ahead"
+  },
+  {
+    "question": "What's your definition of happiness as a couple?",
+    "category": "ahead"
+  },
+  {
+    "question": "If you started a new hobby with your spouse right now, what would you want to do?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there a dream of your spouse's that you hope comes true?",
+    "category": "ahead"
+  },
+  {
+    "question": "What can we start doing now to get closer as a couple?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there something about yourself in this marriage that you want to change?",
+    "category": "ahead"
+  },
+  {
+    "question": "If you were to learn a new language together, which would you choose?",
+    "category": "ahead"
+  },
+  {
+    "question": "What do you think we'll look like as a couple 10 years from now?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there a destination you'd want us to go to regularly in the future?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there a goal you want to achieve together in your married life?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there an area where you want to do even better for your spouse going forward?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there a special event you'd love to do on your wedding anniversary someday?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there something you definitely want to add to our home?",
+    "category": "ahead"
+  },
+  {
+    "question": "How do you feel about growing old together with your spouse?",
+    "category": "ahead"
+  },
+  {
+    "question": "What word do you want to use to describe our relationship going forward?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there one thing you want to keep doing for your spouse for life?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there a habit in our conversations as a couple that you want to improve?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there a daily routine you'd want to do with your spouse when you're old?",
+    "category": "ahead"
+  },
+  {
+    "question": "What dream of your spouse's do you most want to support going forward?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there something in your married life you want to move forward to?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there a tradition or ritual you want to build together going forward?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there a way you'd like to contribute to others or society together?",
+    "category": "ahead"
+  },
+  {
+    "question": "How would you like to change our home going forward?",
+    "category": "ahead"
+  },
+  {
+    "question": "How do you want to change the way you love your spouse?",
+    "category": "ahead"
+  },
+  {
+    "question": "What's one small goal you want to achieve in your married life next year?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there something you feel you two could accomplish together no matter when?",
+    "category": "ahead"
+  },
+  {
+    "question": "What do you most want to hold onto in your relationship going forward?",
+    "category": "ahead"
+  },
+  {
+    "question": "What do you imagine our weekend routine will look like 20 years from now?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there a surprise you really want to give your spouse in the future?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there something you want to make sure your spouse knows through this conversation today?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there any content — a book, show, anything — you'd want to enjoy together?",
+    "category": "ahead"
+  },
+  {
+    "question": "Do you want to do some kind of volunteer or charity work together?",
+    "category": "ahead"
+  },
+  {
+    "question": "What can we each do to be more honest with each other going forward?",
+    "category": "ahead"
+  },
+  {
+    "question": "Is there a healthy habit you'd like to start together right now?",
+    "category": "ahead"
+  }
+]

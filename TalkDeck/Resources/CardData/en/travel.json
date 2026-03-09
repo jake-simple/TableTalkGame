@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Are you a planner when you travel, or do you prefer to go with the flow?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Solo travel or traveling with someone — which do you prefer?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you prefer city trips or nature getaways?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you pack light or bring everything you might need?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Window seat or aisle seat on a plane?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you prefer using public transport or renting a car when traveling?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Short trips often, or long trips once in a while?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you prefer wandering local neighborhoods over hitting tourist spots?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you try local food adventurously, or stick to safer options?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Hotel, Airbnb, or hostel — what's your go-to?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you take a lot of photos while traveling? What kind of shots do you like?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you post to social media in real time while traveling, or wait until you're back?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you need some downtime at the accommodation during a trip?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Are you a suitcase person or a backpack person?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "How early do you usually get to the airport?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you tend to wake up early and explore when you're traveling?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "When planning a trip, do you start by making a list of restaurants to try?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you enjoy reading or listening to podcasts while traveling?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you put together a special playlist for each trip?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "What do you usually do to pass time on a flight?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you miss home-cooked food when you're traveling abroad?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you always make a point to visit a museum or art gallery?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you enjoy shopping when you travel?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Local recommendations vs. famous tourist spots — where do you go first?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you start planning your next trip as soon as you're back from one?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Does not having WiFi while traveling make you anxious?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you tend to take a nap when you're at your destination?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you enjoy in-flight meals? What do you usually order?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you try to keep up with exercise while traveling?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you learn a few words in the local language before a trip?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you love going out to see the city lights at night?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you keep a travel journal or some kind of record?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Beach or mountains — which do you prefer for a trip?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you enjoy browsing local markets and grocery stores when you travel?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you exchange currency before the trip or when you arrive?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Can you sleep the night before a trip?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you enjoy browsing the duty-free shops at the airport?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you prefer stumbling across places by accident while traveling?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Do you sort through your trip photos as soon as you get back?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Sunrise or sunset — which would you rather stop to watch while traveling?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "What's the best destination you've ever traveled to?",
+    "category": "memories"
+  },
+  {
+    "question": "What's a story from a trip that really caught you off guard?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there someone you met while traveling who you still think about?",
+    "category": "memories"
+  },
+  {
+    "question": "Have you ever gotten lost and had it turn into a great experience?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most surprising food you tried on a trip?",
+    "category": "memories"
+  },
+  {
+    "question": "Have you ever traveled alone? What was it like?",
+    "category": "memories"
+  },
+  {
+    "question": "What's a view or landscape that genuinely moved you while traveling?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you have a funny story from a flight?",
+    "category": "memories"
+  },
+  {
+    "question": "What's a trip that went completely sideways? Tell me about it.",
+    "category": "memories"
+  },
+  {
+    "question": "Is there a place you want to go back to? What makes it special?",
+    "category": "memories"
+  },
+  {
+    "question": "Have you ever struggled because of a language barrier while traveling?",
+    "category": "memories"
+  },
+  {
+    "question": "Was there ever a moment on a trip when you got unexpectedly emotional?",
+    "category": "memories"
+  },
+  {
+    "question": "Has a trip ever changed how you lived your everyday life?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the funniest thing that happened on a trip?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most memorable place you've stayed while traveling?",
+    "category": "memories"
+  },
+  {
+    "question": "Has weather ever completely derailed your travel plans?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most delicious meal you've had on a trip?",
+    "category": "memories"
+  },
+  {
+    "question": "Was there a moment while traveling that you wished you had a photo of?",
+    "category": "memories"
+  },
+  {
+    "question": "Where was your first trip abroad? What do you remember about it?",
+    "category": "memories"
+  },
+  {
+    "question": "Have you ever stumbled into a local festival or event while traveling?",
+    "category": "memories"
+  },
+  {
+    "question": "Have you ever lost something on a trip? What happened?",
+    "category": "memories"
+  },
+  {
+    "question": "Has a flight or train ever been canceled or severely delayed on you?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most breathtaking sunrise or sunset you've seen while traveling?",
+    "category": "memories"
+  },
+  {
+    "question": "Was there ever a cultural moment that surprised or shocked you while traveling?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most precious memory you've made on a trip?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most exhausting journey you've been on?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there a memorable story from an airport?",
+    "category": "memories"
+  },
+  {
+    "question": "Have you ever randomly run into someone from home while abroad?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most beautiful ocean or lake you've seen while traveling?",
+    "category": "memories"
+  },
+  {
+    "question": "Have you ever shown up somewhere without a reservation and regretted it?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the most unusual mode of transport you've taken on a trip?",
+    "category": "memories"
+  },
+  {
+    "question": "Have you ever gone out in the early hours and seen something unforgettable?",
+    "category": "memories"
+  },
+  {
+    "question": "Have you ever gotten food poisoning while traveling?",
+    "category": "memories"
+  },
+  {
+    "question": "What's a family trip memory that has really stuck with you?",
+    "category": "memories"
+  },
+  {
+    "question": "What's an activity you tried for the first time while traveling?",
+    "category": "memories"
+  },
+  {
+    "question": "What's a spontaneous detour that turned out to be the highlight of a trip?",
+    "category": "memories"
+  },
+  {
+    "question": "Do you have a story involving an animal you encountered while traveling?",
+    "category": "memories"
+  },
+  {
+    "question": "Is there a rainy-day travel moment that stands out in your memory?",
+    "category": "memories"
+  },
+  {
+    "question": "Have you ever been invited into a local's home or done a homestay?",
+    "category": "memories"
+  },
+  {
+    "question": "What's the single travel moment you think you'll remember for the rest of your life?",
+    "category": "memories"
+  },
+  {
+    "question": "What's been the best part of this trip so far?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What was the tastiest thing you ate today?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Is there anything about this trip that's been better than you expected?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Which photo from today is your favorite?",
+    "category": "thisNow"
+  },
+  {
+    "question": "If you had to describe this moment in one word, what would it be?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What do you think will be the most memorable moment of this trip?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What was the most impressive place you visited today?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Is there anything about this trip that's been a bit of a letdown?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What made you laugh the most today?",
+    "category": "thisNow"
+  },
+  {
+    "question": "How would you describe this trip in one sentence?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What's been the hardest part of this trip?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Was there anything today that really moved you?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What do you think you'll miss most when this trip is over?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Is there something you haven't gotten to do yet on this trip?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Did you learn anything new today that surprised you?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What's been the most fun you've had on this trip so far?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Who are you most grateful to have with you on this trip right now?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What's the best decision you've made on this trip?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What was the most memorable thing you noticed while walking around today?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Is there a spot here you'd really love to come back to?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What was the thing you were most looking forward to that lived up to the hype?",
+    "category": "thisNow"
+  },
+  {
+    "question": "When did you feel most at peace today?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What's been the most unexpected thing about this trip?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Has traveling together shown you something new about the other person?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What do you still really want to eat today? If you haven't had it yet?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Is there anything you're missing from home right now?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What do you think this trip will mean to you looking back?",
+    "category": "thisNow"
+  },
+  {
+    "question": "When did you have the most energy today?",
+    "category": "thisNow"
+  },
+  {
+    "question": "If this trip were a color, what would it be?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What was the moment you laughed hardest on this trip?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What were you most curious about while exploring today?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Is there someone you feel like reaching out to right now?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Has this trip inspired you to try something back home?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What was the most challenging moment of today's adventures?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Describe the vibe of this place in one sentence.",
+    "category": "thisNow"
+  },
+  {
+    "question": "What's the best first you've done on this trip?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Is there a reason you don't want this moment to end?",
+    "category": "thisNow"
+  },
+  {
+    "question": "What was the single happiest moment of today?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Has this trip taught you something new about yourself?",
+    "category": "thisNow"
+  },
+  {
+    "question": "If you had to give this trip a rating out of five stars, what would it be and why?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Is there a place in the world you want to visit before you die?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is there a travel style you've always wanted to try — a cruise, a road trip in a campervan?",
+    "category": "bucketList"
+  },
+  {
+    "question": "What country do you most want to visit? Why?",
+    "category": "bucketList"
+  },
+  {
+    "question": "If you could spend a month living somewhere in the world, where would it be?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Have you ever dreamed of seeing the Northern Lights in person?",
+    "category": "bucketList"
+  },
+  {
+    "question": "If you were doing a world trip, which three cities would you make sure to include?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is there a mode of transport you've always wanted to try — the Orient Express, a river cruise?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is there a UNESCO World Heritage natural site you'd love to see?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is there a food from another country you're dying to try in person?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is there a particular festival somewhere in the world you'd love to attend?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Would you ever want to try skydiving or bungee jumping on a trip?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Have you ever thought about traveling to a desert? Which one?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Would you ever want to travel somewhere like Antarctica or the Arctic?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Have you ever thought about exploring somewhere like the Amazon or a rainforest?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is there a famous art museum or museum somewhere in the world you'd love to visit?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Have you ever thought about seeing the underwater world for yourself — scuba diving, snorkeling?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is climbing a famous mountain on your bucket list?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is there a specific country where you'd want to actually live like a local for six months or more?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Where do you think the most beautiful city lights in the world are?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Would you ever want to do a long-distance pilgrimage walk like the Camino de Santiago?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is there an island you've always wanted to visit?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is there a country where you'd love to take a cooking class to learn its cuisine?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Have you ever thought about combining travel with volunteering?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Would you like to travel through Europe or Asia by train?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is there a UNESCO World Heritage cultural site you'd love to see?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Have you ever dreamed about a fishing trip or getting deep into nature somewhere?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is there a dream destination you've fantasized about — Santorini, the Maldives?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Would you want to travel the world's famous night markets?",
+    "category": "bucketList"
+  },
+  {
+    "question": "If you could travel to a country specifically to learn a sport, where would you go?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Are there less-traveled places like Eastern Europe or Central Asia that you'd love to explore?",
+    "category": "bucketList"
+  },
+  {
+    "question": "If space tourism ever becomes possible, would you go?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is there somewhere you'd really love to travel with a specific person? Where?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Have you ever wanted to take on a long backpacking adventure?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Would you like to do an African safari?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is there a country or city you'd actually love to live in someday?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Would you want to go kayaking or canoeing on a river or lake somewhere?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Have you ever dreamed of doing a long road trip — like a cross-country drive?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is there a destination you'd love to visit for a special occasion?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Is there a travel dream you can't do right now but hope to make real someday?",
+    "category": "bucketList"
+  },
+  {
+    "question": "What item on your travel bucket list feels closest to actually happening?",
+    "category": "bucketList"
+  }
+]

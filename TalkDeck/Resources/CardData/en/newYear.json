@@ -1,0 +1,642 @@
+[
+  {
+    "question": "What's the best decision you made this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What's the most memorable first you tried this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "When did you laugh the most this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What experience helped you grow the most this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Is there anything you regret about this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Tell me about a moment this year you were genuinely proud of.",
+    "category": "yearReview"
+  },
+  {
+    "question": "Is there something you gave up this year that actually turned out for the better?",
+    "category": "yearReview"
+  },
+  {
+    "question": "When was the hardest stretch of this year for you?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Did you discover something new about yourself this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What did you work hardest on this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What changed the most for you this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Who was the most memorable person you met this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What's the most memorable trip or outing you had this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What song or playlist did you listen to the most this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What goals you set this year did you achieve, and which ones didn't you?",
+    "category": "yearReview"
+  },
+  {
+    "question": "When did you feel the most courageous this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What food did you eat the most this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Tell me about a moment this year that genuinely moved you.",
+    "category": "yearReview"
+  },
+  {
+    "question": "What was money best spent on this year, and what was the biggest waste?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Did you pick up any new hobbies or interests this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What was the biggest thing you wrestled with this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What was the best news you received this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Who did you talk to or text the most this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What was the best meal you had this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What book or movie left the biggest impression on you this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What did you learn about yourself this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was there something unexpected that happened this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What did you reflect on the most this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What's the best purchase you made this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Is there something you'd say to yourself about this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Is there something you want to give yourself credit for this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What was the most memorable moment in a relationship this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What stressed you out the most this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "If you had to pick one day this year that will stick with you, which would it be?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What was the hardest part of this year, and what kept you going?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What was the most beautiful ordinary moment from this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Is there something you owe yourself an apology for this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "What's the best thing that newly entered your life this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "If you had to describe this year in one word, what would it be?",
+    "category": "yearReview"
+  },
+  {
+    "question": "When did you feel most like you'd really pulled through something this year?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Who are you most grateful for this year?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was there something unexpected this year that you were grateful for?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What kept you going this year?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was there a moment this year when you found happiness in something small?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there someone you wanted to thank this year but never got the chance to?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Who was there for you when things were hard this year?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was there a quote, piece of writing, or conversation that gave you courage this year?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What's one experience this year you're genuinely grateful for?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there something about your health or body you're grateful for this year?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Did anything good come your way by chance this year?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there a family member you're especially grateful for this year?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Did something that seemed like a failure this year actually turn out okay?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What part of your everyday life felt most precious to you this year?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What made you smile this year?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was there a time this year when someone helped you and you felt truly grateful?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was there a book, show, or piece of content that had a genuinely positive impact on you this year?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there something about the place or environment you live in that you're grateful for?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there a kindness from a stranger this year that you still think about?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there something about yourself you're grateful for this year?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was there something this year that was hard, but you found gratitude in it anyway?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was there a meal or food moment this year you were especially grateful for?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What do you think helped you get through this year okay?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there a friend you're grateful to have in your life this year?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Did you reconnect with someone this year that you're glad you did?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was there a moment at work or in your studies this year that you felt grateful for?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was there someone this year who believed in you?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was there a moment this year where you were just grateful to be able to rest?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What's something you accomplished this year that you're grateful to yourself for?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there a season or piece of weather this year that you were grateful for?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was there something you learned this year that you're glad you did?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there something in your life this year that you walked past without really noticing, but were actually grateful for?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there a habit or routine that helped carry you through the hard times this year?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was there someone who gave you honest feedback this year?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What situation this year did you hear the words 'thank you' the most in?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was there a moment this year when you were genuinely helpful to someone?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Have you ever stopped to feel grateful for all the days you were healthy this year?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there something in your hobbies or leisure time this year you felt grateful for?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there something about your home or space this year you're grateful for?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there someone here right now you want to express gratitude to?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Looking back on this year, how many moments come up where you feel genuinely grateful?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What's one thing you want to make sure you do next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there a habit you want to leave behind next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there a new routine you want to build next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "What do you want to learn next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "What do you want to do more of next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "What do you want to do less of next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there a new challenge you want to take on next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there something about your relationships you want to change next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there something you want to change for your health next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there somewhere you really want to go next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there an area where you want to be kinder to yourself next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there a book you want to read next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Do you have any financial goals for next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there someone you want to spend more time with next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there something you want to keep going with next year — not give up on?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "What's the one thing you want to focus on most next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there something you want to find the courage to try next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there someone you want to reconnect with next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there something about the way you live that you want to change next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "How do you want to use your time just for yourself next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "What's one small goal you really want to hit next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "What do you want to enjoy more of next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there something about how you communicate you want to work on next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there something you want to take a more proactive approach to next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "What's a goal you'd put in your planner for next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "What's the most important change you need next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "How do you want your environment and surroundings to look different next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there something you've been wanting to stop that you think you'll actually stop this year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "What plan are you most excited about for next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "What do you want to change to like yourself a little more next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there a project or goal you want to complete next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "What kind of person do you want to be next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there something you want to stop letting bother you next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there something you want to be more willing to say out loud next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there a way you'd like to create more opportunities to meet new people next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is one of your new year's resolutions a repeat from last year? How will you approach it differently this time?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there an experience you want to give yourself as a gift next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Do you want to take it slow next year, or stay busy and moving?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Is there something you want to know more about yourself next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "What do you hope to look like this time next year?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "What do you hope you look like this time next year?",
+    "category": "wish"
+  },
+  {
+    "question": "What didn't happen this year that you want to make sure happens next year?",
+    "category": "wish"
+  },
+  {
+    "question": "If you could only wish for one thing next year, what would it be?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there something you hope for yourself five years from now?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there something you hope for your health next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there something you hope for in your relationships next year?",
+    "category": "wish"
+  },
+  {
+    "question": "What do you hope for in your work or studies next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there a dream you really want to make real next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Imagine the happiest scene from your life next year.",
+    "category": "wish"
+  },
+  {
+    "question": "Is there something you hope for the people close to you — family or friends?",
+    "category": "wish"
+  },
+  {
+    "question": "What kind of luck do you hope finds you next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there a worry you hope gets resolved next year?",
+    "category": "wish"
+  },
+  {
+    "question": "What do you think will make you happier next year?",
+    "category": "wish"
+  },
+  {
+    "question": "What would you want your future self to say to you right now?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there something new you hope begins next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there something you wish would change in the world — even a little — next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there something you hope to be more free in next year?",
+    "category": "wish"
+  },
+  {
+    "question": "What emotion do you hope to feel more often next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there a destination you really want to travel to next year?",
+    "category": "wish"
+  },
+  {
+    "question": "What do you think you'll feel most proud of next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there something you want to accomplish with someone else next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there something about yourself you'd like to get to know better next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Do you want to slow down or go full speed next year?",
+    "category": "wish"
+  },
+  {
+    "question": "How do you want to treat yourself next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there a memory you want to make next year?",
+    "category": "wish"
+  },
+  {
+    "question": "What value do you want to live by most next year?",
+    "category": "wish"
+  },
+  {
+    "question": "If you had courage, what's the first thing you'd want to do next year?",
+    "category": "wish"
+  },
+  {
+    "question": "What are the little things that will make you happy next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there a kind of person you hope to meet next year?",
+    "category": "wish"
+  },
+  {
+    "question": "What change do you hope comes into your life next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there something old you've been putting off that you want to finally take care of next year?",
+    "category": "wish"
+  },
+  {
+    "question": "What conversation do you hope to be having in this same moment next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there something you want to be more honest about next year?",
+    "category": "wish"
+  },
+  {
+    "question": "What's something you can't buy with money that you're wishing for next year?",
+    "category": "wish"
+  },
+  {
+    "question": "How do you hope you'll feel looking back at yourself next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there something new you hope enters your life next year?",
+    "category": "wish"
+  },
+  {
+    "question": "What's something you hope to never let go of next year?",
+    "category": "wish"
+  },
+  {
+    "question": "Is there something you want to say to yourself as the new year begins?",
+    "category": "wish"
+  },
+  {
+    "question": "What situation do you hope makes you laugh the most next year?",
+    "category": "wish"
+  },
+  {
+    "question": "What's your most heartfelt wish right now?",
+    "category": "wish"
+  }
+]

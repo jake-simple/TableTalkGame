@@ -1,0 +1,642 @@
+[
+  {
+    "question": "What was the most adorable thing your child did recently?",
+    "category": "parenting"
+  },
+  {
+    "question": "What was the proudest parenting moment for you?",
+    "category": "parenting"
+  },
+  {
+    "question": "What was it like when your child first said 'mom' or 'dad'?",
+    "category": "parenting"
+  },
+  {
+    "question": "Describe the moment your child took their first steps.",
+    "category": "parenting"
+  },
+  {
+    "question": "What's your child's favorite game or activity right now?",
+    "category": "parenting"
+  },
+  {
+    "question": "What's something your child said or did recently that made you laugh?",
+    "category": "parenting"
+  },
+  {
+    "question": "Is there something you taught your child that they picked up really fast?",
+    "category": "parenting"
+  },
+  {
+    "question": "What's been the most surprising thing about your child's development lately?",
+    "category": "parenting"
+  },
+  {
+    "question": "What expression or emotion from your child do you find the cutest?",
+    "category": "parenting"
+  },
+  {
+    "question": "Do you have your own routine for putting your child to sleep?",
+    "category": "parenting"
+  },
+  {
+    "question": "What's your child's favorite toy or object?",
+    "category": "parenting"
+  },
+  {
+    "question": "What works best for calming your child down?",
+    "category": "parenting"
+  },
+  {
+    "question": "What's the most fun thing to do when playing with your child?",
+    "category": "parenting"
+  },
+  {
+    "question": "What cute thing has your child been doing a lot lately?",
+    "category": "parenting"
+  },
+  {
+    "question": "Do you remember the first time your child smiled? How did it feel?",
+    "category": "parenting"
+  },
+  {
+    "question": "What were you thinking when you held your child for the first time?",
+    "category": "parenting"
+  },
+  {
+    "question": "What was the most peaceful moment in your daily life with your child?",
+    "category": "parenting"
+  },
+  {
+    "question": "What was the hardest experience when your child was sick?",
+    "category": "parenting"
+  },
+  {
+    "question": "Is there a story behind how you chose your child's name?",
+    "category": "parenting"
+  },
+  {
+    "question": "What was your child's reaction when they tried food for the first time?",
+    "category": "parenting"
+  },
+  {
+    "question": "What was the first day of daycare or preschool like?",
+    "category": "parenting"
+  },
+  {
+    "question": "What's the most unexpected thing you've learned from your child?",
+    "category": "parenting"
+  },
+  {
+    "question": "Has your child ever moved you in an unexpected moment?",
+    "category": "parenting"
+  },
+  {
+    "question": "What's your favorite photo you've taken with your child?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was there a moment when your child seemed to suddenly grow up?",
+    "category": "parenting"
+  },
+  {
+    "question": "What was your first trip with your child like?",
+    "category": "parenting"
+  },
+  {
+    "question": "What was your child's reaction the first time they went to a pool or the ocean?",
+    "category": "parenting"
+  },
+  {
+    "question": "How did you celebrate your child's first birthday?",
+    "category": "parenting"
+  },
+  {
+    "question": "What was it like when your child first played with other kids their age?",
+    "category": "parenting"
+  },
+  {
+    "question": "Have you ever fallen asleep while trying to put your child to sleep?",
+    "category": "parenting"
+  },
+  {
+    "question": "Do you have a signature pose when taking selfies with your child?",
+    "category": "parenting"
+  },
+  {
+    "question": "Is there a dish you really want to make for your child?",
+    "category": "parenting"
+  },
+  {
+    "question": "What's a favorite song you sing together with your child?",
+    "category": "parenting"
+  },
+  {
+    "question": "What was it like when your child opened a book on their own for the first time?",
+    "category": "parenting"
+  },
+  {
+    "question": "Is there a story from your child's first Christmas or holiday?",
+    "category": "parenting"
+  },
+  {
+    "question": "Any funny stories from being on public transit with your child?",
+    "category": "parenting"
+  },
+  {
+    "question": "What's the most surprising fact you've learned since raising a child?",
+    "category": "parenting"
+  },
+  {
+    "question": "How did you feel when your child first said 'no'?",
+    "category": "parenting"
+  },
+  {
+    "question": "Have you ever felt sorry toward your child?",
+    "category": "parenting"
+  },
+  {
+    "question": "If there's one thing you really want to teach your child as they grow, what is it?",
+    "category": "parenting"
+  },
+  {
+    "question": "Has having a child revealed something new and attractive about your spouse?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Have you ever been moved watching your spouse parent?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "What was the biggest fight you had as a couple because of parenting?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "How have the topics you talk about as a couple changed since having a child?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Has your parenting style ever differed from your spouse's? How did you work it out?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Have you ever had an honest conversation about how you split the childcare duties?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "How do you keep up date nights since having a child?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "What's the most impressive scene you've seen of your spouse caring for your child?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Was there a parenting moment that made you fall in love with your spouse all over again?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "What's the area you two click on the most now that you have a child?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Do you feel closer as a couple now compared to before having a child?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Have you two ever disagreed on how to approach your child's education?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Is there a moment when your spouse might have felt hurt by you during parenting?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "What's the most fulfilling decision you've made together for your child?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Have you ever fought in front of your child? What were you thinking?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Has there been a parenting moment when you felt sorry toward your spouse?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Is there something about your spouse's parenting style that you want to emulate?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Do you have your own parenting principles as a couple? What are they?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "If you rated your parenting teamwork, what score would you give?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "What are you most grateful to your spouse for since having a child?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "What's a recent episode that made you and your spouse laugh together while parenting?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "How do you carve out just-the-two-of-us time when a child takes up so much space?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "How do you look after your spouse when they're exhausted or struggling?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Is there an area where you've both grown together through parenting?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "What do you two usually do after the child falls asleep?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "When you and your spouse disagreed about something with the child, how did you reach an agreement?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "When during parenting have you felt most grateful to have your spouse?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Has having a child created any new routines for you two as a couple?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "What's the most rewarding moment from raising your child together?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Do you have any inside words or expressions that came from parenting together?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "What's the most positive change your child has brought to your relationship?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Was there a moment when you felt your parenting values aligned with your spouse's?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Is there something new you've learned about each other since having a child?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Is there something that became more important between you two since you started parenting?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Do you feel like having a child makes your relationship stronger?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Have you ever thought about what it means to raise a child together?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Is there something you really want to say to your spouse about parenting?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "How has the way you look at your spouse changed since having a child?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Is there an image of ourselves you want to show your child?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "What's one thing your spouse has done in parenting that you're still grateful for?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Honestly, have you ever wanted to run away because parenting was just too hard?",
+    "category": "hardships"
+  },
+  {
+    "question": "When did you feel most physically drained while parenting?",
+    "category": "hardships"
+  },
+  {
+    "question": "What was the hardest night when your child kept waking up?",
+    "category": "hardships"
+  },
+  {
+    "question": "Has there been a time when parenting made you feel like you had no time for yourself?",
+    "category": "hardships"
+  },
+  {
+    "question": "Have you ever lost control of your emotions with your child?",
+    "category": "hardships"
+  },
+  {
+    "question": "Since becoming a parent, has your sense of who you are as an individual ever felt shaky?",
+    "category": "hardships"
+  },
+  {
+    "question": "What's the hardest part of balancing parenting and work?",
+    "category": "hardships"
+  },
+  {
+    "question": "Have you ever felt helpless that you couldn't do more when your child was sick?",
+    "category": "hardships"
+  },
+  {
+    "question": "When did you feel most lonely while parenting?",
+    "category": "hardships"
+  },
+  {
+    "question": "Has there been a moment when you wanted to just be yourself — not a parent?",
+    "category": "hardships"
+  },
+  {
+    "question": "Have you ever felt depressed or numb while parenting? How did you get through it?",
+    "category": "hardships"
+  },
+  {
+    "question": "How did you feel when you raised your voice or got angry at your child?",
+    "category": "hardships"
+  },
+  {
+    "question": "When was the period you struggled most with sleep deprivation?",
+    "category": "hardships"
+  },
+  {
+    "question": "What's the thing you regret giving up most because of parenting?",
+    "category": "hardships"
+  },
+  {
+    "question": "Have you ever felt anxious wondering if you're doing a good enough job as a parent?",
+    "category": "hardships"
+  },
+  {
+    "question": "Is there something your spouse did during parenting that hurt you but you never said?",
+    "category": "hardships"
+  },
+  {
+    "question": "Has a conflict with someone around you ever been because of your child?",
+    "category": "hardships"
+  },
+  {
+    "question": "How did you push through the hardest period of parenting?",
+    "category": "hardships"
+  },
+  {
+    "question": "Have you ever put your own dreams or goals on hold because of parenting?",
+    "category": "hardships"
+  },
+  {
+    "question": "How did you feel when your child cried no matter what you did to calm them?",
+    "category": "hardships"
+  },
+  {
+    "question": "How do you de-stress from parenting?",
+    "category": "hardships"
+  },
+  {
+    "question": "Have you ever felt like your health has declined since having a child?",
+    "category": "hardships"
+  },
+  {
+    "question": "Was there a parenting moment when you disappointed yourself?",
+    "category": "hardships"
+  },
+  {
+    "question": "Has unsolicited parenting advice or interference from others ever felt overwhelming?",
+    "category": "hardships"
+  },
+  {
+    "question": "Is there an emotion you've bottled up during parenting that you haven't shared with your spouse?",
+    "category": "hardships"
+  },
+  {
+    "question": "When did you realize parenting was so much harder than you expected?",
+    "category": "hardships"
+  },
+  {
+    "question": "What was the most overwhelming moment as a first-time parent?",
+    "category": "hardships"
+  },
+  {
+    "question": "What emotion do you hold in the most while parenting?",
+    "category": "hardships"
+  },
+  {
+    "question": "What's the scariest time you've taken your child to the doctor?",
+    "category": "hardships"
+  },
+  {
+    "question": "Have you ever neglected your own health because of parenting?",
+    "category": "hardships"
+  },
+  {
+    "question": "Is there a situation where you felt sorry toward your child but it was unavoidable?",
+    "category": "hardships"
+  },
+  {
+    "question": "When did you feel the financial pressure of parenting the most?",
+    "category": "hardships"
+  },
+  {
+    "question": "What's a scenario that scares you most as a parent?",
+    "category": "hardships"
+  },
+  {
+    "question": "Have you ever felt socially isolated because of parenting?",
+    "category": "hardships"
+  },
+  {
+    "question": "Have you ever felt like parenting brings out your flaws more?",
+    "category": "hardships"
+  },
+  {
+    "question": "When did you feel least in control of your emotions while parenting? What did you do?",
+    "category": "hardships"
+  },
+  {
+    "question": "Has there been a parenting moment when you really wished you weren't alone?",
+    "category": "hardships"
+  },
+  {
+    "question": "As your child has grown, have you worried more or less?",
+    "category": "hardships"
+  },
+  {
+    "question": "Can you honestly share what's hardest about parenting right now?",
+    "category": "hardships"
+  },
+  {
+    "question": "What thought or feeling makes parenting the hardest for you?",
+    "category": "hardships"
+  },
+  {
+    "question": "What's the one thing you're most grateful for since your child was born?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What's the moment you were most grateful to your spouse while parenting?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there something precious that you've discovered because of your child?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What life lesson has your child taught you?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there something you've become newly grateful to your own parents for since parenting?",
+    "category": "gratitude"
+  },
+  {
+    "question": "When's the most recent moment you felt happy to have your child?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What's the most touching thing your spouse has done for your child?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Has the meaning of life changed for you since raising a child?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Who in your life are you most grateful to for helping with parenting?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Try to describe what it feels like when your child smiles.",
+    "category": "gratitude"
+  },
+  {
+    "question": "What area do you feel you've personally grown in through parenting?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Has a single thing your child said ever changed your whole day?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What side of your spouse are you more grateful for since raising your child together?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Do you feel like having a child motivates you to live more fully?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Try to express what you feel when your child cuddles up to you.",
+    "category": "gratitude"
+  },
+  {
+    "question": "Has there been a parenting moment when the world just looked more beautiful?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What's something new you got to experience because of your child that you're grateful for?",
+    "category": "gratitude"
+  },
+  {
+    "question": "When did parenting feel like the greatest gift?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there something you'd like to say thank you to your spouse for right now?",
+    "category": "gratitude"
+  },
+  {
+    "question": "How did it feel when your child hugged you for the first time?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there something you didn't give up on because of your child?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Has the slowing down of life through parenting ever felt like something to be grateful for?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What feeling comes over you when you look at your sleeping child's face?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What's the best thing about raising a child with your spouse?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Has having a child made you braver in any way?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What's the change in yourself you're most grateful for since becoming a parent?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What was it like when your child first said 'I love you'?",
+    "category": "gratitude"
+  },
+  {
+    "question": "When during parenting have you thought 'I'm so glad you're with me'?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What's the most precious value your child has taught you?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Has any relationship in your life deepened because of parenting?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What do you feel when your child is overjoyed by the simplest things?",
+    "category": "gratitude"
+  },
+  {
+    "question": "If you had to name one thing you're most grateful for as a parent?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What's the most recent rewarding moment you can remember from raising your child?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there gratitude toward your spouse that grew from having a child?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was there a moment when just the fact that your child existed felt like enough?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Is there something hard from parenting that you're now grateful for, looking back?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What do your child, your spouse, and this family mean to you in your life?",
+    "category": "gratitude"
+  },
+  {
+    "question": "As a parent, do you feel how precious this time is right now?",
+    "category": "gratitude"
+  },
+  {
+    "question": "What are you most grateful for from raising your child?",
+    "category": "gratitude"
+  },
+  {
+    "question": "When was the last time you said thank you to your spouse?",
+    "category": "gratitude"
+  }
+]

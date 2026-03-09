@@ -1,0 +1,642 @@
+[
+  {
+    "question": "最近、私が一番感謝されたことを一つ言うね。",
+    "category": "dailyLife"
+  },
+  {
+    "question": "家の中で私の方が得意なこと vs あなたの方が得意なことって何？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "家の中で一番穏やかな瞬間はいつ？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "一緒に買い物するとき、いつも意見が分かれるものってある？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "配偶者に内緒で食べたもので一番最近なのは何？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "うちの冷蔵庫にいつもある配偶者専用アイテムは？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "最近、配偶者が一番よく使う口癖って何？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "配偶者の仕事終わりのルーティンを順番に言える？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "私たち夫婦が一番よく頼む出前って何？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "一緒にいて一番ほっとする瞬間はいつ？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "配偶者がストレスを感じると無意識にする行動ってある？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "私たち夫婦のエアコン・暖房の温度争いはどう？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "週末の朝、配偶者が最初にすることって何？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "配偶者が料理するとき必ずやる独特の癖ってある？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "家のリモコンの主導権はどちらにある？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "一緒に掃除するときの役割分担はどうなってる？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "配偶者のスマホで一番よく使っていそうなアプリって何？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "家のゴミ分別は主にどちらがしてる？正直に！",
+    "category": "dailyLife"
+  },
+  {
+    "question": "配偶者が機嫌がいいとき無意識にする行動って何？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "一緒に暮らしていて配偶者から移ってきた習慣ってある？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "二人で同時にスマホを見て笑っているとき、大体何を見てる？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "配偶者が寝る直前に必ずするルーティンってある？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "私たち夫婦のベッドの領域の比率はどうなってる？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "配偶者が怒ったときの行動パターンってある？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "結婚してから一番よく買った家電や物って何？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "夫婦で状況によって呼び方が変わることってある？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "配偶者が仕事から帰ってきたとき、気分がわかるサインってある？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "配偶者にこっそり捨てたい物ってある？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "家の中で自分だけ気になって配偶者は全然気にしないことって何？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "配偶者の朝のアラームのスタイルはどう？自分と違う？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "一緒に暮らしていて一番驚いた配偶者の生活習慣って何？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "私たち夫婦が一番合っている日常の好みを一つ挙げるとしたら？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "配偶者が疲れているときの独特の表情や行動ってある？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "最近、配偶者が興味を持っている新しい趣味ってある？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "私たち夫婦が一番よく行く近所のお店はどこ？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "配偶者が私に一番よくする小言って何？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "二人のうち宅配便を開けるのが好きな方はどちら？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "配偶者が風邪を引くとどんなスタイル？静かに辛そうにしてる？大げさ？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "私たち夫婦の朝の準備の順番はどうなってる？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "一緒に暮らしてできた二人だけの隠語やあだ名ってある？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "結婚前に配偶者を初めて見たときの第一印象はどうだった？",
+    "category": "memories"
+  },
+  {
+    "question": "プロポーズされたとき（したとき）本当の気持ちはどうだった？",
+    "category": "memories"
+  },
+  {
+    "question": "結婚式の日に一番記憶に残っている場面は？",
+    "category": "memories"
+  },
+  {
+    "question": "新婚のころ一番ぎこちなかった瞬間ってあった？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者との最初の大きな喧嘩、覚えてる？そのとき何を学んだ？",
+    "category": "memories"
+  },
+  {
+    "question": "結婚の準備で一番大変だったのって何？",
+    "category": "memories"
+  },
+  {
+    "question": "初めて二人で家を飾り付けたときのエピソードってある？",
+    "category": "memories"
+  },
+  {
+    "question": "結婚して初めてのお盆や年末年始はどうだった？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者が私を一番笑わせてくれた瞬間はいつ？",
+    "category": "memories"
+  },
+  {
+    "question": "二人で一緒に泣いたことってある？どんなことだった？",
+    "category": "memories"
+  },
+  {
+    "question": "結婚して初めて一緒に買った家具や物って何？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者と一緒にした旅行で一番記憶に残っている瞬間は？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者のご家族と初めて会ったときのエピソードってある？",
+    "category": "memories"
+  },
+  {
+    "question": "結婚生活で一番笑えた誤解やハプニングって何？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者との記念日で一番特別だった日は？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者と一緒に料理していて面白いエピソードってある？",
+    "category": "memories"
+  },
+  {
+    "question": "私たち夫婦だけの思い出の場所ってある？どんなところ？",
+    "category": "memories"
+  },
+  {
+    "question": "結婚してから初めて一人で過ごした夜ってあった？どうだった？",
+    "category": "memories"
+  },
+  {
+    "question": "夫婦喧嘩の後仲直りする私たちだけの方法ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者にサプライズイベントをしてあげたか受けたことってある？",
+    "category": "memories"
+  },
+  {
+    "question": "一緒に暮らしていて配偶者の一番驚いた才能って何？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者を見て「この人と結婚して良かった」と感じた瞬間は？",
+    "category": "memories"
+  },
+  {
+    "question": "付き合っていたころと今、配偶者を見る目線はどう変わった？",
+    "category": "memories"
+  },
+  {
+    "question": "結婚生活で一番緊張した瞬間はいつ？",
+    "category": "memories"
+  },
+  {
+    "question": "一緒に挑戦して失敗した経験ってある？どうなった？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者に内緒でやったことが後でバレたことってある？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者が私のためにしてくれたことで一番感動したのって何？",
+    "category": "memories"
+  },
+  {
+    "question": "結婚前に想像していた結婚生活と実際で一番違うのって何？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者が辛いとき私がしてあげたことで効果があったのって何？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者が初めて「ねえ」や「あなた」と呼んでくれたときどうだった？",
+    "category": "memories"
+  },
+  {
+    "question": "私たち夫婦だけのルーティンや伝統ができたきっかけってある？",
+    "category": "memories"
+  },
+  {
+    "question": "結婚してから友達関係に変化はあった？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者のおかげで新しく始めた趣味や活動ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者の習慣で最初は微妙だったけど今はかわいいなと思うものってある？",
+    "category": "memories"
+  },
+  {
+    "question": "結婚生活で一番予想外だった瞬間は？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者と初めて「うちの家」と感じた瞬間はいつ？",
+    "category": "memories"
+  },
+  {
+    "question": "結婚してから最初に変わった生活習慣って何？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者と一緒に完成させたプロジェクトや目標ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "私たち夫婦が一緒に成し遂げたことで一番誇らしいのって何？",
+    "category": "memories"
+  },
+  {
+    "question": "結婚生活で一番穏やかだった瞬間はいつ？",
+    "category": "memories"
+  },
+  {
+    "question": "配偶者にまだちゃんと感謝を伝えられていないことってある？",
+    "category": "honestly"
+  },
+  {
+    "question": "夫婦関係の中で自分がまだ足りないと感じる部分って何？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者に申し訳なくてまだ言えていないことってある？",
+    "category": "honestly"
+  },
+  {
+    "question": "結婚生活で自分が一番我慢していることって何？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者に「これだけは変わらないでいてほしい」ということってある？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者に一番正直に話しにくいテーマって何？",
+    "category": "honestly"
+  },
+  {
+    "question": "私たち夫婦の愛情表現の仕方がお互い違うと感じたことってある？",
+    "category": "honestly"
+  },
+  {
+    "question": "結婚生活で知らないうちに配偶者を傷つけてしまったかもしれない言葉や行動ってある？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者が私に望んでいることって何だと思う？それをちゃんとしてあげてる？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者に本当に言いたかったのにタイミングを逃した言葉ってある？",
+    "category": "honestly"
+  },
+  {
+    "question": "結婚生活で「これだけは諦めてはいけない」と思うことって何？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者との会話が減ったと感じたことある？原因は何だと思う？",
+    "category": "honestly"
+  },
+  {
+    "question": "結婚生活で一人で抱えていると感じることってある？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者にもらった愛情の中で一番温かかった瞬間はいつ？",
+    "category": "honestly"
+  },
+  {
+    "question": "私たちの関係で「感謝」を十分に伝えられていると思う？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者をもっとよく理解するために自分が努力できることって何？",
+    "category": "honestly"
+  },
+  {
+    "question": "結婚生活で一番大きな価値観の違いを感じたのはいつ？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者に望みすぎているんじゃないかと心配になったことってある？",
+    "category": "honestly"
+  },
+  {
+    "question": "最近夫婦としてうまくやっていると思う部分って何？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者との衝突の解決方法で改善したい点ってある？",
+    "category": "honestly"
+  },
+  {
+    "question": "結婚してから「自分」という人間がどう変わったと思う？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者が最近つらそうにしていることがあれば何だと思う？",
+    "category": "honestly"
+  },
+  {
+    "question": "私たち夫婦だけの暗黙のルールってある？ちゃんと守られてる？",
+    "category": "honestly"
+  },
+  {
+    "question": "結婚生活で孤独を感じたことってある？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者とのスキンシップや愛情表現について正直に話し合ったことってある？",
+    "category": "honestly"
+  },
+  {
+    "question": "結婚生活で一番大きな犠牲を払ったのって何？後悔はない？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者が自分のことを一番よく理解してくれていると感じる瞬間はいつ？",
+    "category": "honestly"
+  },
+  {
+    "question": "私たち夫婦がより幸せになるためには何が必要だと思う？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者の夢や目標を十分に応援してあげていると思う？",
+    "category": "honestly"
+  },
+  {
+    "question": "結婚前の自分に伝えたいアドバイスがあるとしたら？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者は自分のことをどう思っているだろう？心配な部分ってある？",
+    "category": "honestly"
+  },
+  {
+    "question": "お互いにもっと関心を持つために具体的に何ができるだろう？",
+    "category": "honestly"
+  },
+  {
+    "question": "お金や家計について配偶者と正直に話し合えてる？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者に「あなたのおかげで自分はこう変わったよ」と言うとしたら？",
+    "category": "honestly"
+  },
+  {
+    "question": "結婚生活で私たちの関係では自分が先に譲る方？それとも配偶者が譲る方？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者のどんな面を見ると尊敬するなと思う？",
+    "category": "honestly"
+  },
+  {
+    "question": "夫婦の間での「一人の時間」についてどう思う？",
+    "category": "honestly"
+  },
+  {
+    "question": "結婚生活で一番成長したと感じる部分って何？",
+    "category": "honestly"
+  },
+  {
+    "question": "配偶者から言われた言葉で一番長く記憶に残っているものって何？",
+    "category": "honestly"
+  },
+  {
+    "question": "結婚生活が自分に教えてくれた一番大きな教訓って何？",
+    "category": "honestly"
+  },
+  {
+    "question": "5年後、私たち夫婦はどんな姿でいてほしい？",
+    "category": "ahead"
+  },
+  {
+    "question": "これから配偶者と絶対一緒にやってみたいことを一つ挙げるとしたら？",
+    "category": "ahead"
+  },
+  {
+    "question": "定年後に二人で絶対やってみたいことってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "私たち夫婦が一緒に挑戦してみたいバケットリストを一つ挙げるとしたら？",
+    "category": "ahead"
+  },
+  {
+    "question": "これから私たち夫婦に絶対守り続けてほしい約束を一つ挙げるとしたら？",
+    "category": "ahead"
+  },
+  {
+    "question": "老後に住みたい場所ってある？どんなところ？",
+    "category": "ahead"
+  },
+  {
+    "question": "配偶者と一緒に学んでみたいことってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "私たち夫婦だけの幸せの基準があるとしたら何？",
+    "category": "ahead"
+  },
+  {
+    "question": "今すぐ配偶者と一緒に趣味を一つ始めるとしたら何をしたい？",
+    "category": "ahead"
+  },
+  {
+    "question": "これから配偶者に叶えてほしい夢ってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "私たち夫婦がもっと近くなるために今からできることって何だろう？",
+    "category": "ahead"
+  },
+  {
+    "question": "結婚生活でこれから絶対直したい自分の姿ってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "配偶者と一緒に新しい言語を学ぶとしたらどの言語を選ぶ？",
+    "category": "ahead"
+  },
+  {
+    "question": "10年後、私たち夫婦はどんな姿だと思う？",
+    "category": "ahead"
+  },
+  {
+    "question": "これからよく行ってほしい旅行先ってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "結婚生活で配偶者と一緒に達成したい目標ってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "配偶者にこれからもっと良くしてあげたい部分ってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "結婚記念日に一度は絶対やってみたいイベントってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "これから家に絶対取り入れたいものってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "配偶者と一緒に年を重ねていくことについてどんな気持ちがある？",
+    "category": "ahead"
+  },
+  {
+    "question": "これから私たち夫婦の関係をどんな言葉で表したい？",
+    "category": "ahead"
+  },
+  {
+    "question": "配偶者に一生してあげたいことが一つあるとしたら？",
+    "category": "ahead"
+  },
+  {
+    "question": "私たち夫婦の会話でこれから改善したい習慣ってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "年を取ったときに配偶者と毎日したいルーティンってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "これから配偶者のどんな夢を応援したい？",
+    "category": "ahead"
+  },
+  {
+    "question": "結婚生活で次のステップに進みたいことってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "私たち夫婦がこれから一緒に作りたい伝統や習慣ってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "配偶者と一緒に社会貢献したい方法ってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "これから家をどんなふうに変えたい？",
+    "category": "ahead"
+  },
+  {
+    "question": "配偶者を愛する方法をこれからどう変えたい？",
+    "category": "ahead"
+  },
+  {
+    "question": "結婚生活で来年絶対達成したい小さな目標を一つ挙げるとしたら？",
+    "category": "ahead"
+  },
+  {
+    "question": "私たち夫婦が一緒なら、いつまでもやり続けられそうなことってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "配偶者との関係でこれから一番大切にしたいことって何？",
+    "category": "ahead"
+  },
+  {
+    "question": "20年後、私たち夫婦の週末のルーティンはどんな感じだと思う？",
+    "category": "ahead"
+  },
+  {
+    "question": "これから配偶者に絶対やってあげたいサプライズってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "今日この会話を通じて配偶者に伝えたい気持ちってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "私たち夫婦がこれから一緒に読んだり見たりしたいコンテンツってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "配偶者と一緒にボランティアや社会貢献活動をしてみたいと思ったことってある？",
+    "category": "ahead"
+  },
+  {
+    "question": "これからお互いにもっと正直になるために何ができるだろう？",
+    "category": "ahead"
+  },
+  {
+    "question": "配偶者と一緒に今から始めたらいい健康習慣ってある？",
+    "category": "ahead"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "question": "仕事をしていて一番やりがいを感じた瞬間はいつでしたか？",
+    "category": "workLife"
+  },
+  {
+    "question": "仕事をしていて一番あきれた経験ってありますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "入社初日のこと覚えていますか？どんな気分でしたか？",
+    "category": "workLife"
+  },
+  {
+    "question": "職場で一番感謝している同僚っていますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "これまで働いた職場の中で一番印象に残っているところはどこですか？",
+    "category": "workLife"
+  },
+  {
+    "question": "残業していて一番記憶に残っているエピソードってありますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "職場で一番仲良くなった人とのエピソードを教えてもらえますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "職場で一番笑えた瞬間って何でしたか？",
+    "category": "workLife"
+  },
+  {
+    "question": "業務ミスで一番冷や汗をかいたのはいつですか？",
+    "category": "workLife"
+  },
+  {
+    "question": "仕事をしていて一番誇らしかった成果って何ですか？",
+    "category": "workLife"
+  },
+  {
+    "question": "飲み会で忘れられないエピソードってありますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "職場で初めて認めてもらえたと感じた瞬間はいつですか？",
+    "category": "workLife"
+  },
+  {
+    "question": "上司に怒られた思い出で今では笑えるものってありますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "新入りのころ一番困惑した状況って何でしたか？",
+    "category": "workLife"
+  },
+  {
+    "question": "職場の同僚と仕事以外で一番楽しく過ごしたことってありますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "出張で面白かったり困ったりしたエピソードってありますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "一番大変だったプロジェクトを一つ教えてもらえますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "仕事をしていて意外と発見した自分だけの才能ってありますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "前の職場で一番懐かしいのって何ですか？",
+    "category": "workLife"
+  },
+  {
+    "question": "初めて給料をもらったとき何をしましたか？",
+    "category": "workLife"
+  },
+  {
+    "question": "在宅勤務していて一番笑えたエピソードってありますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "夜通し仕事をしたことってありますか？どんな状況でしたか？",
+    "category": "workLife"
+  },
+  {
+    "question": "職場で誤解されたことってありますか？どうやって解決しましたか？",
+    "category": "workLife"
+  },
+  {
+    "question": "同僚と意見の衝突があったときどうやって解決しましたか？",
+    "category": "workLife"
+  },
+  {
+    "question": "職場でぐっと込み上げたことってありますか？どんな出来事でしたか？",
+    "category": "workLife"
+  },
+  {
+    "question": "入社応募のときこの会社を選んだ理由って何でしたか？",
+    "category": "workLife"
+  },
+  {
+    "question": "有給を使って何をしたのが一番良かったですか？",
+    "category": "workLife"
+  },
+  {
+    "question": "職場でニックネームや呼び名がついたことってありますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "退職した同僚の中で一番惜しかった人っていますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "仕事を始めたころと今で一番変わったことって何ですか？",
+    "category": "workLife"
+  },
+  {
+    "question": "同僚の一言が自分に大きな影響を与えたことってありますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "職場でかっこいいなと感じた先輩や同僚っていますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "業務中に起きたハプニングでチームがより仲良くなったことってありますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "職場で一番勇気を出した瞬間ってありますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "一番記憶に残っているチームプロジェクトって何ですか？",
+    "category": "workLife"
+  },
+  {
+    "question": "業務中に予想外に楽しかった経験ってありますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "職場で一番忙しかった時期はいつでしたか？",
+    "category": "workLife"
+  },
+  {
+    "question": "仕事をしていて新しくできた習慣ってありますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "最近「この仕事をやっていて良かった」と感じた瞬間はいつですか？",
+    "category": "workLife"
+  },
+  {
+    "question": "業務に関連して一番意義深かったフィードバックをもらったことってありますか？",
+    "category": "workLife"
+  },
+  {
+    "question": "仕事しながら音楽を聴きますか？どんな雰囲気の音楽が好きですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "メッセージの返信スタイルはどんな感じですか？すぐ返す派？まとめて返す派？",
+    "category": "workStyle"
+  },
+  {
+    "question": "仕事するとき机の上に必ずないといけないものってありますか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "デスクの整理スタイルはどんな感じですか？きれい好き？クリエイティブな混沌派？",
+    "category": "workStyle"
+  },
+  {
+    "question": "午前型ですか？午後型ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "会議中にメモを取りますか？聞くだけですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "仕事を始める前にTODOリストを書きますか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "在宅勤務すると生産性が上がりますか？下がりますか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "仕事中にぼーっとする時間が一日にどれくらいある感じですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "締め切りがタイトな方が集中できる方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "複数の仕事を同時にこなす方が楽ですか？一つずつ集中する方が楽ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "仕事に集中するときの自分なりのコツってありますか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "一人で静かに仕事する方が好きですか？チームと活発に仕事する方が好きですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "SlackやチャットツールでEmojiをよく使う方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "業務メールを書くとき悩む方ですか？",
+    "category": "workLife"
+  },
+  {
+    "question": "電話するとき歩き回る方ですか？座ってする方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "文房具の中でこだわりがあるものってありますか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "レポートを作成するときデザインにこだわる方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "ミスをしたらすぐ認める方ですか？原因を先に把握しようとする方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "仕事で詰まったとき一人で解決しようとする方ですか？すぐ助けを求める方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "会議で先に発言する方ですか？他の人の意見をまず聞く方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "業務の成果をチームとシェアするのが好きな方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "褒められたとき照れる方ですか？自然に受け取れる方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "完璧主義な傾向が仕事においてどう表れていると思いますか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "仕事中に一番よく使うアプリやツールって何ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "出社したら最初にする業務ルーティンってありますか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "わからないことがあるとき先に調べる方ですか？すぐ聞く方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "長期プロジェクトを分割して管理する方ですか？全体をまとめて見る方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "フィードバックをするとき直接的に言う方ですか？遠回しに言う方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "業務の優先順位を決める自分なりのやり方ってありますか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "新しい業務を覚えるとき実際にやってみる方が早いですか？理論を先に勉強しますか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "チームワークと個人の力量、どちらがより大切だと思いますか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "褒め言葉とフィードバック、成長に役立つのはどちらだと思いますか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "自分のMBTIが仕事スタイルにもそのまま出ていると思いますか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "ノートパソコンにシールを貼る方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "仕事中に集中が途切れたときどうやって立て直しますか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "どんなフィードバックの方式が一番モチベーションになりますか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "仕事するとき感情の影響を受けやすい方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "業務の成果物に自分の名前が入ると、より気を使う方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "週末に仕事のメッセージを確認する方ですか？",
+    "category": "workStyle"
+  },
+  {
+    "question": "5年後にどんな仕事をしていると思いますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "キャリアで絶対に妥協したくないことがあるとしたら何ですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "今の仕事以外に次にやってみたい仕事ってありますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "お金以外に仕事から得たいものってありますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "自分のキャリアで一番大切にしている価値って何ですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "全然違う分野に転職するとしたらどんな仕事をやってみたいですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "起業を考えたことってありますか？どんなことをやってみたかったですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "今の仕事が10年後にもあると思いますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "自分の分野で本当の専門家になったと感じるには何が必要だと思いますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "子どものころ夢見ていた職業と今やっている仕事に関連はありますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "情熱と安定、今のキャリアでどちらがより大切ですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "転職を真剣に考えたことってありますか？そのときどんな基準で決めましたか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "自分が思うキャリアの成功ってどんな姿ですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "仕事において今一番成長したい部分って何ですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "後輩からどんな先輩として記憶されたいですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "最近学びたいスキルや知識ってありますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "副業やサイドプロジェクトをやったことってありますか？やってみたいことはありますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "自分の仕事が社会にどんな影響を与えてほしいですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "キャリアで一番大きな転換点になった経験って何ですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "10年前の自分にキャリアのアドバイスを一つするとしたら何と言いますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "今やっている仕事に意義を感じる瞬間って具体的にどんなときですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "将来どんな形で仕事をしたいですか？在宅・オフィス・フリーランスなど？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "昇進と専門性、今はどちらにより集中したいですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "今の会社で達成したい目標ってありますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "定年後にどんな仕事をして過ごしたいですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "仕事を通じてどんな人として成長したいですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "今の職業じゃなければどんな道を歩んでいたと思いますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "キャリアでまだやっていないことで絶対やってみたいことってありますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "自分だけのブランドや専門性を作りたいと思ったことってありますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "現在の職場を選んだのは良い決断だったと思いますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "仕事と生活のバランスで今はどちらに重心が置かれていますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "バーンアウトしたとき、どうやって乗り越えたり再びやる気を見つけましたか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "キャリアにメンターがいますか？どんな人ですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "チームリーダーや管理職をやってみたいですか？スペシャリストの道を選びますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "今の仕事で一番伸ばしたいスキルって何ですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "年を取ってもずっと続けたい仕事ってありますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "海外で働いてみたいと思ったことってありますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "今一番チャレンジしてみたい新しい分野ってありますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "自分が思う理想の職場環境ってどんなところですか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "仕事以外に人生で一番達成したい目標ってありますか？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "仕事が終わって帰ったら最初に何をしますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事終わりにストレスを発散する自分なりの方法ってありますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "最近どっぷりハマっている趣味ってありますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事終わりに一人でいる時間は充電になりますか？それとも孤独に感じますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "週末に必ずするルーティンってありますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事終わりに定期的に運動していますか？どんな運動をしますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "最近よく見ているドラマや映画ってありますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事終わりに自炊する方ですか？買って食べるか頼む方ですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事が終わって一番行きたい場所ってありますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事終わりにYouTubeやNetflixをどれくらい見ますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "趣味にお金をたくさん使う方ですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "週末は予定をびっしり入れる方ですか？何もしない方ですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "読書を楽しむ方ですか？最近読んでいる本ってありますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事終わりに友達とよく会う方ですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "家の中で一番好きな場所ってどこですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "早朝の時間を活用する方ですか？どうやって使いますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事終わりに自己啓発をしていますか？何をしていますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "最近新しく始めた趣味ってありますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "週末に一人でいる方が好きですか？誰かと一緒にいる方が好きですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事終わりに一番楽しみにしていることって何ですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "最近よく聴いている音楽やポッドキャストってありますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "カフェによく行く方ですか？どんなカフェが好きですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事終わりに連絡を取り合う人っていますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "休みの日に一人で映画館に行ったことってありますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "散歩を楽しむ方ですか？好きなコースってありますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事終わりに食べ物動画を見るのが好きな方ですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "睡眠ルーティンがしっかりできている方ですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "家の中で一番好きな時間帯はいつですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "最近一番活力になっている活動って何ですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "ゲームを楽しむ方ですか？どんなゲームをしますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事終わりにSNSをよくする方ですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "一人旅をしたことってありますか？どうでしたか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "最近日常の中で一番楽しみにしている瞬間って何ですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "家で料理するのが好きな方ですか？よく作るメニューってありますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事終わりに一番よくしていることって何ですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事が終わったら仕事のことを切り替えられる方ですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "今日仕事終わりに何をする予定ですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事をしていて趣味に変化が生まれたことってありますか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "仕事終わりの自分なりのリフレッシュ方法って何ですか？",
+    "category": "afterWork"
+  },
+  {
+    "question": "休みの日の朝は朝寝坊する方ですか？早起きする方ですか？",
+    "category": "afterWork"
+  }
+]

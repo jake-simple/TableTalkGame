@@ -1,0 +1,642 @@
+[
+  {
+    "question": "今日ここに来る前どんな気持ちでした？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "初めて見たときどんな印象でしたか？正直に教えてもらっても大丈夫ですよ。",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今日来るとき一番悩んだことって何ですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "会う前にどんな人だろうって想像してみましたか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "挨拶したとき最初に目に入ったのは何でしたか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "初めて会う席では緊張する方ですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今日ここに来ようと決めた理由はありますか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今私のことで一番気になっていることって何ですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "これまで初めて会った席で印象に残った第一印象ってありますか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "初対面でどんな様子を見ると心が開きますか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今日来る前に一番気を使った部分はどこですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "初めて会うとき一番大切にしているのって何ですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "紹介されたときどんなことを聞きましたか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今日ここへ来る道でどんなことを考えてました？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今この瞬間、ぎこちないですか？それとも落ち着いてますか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "私を動物に例えるとどんな動物に見えますか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "最初の会話で相手のことで一番知りたいのって何ですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "初めて会う席でどんな雰囲気の人に惹かれますか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今日みたいに初めて会う席は得意な方ですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "これまで初めて会った席で一番記憶に残っているものってありますか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "私を見てどんな仕事をしてそうに見えましたか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "初めて会うとき、よく笑う人が好きですか？落ち着いた人が好きですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今日ここはどうですか？気に入りましたか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "第一印象って後からも割と変わらない方ですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "私に質問を一つしてみてください。",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今日の会話、自然に流れていると思いますか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "初めて会う席で一番嫌な状況って何ですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "初めて会った人に一番正直に話せる話題って何ですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今日来る前に友達に連絡しましたか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今この場の雰囲気はどうですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "初対面でもすぐ打ち解けられる方ですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "初めて会った席がうまくいったと感じるサインってありますか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今日の会話で一番印象に残っていることがあれば何ですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "私を二言で表現するとどうなりそうですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今まで話していて意外だったことってありますか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "初めて会ったとき相手がどんな言葉を言ってくれると気が楽になりますか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "初めて会う前に緊張をほぐすためにすることってありますか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今この瞬間私がどんな印象か正直に教えてもらえますか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今日ここに来て良かったと思いますか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "最初の会話で話が合うなって感じるのはどんなときですか？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "最近よく聴く音楽のジャンルって何ですか？",
+    "category": "taste"
+  },
+  {
+    "question": "好きな食べ物のスタイルってありますか？和食・洋食・中華から選ぶとしたら？",
+    "category": "taste"
+  },
+  {
+    "question": "映画を見るときどんなジャンルをよく選びますか？",
+    "category": "taste"
+  },
+  {
+    "question": "カフェにはよく行きますか？どんな雰囲気が好きですか？",
+    "category": "taste"
+  },
+  {
+    "question": "旅行はどんなスタイルですか？スケジュールをびっしり入れる派？のんびり派？",
+    "category": "taste"
+  },
+  {
+    "question": "最近面白かったドラマや映画ってありますか？",
+    "category": "taste"
+  },
+  {
+    "question": "絶対食べない食べ物ってありますか？",
+    "category": "taste"
+  },
+  {
+    "question": "週末に一人で時間ができたら何をしますか？",
+    "category": "taste"
+  },
+  {
+    "question": "一番好きな季節ってありますか？その理由も聞かせてください。",
+    "category": "taste"
+  },
+  {
+    "question": "最近ハマっている食べ物やカフェのメニューってありますか？",
+    "category": "taste"
+  },
+  {
+    "question": "趣味はありますか？最近一番楽しんでいることって？",
+    "category": "taste"
+  },
+  {
+    "question": "どんな本やコンテンツが好きですか？",
+    "category": "taste"
+  },
+  {
+    "question": "運動は好きですか？よくする運動ってありますか？",
+    "category": "taste"
+  },
+  {
+    "question": "お酒は好きですか？好きな種類はありますか？",
+    "category": "taste"
+  },
+  {
+    "question": "曲を聴くとき、歌詞に集中する方ですか？メロディに集中する方ですか？",
+    "category": "taste"
+  },
+  {
+    "question": "また行きたい旅行先ってありますか？",
+    "category": "taste"
+  },
+  {
+    "question": "家でゆっくりするときはどう過ごしますか？",
+    "category": "taste"
+  },
+  {
+    "question": "今まで食べた中で一番おいしかったものって何ですか？",
+    "category": "taste"
+  },
+  {
+    "question": "SNSではどんな種類のコンテンツをよく見ますか？",
+    "category": "taste"
+  },
+  {
+    "question": "料理は好きですか？得意なメニューがあれば教えてください。",
+    "category": "taste"
+  },
+  {
+    "question": "ショッピングで一番長く見てまわるコーナーはどこですか？",
+    "category": "taste"
+  },
+  {
+    "question": "アウトドアとインドアどちらが好きですか？",
+    "category": "taste"
+  },
+  {
+    "question": "夏の休暇は海派？山派？",
+    "category": "taste"
+  },
+  {
+    "question": "よく聴くプレイリストのテーマってありますか？",
+    "category": "taste"
+  },
+  {
+    "question": "最近ハマっていることってありますか？趣味でも何でも。",
+    "category": "taste"
+  },
+  {
+    "question": "好きなお菓子は何ですか？",
+    "category": "taste"
+  },
+  {
+    "question": "InstagramやYouTubeでよく見るチャンネルってありますか？",
+    "category": "taste"
+  },
+  {
+    "question": "香水は使いますか？どんな香りが好きですか？",
+    "category": "taste"
+  },
+  {
+    "question": "コーヒーはよく飲みますか？どんなメニューが好きですか？",
+    "category": "taste"
+  },
+  {
+    "question": "仕事中に音楽を流しておく方ですか？",
+    "category": "taste"
+  },
+  {
+    "question": "辛い食べ物は得意ですか？",
+    "category": "taste"
+  },
+  {
+    "question": "夜食を食べるとしたら何を食べますか？",
+    "category": "taste"
+  },
+  {
+    "question": "旅行で一番こだわるのは宿？食事？観光どれですか？",
+    "category": "taste"
+  },
+  {
+    "question": "最近興味を持った分野ってありますか？",
+    "category": "taste"
+  },
+  {
+    "question": "好きなスポーツや気になるチームってありますか？",
+    "category": "taste"
+  },
+  {
+    "question": "好みって時間が経つにつれてだいぶ変わりましたか？",
+    "category": "taste"
+  },
+  {
+    "question": "好きな花や植物ってありますか？",
+    "category": "taste"
+  },
+  {
+    "question": "動画コンテンツを見るとき、短い動画派？長い動画派？",
+    "category": "taste"
+  },
+  {
+    "question": "デザートは好きですか？一番好きなものって何ですか？",
+    "category": "taste"
+  },
+  {
+    "question": "まだやったことないけどやってみたい趣味ってありますか？",
+    "category": "taste"
+  },
+  {
+    "question": "朝型ですか？夜型ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "平日の一日を簡単に教えてもらえますか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "週末の理想の一日ってどんな感じですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "家にいるのが好きですか？外にいるのが好きですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "一人暮らしですか？実家ですか？それぞれ良い点と大変な点があると思いますが。",
+    "category": "lifestyle"
+  },
+  {
+    "question": "定期的にしている運動はありますか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "一人でご飯を食べることが多い方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "寝る前に必ずすることってありますか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "健康管理を意識的にしている方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "計画的に生活する方ですか？それとも行き当たりばったりな方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "急に一日が空いたらどうやって過ごしますか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "節約する方ですか？使う方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "家の掃除はよくしますか？きれい好きな方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "普段は自炊をよくしますか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "連絡はよくする方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "昼寝する習慣がありますか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "仕事とプライベートのバランスはうまく取れている方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "一番よく行く場所ってどこですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "仕事終わりに主に何をして過ごしますか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "買い物するとき衝動買いしてしまう方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "一ヶ月にどれくらい外食しますか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "一人の時間はどれくらい必要ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "旅行にはどれくらいの頻度で行きますか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "SNSにはよく投稿する方ですか？見るだけですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "家の雰囲気はどんな感じですか？どんな空間ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "勉強や読書を継続的にしている方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "友達との集まりはどれくらいの頻度ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "よく眠れる方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "ストレスを感じたときどうやって解消しますか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "ペットを飼っていますか？それとも飼いたいですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "散歩や歩くことが好きな方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "集まりや約束が多い方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "お盆や年末年始などの家族の集まりにはよく行きますか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "出費の中で一番惜しくないのはどこですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "普段は早く寝る方ですか？遅く寝る方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "人間関係にエネルギーを使う方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "規則正しい生活が身についている方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "新しいことに挑戦してみる方ですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "今の生活パターンで変えたいことってありますか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "一番自分らしいと感じる時間はいつですか？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "生きていて一番大切にしていることって何ですか？",
+    "category": "values"
+  },
+  {
+    "question": "いい恋愛ってどんなものか一言で表すとしたら？",
+    "category": "values"
+  },
+  {
+    "question": "人と付き合う上で絶対に譲れないことってありますか？",
+    "category": "values"
+  },
+  {
+    "question": "恋愛するときどんな人でありたいですか？",
+    "category": "values"
+  },
+  {
+    "question": "違いが多くてもうまくいけると思いますか？",
+    "category": "values"
+  },
+  {
+    "question": "連絡の頻度についてどう思いますか？",
+    "category": "values"
+  },
+  {
+    "question": "関係の中で信頼が一番大切だと思いますか？",
+    "category": "values"
+  },
+  {
+    "question": "一人の時間が必要な方ですか？",
+    "category": "values"
+  },
+  {
+    "question": "いい会話ってどんなものだと思いますか？",
+    "category": "values"
+  },
+  {
+    "question": "お金に対する価値観はどんな感じですか？",
+    "category": "values"
+  },
+  {
+    "question": "家族関係をどう思っていますか？",
+    "category": "values"
+  },
+  {
+    "question": "自由と安定、どちらがより大切に感じますか？",
+    "category": "values"
+  },
+  {
+    "question": "生きていて一番感謝していることってありますか？",
+    "category": "values"
+  },
+  {
+    "question": "恋愛では気持ちを頻繁に伝えることが大切だと思いますか？",
+    "category": "values"
+  },
+  {
+    "question": "仕事が忙しいとき恋愛をどう維持するのが正しいと思いますか？",
+    "category": "values"
+  },
+  {
+    "question": "友達と恋人、どちらにより時間を使うべきだと思いますか？",
+    "category": "values"
+  },
+  {
+    "question": "衝突したときどう解決するのが正しいと思いますか？",
+    "category": "values"
+  },
+  {
+    "question": "人は変われると思いますか？",
+    "category": "values"
+  },
+  {
+    "question": "年を重ねて変わった価値観ってありますか？",
+    "category": "values"
+  },
+  {
+    "question": "結婚についてどんな考えを持っていますか？",
+    "category": "values"
+  },
+  {
+    "question": "性格が似ている人が好きですか？違う人が好きですか？",
+    "category": "values"
+  },
+  {
+    "question": "恋愛するときお互いの過去を知るべきだと思いますか？",
+    "category": "values"
+  },
+  {
+    "question": "一人に集中するタイプですか？",
+    "category": "values"
+  },
+  {
+    "question": "関係の中で正直さが大切だと思いますか？",
+    "category": "values"
+  },
+  {
+    "question": "幸せだと感じる基準って何ですか？",
+    "category": "values"
+  },
+  {
+    "question": "相手のどんな行動に気遣いを感じますか？",
+    "category": "values"
+  },
+  {
+    "question": "自分を大切にできる人が恋愛も上手いと思いますか？",
+    "category": "values"
+  },
+  {
+    "question": "理想のタイプより気が合う人の方がいいと思いますか？",
+    "category": "values"
+  },
+  {
+    "question": "恋人同士でもそれぞれの空間が必要だと思いますか？",
+    "category": "values"
+  },
+  {
+    "question": "生きていて一番大きく成長したと感じた経験ってありますか？",
+    "category": "values"
+  },
+  {
+    "question": "大勢がいる場が好きですか？少数と深く過ごす方が好きですか？",
+    "category": "values"
+  },
+  {
+    "question": "どんな人と一緒にいると落ち着きますか？",
+    "category": "values"
+  },
+  {
+    "question": "人の目を気にする方ですか？",
+    "category": "values"
+  },
+  {
+    "question": "夢はありますか？今叶えたいことって？",
+    "category": "values"
+  },
+  {
+    "question": "いい関係を長く続ける秘訣って何だと思いますか？",
+    "category": "values"
+  },
+  {
+    "question": "どんな人が記憶に長く残りますか？",
+    "category": "values"
+  },
+  {
+    "question": "今の自分をひと言で表すとしたら？",
+    "category": "values"
+  },
+  {
+    "question": "感情表現は得意な方ですか？",
+    "category": "values"
+  },
+  {
+    "question": "人生で絶対やってみたいことってありますか？",
+    "category": "values"
+  },
+  {
+    "question": "今日この場がどんな場になってくれたらいいと思いますか？",
+    "category": "values"
+  }
+]

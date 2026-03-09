@@ -1,0 +1,642 @@
+[
+  {
+    "question": "今年一番よかった決断を一つ挙げるとしたら？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年初めてやったことの中で一番印象に残ってるのは？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番笑った瞬間はいつ？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年自分を一番成長させた経験は？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番後悔していることがあるとしたら？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番誇らしかった瞬間を話してくれる？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年諦めたけど、かえってよかったと思うことがある？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番しんどかった時期はいつ？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年新しく知った自分の一面がある？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番頑張ったことは何？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番大きく変わったのは何？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年出会った人の中で一番印象に残った人は？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番印象に残った旅行や外出がある？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番よく聴いた曲やプレイリストは何？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年立てた目標の中で達成したものと達成できなかったものは？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番勇気を出した瞬間はいつ？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番よく食べた食べ物は何？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番感動した瞬間を話してくれる？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番お金をうまく使えたものと一番もったいなかったものは？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年新しくできた趣味や興味があるものがある？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番悩んだ問題は何？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番うれしかったニュースは？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番連絡した人は誰？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番おいしかった食事は何？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年読んだ本や観た映画の中で一番印象に残ってるのは？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年、自分について新しく気づいたことは何？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番予想外のことが起きたとしたら？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番反省したのは何？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番よかった買い物は？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年の自分に一言言ってあげるとしたら？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年自分を褒めてあげたいことがあるとしたら？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年の関係で一番印象に残った瞬間は？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番ストレスがかかったのは何？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番長く記憶に残りそうな一日を挙げるとしたら？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年自分を一番しんどくさせたものと踏みとどまらせてくれたものは？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番幸せだった何でもない瞬間は何？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年、自分自身に申し訳なく思うことがある？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年の生活に新しく入ってきたものの中で一番いいものは？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年を一言で表すと何？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年、一番よく乗り越えられたと感じた瞬間はいつ？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年一番感謝した人は誰？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年予想外だったけど、ありがたかったことがある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年自分を支えてくれたものは何？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、小さいことで幸せを感じた瞬間がある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年ありがとうって言いたかったけど言えなかった人がいる？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年しんどかったときにそばにいてくれた人は誰？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、自分に勇気をくれた言葉や文章がある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年一番感謝した経験を一つ挙げてみて",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、自分の体や健康に感謝したことがある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年偶然いいことがあった瞬間がある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、家族の中で特に感謝した人がいる？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年失敗したけど、かえってよかったと感じたことがある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年の日常の中で一番ありがたく感じたのは？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、自分を笑わせてくれたものは何がある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、誰かに助けてもらって感謝したことがある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年いい影響を与えてくれたコンテンツや本がある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、自分の周りの環境に感謝したことがある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、見知らぬ人からの親切が印象に残ってる？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、自分自身に感謝したことがある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、しんどい状況でも感謝したことがある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年の食事の中で特に感謝した瞬間は？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、自分がうまくやっていられた理由は何？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年そばにいてくれて感謝している友達がいる？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年また会ったり連絡がとれて感謝した縁がある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、仕事や勉強で感謝した瞬間がある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、自分を信じてくれた人がいる？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、休めたことに感謝した瞬間がある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年自分がうまくやったことの中で、自分自身に感謝したことは？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年一番感謝した季節や天気がある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年何かを学んで感謝した経験がある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年の生活の中でついスルーしてたけど、実は感謝すべきことがある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年しんどかったときに支えになった習慣やルーティンがある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、正直に言ってくれた人がいる？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年一番「ありがとう」って言われた状況はどんなとき？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年自分がいたことで誰かの役に立てた瞬間がある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、体調を崩さなかった日々に感謝したことがある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、趣味や余暇の中で感謝したことがある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年、部屋や家の空間に感謝を感じたことがある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今この場で感謝したい人がいれば言ってみて",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年を振り返ったとき、感謝できる瞬間はいくつあった？",
+    "category": "gratitude"
+  },
+  {
+    "question": "来年絶対やってみたいことを一つ言ってみて",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年やめたい習慣がある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年新しく作りたいルーティンがある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年学びたいことは何？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年もっと多くやりたいことは何？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年もっと減らしたいことは何？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年チャレンジしたい新しいことがある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年、関係の中で変えたい部分がある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年、健康のために変えたいことがある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年絶対行きたい場所がある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年、自分自身にもっと優しくしたい部分がある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年絶対読みたい本がある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年、お金に関する目標がある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年もっとよく会いたい人がいる？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年諦めずに続けたいことがある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年一番大切に集中したいことは一つ？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年勇気を出してやってみたいことがある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年連絡したい人がいる？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年、生活スタイルの中で変えたいことがある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年、自分だけのための時間をどう使いたい？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年絶対叶えたい小さな目標は何？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年もっと楽しみたいことは何？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年、話し方やコミュニケーションで変えたいことがある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年、もっと積極的にやりたいことがある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年の手帳に絶対書きたい目標は何？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年自分に一番必要な変化は何？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年、自分の周りの環境をどう変えたい？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年、止めたかったことを今度こそ本当に止められると思う？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年一番楽しみな計画は何？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年、自分をもっと好きになるために何を変えたい？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年絶対完成させたいプロジェクトや目標がある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年はどんな人になりたい？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年あまり気にしたくなくなることがある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年もっと勇気を出して言いたいことがある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年、新しい人と出会う機会を作りたい？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年の目標の中に去年と重なるものがある？今度はどう違うアプローチをする？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年、自分へのプレゼントとしたい経験がある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年はよく休みたい？それともバタバタ忙しく生きたい？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年、自分についてもっと知りたいことがある？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年の今頃、自分がどんな状態でいてほしい？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "来年の今頃、どんな姿でいてほしい？",
+    "category": "wish"
+  },
+  {
+    "question": "今年できなかったけど、来年こそやりたいことは？",
+    "category": "wish"
+  },
+  {
+    "question": "来年に一番望むことをたった一つ挙げるとしたら何？",
+    "category": "wish"
+  },
+  {
+    "question": "5年後の自分に望むことがあるとしたら？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、健康に関して望むことがある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、関係の中で望むことがある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、仕事や勉強で望むことは何？",
+    "category": "wish"
+  },
+  {
+    "question": "来年絶対叶えたい夢がある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年の自分の人生で一番幸せな場面を想像してみて",
+    "category": "wish"
+  },
+  {
+    "question": "来年、家族や大切な人に望むことがある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、自分にやってきてほしいラッキーは何？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、絶対解決されてほしい悩みがある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、自分をもっと幸せにしてくれるものは何？",
+    "category": "wish"
+  },
+  {
+    "question": "10年後の自分が今の自分にどんな言葉をかけてほしい？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、新たに始まってほしいことがある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、世界が少しでも変わってほしいことがある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、今よりもっと自由になりたいことがある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年はどんな感情をもっとよく感じたい？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、絶対行きたい旅行先がある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、自分が一番誇らしく思いそうなことは何？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、誰かと一緒に叶えたいことがある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、自分について知りたいことがある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、もっとゆったり生きたい？それとももっと頑張りたい？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、自分自身をどう扱ってあげたい？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、絶対作りたい思い出がある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、一番大切にしたい価値観は？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、勇気が出たとしたら一番最初に何をしたい？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、自分を幸せにしてくれる小さなことを話してくれる？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、いい人と出会えたらいいなって思う？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、自分にやってきてほしい変化は何？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、解決したい昔からの宿題がある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年の今頃、この場でどんな話をしたい？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、もっと正直になりたい部分がある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、お金では買えないもので望んでいることは？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、今の自分を見てどう感じていてほしい？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、自分の生活に新しく入ってきてほしいものがある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、絶対手放したくないものは何？",
+    "category": "wish"
+  },
+  {
+    "question": "新年に、自分に言ってあげたい言葉がある？",
+    "category": "wish"
+  },
+  {
+    "question": "来年、自分が一番笑っている状況はどんな場面がいい？",
+    "category": "wish"
+  },
+  {
+    "question": "今この瞬間、一番切実な願いは何？",
+    "category": "wish"
+  }
+]

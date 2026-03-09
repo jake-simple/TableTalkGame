@@ -1,0 +1,642 @@
+[
+  {
+    "question": "子どもが最近一番かわいかった瞬間は？",
+    "category": "parenting"
+  },
+  {
+    "question": "育児をしていて一番誇らしかったのはいつ？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが初めて「ママ」か「パパ」と呼んでくれたときどうだった？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが初めて歩いたときの瞬間を描写してみて",
+    "category": "parenting"
+  },
+  {
+    "question": "最近子どもが一番好きな遊びって何？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが最近言葉や行動で笑わせてくれたことって何？",
+    "category": "parenting"
+  },
+  {
+    "question": "教えたことで一番早くマネしたものってある？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもの最近の成長の中で一番驚いたことって何？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもがどんな感情を表現するとき一番かわいい？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもを寝かしつけるときの自分なりのルーティンってある？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが一番好きなおもちゃや物ってある？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもをあやすのに一番効く方法って何？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもと遊ぶとき一番楽しい遊びって何？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが最近よくするかわいい行動って何？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが初めて笑ったときのこと覚えてる？そのときどんな気分だった？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもを初めて抱いたときどんな気持ちだった？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもとの日常で一番穏やかだった瞬間は？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが体調を崩したとき一番つらかった経験は？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもの名前を付けたストーリーってある？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが初めて食べ物を口にしたときの反応はどうだった？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが初めて保育園や幼稚園に行った日はどうだった？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもから学んだことで一番意外だったのって何？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが予想外の瞬間に感動させてくれたことってある？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもと一緒に撮った写真で一番好きな一枚は？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが急に成長したなと驚いたことってある？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもと一緒にした初めての旅行はどうだった？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが初めてプールや海に行ったときの反応は？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもの初めての誕生日はどう過ごした？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが初めて同い年の子と遊んだときどうだった？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもを寝かしつけていたら自分が先に寝てしまったことってある？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもと自撮りするとき自分なりのポーズってある？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもに作ってあげたい料理ってある？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもと一緒に歌う歌で一番好きなのって何？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが初めて自分で本を開いたときどうだった？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもの初めてのクリスマスやお正月のエピソードってある？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもと一緒に乗り物に乗ったときのエピソードってある？",
+    "category": "parenting"
+  },
+  {
+    "question": "育児をしていて新しく知ったことで一番驚いたのって何？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが初めて「いや」と言ったときどんな気分だった？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもに申し訳なかった瞬間ってある？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもが大きくなったら絶対教えてあげたいことが一つあるとしたら？",
+    "category": "parenting"
+  },
+  {
+    "question": "子どもができてから配偶者の新たに発見した魅力ってある？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "配偶者が育児している姿を見て感動したことってある？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育児が原因で夫婦の間で一番大きく揉めたことって何？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "子どもができてから夫婦の会話のテーマはどう変わった？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "配偶者の育児スタイルが自分と違ったことってある？どうやって合わせた？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育児の分担について正直に話し合ったことってある？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "子どもができてからデートはどうやって続けてる？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "配偶者が子どもをお世話する姿で一番印象に残っている場面は？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育児しながら配偶者をまた好きになった瞬間ってある？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "子どもができてから夫婦で一番息が合っていることって何？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "子どもがいなかった頃と比べて今の夫婦はより近くなったと思う？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "配偶者と子どもの教育方針について意見が合わなかったことってある？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育児中に配偶者が自分に物足りなさを感じていそうな瞬間ってある？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "配偶者と一緒に子どものためにした決断で一番誇らしいのって何？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "子どもの前で夫婦喧嘩をしたことってある？そのときどんな気持ちだった？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育児していて配偶者に申し訳なかった瞬間ってある？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "子どもを育てていて配偶者のどんなところを真似したくなった？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "私たち夫婦だけの育児の方針ってある？あるとしたら何？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "配偶者との育児チームワークに点数をつけるとしたら何点？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "子どもができてから配偶者に感謝していることって何？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育児しながら配偶者と一緒に笑った最近のエピソードは？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "子どものせいで夫婦だけの時間が減ったときどうやって解決してる？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "配偶者が疲れたり辛そうなとき自分はどうフォローしてる？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育児していて夫婦として一緒に成長した部分があるとしたら？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "子どもが寝た後、二人で主に何をしてる？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "配偶者と子どもについて意見が違ったときどうやって話し合った？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育児中に配偶者の存在が一番頼もしかった瞬間は？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "子どもができてから夫婦に新しくできたルーティンってある？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "配偶者と一緒に子どもを育てていて一番やりがいを感じた瞬間は？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育児していて夫婦の間にできた隠語や表現ってある？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "子どもが夫婦関係にもたらした変化で一番ポジティブなことって何？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "配偶者と育児に対する価値観が似ているなと感じた瞬間は？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "子どもができてからお互いについて新しく知ったことってある？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育児していて夫婦の間でより大切になったものがあるとしたら？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "子どもが私たちをより強くしてくれると感じてる？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "配偶者と一緒に子どもを育てることがどういう意味か考えたことってある？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育児中に配偶者に言いたいことってある？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "子どもができてから配偶者を見る目線はどう変わった？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "私たち夫婦が子どもに見せたい姿ってある？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育児していて配偶者がしてくれたことで今でも感謝していることを一つ挙げるとしたら？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "正直育児が辛すぎて逃げ出したくなったことってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児中に一番体力が限界だった瞬間は？",
+    "category": "hardships"
+  },
+  {
+    "question": "子どもが夜中に何度も起きてしまった一番つらかった日は？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児していて自分の時間がなくてつらかったことってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "子どもに対して感情をコントロールできなかった瞬間ってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "親になってから自分個人としてのアイデンティティが揺らいだことってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児と仕事のバランスを取るのが一番難しいことって何？",
+    "category": "hardships"
+  },
+  {
+    "question": "子どもが体調を崩したとき何もしてあげられない無力感を感じたことってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児していて一番孤独だった瞬間はいつ？",
+    "category": "hardships"
+  },
+  {
+    "question": "親じゃなく自分に戻りたいと思った瞬間ってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児中に落ち込んだり無気力になったことってある？どうやって乗り越えた？",
+    "category": "hardships"
+  },
+  {
+    "question": "子どもに怒鳴ったり怒ってしまったときどんな気持ちだった？",
+    "category": "hardships"
+  },
+  {
+    "question": "睡眠不足で一番つらかった時期はいつ？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児のために諦めたことで一番惜しいのって何？",
+    "category": "hardships"
+  },
+  {
+    "question": "親としてちゃんとできているのか不安になったことってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児中に配偶者に物足りなさを感じたのに言えなかったことってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "子どものことで周りの人と衝突したことってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "一番つらかった育児の時期をどうやって乗り越えた？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児しながら自分の夢や目標を一時手放したことってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "子どもがどれだけあやしても泣き止まなかったときどんな気持ちだった？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児のストレスをどうやって発散してる？",
+    "category": "hardships"
+  },
+  {
+    "question": "子どもができてから体調が悪くなったと感じたことってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児中に自分自身に失望した瞬間ってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "周りからの育児への干渉やアドバイスがプレッシャーになったことってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児中に配偶者に言えずに一人で抱え込んだ感情ってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "子育てが思っていたよりずっと大変だと感じた瞬間は？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児初心者のころ一番戸惑った瞬間は？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児していて一番我慢している感情って何？",
+    "category": "hardships"
+  },
+  {
+    "question": "子どもが体調を崩して病院へ行くとき一番怖かったことってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児のせいで自分の健康を後回しにしたことってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "子どもに申し訳ないけど仕方がなかった状況ってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児をしていて経済的なプレッシャーを一番大きく感じた瞬間は？",
+    "category": "hardships"
+  },
+  {
+    "question": "親として怖いと思う状況を挙げるとしたら何？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児によって社会的に孤立したような感じがしたことってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "子育てをしていて自分の短所がより表に出てくると感じたことってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児中に一番感情コントロールができなかった瞬間は？そのときどうした？",
+    "category": "hardships"
+  },
+  {
+    "question": "育児中に一人じゃなければよかったと思った瞬間ってある？",
+    "category": "hardships"
+  },
+  {
+    "question": "子どもが大きくなるにつれて心配が増えた？それとも減った？",
+    "category": "hardships"
+  },
+  {
+    "question": "今の育児で一番つらい部分を正直に言ってみて",
+    "category": "hardships"
+  },
+  {
+    "question": "育児していて自分を一番苦しめている考えや感情って何？",
+    "category": "hardships"
+  },
+  {
+    "question": "子どもが生まれて一番感謝していることを一つ挙げるとしたら？",
+    "category": "gratitude"
+  },
+  {
+    "question": "配偶者に育児していて一番感謝した瞬間は？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どものおかげで新しく気づいた大切なものってある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもが教えてくれた人生の教訓ってある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "育児していて両親への感謝の気持ちが新たに生まれたものってある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもがいて幸せだと感じた一番最近の瞬間は？",
+    "category": "gratitude"
+  },
+  {
+    "question": "配偶者が子どものためにしてくれたことで一番感謝しているのって何？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもを育てていて人生の意味が変わった？",
+    "category": "gratitude"
+  },
+  {
+    "question": "周りで育児を助けてくれた人の中で一番感謝している人は？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもが笑ったとき自分はどんな気持ちになるか表現してみて",
+    "category": "gratitude"
+  },
+  {
+    "question": "育児していて自分が成長したと感じる部分は？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもの一言が自分の一日を変えてくれたことってある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "配偶者と子どもを育てていてより感謝するようになった配偶者の姿は？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもがいてより一生懸命生きるようになったと感じてる？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもに抱きしめてもらったときに感じる感情を表現してみて",
+    "category": "gratitude"
+  },
+  {
+    "question": "育児していて世界がより美しく見えた瞬間ってある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どものおかげで新しく経験できたことで感謝していることって何？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもを育てていて一番大きなギフトだと感じた瞬間は？",
+    "category": "gratitude"
+  },
+  {
+    "question": "配偶者に今日すぐ「ありがとう」と伝えたいことってある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもが初めて自分をぎゅっと抱きしめてくれたときどんな気持ちだった？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どものおかげで諦めずにいられるようになったものってある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "育児していて生活のペースが変わったことがかえって感謝できる気持ちになったことってある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもが寝ている顔を見るときどんな気持ちになる？",
+    "category": "gratitude"
+  },
+  {
+    "question": "配偶者と一緒に育児をしていてより良かったことって何？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもがいてより勇気が出るようになった部分ってある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもを産んでから一番感謝するようになった自分の変化って何？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもが初めて「好き」と言ってくれたときどうだった？",
+    "category": "gratitude"
+  },
+  {
+    "question": "育児しながら配偶者を見て「一緒にいてくれて本当に良かった」と感じた瞬間は？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもが教えてくれた一番大切な価値って何？",
+    "category": "gratitude"
+  },
+  {
+    "question": "育児のおかげでより深くなった関係ってある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもが何でもないことで喜んでいるとき自分はどんな気持ちになる？",
+    "category": "gratitude"
+  },
+  {
+    "question": "親になってから一番感謝していることを一つ挙げると？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子育てしていて一番やりがいのあった瞬間を最近の記憶から言ってみて",
+    "category": "gratitude"
+  },
+  {
+    "question": "配偶者に子どものおかげで生まれた感謝ってある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもが存在しているだけで十分だと感じた瞬間は？",
+    "category": "gratitude"
+  },
+  {
+    "question": "育児中つらかったけど、過ぎてから感謝するようになった経験ってある？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子どもと配偶者、今この家族が自分の人生でどういう意味を持ってる？",
+    "category": "gratitude"
+  },
+  {
+    "question": "親として今のこの時間がどれほど大切か実感してる？",
+    "category": "gratitude"
+  },
+  {
+    "question": "子育てをしていて一番感謝しているのって何？",
+    "category": "gratitude"
+  },
+  {
+    "question": "配偶者に「ありがとう」と言ったのは最後にいつだった？",
+    "category": "gratitude"
+  }
+]

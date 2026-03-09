@@ -1,0 +1,642 @@
+[
+  {
+    "question": "旅行に行くとき、計画派？それとも行き当たりばったり派？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "一人旅と一緒に行く旅、どっちが好き？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "都市旅行が好き？自然の旅行が好き？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行のとき、荷物を少なめにする派？たくさん持っていく派？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "飛行機の窓側席と通路側席、どっちが好き？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中は公共交通機関派？レンタカー派？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "短くて頻繁な旅行と、長くてたまにの旅行、どっちのスタイル？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "観光地よりローカルな街をぶらぶらするのが好きな方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中、現地の食べ物に挑戦する派？安全なものを選ぶ派？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "ホテル派？Airbnb派？ゲストハウス派？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中、写真をたくさん撮る方？どんな写真をよく撮る？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中にSNSをリアルタイムで投稿する派？帰ってから投稿する派？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中、宿でのんびりする時間が必要な方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "スーツケース派？バックパック派？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "空港には何時間前に着く方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行先で朝早く起きてあちこち回る方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行の計画を立てるとき、まずグルメリストを作る方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中に本やポッドキャストを楽しむ方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行用のプレイリストを別に作る方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "飛行機の中では主に何をして過ごす？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "海外旅行で日本食が恋しくなる方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行先で博物館や美術館に必ず立ち寄る方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中、ショッピングをよく楽しむ方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行先で現地の人のおすすめと有名観光地、どっちを先に行く？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行から帰ってすぐ次の旅行を計画する方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中にWi-Fiがないと不安になる方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行先でお昼寝する方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "機内食は好き？どのメニューを選ぶ方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中も運動を続ける方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行先で現地語の挨拶くらいは覚えていく方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "夜景を見に行くのが好き？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行日記や記録をつける方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "海と山、どっちへの旅行が好き？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行先で地元の市場や現地のスーパーを見て回るのが好き？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "両替は事前にしておく派？現地でする派？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行前夜、眠れる方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "空港の免税店を見て回るのが好き？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中に偶然見つけた場所の方が好きな方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行が終わったらすぐ写真を整理する方？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行先で見たい日の出と日の入り、どっちが好き？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "今まで行った旅行先の中で一番よかった場所はどこ？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中に一番焦ったエピソードがある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行で出会った人の中で一番印象に残ってる人はいる？",
+    "category": "memories"
+  },
+  {
+    "question": "道に迷ったことで、かえっていい経験になったことある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中に食べて一番衝撃的だったものは何？",
+    "category": "memories"
+  },
+  {
+    "question": "一人旅したことある？どうだった？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中に一番感動した風景があるとしたら？",
+    "category": "memories"
+  },
+  {
+    "question": "飛行機で起きた面白いエピソードがある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行の失敗談があれば一つ聞かせてくれる？",
+    "category": "memories"
+  },
+  {
+    "question": "また行きたい旅行先がある？理由は？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中に言葉が通じなくて苦労したことある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中にじーんときた瞬間がある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行から帰ってきてから日常が変わった経験がある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行で経験した一番面白いハプニングは何？",
+    "category": "memories"
+  },
+  {
+    "question": "一番印象に残った宿の体験がある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中に天気のせいで計画が全部変わったことある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行先で一番おいしかった食べ物は何？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中に写真に残せなくて惜しかった瞬間がある？",
+    "category": "memories"
+  },
+  {
+    "question": "初めての海外旅行はどこだった？どんな思い出がある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中に偶然お祭りやイベントに参加したことある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行で失くしたものがある？どうなった？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中に交通機関がキャンセルや遅延になって苦労したことある？",
+    "category": "memories"
+  },
+  {
+    "question": "一番印象に残った日の出や日の入りの体験がある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中に現地の文化にびっくりしたことある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行で作った一番大切な思い出は何？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中で一番大変だった移動の体験は何？",
+    "category": "memories"
+  },
+  {
+    "question": "空港で印象に残るエピソードがある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中に思いがけない場所で知り合いに会ったことある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行で一番きれいだった海や湖がある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中に予約なしで行って痛い目にあったことある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行で一番変わった乗り物に乗ったことがある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中に早朝に出かけて見た景色がある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中に食べ物が原因でお腹を壊したことある？",
+    "category": "memories"
+  },
+  {
+    "question": "家族と行った旅行で一番印象に残ってるのは何？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行で初めて挑戦したアクティビティがある？",
+    "category": "memories"
+  },
+  {
+    "question": "計画になかったのに即興で行った場所で一番よかったのはどこ？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行で出会った動物とのエピソードがある？",
+    "category": "memories"
+  },
+  {
+    "question": "雨の日の旅行で印象に残ってる瞬間がある？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中に現地の人の家に招待されたり、ホームステイしたりしたことある？",
+    "category": "memories"
+  },
+  {
+    "question": "人生で一番長く心に残り続けるであろう旅の風景は何？",
+    "category": "memories"
+  },
+  {
+    "question": "今の旅行で一番よかった瞬間は何？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今日一番おいしかったものは何？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今回の旅行で思ったより良かったことがある？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今日撮った写真の中で一番気に入ってるのはどれ？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今この瞬間感じてる気持ちを一言で表すと？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今回の旅行で一番記憶に残りそうな瞬間は何？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今日一番印象的だった場所はどこ？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今回の旅行で思ったよりイマイチだったことがある？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今日一日で一番笑えた瞬間は何？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今の旅行を一言で表すとしたら？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今回の旅行で一番大変だった瞬間がある？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今日一番感動したことがある？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今回の旅行が終わって一番恋しくなりそうなのは何？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今の旅行でまだできてなくて残念なことがある？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今日新しく知ったことで面白かったことがある？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今の旅行で一番楽しかった瞬間はどこで？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今日この瞬間、そばにいてくれて一番感謝してる人は誰？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今回の旅行で一番よかった選択は何？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今日歩き回って一番印象的だったものは何？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今の旅行先でまた来たいと思う場所がある？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今回の旅行で期待してたことの中で一番期待通りだったのは何？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今日の旅行中で一番穏やかだった瞬間はいつ？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今の旅行で一番意外だったことは何？",
+    "category": "thisNow"
+  },
+  {
+    "question": "この旅行を一緒にして、相手の新しい一面に気づいたことがある？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今日一番食べたいものは何？まだ食べてないなら？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今この瞬間、家で一番恋しいものがある？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今回の旅行が自分にとってどんな意味になりそう？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今日一番エネルギーに満ち溢れてた瞬間はいつ？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今の旅行を色で表すとしたら何色？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今回の旅行で一番大きく笑った瞬間がある？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今日旅行しながら一番気になったことは何？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今この瞬間、誰かに連絡したい人がいる？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今回の旅行で帰ってから絶対やってみたくなったことがある？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今日の旅行中で一番チャレンジングだった瞬間がある？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今の旅行先の雰囲気を一文で表してみて",
+    "category": "thisNow"
+  },
+  {
+    "question": "今回の旅行で初めてやったことの中で一番よかったのは何？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今この瞬間が終わってほしくない理由がある？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今日旅行して一番幸せだった具体的な瞬間は何？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今回の旅行で自分について新しく気づいたことがある？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今の旅行に星をつけるとしたら何点？理由は？",
+    "category": "thisNow"
+  },
+  {
+    "question": "死ぬまでに絶対行ってみたい旅行先がある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "いつかやってみたい旅のスタイルがある？クルーズ、キャンピングカーとか？",
+    "category": "bucketList"
+  },
+  {
+    "question": "一番行ってみたい国はどこ？理由は？",
+    "category": "bucketList"
+  },
+  {
+    "question": "世界のどこかで1か月暮らすとしたらどこがいい？",
+    "category": "bucketList"
+  },
+  {
+    "question": "オーロラを直接見てみたいと思ったことある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "世界一周するとしたら絶対入れたい都市3つはどこ？",
+    "category": "bucketList"
+  },
+  {
+    "question": "いつか絶対乗ってみたい乗り物がある？オリエント急行、クルーズ船など？",
+    "category": "bucketList"
+  },
+  {
+    "question": "行ってみたい世界遺産の自然がある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "絶対食べてみたい他の国の料理がある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "いつかぜひ行ってみたい特別なお祭りがある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "スカイダイビングやバンジージャンプみたいなエクストリームな旅行をしてみたい？",
+    "category": "bucketList"
+  },
+  {
+    "question": "砂漠を旅してみたいと思ったことがある？どの砂漠？",
+    "category": "bucketList"
+  },
+  {
+    "question": "南極や北極みたいな極地に行ってみたい？",
+    "category": "bucketList"
+  },
+  {
+    "question": "アマゾンやジャングルみたいな場所を探検してみたいと思ったことある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "世界の有名な美術館や博物館の中で絶対行ってみたい場所がある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "海の中の世界を直接見てみたいと思ったことある？スキューバダイビングなど？",
+    "category": "bucketList"
+  },
+  {
+    "question": "有名な山に登るバケットリストがある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "特定の国で現地の人のように6ヶ月以上暮らしてみたい場所がある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "世界で一番美しい夜景が見られる場所はどこだと思う？",
+    "category": "bucketList"
+  },
+  {
+    "question": "カミーノ・デ・サンティアゴみたいな長い旅のウォーキングをしてみたい？",
+    "category": "bucketList"
+  },
+  {
+    "question": "いつか行ってみたい島がある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "ある国の料理を現地で習ってみたい場所がある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "旅行しながらボランティア活動をしてみたいと思ったことある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "電車でヨーロッパやアジアを旅してみたい？",
+    "category": "bucketList"
+  },
+  {
+    "question": "絶対行ってみたい世界文化遺産がある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "釣り旅行や自然の中での旅行を夢見たことある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "サントリーニ島やモルディブみたいに夢見てた旅行先がある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "世界の有名なナイトマーケットを巡る旅がしてみたい？",
+    "category": "bucketList"
+  },
+  {
+    "question": "特定のスポーツを習うためにその国に旅行するとしたらどこに行きたい？",
+    "category": "bucketList"
+  },
+  {
+    "question": "東ヨーロッパや中央アジアみたいなあまり行かない旅行先に行ってみたい？",
+    "category": "bucketList"
+  },
+  {
+    "question": "いつか宇宙旅行ができるようになったら絶対行ってみたい？",
+    "category": "bucketList"
+  },
+  {
+    "question": "誰かと絶対一緒に行きたい旅行先がある？どこ？",
+    "category": "bucketList"
+  },
+  {
+    "question": "長期のバックパッカー旅行に挑戦してみたいと思う？",
+    "category": "bucketList"
+  },
+  {
+    "question": "アフリカのサファリ旅行をしてみたい？",
+    "category": "bucketList"
+  },
+  {
+    "question": "絶対住んでみたい国や都市がある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "川や湖でカヤックやカヌーに乗る旅がしてみたい？",
+    "category": "bucketList"
+  },
+  {
+    "question": "アメリカ横断や日本縦断みたいな長距離ドライブを夢見たことある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "特別な日を記念するために行きたい旅行先がある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "今すぐは無理でもいつか絶対実現したい旅行の計画がある？",
+    "category": "bucketList"
+  },
+  {
+    "question": "旅行バケットリストの中で一番近い未来に実現しそうなのは何？",
+    "category": "bucketList"
+  }
+]

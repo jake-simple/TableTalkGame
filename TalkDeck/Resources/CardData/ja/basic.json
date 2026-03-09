@@ -1,0 +1,962 @@
+[
+  {
+    "question": "誰も見ていないときこっそり楽しむguilty pleasureってある？",
+    "category": "vibe"
+  },
+  {
+    "question": "食べ物についての一番変わったこだわりは？",
+    "category": "vibe"
+  },
+  {
+    "question": "みんなは嫌いだけど自分だけ好きなものは？",
+    "category": "vibe"
+  },
+  {
+    "question": "絶対に飽きない曲を一曲挙げるなら？",
+    "category": "vibe"
+  },
+  {
+    "question": "自分だけの変なルーティンってある？",
+    "category": "vibe"
+  },
+  {
+    "question": "一番好きな匂いは？",
+    "category": "vibe"
+  },
+  {
+    "question": "深夜3時に一人でこっそり食べるものは？",
+    "category": "vibe"
+  },
+  {
+    "question": "人に話したら驚かれる自分だけの趣味ってある？",
+    "category": "vibe"
+  },
+  {
+    "question": "一番長くハマったオタク活動は？",
+    "category": "vibe"
+  },
+  {
+    "question": "四季の中で一番好きな季節とその理由は？",
+    "category": "vibe"
+  },
+  {
+    "question": "ストレスを発散するときの自分なりの方法は？",
+    "category": "vibe"
+  },
+  {
+    "question": "カップ麺に必ず入れる自分だけの隠し食材は？",
+    "category": "vibe"
+  },
+  {
+    "question": "寝る前に必ずすることは？",
+    "category": "vibe"
+  },
+  {
+    "question": "一番好きな時間帯はいつ？その理由は？",
+    "category": "vibe"
+  },
+  {
+    "question": "最近一番よく聴いている曲は？",
+    "category": "vibe"
+  },
+  {
+    "question": "スマホで一番よく使うアプリ3つは？",
+    "category": "vibe"
+  },
+  {
+    "question": "カフェに行ったらいつも頼むメニューってある？",
+    "category": "vibe"
+  },
+  {
+    "question": "朝型？夜型？",
+    "category": "vibe"
+  },
+  {
+    "question": "YouTubeで一度見始めると止まらないジャンルは？",
+    "category": "vibe"
+  },
+  {
+    "question": "コンビニで必ず買うものは？",
+    "category": "vibe"
+  },
+  {
+    "question": "服を買うとき一番重視するのは？",
+    "category": "vibe"
+  },
+  {
+    "question": "SNSではどんなコンテンツをよく見てる？",
+    "category": "vibe"
+  },
+  {
+    "question": "旅行に行ったらホテル派？Airbnb派？",
+    "category": "vibe"
+  },
+  {
+    "question": "雨の日に一番したいことは？",
+    "category": "vibe"
+  },
+  {
+    "question": "最近ハマっていることってある？",
+    "category": "vibe"
+  },
+  {
+    "question": "一人でいるとき一番よくする行動は？",
+    "category": "vibe"
+  },
+  {
+    "question": "人生最高の映画を一本選ぶなら？",
+    "category": "vibe"
+  },
+  {
+    "question": "今すぐ食べたいものは？",
+    "category": "vibe"
+  },
+  {
+    "question": "子どものころ好きだったけど今もこっそり好きなものは？",
+    "category": "vibe"
+  },
+  {
+    "question": "自分が思う最高の週末の過ごし方は？",
+    "category": "vibe"
+  },
+  {
+    "question": "家の中で一番好きな場所は？",
+    "category": "vibe"
+  },
+  {
+    "question": "タクシー派？公共交通機関派？",
+    "category": "vibe"
+  },
+  {
+    "question": "よく食べる夜食メニューってある？",
+    "category": "vibe"
+  },
+  {
+    "question": "小さな幸せを一つ教えて？",
+    "category": "vibe"
+  },
+  {
+    "question": "最後に検索したのは何？",
+    "category": "vibe"
+  },
+  {
+    "question": "人生で絶対に手放せないものは？",
+    "category": "vibe"
+  },
+  {
+    "question": "自分を動物に例えると何だと思う？",
+    "category": "vibe"
+  },
+  {
+    "question": "今バッグの中に何が入ってる？",
+    "category": "vibe"
+  },
+  {
+    "question": "ご飯食べるとき動画流しながら食べる派？",
+    "category": "vibe"
+  },
+  {
+    "question": "好きな色ってある？理由は？",
+    "category": "vibe"
+  },
+  {
+    "question": "旅行に行くとき絶対持っていくものは？",
+    "category": "vibe"
+  },
+  {
+    "question": "最近カートに入れたまま悩んでいるものは？",
+    "category": "vibe"
+  },
+  {
+    "question": "一番よく行く地元のお気に入りのお店ってある？",
+    "category": "vibe"
+  },
+  {
+    "question": "運動は好き？好きな運動は？",
+    "category": "vibe"
+  },
+  {
+    "question": "冬の温かい飲み物 vs 夏の冷たい飲み物、どっちが好き？",
+    "category": "vibe"
+  },
+  {
+    "question": "最近笑えた動画やミームってある？",
+    "category": "vibe"
+  },
+  {
+    "question": "一ヶ月で一番お金を使う場所は？",
+    "category": "vibe"
+  },
+  {
+    "question": "インスタのフィード vs リール、どっちをよく見てる？",
+    "category": "vibe"
+  },
+  {
+    "question": "料理は好き？得意なメニューがあれば？",
+    "category": "vibe"
+  },
+  {
+    "question": "自分だけ知っておきたいお気に入りのお店ってある？",
+    "category": "vibe"
+  },
+  {
+    "question": "寝る前にベッドでスマホをどれくらい見てる？",
+    "category": "vibe"
+  },
+  {
+    "question": "好きな香水や香りってある？",
+    "category": "vibe"
+  },
+  {
+    "question": "最近影響を受けたコンテンツってある？",
+    "category": "vibe"
+  },
+  {
+    "question": "プレイリストに意外なジャンルが入ってたりする？",
+    "category": "vibe"
+  },
+  {
+    "question": "週末は朝寝坊する派？早起きする派？",
+    "category": "vibe"
+  },
+  {
+    "question": "部屋のインテリアに興味ある？好きなスタイルは？",
+    "category": "vibe"
+  },
+  {
+    "question": "出前頼むときレビューをしっかり読む派？",
+    "category": "vibe"
+  },
+  {
+    "question": "一種類の食べ物だけ一生食べるとしたら？",
+    "category": "vibe"
+  },
+  {
+    "question": "最近新しく始めた趣味ってある？",
+    "category": "vibe"
+  },
+  {
+    "question": "コーヒーなしでは生きていけないタイプ？",
+    "category": "vibe"
+  },
+  {
+    "question": "一日透明人間になれたら何をする？",
+    "category": "whatIf"
+  },
+  {
+    "question": "世界中どこへでも瞬間移動できたらどこへ行く？",
+    "category": "whatIf"
+  },
+  {
+    "question": "一つだけ超能力を持てるとしたら？",
+    "category": "whatIf"
+  },
+  {
+    "question": "過去に戻れるとしたらどの時代へ行きたい？",
+    "category": "whatIf"
+  },
+  {
+    "question": "無人島に3つだけ持っていけるとしたら？",
+    "category": "whatIf"
+  },
+  {
+    "question": "宝くじに当たったら一番最初にすることは？",
+    "category": "whatIf"
+  },
+  {
+    "question": "明日が地球最後の日なら今日何をする？",
+    "category": "whatIf"
+  },
+  {
+    "question": "動物と話せたら最初に話しかける動物は？",
+    "category": "whatIf"
+  },
+  {
+    "question": "別の職業に就けるとしたら何をしたい？",
+    "category": "whatIf"
+  },
+  {
+    "question": "映画のキャラクターとして生きれるなら誰になりたい？",
+    "category": "whatIf"
+  },
+  {
+    "question": "自分のお店を開くとしたらどんなお店？",
+    "category": "whatIf"
+  },
+  {
+    "question": "宇宙人に会ったら最初に見せたいものは？",
+    "category": "whatIf"
+  },
+  {
+    "question": "1年間のサバティカルが与えられたら何をする？",
+    "category": "whatIf"
+  },
+  {
+    "question": "前世の自分はどんな人だったと思う？",
+    "category": "whatIf"
+  },
+  {
+    "question": "100年後の未来で一番見てみたいものは？",
+    "category": "whatIf"
+  },
+  {
+    "question": "他の国で1年間暮らせるとしたらどこを選ぶ？",
+    "category": "whatIf"
+  },
+  {
+    "question": "もし有名人になるとしたらどんな分野だと思う？",
+    "category": "whatIf"
+  },
+  {
+    "question": "一日だけ別の人になれるとしたら誰になりたい？",
+    "category": "whatIf"
+  },
+  {
+    "question": "時間を止められたらその時間に何をする？",
+    "category": "whatIf"
+  },
+  {
+    "question": "今すぐ新しい言語を一つ完璧に話せるようになるとしたら？",
+    "category": "whatIf"
+  },
+  {
+    "question": "過去の自分にメッセージを送れるとしたら何て書く？",
+    "category": "whatIf"
+  },
+  {
+    "question": "夢をコントロールできるとしたらどんな夢を見たい？",
+    "category": "whatIf"
+  },
+  {
+    "question": "自分だけの島ができたらどう作る？",
+    "category": "whatIf"
+  },
+  {
+    "question": "歴史上の人物一人と夕食を食べるとしたら誰と？",
+    "category": "whatIf"
+  },
+  {
+    "question": "一生一つの趣味だけできるとしたら何を選ぶ？",
+    "category": "whatIf"
+  },
+  {
+    "question": "もし100歳まで生きるとしたら絶対にやりたいことは？",
+    "category": "whatIf"
+  },
+  {
+    "question": "自分が作った法律が一つできるとしたらどんな法律？",
+    "category": "whatIf"
+  },
+  {
+    "question": "大学1年生に戻れたら何を変える？",
+    "category": "whatIf"
+  },
+  {
+    "question": "突然10億円ができたら今の仕事を続ける？",
+    "category": "whatIf"
+  },
+  {
+    "question": "どんな動物にでも変身できるとしたら何になりたい？",
+    "category": "whatIf"
+  },
+  {
+    "question": "もしYouTuberになるとしたらどんなチャンネルを運営する？",
+    "category": "whatIf"
+  },
+  {
+    "question": "一つの記憶を永遠に持ち続けられるとしたらどの記憶を選ぶ？",
+    "category": "whatIf"
+  },
+  {
+    "question": "世界中どこにでも家を建てられるとしたらどこに建てたい？",
+    "category": "whatIf"
+  },
+  {
+    "question": "もし一つの食べ物を無限に食べられるとしたら？",
+    "category": "whatIf"
+  },
+  {
+    "question": "10年前に戻ってたった一日だけ過ごすとしたら何をする？",
+    "category": "whatIf"
+  },
+  {
+    "question": "映画監督になるとしたらどんなジャンルの映画を作りたい？",
+    "category": "whatIf"
+  },
+  {
+    "question": "もし明日から一ヶ月仕事しなくていいとしたら？",
+    "category": "whatIf"
+  },
+  {
+    "question": "地球じゃない別の星に住めるとしたら行く？",
+    "category": "whatIf"
+  },
+  {
+    "question": "突然テレパシーが使えるようになったら嬉しい？それとも大変？",
+    "category": "whatIf"
+  },
+  {
+    "question": "人生をゲームみたいにリセットできるとしたらする？",
+    "category": "whatIf"
+  },
+  {
+    "question": "空を飛べるとしたら最初に行ってみたい場所は？",
+    "category": "whatIf"
+  },
+  {
+    "question": "もし平行世界の自分がいるとしたらどんな人生を歩んでると思う？",
+    "category": "whatIf"
+  },
+  {
+    "question": "誰の自伝でも読めるとしたら誰のを読む？",
+    "category": "whatIf"
+  },
+  {
+    "question": "AIが自分の完璧な一日を設計してくれたら従う？",
+    "category": "whatIf"
+  },
+  {
+    "question": "もし匂いを色として見えるとしたら世界はどんな感じだと思う？",
+    "category": "whatIf"
+  },
+  {
+    "question": "自分が書いた本がベストセラーになるとしたらどんな内容？",
+    "category": "whatIf"
+  },
+  {
+    "question": "人生で一度だけ「巻き戻し」を使えるとしたらいつ使う？",
+    "category": "whatIf"
+  },
+  {
+    "question": "突然みんなが嘘をつけなくなったら世界はどうなると思う？",
+    "category": "whatIf"
+  },
+  {
+    "question": "1年間SNSを完全にやめられる？何が変わると思う？",
+    "category": "whatIf"
+  },
+  {
+    "question": "魔法で一つの才能を手に入れられるとしたら？",
+    "category": "whatIf"
+  },
+  {
+    "question": "未来の自分から手紙が届いたら何て書いてあると思う？",
+    "category": "whatIf"
+  },
+  {
+    "question": "ロボットが家事を全部やってくれたら残った時間に何をする？",
+    "category": "whatIf"
+  },
+  {
+    "question": "もしこの世界に自分だけが存在したら一日をどう過ごす？",
+    "category": "whatIf"
+  },
+  {
+    "question": "好きな漫画やアニメの世界に入れるとしたらどこへ？",
+    "category": "whatIf"
+  },
+  {
+    "question": "タイムカプセルに今何を入れたい？",
+    "category": "whatIf"
+  },
+  {
+    "question": "有名シェフが自分だけのために料理を作ってくれるとしたら何を頼む？",
+    "category": "whatIf"
+  },
+  {
+    "question": "もし動物が学校に通うとしたらどの動物がクラス委員になると思う？",
+    "category": "whatIf"
+  },
+  {
+    "question": "10年後の自分が今の自分を見たら何て言うと思う？",
+    "category": "whatIf"
+  },
+  {
+    "question": "世界の問題を一つ解決できるとしたら何を解決する？",
+    "category": "whatIf"
+  },
+  {
+    "question": "もし季節を一つなくせるとしたらどの季節？",
+    "category": "whatIf"
+  },
+  {
+    "question": "人生で一番勇気があった瞬間は？",
+    "category": "story"
+  },
+  {
+    "question": "一番大きな失敗から学んだことは？",
+    "category": "story"
+  },
+  {
+    "question": "自分の人生を変えた人がいるとしたら？",
+    "category": "story"
+  },
+  {
+    "question": "子どものころの夢と今の自分はどれくらい違う？",
+    "category": "story"
+  },
+  {
+    "question": "今年一番誇らしかった瞬間は？",
+    "category": "story"
+  },
+  {
+    "question": "自分を一番大きく成長させた経験は？",
+    "category": "story"
+  },
+  {
+    "question": "一番記憶に残っている褒め言葉は？",
+    "category": "story"
+  },
+  {
+    "question": "人生のターニングポイントになった出来事は？",
+    "category": "story"
+  },
+  {
+    "question": "一番記憶に残っている旅のエピソードってある？",
+    "category": "story"
+  },
+  {
+    "question": "最近一番大笑いした瞬間は？",
+    "category": "story"
+  },
+  {
+    "question": "生きてきて一番恥ずかしかったエピソードってある？",
+    "category": "story"
+  },
+  {
+    "question": "初めてお金を稼いだとき、どんな気分だった？",
+    "category": "story"
+  },
+  {
+    "question": "一番長く大切にしているものってある？",
+    "category": "story"
+  },
+  {
+    "question": "学生時代に一番記憶に残っている先生は？",
+    "category": "story"
+  },
+  {
+    "question": "友達との一番楽しかった思い出は？",
+    "category": "story"
+  },
+  {
+    "question": "人生で一番緊張した瞬間は？",
+    "category": "story"
+  },
+  {
+    "question": "最近新しく始めたことってある？",
+    "category": "story"
+  },
+  {
+    "question": "子どものころよくしていた遊びってある？",
+    "category": "story"
+  },
+  {
+    "question": "生きてきて一番感動した瞬間は？",
+    "category": "story"
+  },
+  {
+    "question": "一番無謀だったチャレンジってある？",
+    "category": "story"
+  },
+  {
+    "question": "最近誰かに感謝したことってある？",
+    "category": "story"
+  },
+  {
+    "question": "引っ越しで一番記憶に残っている町は？",
+    "category": "story"
+  },
+  {
+    "question": "初めて一人旅をした経験ってある？",
+    "category": "story"
+  },
+  {
+    "question": "一番記憶に残っている誕生日ってある？",
+    "category": "story"
+  },
+  {
+    "question": "生きてきて一番必死に走ったのはいつ？",
+    "category": "story"
+  },
+  {
+    "question": "偶然始めたのに人生に大きな影響を与えたものは？",
+    "category": "story"
+  },
+  {
+    "question": "一番おいしかった食べ物の記憶は？",
+    "category": "story"
+  },
+  {
+    "question": "初めて泣きそうになった映画やドラマは？",
+    "category": "story"
+  },
+  {
+    "question": "子どものころ家族との一番いい思い出は？",
+    "category": "story"
+  },
+  {
+    "question": "見知らぬ人からもらった予想外の親切は？",
+    "category": "story"
+  },
+  {
+    "question": "一番遅くまで起きていたのはいつ？",
+    "category": "story"
+  },
+  {
+    "question": "生きてきて一番怖かった経験は？",
+    "category": "story"
+  },
+  {
+    "question": "一番記憶に残っているコンサートや公演ってある？",
+    "category": "story"
+  },
+  {
+    "question": "最近新しい人と出会ったきっかけは？",
+    "category": "story"
+  },
+  {
+    "question": "人生で一番予想外のラッキーなことは？",
+    "category": "story"
+  },
+  {
+    "question": "子どものころ将来の夢として何を書いてた？",
+    "category": "story"
+  },
+  {
+    "question": "大きく体調を崩した経験ってある？",
+    "category": "story"
+  },
+  {
+    "question": "一番長く続けている習慣ってある？",
+    "category": "story"
+  },
+  {
+    "question": "生きてきて一番大きな決心をした瞬間は？",
+    "category": "story"
+  },
+  {
+    "question": "一番記憶に残っているお盆や年末年始のエピソードってある？",
+    "category": "story"
+  },
+  {
+    "question": "運命だと感じた偶然ってある？",
+    "category": "story"
+  },
+  {
+    "question": "他の人には分からない自分だけの達成ってある？",
+    "category": "story"
+  },
+  {
+    "question": "最近一番頑張っていることは？",
+    "category": "story"
+  },
+  {
+    "question": "生きてきて一番後悔している言葉ってある？",
+    "category": "story"
+  },
+  {
+    "question": "最近自分について新しく気づいたことは？",
+    "category": "story"
+  },
+  {
+    "question": "一番長く連絡を取り合っている友達はどうやって出会った？",
+    "category": "story"
+  },
+  {
+    "question": "人生で一番忙しかった時期はいつ？",
+    "category": "story"
+  },
+  {
+    "question": "最近試したことのない新しい食べ物ってある？",
+    "category": "story"
+  },
+  {
+    "question": "一番大切にしているもらったプレゼントは？",
+    "category": "story"
+  },
+  {
+    "question": "子どものころよく行っていた場所ってある？",
+    "category": "story"
+  },
+  {
+    "question": "生きてきて一番誇らしく人を助けた経験は？",
+    "category": "story"
+  },
+  {
+    "question": "最近心が温かくなった瞬間は？",
+    "category": "story"
+  },
+  {
+    "question": "一番記憶に残っている初対面ってある？",
+    "category": "story"
+  },
+  {
+    "question": "人生でタイミングが絶妙だった経験ってある？",
+    "category": "story"
+  },
+  {
+    "question": "自分を泣かせた曲ってある？",
+    "category": "story"
+  },
+  {
+    "question": "最近計画していなかったことがいい結果につながったことってある？",
+    "category": "story"
+  },
+  {
+    "question": "今まで受けたアドバイスの中で一番刺さったのは？",
+    "category": "story"
+  },
+  {
+    "question": "生きてきて一番長く待ったことは？",
+    "category": "story"
+  },
+  {
+    "question": "初めての職場やバイトの思い出は？",
+    "category": "story"
+  },
+  {
+    "question": "一番勇気を出して断った経験ってある？",
+    "category": "story"
+  },
+  {
+    "question": "5年前の自分に一言かけるとしたら？",
+    "category": "deep"
+  },
+  {
+    "question": "一番後悔している「やらなかったこと」は？",
+    "category": "deep"
+  },
+  {
+    "question": "10年後の自分に聞いてみたい質問は？",
+    "category": "deep"
+  },
+  {
+    "question": "生きてきて一番感謝している3つのことは？",
+    "category": "deep"
+  },
+  {
+    "question": "人生でもう一度戻りたい時期ってある？",
+    "category": "deep"
+  },
+  {
+    "question": "自分を一言で表すなら？",
+    "category": "deep"
+  },
+  {
+    "question": "自分が一番自信を持っている能力は？",
+    "category": "deep"
+  },
+  {
+    "question": "一番尊敬している人とその理由は？",
+    "category": "deep"
+  },
+  {
+    "question": "幸せの基準が以前と変わったと思う？",
+    "category": "deep"
+  },
+  {
+    "question": "年を重ねて一番大きく変わった価値観ってある？",
+    "category": "deep"
+  },
+  {
+    "question": "今の生活で一番満足している部分は？",
+    "category": "deep"
+  },
+  {
+    "question": "人があまり知らない自分の一面ってある？",
+    "category": "deep"
+  },
+  {
+    "question": "孤独を感じる瞬間ってある？",
+    "category": "deep"
+  },
+  {
+    "question": "人間関係で一番大切にしていることは？",
+    "category": "deep"
+  },
+  {
+    "question": "死ぬ前に絶対やってみたいことは？",
+    "category": "deep"
+  },
+  {
+    "question": "誰かに謝りたいことってある？",
+    "category": "deep"
+  },
+  {
+    "question": "成功の基準って何だと思う？",
+    "category": "deep"
+  },
+  {
+    "question": "今一番怖いことは？",
+    "category": "deep"
+  },
+  {
+    "question": "自分にとって「大人になる」ってどういう意味？",
+    "category": "deep"
+  },
+  {
+    "question": "生きてきて一番大きな教訓を与えてくれた出来事は？",
+    "category": "deep"
+  },
+  {
+    "question": "最近一番悩んでいることは？",
+    "category": "deep"
+  },
+  {
+    "question": "本当の友達ってどんな人だと思う？",
+    "category": "deep"
+  },
+  {
+    "question": "自分が人に与える第一印象はどんな感じだと思う？",
+    "category": "deep"
+  },
+  {
+    "question": "後悔なく生きていると感じてる？",
+    "category": "deep"
+  },
+  {
+    "question": "一番正直になりにくい感情は？",
+    "category": "deep"
+  },
+  {
+    "question": "今の自分を作った一番大きな経験は？",
+    "category": "deep"
+  },
+  {
+    "question": "お金では買えないもので一番大切なものは？",
+    "category": "deep"
+  },
+  {
+    "question": "自分なりの人生哲学ってある？",
+    "category": "deep"
+  },
+  {
+    "question": "人は変われると思う？",
+    "category": "deep"
+  },
+  {
+    "question": "一人の時間がなぜ必要だと感じる？",
+    "category": "deep"
+  },
+  {
+    "question": "一番弱くなる瞬間はいつ？",
+    "category": "deep"
+  },
+  {
+    "question": "今の生活で変えたいことが一つあるとしたら？",
+    "category": "deep"
+  },
+  {
+    "question": "誰かを失望させたと感じたことってある？",
+    "category": "deep"
+  },
+  {
+    "question": "生活の中で「もう十分」と感じる基準ってある？",
+    "category": "deep"
+  },
+  {
+    "question": "自分が一番よく感じる感情は？",
+    "category": "deep"
+  },
+  {
+    "question": "いい関係を続けるための秘訣って何だと思う？",
+    "category": "deep"
+  },
+  {
+    "question": "自分のことを一番よく知っているのは誰？",
+    "category": "deep"
+  },
+  {
+    "question": "生きてきて「これはダメだ」と線を引いた瞬間ってある？",
+    "category": "deep"
+  },
+  {
+    "question": "年を重ねるほど大切になるものって何だと思う？",
+    "category": "deep"
+  },
+  {
+    "question": "自己肯定感が下がる瞬間はいつ？",
+    "category": "deep"
+  },
+  {
+    "question": "幸せになるために手放さなければならなかったものってある？",
+    "category": "deep"
+  },
+  {
+    "question": "自分が亡くなった後、どんな人として記憶されたい？",
+    "category": "deep"
+  },
+  {
+    "question": "一番長く心に持ち続けている夢は？",
+    "category": "deep"
+  },
+  {
+    "question": "自分を苦しめる感情をどう扱ってる？",
+    "category": "deep"
+  },
+  {
+    "question": "関係で傷ついたときどうやって立ち直る？",
+    "category": "deep"
+  },
+  {
+    "question": "自分にとって自由ってどういう意味？",
+    "category": "deep"
+  },
+  {
+    "question": "嘘をつかなければならなかった瞬間ってある？なぜ？",
+    "category": "deep"
+  },
+  {
+    "question": "家族って自分にとってどういう意味？",
+    "category": "deep"
+  },
+  {
+    "question": "手放さなきゃいけないのにまだ手放せていないものってある？",
+    "category": "deep"
+  },
+  {
+    "question": "自分はリーダータイプ？フォロワータイプ？なぜそう思う？",
+    "category": "deep"
+  },
+  {
+    "question": "内面の自分と外から見える自分が違うと感じたことってある？",
+    "category": "deep"
+  },
+  {
+    "question": "無条件の愛って存在すると思う？",
+    "category": "deep"
+  },
+  {
+    "question": "今一番感謝している人に伝えたい言葉は？",
+    "category": "deep"
+  },
+  {
+    "question": "一番安心できる関係はどんな関係？",
+    "category": "deep"
+  },
+  {
+    "question": "結局、人生で一番大切なのは何だと思う？",
+    "category": "deep"
+  },
+  {
+    "question": "人の目を気にする方？",
+    "category": "deep"
+  },
+  {
+    "question": "今の悩みが1年後もまだ悩みだと思う？",
+    "category": "deep"
+  },
+  {
+    "question": "自分に勇気を与えてくれるものは何？",
+    "category": "deep"
+  },
+  {
+    "question": "弱い姿を見せるのがなぜ難しいと感じる？",
+    "category": "deep"
+  },
+  {
+    "question": "今の生活に点数をつけるとしたら何点？その理由は？",
+    "category": "deep"
+  }
+]

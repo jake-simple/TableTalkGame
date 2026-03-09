@@ -1,0 +1,962 @@
+[
+  {
+    "question": "今の気分を天気で表現したらどんな感じ？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今日一日の中で気分が良かった瞬間ってある？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今すぐ食べたいものって何？",
+    "category": "coolDown"
+  },
+  {
+    "question": "深呼吸してみて。今の体の状態はどんな感じ？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今朝起きたときどんな気分だった？",
+    "category": "coolDown"
+  },
+  {
+    "question": "最近よく見ているコンテンツってある？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今この瞬間一番必要なものって何？水？コーヒー？チョコ？",
+    "category": "coolDown"
+  },
+  {
+    "question": "最近笑えたことって何？",
+    "category": "coolDown"
+  },
+  {
+    "question": "私たちが初めて会ったときのことって覚えてる？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今、窓の外の風景はどんな感じ？",
+    "category": "coolDown"
+  },
+  {
+    "question": "好きな季節は何？なんで好きなの？",
+    "category": "coolDown"
+  },
+  {
+    "question": "最近聴いている曲でオススメのものってある？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今日はよく眠れた？",
+    "category": "coolDown"
+  },
+  {
+    "question": "ストレスを感じたとき自分なりの発散法って何？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今すぐどこでも行けるとしたらどこに行きたい？",
+    "category": "coolDown"
+  },
+  {
+    "question": "私たちが一緒に過ごした時間の中で一番くつろいでいたのはいつ？",
+    "category": "coolDown"
+  },
+  {
+    "question": "怒ったとき普通どうやって落ち着かせてる？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今の気持ちを色で表現したら何色？",
+    "category": "coolDown"
+  },
+  {
+    "question": "最近散歩したり外の空気を吸いに行ったことってある？",
+    "category": "coolDown"
+  },
+  {
+    "question": "子どものころ怒ったらどうしてた？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今一番会いたい人は誰？",
+    "category": "coolDown"
+  },
+  {
+    "question": "私に気軽に話してくれていいってわかってるよね？",
+    "category": "coolDown"
+  },
+  {
+    "question": "最近よく眠れてる？",
+    "category": "coolDown"
+  },
+  {
+    "question": "私たち二人が共通して好きなことを一つ言ってみて",
+    "category": "coolDown"
+  },
+  {
+    "question": "仲直りした後に何がしたい？",
+    "category": "coolDown"
+  },
+  {
+    "question": "この会話を始めたこと自体、すごいことだよって知ってる？",
+    "category": "coolDown"
+  },
+  {
+    "question": "私たちが一緒に笑った一番最近の記憶って何？",
+    "category": "coolDown"
+  },
+  {
+    "question": "感情が高ぶったとき少し時間が必要な方？",
+    "category": "coolDown"
+  },
+  {
+    "question": "お腹空いてない？何か食べようか？",
+    "category": "coolDown"
+  },
+  {
+    "question": "私たちの関係で一番感謝している瞬間はいつ？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今の気持ちを絵文字一つで表したら？",
+    "category": "coolDown"
+  },
+  {
+    "question": "怒ったとき一人でいたい方？一緒にいたい方？",
+    "category": "coolDown"
+  },
+  {
+    "question": "最近私を笑わせてくれた人っている？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今音楽をかけるとしたらどんな曲を聴きたい？",
+    "category": "coolDown"
+  },
+  {
+    "question": "私たちが最初に仲良くなったときのことって覚えてる？",
+    "category": "coolDown"
+  },
+  {
+    "question": "気持ちの整理は少しできた？",
+    "category": "coolDown"
+  },
+  {
+    "question": "お互いに怒るのも関心の表れだと思う？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今日外の天気はどんな感じ？",
+    "category": "coolDown"
+  },
+  {
+    "question": "一杯飲みながら話そうか？",
+    "category": "coolDown"
+  },
+  {
+    "question": "私があなたにとって大切な存在だってわかってるよね？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今ここに座っていてくれるだけでありがとう",
+    "category": "coolDown"
+  },
+  {
+    "question": "今日一番おいしく食べたものって何？",
+    "category": "coolDown"
+  },
+  {
+    "question": "少し休んでからまた話そうか？",
+    "category": "coolDown"
+  },
+  {
+    "question": "私への怒り以外の感情もある？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今この状況を映画のタイトルにつけるとしたら？",
+    "category": "coolDown"
+  },
+  {
+    "question": "私たち、ぎこちなくなったとき普通どちらが先に話しかけてる？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今私に言いたいことってある？",
+    "category": "coolDown"
+  },
+  {
+    "question": "このカードを取り出した人に感謝してもいいかな？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今一番必要なのは会話？時間？",
+    "category": "coolDown"
+  },
+  {
+    "question": "私たちが合ってるなと感じた瞬間はいつ？",
+    "category": "coolDown"
+  },
+  {
+    "question": "気持ちがほぐれたら一番最初にしたいことって何？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今日を最初からやり直せるとしたらどう過ごしたい？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今目を閉じて3秒だけ休んでみて",
+    "category": "coolDown"
+  },
+  {
+    "question": "怒りが解けるときの自分なりのキーワードってある？",
+    "category": "coolDown"
+  },
+  {
+    "question": "私たち二人とも今疲れてるんじゃないかな？",
+    "category": "coolDown"
+  },
+  {
+    "question": "この状況でユーモアを見つけられるかな？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今、手を一回繋いでみようか？",
+    "category": "coolDown"
+  },
+  {
+    "question": "お互いの違いって悪いことじゃないよね？",
+    "category": "coolDown"
+  },
+  {
+    "question": "私たちが一緒に乗り越えてきた大変なことがあったよね、覚えてる？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今すぐ解決できなくても大丈夫だと思う？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今心の中で一番大きな感情って何？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "怒っているのか、寂しいのか、悲しいのか区別がついてる？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "一番心が痛かった瞬間はいつ？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "気づかないうちに傷つける言葉を言ってしまった気がする？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分が本当に望んでいたのは何だったんだろう？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分が怒った本当の理由って何だろう？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "この感情を言葉にしにくい部分ってある？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "私はこの状況でどう扱われたかったんだろう？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "ずっと我慢してきたものが爆発したんじゃないかな？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分が過敏に反応した部分があったかな？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "この感情はいつから積み重なってきたんだろう？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "私はこういう状況でいつもどんな感情になる？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分の言い方が攻撃的に聞こえた可能性ってある？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "正直、怖い感情もある？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "この状況で自分が望むことって大きすぎるのかな？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分にとって大切な価値観を無視されたような気がした？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分の感情を100%正直に表現できていない部分ってある？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "怒りながら後悔した言葉ってある？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "今感じている感情の中で相手が知らないものってある？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "この感情をどうやって伝えればいいんだろう？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分が防衛的に反応した瞬間があったかな？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "実は怒りより失望の方が大きいんじゃないかな？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分が期待していた反応って何だった？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "この感情が自分だけの問題かもしれないかな？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "誰かにこの状況を説明するとしたらどう言うと思う？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "なんでこんなに怒ったのか自分でも驚いてる？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "こんな感情を感じている自分が嫌にならない？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "傷ついたのは出来事そのもの？それとも態度のせい？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分も悪かった部分があると感じてる？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "以前にも似たような感情を感じたことってある？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分が抱えていた不満があったかな？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "この感情の裏に隠れている本当の欲求って何だろう？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分は衝突のときどんなパターンを見せると思う？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分の言葉が意図と違って伝わった気がする？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "今泣きたい気持ちはない？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "この状況で一番怖いことって何？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "この関係で感じている不安ってある？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "怒ること自体がしんどくない？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分の感情を正直に言うのがなぜ難しいのかな？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "今一番慰めてほしい部分ってどこ？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "私は謝るのが得意な方？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "この状況から自分が学べることってあるかな？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分のプライドが感情表現を邪魔していない？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "正直今、孤独な感情もある？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分から先に歩み寄るのが難しい理由って何？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "この感情は明日まで続くと思う？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "私は衝突の後、どんな人になりたい？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分の感情に名前をつけるとしたら何と言う？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "今のこの感情が自分に言っていることって何だろう？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "実は怒っているんじゃなくて心配しているんじゃないかな？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分の感情をわかってほしい部分ってある？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "今の心の重さを1から10で表したら？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "言いながら「これは違うな」と感じた瞬間ってある？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分が本当に聞きたい言葉って何？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "この感情を一人で抱えるのがきつい？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分は感情を表現するときどんな方法が楽？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "この状況を一週間後に振り返ったらどんな気持ちだと思う？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "自分が傷つきやすいポイントって何か知ってる？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "今の自分の心に一番必要な一言って何？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "この感情が過ぎたらどんな気持ちになると思う？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "相手はなぜそんなことを言ったんだろう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の立場からこの状況を見たらどうだろう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手も今つらい部分があるんじゃないかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が本当に言いたかったことって何だろう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手から見て自分はどう映っていたんだろう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が一番寂しかったポイントって何だろう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の言葉に一理ある部分ってあった？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手も私と同じくらいつらいと思う？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が最近ストレスを抱えていたことってあったかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が自分に望んでいたことって何だったんだろう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "自分が相手の感情を無視したことってあったかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が怒った本当の理由って何だろう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の性格を考えると理解できる部分ってある？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手には自分の言葉がどんなふうに聞こえたんだろう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が防衛的になった理由ってあるかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の過去の経験がこの反応に影響したかもしれない？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手に表現できていない感情があると思う？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の良い意図を自分が見逃したんじゃないかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が私に対して寂しかったのって今回が初めてかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手も謝りたいのにできずにいるんじゃないかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が自分に一番望む変化って何だろう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の感情表現の仕方が自分と違うこともあるよね？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手がこの状況を友達に説明したら何て言うと思う？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の話を聞いてみたいという気持ちある？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手に感謝していることを一つだけ言えそう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が自分のために我慢してきたことってあるかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の言い方ではなく内容に集中してみたらどう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手は今どんな気持ちだと思う？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が自分にとって大切な存在だと最後に表現したのはいつ？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の短所が実は長所の裏側かもしれない？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が変わることを望んでいるのか、理解されたいのかどちらだと思う？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の行動の裏に不安があるかもしれない？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手もこの関係を大切にしていると思う？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が自分に言いたいことってあるかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "自分が相手に十分関心を向けていたかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手がつらがっているのを自分が気づかなかったんじゃないかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が自分に合わせようとして疲れている部分があるかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "この状況を相手の視点で話し直してみられる？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の反応が自分に向けられたものじゃないかもしれない？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が自分に一番認めてほしい部分って何だろう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の言葉から傷ではなく心配を読み取ることができるかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の努力を当然のことだと思ってしまったことってあるかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が自分に期待することって多すぎる？ちょうどいい？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が感情を隠す理由って何だろう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の弱いところを自分が刺激してしまったんじゃないかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が普段から感謝してくれている自分の姿って何だろう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手にとってもこの関係は簡単じゃない部分があるかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が自分に望む謝罪ってどんなものだろう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の話を最後まで聞いてあげたことが最近あった？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手がこの状況で一番怖いことって何だろう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手も自分と同じようにこの関係を守りたいと思っているかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "自分が相手に無関心だった瞬間ってあったかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の良いところを三つ言えそう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が今自分に一番聞いてほしい言葉って何だろう？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の感情を100%理解しているとは言えない？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が変わろうとしたことがあったのに自分が見ていなかったかもしれない？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が一番幸せそうなのはどんなとき？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手の立場を理解するには自分がもっと何を知る必要があるかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手もこの会話をしたいと思っているかな？",
+    "category": "yourSide"
+  },
+  {
+    "question": "相手が自分のことをどれだけ大切に思ってくれているか感じたことってある？",
+    "category": "yourSide"
+  },
+  {
+    "question": "今回のことから私たちが学べることってあるかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "次に同じような状況が起きたらどうしたらいいかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "自分が先に謝れる部分ってある？",
+    "category": "makingUp"
+  },
+  {
+    "question": "私たちがより良くコミュニケーションするにはどうすればいいかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "今回のことが私たちの関係をより強くするきっかけになれるかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "お互いに一つだけ約束できるとしたら何を約束したい？",
+    "category": "makingUp"
+  },
+  {
+    "question": "私たちの衝突の解決方法に改善できる点ってあるかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "仲直りしてから一緒にしたいことってある？",
+    "category": "makingUp"
+  },
+  {
+    "question": "相手に心から感謝していることを言ってみられる？",
+    "category": "makingUp"
+  },
+  {
+    "question": "この関係でもっと努力できる部分って何？",
+    "category": "makingUp"
+  },
+  {
+    "question": "お互いの感情表現の仕方を尊重するにはどうすればいいかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "次に怒ったときどんなサインを送ってくれたらいい？",
+    "category": "makingUp"
+  },
+  {
+    "question": "私たちだけの仲直りのやり方を作ってみたらどうかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "相手に望むことを一つだけ正直に言ってみて",
+    "category": "makingUp"
+  },
+  {
+    "question": "私たちの関係で一番良かった時期はいつ？",
+    "category": "makingUp"
+  },
+  {
+    "question": "相手が自分に望んでいることと自分がしてあげられることって同じかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "お互いが怒っているとき少し時間を取るのはどうかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "私たちがもっと話し合うべきテーマってあるかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "相手に「ごめん」って言えそう？",
+    "category": "makingUp"
+  },
+  {
+    "question": "この関係が自分にとってなぜ大切なか話してくれる？",
+    "category": "makingUp"
+  },
+  {
+    "question": "次に似たような衝突が起きたとき先に聞いてみられる？",
+    "category": "makingUp"
+  },
+  {
+    "question": "感情がぶつかったとき守るべきルールを決めてみたらどうかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "相手をそのままの姿で受け入れにくい部分ってある？",
+    "category": "makingUp"
+  },
+  {
+    "question": "私たちの関係で一番守りたいものって何？",
+    "category": "makingUp"
+  },
+  {
+    "question": "相手に感謝していることを三つ言ってみて",
+    "category": "makingUp"
+  },
+  {
+    "question": "今回のことで自分が成長できることってあるかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "お互いの地雷を知って避けるにはどうしたらいいかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "感情が高ぶったとき「安全ワード」を決めてみたらどうかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "私たちの関係の一番の強みって何だと思う？",
+    "category": "makingUp"
+  },
+  {
+    "question": "相手が努力している部分を認めてあげられる？",
+    "category": "makingUp"
+  },
+  {
+    "question": "この状況を1年後に振り返ったらどんな気持ちだと思う？",
+    "category": "makingUp"
+  },
+  {
+    "question": "お互いに対してもっと寛大になるには何が必要かな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "私たちが一緒に乗り越えてきた一番大きな危機って何だった？",
+    "category": "makingUp"
+  },
+  {
+    "question": "相手が変わるのを待つより自分が先に変えられることって何？",
+    "category": "makingUp"
+  },
+  {
+    "question": "意見が違うときより良い方法で解決できるかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "私たちの未来のために今できる一番小さな一歩って何？",
+    "category": "makingUp"
+  },
+  {
+    "question": "相手に「大好き」または「大切だよ」って言えそう？",
+    "category": "makingUp"
+  },
+  {
+    "question": "この関係が自分をどう成長させてくれた？",
+    "category": "makingUp"
+  },
+  {
+    "question": "お互いの気持ちをチェックする時間を定期的に作ってみたらどうかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "仲直りの最初の一歩って何だと思う？",
+    "category": "makingUp"
+  },
+  {
+    "question": "今回のことがなければ知らなかったことってあるかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "お互いにもっと寛容になれるかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "私たちが一緒にしたいことって何？",
+    "category": "makingUp"
+  },
+  {
+    "question": "相手から「わかるよ」と言われたらどんな気持ちかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "この関係を一言で表したら何？",
+    "category": "makingUp"
+  },
+  {
+    "question": "衝突は関係の一部だという言葉に同意する？",
+    "category": "makingUp"
+  },
+  {
+    "question": "今日のこの会話が私たちにとってどんな意味を持つかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "お互いをもっとよく理解するために何をすればいいかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "私たちがこれからより幸せになるために何が必要かな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "今、抱きしめてもいいかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "私たちがこの状況をうまく乗り越えられるという確信がある？",
+    "category": "makingUp"
+  },
+  {
+    "question": "お互いの良いところに目を向けることを約束できるかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "また笑えそうな気がする？",
+    "category": "makingUp"
+  },
+  {
+    "question": "明日の朝起きたら最初に何て言いたい？",
+    "category": "makingUp"
+  },
+  {
+    "question": "私たちが一緒にいる理由を少し考えてみてくれる？",
+    "category": "makingUp"
+  },
+  {
+    "question": "相手が私にとって最高の人である理由って何？",
+    "category": "makingUp"
+  },
+  {
+    "question": "今回のことをきっかけにもっといい関係になれるかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "お互いに手紙を書いてみるのはどうかな？",
+    "category": "makingUp"
+  },
+  {
+    "question": "今夜眠る前にお互いに言いたいことってある？",
+    "category": "makingUp"
+  },
+  {
+    "question": "私たち大丈夫だよね？",
+    "category": "makingUp"
+  }
+]

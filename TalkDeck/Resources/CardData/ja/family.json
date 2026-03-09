@@ -1,0 +1,642 @@
+[
+  {
+    "question": "子どものころ一番好きだった食べ物は？",
+    "category": "childhood"
+  },
+  {
+    "question": "学校で一番好きだった教科は？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ一番仲が良かった友達の名前と思い出ってある？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ一番欲しかったものって何？",
+    "category": "childhood"
+  },
+  {
+    "question": "小学校のとき将来の夢として何て書いてた？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ親に怒られたことで一番記憶に残っているのって何？",
+    "category": "childhood"
+  },
+  {
+    "question": "放課後に家に帰ったら最初に何をしてた？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころハマっていたアニメやゲームってあった？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どもの頃住んでいた町で一番好きだった場所は？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ兄弟姉妹や友達とよくしていた遊びって何？",
+    "category": "childhood"
+  },
+  {
+    "question": "学校給食で一番好きだったメニューは？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ一番怖いと思っていたものって何？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころの夏休みに一番よくしていたことって何？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころなりたかった大人の姿ってあった？",
+    "category": "childhood"
+  },
+  {
+    "question": "初めて一人でバスや電車に乗ったときのこと覚えてる？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ一番好きだった先生はどんな人だった？",
+    "category": "childhood"
+  },
+  {
+    "question": "小学校のとき一番記憶に残っている遠足や修学旅行は？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ親に内緒でしていたことで今なら話せることってある？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころお小遣いをもらったとき最初に何を買った？",
+    "category": "childhood"
+  },
+  {
+    "question": "学生時代一番嫌いだった教科や授業は？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ必ず見ていたテレビ番組ってある？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ一番記憶に残っている誕生日プレゼントってある？",
+    "category": "childhood"
+  },
+  {
+    "question": "初めて自転車を覚えたときのことって覚えてる？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ家で飼っていたペットっていた？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ一番好きだったお菓子や飲み物は？",
+    "category": "childhood"
+  },
+  {
+    "question": "学校でこれが得意だなと感じたことってある？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ大人たちによく言われていた言葉ってある？",
+    "category": "childhood"
+  },
+  {
+    "question": "初めて一人で家にいたときの記憶ってある？どんな気持ちだった？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころよく行っていた近所のお店はどこ？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ一番つらかった時期ってある？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ友達の間でどんな子だった？",
+    "category": "childhood"
+  },
+  {
+    "question": "初めて夜通し起きていたのはいつ？理由は？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ一番好きだった本や漫画は？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころの記憶で今でも鮮明に浮かんでくる場面ってある？",
+    "category": "childhood"
+  },
+  {
+    "question": "学校の帰りによく寄っていたファストフードやおやつのお店ってある？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころどうしても欲しかった服や靴ってあった？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ夢見ていた家の姿ってある？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ褒められたことで一番得意だったことって何？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころ学校から帰ったとき家で漂っていた匂いって覚えてる？",
+    "category": "childhood"
+  },
+  {
+    "question": "子どものころご飯を食べながらよく見ていたテレビ番組ってある？",
+    "category": "childhood"
+  },
+  {
+    "question": "最近一番ハマっていることって何？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近新しく始めた趣味や興味のあることってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近一番よく見ているコンテンツって何？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今月一番記憶に残っていることは？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近の健康管理はどうしてる？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近おいしく食べたものってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近よく行く場所ってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今週一番笑えたことを一つ言ってみて",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近悩んでいることってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近新しく知った面白いことってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近よく連絡している人っている？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近旅行に行ったか、計画しているところってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近生きていて一番ほっとする瞬間はいつ？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今月一番うまくいったことを一つ挙げるとしたら？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近の一日の流れはどんな感じ？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近何かを学んだり勉強したりしたことってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近一番よく使っているアプリやサービスは？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近一番感動したか良かった瞬間は？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近よく食べている食べ物や飲み物ってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近新しい人に会ったことってある？どんなきっかけだった？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近気分がいいとき一番最初にしたいことって何？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今週一番おいしく食べたものって何？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近どんな目標を持ってる？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近買ったものの中で一番買って良かったのって何？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近一番よく聴いている音楽やお気に入りの曲は？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近周りの人に感謝したことってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近ハマっているドラマや映画ってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今月一番つらかった瞬間は？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近夢見ていることってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近の運動や健康習慣が変わったことってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近記憶に残っている会話ってあった？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近初めて挑戦したことってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近どんな本や文章にハマってる？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今週一番うまくやったと思うことを一つ挙げると？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近興味を持つようになった分野ってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近心が温かくなった瞬間ってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近自分を一番幸せにしてくれるものは何？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近チャレンジしたり変化を加えたりしたことってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近よく眠れてる？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今月絶対達成したいことってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "家族旅行で一番笑えたエピソードってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "お盆やお正月に家族が必ずすることってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "親が作ってくれた料理で一番記憶に残っているのって何？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族と一緒に行った旅行で一番特別だった場所は？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族みんなで見た公演や試合で記憶に残っているものってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "親が言ってくれた言葉で今でも覚えているものってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "おじいちゃんおばあちゃんについて一番記憶に残っている場面は？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族と一緒に料理した記憶で浮かんでくるものってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "うちの家族だけの伝統や行事ってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族みんなで乗り越えた大変な時期ってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "兄弟姉妹やいとこと喧嘩した一番笑える理由って何？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族の誰かが感動させてくれたことってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "おじいちゃんおばあちゃんの家で一番良かった記憶は？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族のアルバムを見ていてびっくりした写真があった？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族みんなで笑った最近の出来事ってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族の集まりであった面白いハプニングってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "両親の恋愛話を聞いたことある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族と一緒に過ごしたお正月やお盆で特別だったのって何？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族と一緒に引っ越した経験で記憶に残っていることってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族の誰かに秘密がバレたことってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "両親がお互いに仲睦まじくしていた姿って覚えてる？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族の誰かの習慣に似てると言われたことってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族と一緒にした誕生日パーティーで記憶に残っているものってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族に関連する物で今でも大切に持っているものってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "親が自分のために諦めたことを知った瞬間ってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族と一緒に運動したり散歩したりした思い出ってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "兄弟姉妹と一番仲良く遊んでいたのはいつ？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族みんなで大掃除した記憶ってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "両親の仕事について初めて理解した瞬間ってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族と初めて外食した記憶ってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族と一緒に雨に降られたり天気で苦労したことってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "親と一緒にしたドライブで記憶に残っているものってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族の誰かのおかげで趣味ができたことってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "両親が誇りに思っていたあなたの瞬間ってわかってる？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族に初めて自分でプレゼントを買った記憶ってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "子どものころ家族と過ごしたクリスマスや年末の記憶は？",
+    "category": "familyStory"
+  },
+  {
+    "question": "両親に初めて反抗したときのことって覚えてる？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族に意外な才能を発見したことってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "兄弟姉妹に感謝した瞬間ってある？",
+    "category": "familyStory"
+  },
+  {
+    "question": "家族との電話で一番長かったのはどんな内容だった？",
+    "category": "familyStory"
+  },
+  {
+    "question": "最近の若い世代が理解できないことってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "上の世代が理解しにくかった瞬間ってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "親の世代から学んだことで今でも役に立っているものってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "子どもの世代から学んだことで意外だったものってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "世代の差を一番大きく感じる瞬間はいつ？",
+    "category": "generationGap"
+  },
+  {
+    "question": "最近流行っているけど理解できないものってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "子どものころは当たり前だったけど今の世代は知らないことってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "両親と一番意見が違うテーマってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "最近の子どもたちがうらやましいと感じたことってある？どんな点で？",
+    "category": "generationGap"
+  },
+  {
+    "question": "上の世代が当たり前にやっていることで理解できないものってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "世代の差のせいで家族間で笑える状況になったことってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "両親が初めてスマートフォンを使い始めたときのエピソードってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "最近の子どもたちが知らない昔の遊びの文化ってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "両親が教えてくれたことで今でもそれが正しいと思うものってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "両親が自分の流行や文化を理解できなかったことってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "親の世代と今の世代の一番大きな違いって何だと思う？",
+    "category": "generationGap"
+  },
+  {
+    "question": "世代の差をどうやって乗り越えればいいと思う？",
+    "category": "generationGap"
+  },
+  {
+    "question": "子どものころ親の言うことに従いたくなかったことってある？今振り返るとどう思う？",
+    "category": "generationGap"
+  },
+  {
+    "question": "親の世代の方が良かったと思うことってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "今の世代の方が良いと思うことってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "両親の価値観のうち自分が受け継いだものってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "両親の価値観のうち変えたかったものってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "世代の差のせいで家族間の会話が難しかったことってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "両親が「最近の若者は」と言ったときどんな気持ちだった？",
+    "category": "generationGap"
+  },
+  {
+    "question": "自分が「最近の若者は」という言葉を使ったことってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "親の世代が私たちよりもっとたくましかったと感じる部分ってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "最近の若い世代が親の世代よりうまくやっていることがあるとしたら？",
+    "category": "generationGap"
+  },
+  {
+    "question": "両親が最近の文化を学ぼうとしていたことってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "私は子どもの世代とうまくコミュニケーションを取るためにどんな努力をしてる？",
+    "category": "generationGap"
+  },
+  {
+    "question": "世代の差を超えて一番共感できた会話ってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "両親が最近の流行に乗ろうとしたときどんな気持ちだった？",
+    "category": "generationGap"
+  },
+  {
+    "question": "大人になってから初めて理解した両親の行動や言葉ってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "世代の差のせいで家族の中で自分が橋渡しの役割をしたことってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "両親がしてくれた小言で今は正しいと思うものってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "うちの家族で一番世代の差を感じるテーマって何？",
+    "category": "generationGap"
+  },
+  {
+    "question": "親の世代の結婚観や家族観についてどう思う？",
+    "category": "generationGap"
+  },
+  {
+    "question": "最近の若い世代の仕事観について上の世代はどう思うと思う？",
+    "category": "generationGap"
+  },
+  {
+    "question": "両親とSNSやYouTubeについて話したことってある？",
+    "category": "generationGap"
+  },
+  {
+    "question": "次の世代に受け継いでほしい価値観って何？",
+    "category": "generationGap"
+  },
+  {
+    "question": "世代の差を越えて家族みんなが一緒にできることってある？",
+    "category": "generationGap"
+  }
+]

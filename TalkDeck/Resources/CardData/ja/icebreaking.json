@@ -1,0 +1,642 @@
+[
+  {
+    "question": "今日ここに来る前、何してた？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今の気分を天気で表すと？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今日この場に来ることになったきっかけは何？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "初めて会う人に一番最初に目が行くのはどこ？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "自己紹介を一言でするとしたら何て言う？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今この場で一番楽しみなことは？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今日ここに来ながら、どんな人に会うんだろうって想像してた？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "初対面の場で、どんな役割を担うことが多い？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "新しい人と会うのはどっちかといえば？ワクワクする？緊張する？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今日の朝起きてまず最初にやったことは？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今この瞬間を写真一枚に収めるとしたらどんな構図になると思う？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "ここまで来る途中、どんなこと考えてた？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今日着てきた服に今日の気分が出てる？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "普段、新しいグループにすぐなじめる方？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "初対面の場で一番しんどいのはどんなこと？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今日この場でぜひ話してみたいことがある？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "自分を一番よく表す食べ物は何だと思う？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今このグループで自分がどう見られてると思う？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "初対面で相手に絶対聞いてみたいことって何？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今日ここに来なかったら何してたと思う？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "自分の名前にどんな意味がある？名前は気に入ってる？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今日ご飯食べた？何食べた？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今この場の雰囲気、どう感じてる？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "初対面では絶対しないことがある？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今スマホに一番最近来た連絡って誰から？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "最近、暇なときは主に何してる？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今日のこの集まりを友達にどう紹介すると思う？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "どんな人とすぐ仲良くなれる方？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "来る前にこの集まりをどれくらい楽しみにしてた？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今日一日の中で一番いいことがあったとしたら？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "自分を一行で紹介するとしたら何て言う？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "集まりで場の雰囲気を盛り上げる役割を担うことが多い？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今日この場が終わった後、何する予定？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今この瞬間、頭に浮かぶ単語を3つ言うと？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "知らない人と早く仲良くなる自分だけの方法がある？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "最近一番よく使う絵文字は何？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今この場で一番最初に仲良くなりたいのはどんなタイプの人？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今日ここに来る前、緊張してた？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今の気分を食べ物に例えると？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "第一印象がよかった人にはどう接する方？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "最近一番よく聞いている音楽のジャンルは何？",
+    "category": "taste"
+  },
+  {
+    "question": "コーヒーは飲む？アイスブラック派？ラテ派？",
+    "category": "taste"
+  },
+  {
+    "question": "唐揚げ食べるとき、どの部位から取る？",
+    "category": "taste"
+  },
+  {
+    "question": "映画館で絶対買うおやつは？",
+    "category": "taste"
+  },
+  {
+    "question": "Netflixをつけたら最初にどのジャンルを探す？",
+    "category": "taste"
+  },
+  {
+    "question": "軽食の中で一番好きなのは何？",
+    "category": "taste"
+  },
+  {
+    "question": "音楽を聴くとき、歌詞に集中する派？メロディーに集中する派？",
+    "category": "taste"
+  },
+  {
+    "question": "コンビニのおにぎりで一番好きな味は？",
+    "category": "taste"
+  },
+  {
+    "question": "最近ハマってるドラマやバラエティがある？",
+    "category": "taste"
+  },
+  {
+    "question": "カフェに行ったら何を頼む？",
+    "category": "taste"
+  },
+  {
+    "question": "焼肉を焼くとき、バラ肉派？肩ロース派？",
+    "category": "taste"
+  },
+  {
+    "question": "ピザを食べるとき、どのトッピングが一番好き？",
+    "category": "taste"
+  },
+  {
+    "question": "カラオケに行ったら必ず歌う曲がある？",
+    "category": "taste"
+  },
+  {
+    "question": "好きな映画のジャンルは何？",
+    "category": "taste"
+  },
+  {
+    "question": "本を読む方？どんなジャンルが好き？",
+    "category": "taste"
+  },
+  {
+    "question": "飲み会ではどんなお酒が一番合う？",
+    "category": "taste"
+  },
+  {
+    "question": "音楽のストリーミングアプリは何を使ってる？",
+    "category": "taste"
+  },
+  {
+    "question": "もちもちしたものとサクサクしたもの、どっちが好き？",
+    "category": "taste"
+  },
+  {
+    "question": "甘いものが好き？しょっぱいものが好き？",
+    "category": "taste"
+  },
+  {
+    "question": "最近YouTubeでどんなチャンネルをよく見てる？",
+    "category": "taste"
+  },
+  {
+    "question": "アイドルにハマったことある？誰？",
+    "category": "taste"
+  },
+  {
+    "question": "カップ麺を作るとき、絶対入れるトッピングは？",
+    "category": "taste"
+  },
+  {
+    "question": "ラーメンと担々麺、いつもどっち？",
+    "category": "taste"
+  },
+  {
+    "question": "運動は好き？よくやってる運動がある？",
+    "category": "taste"
+  },
+  {
+    "question": "旅行に行くとき、自然と都市どっちが好き？",
+    "category": "taste"
+  },
+  {
+    "question": "出前を頼むとき、レビューは必ず確認する？",
+    "category": "taste"
+  },
+  {
+    "question": "深夜に一人で食べる夜食のメニューは何？",
+    "category": "taste"
+  },
+  {
+    "question": "好きなスポーツがある？実際にやるか、見るか？",
+    "category": "taste"
+  },
+  {
+    "question": "SNSで一番よく使うのは何？",
+    "category": "taste"
+  },
+  {
+    "question": "ゲームは好き？どんなジャンルが好み？",
+    "category": "taste"
+  },
+  {
+    "question": "買い物はオンラインとオフライン、どっち派？",
+    "category": "taste"
+  },
+  {
+    "question": "好きな季節がある？理由は？",
+    "category": "taste"
+  },
+  {
+    "question": "香水をつける方？どんな香りが好き？",
+    "category": "taste"
+  },
+  {
+    "question": "家にいるとき、音楽を流しておく方？",
+    "category": "taste"
+  },
+  {
+    "question": "かわいい系とスタイリッシュ系、どっちのスタイルが好き？",
+    "category": "taste"
+  },
+  {
+    "question": "料理できる？得意なメニューがあれば？",
+    "category": "taste"
+  },
+  {
+    "question": "余暇の時間に一番好きな活動は何？",
+    "category": "taste"
+  },
+  {
+    "question": "ミュージカルや演劇を見たことある？興味がある？",
+    "category": "taste"
+  },
+  {
+    "question": "写真を撮るのが好き？どんな写真をよく撮る？",
+    "category": "taste"
+  },
+  {
+    "question": "好きなファッションスタイルがある？",
+    "category": "taste"
+  },
+  {
+    "question": "今この場の雰囲気を曲名で表すとしたら？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今日着てきた服に名前をつけるとしたら何ていう？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今この瞬間を映画のタイトルにするとしたら？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "急に1分間何でも売らないといけないとしたら何を売る？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "人生で一番とんちんかんだった考えは？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今日の気分を食べ物に例えると？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "キャラクターになれるとしたらどんな能力が欲しい？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "最近の人生のBGMは何？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今スマホのロック画面、何の画像？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "動物に例えると自分はどんな動物だと思う？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "急に有名になるとしたら、どんな理由で有名になりそう？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今この場を植物で表すとしたらどんな植物？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "スマホの中で一番変なアプリは何？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "寝る直前に一番よくしてる考えは？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今朝目が覚めた瞬間に思ったことは？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "もし人生にオートセーブ機能があるとしたらどの瞬間を保存する？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今この場に合うドレスコードがあるとしたら？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "急にCMを撮らないといけないとしたら、どの商品が一番似合いそう？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "動物園の動物で例えると自分はどんな動物？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "自分の人生をバラエティ番組にするとしたらタイトルは何？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今この場で5秒以内に場を笑わせる自信ある？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "自分が持ってる一番役に立たない特技は？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "初対面の場で言ってしまった一番とんちんかんな言葉は？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "InstagramのフィードVS実際の自分、どれくらい差がある？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今この人たちと急に旅行に行くとしたら、真っ先に言う言葉は？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "自分だけの変な癖があるとしたら？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "周りから一番よく言われる言葉は何？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今日一番変な行動をしたとしたら何？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今この集まりをテーマにYouTube動画を撮るとしたらタイトルは？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "生きてきた中で一番笑えた失敗があるとしたら？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "自分が食べそうな一番変な食べ物の組み合わせは？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "急にステージに上がらないといけないとしたら何をする？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今日この場を四字熟語で表すとしたら？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今の自分をミームにするとしたらどんな状況？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "一番ぶっ飛んでた夢の話を聞かせてくれる？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今この場に合う食べ物があるとしたら？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今日一日、自分はどんな主人公みたいな感じだった？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "友達が自分のことを一言で説明するとしたら何て言うと思う？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "生きてきた中で一番唖然とした経験は？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今この集まりを動物に例えるとしたら、どんな動物の群れみたい？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "第一印象と違う自分の一面がある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "人々が自分に一番驚くのはどんなこと？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "見た目の自分と実際の自分が一番違う部分は何？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "誰も知らない自分だけの隠れた趣味がある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "すごく得意なのに誰も知らないことがある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "初めて会う人に誤解されることがあるとしたら？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "見た目や雰囲気と合わない趣味がある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "一番仲のいい友達も知らない自分の一面がある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "普段のイメージと全然違う行動をしたことがある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "一人でいるときだけ出てくる自分の姿があるとしたら？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "自分が思う、自分の意外な魅力は何？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "自分の人生で一番予想外だった経験があるとしたら？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "初めて会う人に自分はどんなタイプだと思われそう？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "実は全然できないのに得意なふりしてることがある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "自分の一番大きなギャップは何？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "誤解されやすい自分の行動や話し方がある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "年齢に合わないけど好きなものがあるとしたら？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "仕事や学校と全然合わない趣味がある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "周りの人が自分のどんな一面に一番驚く？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "初めて会ったときと仲良くなってからで変わる自分の姿は？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "自分が一番知らない自分の姿があるとしたら？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "意外と自分がものすごく怖いものがある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "自分のイメージと合わない好きな音楽のジャンルがある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "自分でもわかってる自分の一番変な習慣は？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "周りがいつも予想しなかった自分の反応がある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "自分について間違って広まってる事実があるとしたら？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "意外と自分がかなり真剣に考えてることがある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "特に自分のことをよく知ってる人は、どんな自分を知ってる？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "見た目や雰囲気からは想像できない自分の夢があるとしたら？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "自分でも意外だと思う自分の行動がある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "人が自分に絶対聞かないと思うような質問があるとしたら？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "初めて会ったときには絶対気づきにくい自分の特徴は？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "人は簡単にやるのに自分だけ特に苦手なことがある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "自分のあだ名やニックネームの中に意外なものがある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "好きだと言ったら人が不思議がるものがある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "人前では見せない、自分だけの緊張する瞬間がある？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "知れば知るほど好きになりそうな自分の一面があるとしたら？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "意外と自分がしっかり気にかけてることがあるとしたら？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "SNSと実際の自分の一番の違いは？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "人が見て自分に絶対似合わないと思う職業があるとしたら？",
+    "category": "unexpectedSide"
+  }
+]

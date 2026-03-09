@@ -1,0 +1,642 @@
+[
+  {
+    "question": "初めて私を見たときどんな印象だった？",
+    "category": "excitement"
+  },
+  {
+    "question": "私のことが気になり始めた瞬間はいつ？",
+    "category": "excitement"
+  },
+  {
+    "question": "気になってた頃に一番ドキドキした瞬間はいつ？",
+    "category": "excitement"
+  },
+  {
+    "question": "私のどんな姿に最初にときめいた？",
+    "category": "excitement"
+  },
+  {
+    "question": "私に連絡する前に躊躇したことってある？",
+    "category": "excitement"
+  },
+  {
+    "question": "私を初めて見たとき気に入ったって自分でわかってた？",
+    "category": "excitement"
+  },
+  {
+    "question": "初めて二人きりで会ったとき緊張した？",
+    "category": "excitement"
+  },
+  {
+    "question": "私が笑ってるときと真剣なとき、最初はどっちが魅力的だった？",
+    "category": "excitement"
+  },
+  {
+    "question": "告白する前日どんな気持ちだった？",
+    "category": "excitement"
+  },
+  {
+    "question": "自分が私を好きだと初めて認めたのはいつ？",
+    "category": "excitement"
+  },
+  {
+    "question": "今でも私を見てドキドキする瞬間ってある？",
+    "category": "excitement"
+  },
+  {
+    "question": "私から連絡が来たとき一番嬉しいタイミングってある？",
+    "category": "excitement"
+  },
+  {
+    "question": "付き合う前に一番楽しみにしていたことって何？",
+    "category": "excitement"
+  },
+  {
+    "question": "私の声を聞くの好き？",
+    "category": "excitement"
+  },
+  {
+    "question": "私のことを思い浮かべると最初に浮かぶイメージって何？",
+    "category": "excitement"
+  },
+  {
+    "question": "私と初めてご飯を食べたときのこと覚えてる？どんな感じだった？",
+    "category": "excitement"
+  },
+  {
+    "question": "付き合った日のこと覚えてる？その日どんな気分だった？",
+    "category": "excitement"
+  },
+  {
+    "question": "私が遠くから歩いてくるときどんな気分になる？",
+    "category": "excitement"
+  },
+  {
+    "question": "私に一目惚れしたと確信した瞬間ってある？",
+    "category": "excitement"
+  },
+  {
+    "question": "今でも私に会いに行く途中でドキドキする？",
+    "category": "excitement"
+  },
+  {
+    "question": "私が予想外に何かしてくれたとき一番ドキドキしたのは？",
+    "category": "excitement"
+  },
+  {
+    "question": "私と初めてスキンシップしたときどんな気持ちだった？",
+    "category": "excitement"
+  },
+  {
+    "question": "初めて私に「会いたい」と思った瞬間はいつ？",
+    "category": "excitement"
+  },
+  {
+    "question": "私のことを考えて一人でドキドキして一人で落ち着かせたことってある？",
+    "category": "excitement"
+  },
+  {
+    "question": "私を見て心臓がドキッとした瞬間ってある？",
+    "category": "excitement"
+  },
+  {
+    "question": "最初に連絡し合ってたとき返信を待ってた？",
+    "category": "excitement"
+  },
+  {
+    "question": "私がどんな言葉を言ったとき一番ドキドキした？",
+    "category": "excitement"
+  },
+  {
+    "question": "一緒にいると今でも心臓がバクバクすることある？",
+    "category": "excitement"
+  },
+  {
+    "question": "初めて会った日以来、私のこといっぱい考えた？",
+    "category": "excitement"
+  },
+  {
+    "question": "私に興味があることをバレないようにしようとしたことある？",
+    "category": "excitement"
+  },
+  {
+    "question": "付き合う前に私のことをこっそり調べたことってある？",
+    "category": "excitement"
+  },
+  {
+    "question": "私のどんな行動を見て「この人だ」と思った？",
+    "category": "excitement"
+  },
+  {
+    "question": "私が好きだと周りに初めて話したときどうだった？",
+    "category": "excitement"
+  },
+  {
+    "question": "最初に別れて家に帰りながらどんなことを考えた？",
+    "category": "excitement"
+  },
+  {
+    "question": "私を待っているときドキドキしたことってある？",
+    "category": "excitement"
+  },
+  {
+    "question": "私が離れていったらどうしようと不安になったことってある？",
+    "category": "excitement"
+  },
+  {
+    "question": "付き合う前に私によく見せようとしていたことってある？",
+    "category": "excitement"
+  },
+  {
+    "question": "私の写真をこっそり何度も見たことってある？",
+    "category": "excitement"
+  },
+  {
+    "question": "初めて紹介された日に何を着ていたか覚えてる？",
+    "category": "excitement"
+  },
+  {
+    "question": "今この瞬間も私についてドキドキするところってある？",
+    "category": "excitement"
+  },
+  {
+    "question": "私たちのデートコースで一番好きなタイプって何？",
+    "category": "taste"
+  },
+  {
+    "question": "私と一緒に食べたい食べ物が浮かんだら何？",
+    "category": "taste"
+  },
+  {
+    "question": "私と行ってみたい旅行先ってある？",
+    "category": "taste"
+  },
+  {
+    "question": "一緒に見たとき一番楽しかったジャンルって何？",
+    "category": "taste"
+  },
+  {
+    "question": "私にぜひ食べてほしい食べ物ってある？",
+    "category": "taste"
+  },
+  {
+    "question": "最近私たちが同じように好きだと気づいたものってある？",
+    "category": "taste"
+  },
+  {
+    "question": "私と一緒にやるともっと楽しそうな趣味ってある？",
+    "category": "taste"
+  },
+  {
+    "question": "一緒に聴きたいオススメの曲は何？",
+    "category": "taste"
+  },
+  {
+    "question": "私たちの趣味が一番合っている部分って何だと思う？",
+    "category": "taste"
+  },
+  {
+    "question": "私の影響を受けて興味を持つようになったものってある？",
+    "category": "taste"
+  },
+  {
+    "question": "一緒にいて雰囲気がぴったり合うと感じた瞬間ってある？",
+    "category": "taste"
+  },
+  {
+    "question": "私と趣味がまったく正反対なことってある？",
+    "category": "taste"
+  },
+  {
+    "question": "私たちが好きなものが被ったとき嬉しかったことってある？",
+    "category": "taste"
+  },
+  {
+    "question": "一緒にやってみたい新しい体験ってある？",
+    "category": "taste"
+  },
+  {
+    "question": "私が勧めたら思ったより気に入ってくれたものってある？",
+    "category": "taste"
+  },
+  {
+    "question": "デートは外？室内派？",
+    "category": "taste"
+  },
+  {
+    "question": "一緒に聴くプレイリストを作るとしたら最初の曲は？",
+    "category": "taste"
+  },
+  {
+    "question": "一緒に住んだらインテリアの趣味が合いそうだと思う？",
+    "category": "taste"
+  },
+  {
+    "question": "私にぜひ見せたい映画やドラマってある？",
+    "category": "taste"
+  },
+  {
+    "question": "二人で子どもみたいにはしゃいで楽しめそうなものって何？",
+    "category": "taste"
+  },
+  {
+    "question": "私の好みで不思議だとか意外だと感じたものってある？",
+    "category": "taste"
+  },
+  {
+    "question": "一緒に料理するとしたら何を作りたい？",
+    "category": "taste"
+  },
+  {
+    "question": "私と一緒に行きたい展示会や公演ってある？",
+    "category": "taste"
+  },
+  {
+    "question": "私たちが趣味が一番似ている分野って何？",
+    "category": "taste"
+  },
+  {
+    "question": "私から初めて知った食べ物やメニューってある？",
+    "category": "taste"
+  },
+  {
+    "question": "一緒に行ってみたいカフェはどんな雰囲気のところ？",
+    "category": "taste"
+  },
+  {
+    "question": "一緒に運動するとしたら何が合いそう？",
+    "category": "taste"
+  },
+  {
+    "question": "私と本の趣味が似てると思う？",
+    "category": "taste"
+  },
+  {
+    "question": "私たちのデートで欠かせないと思うものってある？",
+    "category": "taste"
+  },
+  {
+    "question": "私のファッションで一番好きなスタイルって何？",
+    "category": "taste"
+  },
+  {
+    "question": "私と遅くまで一緒にいたい場所ってある？",
+    "category": "taste"
+  },
+  {
+    "question": "互いの趣味が違うからこそ新しく発見した良いものってある？",
+    "category": "taste"
+  },
+  {
+    "question": "私にぜひ食べさせたい食べ物ってある？",
+    "category": "taste"
+  },
+  {
+    "question": "一緒に見て回ったら一番楽しそうなところってどこ？",
+    "category": "taste"
+  },
+  {
+    "question": "私が好きなもので一緒に楽しんでみたいものってある？",
+    "category": "taste"
+  },
+  {
+    "question": "私たちの食の好みで一番重なっているものって何？",
+    "category": "taste"
+  },
+  {
+    "question": "私とどの季節に旅行したい？",
+    "category": "taste"
+  },
+  {
+    "question": "一緒に見たら楽しそうなスポーツやゲームってある？",
+    "category": "taste"
+  },
+  {
+    "question": "私が嫌いなものの中で実は一緒にやってみたいものってある？",
+    "category": "taste"
+  },
+  {
+    "question": "趣味がすごく違うのに一緒に楽しめたものってある？",
+    "category": "taste"
+  },
+  {
+    "question": "付き合ってから一番大笑いした瞬間はいつ？",
+    "category": "memories"
+  },
+  {
+    "question": "最初のデートで記憶に残っているシーンってある？",
+    "category": "memories"
+  },
+  {
+    "question": "私のせいで一番気分が良かった瞬間ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "喧嘩して仲直りしたとき一番記憶に残った言葉ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "一緒にしたことで今でもたまに思い出すものってある？",
+    "category": "memories"
+  },
+  {
+    "question": "私が感動してくれた瞬間を思い浮かべて、何が思い浮かぶ？",
+    "category": "memories"
+  },
+  {
+    "question": "一緒に旅行に行って一番記憶に残っているエピソードって何？",
+    "category": "memories"
+  },
+  {
+    "question": "私に初めて大きく感謝したのはいつ？",
+    "category": "memories"
+  },
+  {
+    "question": "一緒に食べたもので今でも忘れられない食べ物ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "私たちのうちで一番平凡だったのに一番幸せだった日ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "私と一緒にいて一人で家に帰ったとき一番気分が良かった日はいつ？",
+    "category": "memories"
+  },
+  {
+    "question": "私に初めて怒ったのは何が理由？今は笑える？",
+    "category": "memories"
+  },
+  {
+    "question": "付き合ってから一番驚かされた瞬間ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "私が体調を崩したり辛そうだったとき覚えてる？そのときどんな気持ちだった？",
+    "category": "memories"
+  },
+  {
+    "question": "一緒に道に迷ったり予定が狂ったりしたことってある？覚えてる？",
+    "category": "memories"
+  },
+  {
+    "question": "初めて私に心から「ありがとう」と言ったのはいつ？",
+    "category": "memories"
+  },
+  {
+    "question": "付き合ってまだ間もないころに一番ドキドキしたエピソードって何？",
+    "category": "memories"
+  },
+  {
+    "question": "一緒に夜通し何かをしたことってある？どんな思い出？",
+    "category": "memories"
+  },
+  {
+    "question": "私が面白かった瞬間で一番記憶に残っているのって何？",
+    "category": "memories"
+  },
+  {
+    "question": "お互いをより深く知ったと感じた最初の瞬間ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "私と初めて喧嘩した日のことって覚えてる？",
+    "category": "memories"
+  },
+  {
+    "question": "一緒に見たもので今でも記憶に残っている映画や公演ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "私が予想外の行動をしたとき一番記憶に残っているのって何？",
+    "category": "memories"
+  },
+  {
+    "question": "付き合ってから一番あきれてしまったハプニングって何？",
+    "category": "memories"
+  },
+  {
+    "question": "私が辛かったとき横にいてくれた記憶ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "私と一番正直に話せた会話はいつだった？",
+    "category": "memories"
+  },
+  {
+    "question": "雨だったり天気が悪かったりしたのにかえって良かった日ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "一緒に初めて真剣な話をしたことって覚えてる？",
+    "category": "memories"
+  },
+  {
+    "question": "私があなたのためにしたことで一番記憶に残っていることって何？",
+    "category": "memories"
+  },
+  {
+    "question": "初めて一緒に長距離移動したのはいつ？どうだった？",
+    "category": "memories"
+  },
+  {
+    "question": "私と一緒にいて時間がものすごく速く過ぎたと感じた日ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "一緒にしたことで最初は微妙だったのに後で良くなったものってある？",
+    "category": "memories"
+  },
+  {
+    "question": "私の誕生日や記念日で一番記憶に残っているものって何？",
+    "category": "memories"
+  },
+  {
+    "question": "二人でいた場所で一番思い出に残っているのはどこ？",
+    "category": "memories"
+  },
+  {
+    "question": "私が眠っている姿を見たことある？どんな感じだった？",
+    "category": "memories"
+  },
+  {
+    "question": "初めて別れた後で会いたいと感じたのはいつ？",
+    "category": "memories"
+  },
+  {
+    "question": "付き合ってから一番ロマンチックだった日はいつだったと思う？",
+    "category": "memories"
+  },
+  {
+    "question": "私が一人で何かを解決したとき誇らしかった記憶ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "一緒に食べた食事で一番特別だったものってある？",
+    "category": "memories"
+  },
+  {
+    "question": "私たちが一番近くなったと感じた瞬間はいつ？",
+    "category": "memories"
+  },
+  {
+    "question": "これから絶対一緒にやってみたいことが一つあるとしたら何？",
+    "category": "future"
+  },
+  {
+    "question": "5年後に私たちがどんな姿でいたらいいな？",
+    "category": "future"
+  },
+  {
+    "question": "私と行ってみたい旅行先はどこ？",
+    "category": "future"
+  },
+  {
+    "question": "一緒に住むことになったら最初にしたいことって何？",
+    "category": "future"
+  },
+  {
+    "question": "年を取っても一緒にしたいことってある？",
+    "category": "future"
+  },
+  {
+    "question": "二人で一緒に達成したい目標ってある？",
+    "category": "future"
+  },
+  {
+    "question": "老後に私とどんな日常を過ごしたい？",
+    "category": "future"
+  },
+  {
+    "question": "私たちが次の旅行で絶対行きたい国ってある？",
+    "category": "future"
+  },
+  {
+    "question": "私が辛い時期にどんな存在になってあげたい？",
+    "category": "future"
+  },
+  {
+    "question": "私たちの部屋を飾るとしたらどのスペースを一番大切にしたい？",
+    "category": "future"
+  },
+  {
+    "question": "未来の私にはどんな姿でいてほしい？",
+    "category": "future"
+  },
+  {
+    "question": "これからの私たちの関係でもっとうまくやりたいことってある？",
+    "category": "future"
+  },
+  {
+    "question": "一緒に達成したいバケットリストの1番は何？",
+    "category": "future"
+  },
+  {
+    "question": "これからも絶対守り続けたいことってある？",
+    "category": "future"
+  },
+  {
+    "question": "私が夢を叶えるためにどんな方法で応援してあげたい？",
+    "category": "future"
+  },
+  {
+    "question": "一緒に住むとしたらどんな街に住みたい？",
+    "category": "future"
+  },
+  {
+    "question": "10年後に私たちが笑いながら話したい話題ってある？",
+    "category": "future"
+  },
+  {
+    "question": "これから私にしたいのにまだできていないことってある？",
+    "category": "future"
+  },
+  {
+    "question": "一緒に年を重ねながら大切にしたい習慣ってある？",
+    "category": "future"
+  },
+  {
+    "question": "私に叶えてほしい夢ってある？",
+    "category": "future"
+  },
+  {
+    "question": "これからの私たちの関係でもっと正直になりたい部分ってある？",
+    "category": "future"
+  },
+  {
+    "question": "一緒に学んでみたいことってある？",
+    "category": "future"
+  },
+  {
+    "question": "将来一緒に作り上げたい場所ってある？",
+    "category": "future"
+  },
+  {
+    "question": "私がどんな状況にいるとき隣にいてほしい？",
+    "category": "future"
+  },
+  {
+    "question": "これからもっとよくしたいデートのタイプってある？",
+    "category": "future"
+  },
+  {
+    "question": "一緒にボランティアや良いことをするとしたら何をしたい？",
+    "category": "future"
+  },
+  {
+    "question": "結婚についてどんなイメージを描いてる？",
+    "category": "future"
+  },
+  {
+    "question": "私が迷走しているときどう助けてあげたい？",
+    "category": "future"
+  },
+  {
+    "question": "これから私たちに絶対作りたい新しい思い出って何？",
+    "category": "future"
+  },
+  {
+    "question": "年を重ねても変わってほしくない私たちの姿ってある？",
+    "category": "future"
+  },
+  {
+    "question": "私たちが夫婦になったらどんな家庭を作りたい？",
+    "category": "future"
+  },
+  {
+    "question": "これから私が成長していくのをどんな形で応援してくれる？",
+    "category": "future"
+  },
+  {
+    "question": "私と絶対一緒に挑戦してみたいことってある？",
+    "category": "future"
+  },
+  {
+    "question": "お互いにとってもっといい人になるには何が必要だと思う？",
+    "category": "future"
+  },
+  {
+    "question": "これから私にしてほしいことを一つ正直に教えてくれる？",
+    "category": "future"
+  },
+  {
+    "question": "私たちの間でこれからなくしたいパターンってある？",
+    "category": "future"
+  },
+  {
+    "question": "一緒に健康的に年を重ねる方法って何だと思う？",
+    "category": "future"
+  },
+  {
+    "question": "30年後に私と何をしていると思う？",
+    "category": "future"
+  },
+  {
+    "question": "私にどんな部分でもっと成長してほしい？",
+    "category": "future"
+  },
+  {
+    "question": "私たちが一緒に過ごす時間をもっと豊かにするには何が必要だと思う？",
+    "category": "future"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "question": "最近一番よく連絡する人は誰？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今月一番楽しかったことは？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近一番気になっていることって何？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近新しくできたルーティンってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近一番使っているアプリって何？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今週一番おいしかったものって何？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近どこで時間を一番過ごしてる？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近新しくハマったコンテンツってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近の就寝時間はどんな感じ？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今月一番良かった決断って何？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近興味を持ったことで、一番新しいものは何？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近お金を使ったことで一番満足しているのは？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近の天気や季節は気分に影響してる？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今週一番びっくりしたことって何？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近行った場所でまた行きたいところってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近の体調はどう？何か気をつけていることある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今月一番楽しみにしていることは？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近友達と連絡を取ってる？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近一人でやってみて意外と良かったことってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近寝る前に何を考えてる？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今月ストレスを感じたことってある？どうやって発散した？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近外食はよくする？どこに行くことが多い？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近何か新しいことに挑戦してみた？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近一日の中で一番好きな時間帯はいつ？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今週一番笑った瞬間はいつ？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近何か勉強したり身につけようとしていることってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近読んだり見たりしたもので誰かに勧めたいものってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近家にいる時間が増えた？それとも外にいる時間が増えた？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今月一番感謝した人は誰？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近どんな感情が一番よく湧き上がる気がする？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近予想外のことが起きたってことある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近何か整理したいものってある？物でも関係でも？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今週一番楽しみにしていた約束って何？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近一人でいるときは主に何してる？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近何かやめたり手放したりしたことってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近買い物をするとついつい買ってしまうものってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "今月の予定があるとしたら何？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近一番気をつけている習慣やルーティンって何？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近久しぶりに連絡した人っている？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近よく眠れてる？印象に残った夢ってある？",
+    "category": "recentLife"
+  },
+  {
+    "question": "私たちが最初にどうやって仲良くなったか覚えてる？",
+    "category": "memories"
+  },
+  {
+    "question": "一緒に過ごしたことで今でもたまに思い出すことってある？",
+    "category": "memories"
+  },
+  {
+    "question": "学生時代に一番記憶に残っているシーンってある？",
+    "category": "memories"
+  },
+  {
+    "question": "子どものころ絶対食べないって言っていた食べ物ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "一番古い友達はどうやって出会った友達？",
+    "category": "memories"
+  },
+  {
+    "question": "今でもたまに思い出す子どものころの記憶ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "友達とのエピソードで一番びっくりしたことって何？",
+    "category": "memories"
+  },
+  {
+    "question": "子どものころよくしていた遊びやゲームって何？",
+    "category": "memories"
+  },
+  {
+    "question": "初めて一人で何かをやり遂げた記憶ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "学校時代に一番記憶に残った出来事って何？",
+    "category": "memories"
+  },
+  {
+    "question": "今まで行った旅行の中で一番記憶に残っているところはどこ？",
+    "category": "memories"
+  },
+  {
+    "question": "子どものころ一番好きだった場所ってどこ？",
+    "category": "memories"
+  },
+  {
+    "question": "子どものころの夢の職業は何だった？",
+    "category": "memories"
+  },
+  {
+    "question": "友達に初めて秘密を打ち明けた記憶ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "一番記憶に残っている誕生日パーティーや記念日ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "子どものころ親に怒られた理由で一番笑えるものって何？",
+    "category": "memories"
+  },
+  {
+    "question": "初めてお金を稼いだとき何をした？",
+    "category": "memories"
+  },
+  {
+    "question": "学校で一番好きだった教科と嫌いだった教科は何？",
+    "category": "memories"
+  },
+  {
+    "question": "子どものころ一番好きだった食べ物は今でも好き？",
+    "category": "memories"
+  },
+  {
+    "question": "初めて海外へ行ったときのことって覚えてる？",
+    "category": "memories"
+  },
+  {
+    "question": "今思うと「なんであんな流行に乗ってたんだろう」って感じる子どものころの流行ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "中学生のときに一番好きだった曲って覚えてる？",
+    "category": "memories"
+  },
+  {
+    "question": "子どものころテレビで必ず見ていた番組って何？",
+    "category": "memories"
+  },
+  {
+    "question": "初めて一人で遠くへ旅行したのはいつ？",
+    "category": "memories"
+  },
+  {
+    "question": "学生時代に先生に褒められて記憶に残っている瞬間ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "今でもたまに会いたい昔の友達っている？",
+    "category": "memories"
+  },
+  {
+    "question": "子どものころ秘密基地や隠れ家があった？",
+    "category": "memories"
+  },
+  {
+    "question": "一番長く付き合っている友達との第一印象はどうだった？",
+    "category": "memories"
+  },
+  {
+    "question": "今でも大切にとってある古いものってある？",
+    "category": "memories"
+  },
+  {
+    "question": "子どものころハマっていた趣味やキャラクターってある？",
+    "category": "memories"
+  },
+  {
+    "question": "今思うと「あのころはすごく純粋だったな」と感じる記憶ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "初めてお酒を飲んだときの記憶って覚えてる？",
+    "category": "memories"
+  },
+  {
+    "question": "子どものころクラスでどんなポジションだった？",
+    "category": "memories"
+  },
+  {
+    "question": "親と一番幸せだった思い出ってある？",
+    "category": "memories"
+  },
+  {
+    "question": "過去に自分に大きな影響を与えた人っている？",
+    "category": "memories"
+  },
+  {
+    "question": "子どものころ一番怖かった経験って何？",
+    "category": "memories"
+  },
+  {
+    "question": "高校時代にたった一日だけ戻れるとしたらどんな日に戻りたい？",
+    "category": "memories"
+  },
+  {
+    "question": "今でもたまに思い出す恩師みたいな先生ってる？",
+    "category": "memories"
+  },
+  {
+    "question": "子どものころいたずらして捕まったエピソードってある？",
+    "category": "memories"
+  },
+  {
+    "question": "一番記憶に残っている卒業式や入学式のエピソードってある？",
+    "category": "memories"
+  },
+  {
+    "question": "私に一度も言ったことなかったけど、今なら言えることってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "友達に正直に言うのが難しいと感じた瞬間ってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "表向きは平気そうにしていたけど、実はかなりつらかったことってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "人が自分について誤解していることってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "あまり表に出さない感情ってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "誰かに申し訳なくてまだちゃんと謝れていないことってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "実はちょっと怖いなと思っていることってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "外では明るくしていたけど、心の中ではつらかった時期ってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "みんなが当たり前にできることで、実は自分にはちょっときついことってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "表現できなかったけど本当に感謝していた人っている？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "自分自身に正直に認めるのが一番難しいことって何？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "期待されることがたまにプレッシャーに感じたことってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "一人でいるときだけ湧いてくる感情ってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "実は人前ではあまり見せない自分の一面ってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "できるふりをしていたけど実はよくわかっていなかったことってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "友達のことをうらやましいと思ったことってある？正直に教えて？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "一番傷つきやすい部分ってどこ？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "最近一番よく感じる不安って何？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "これまで後悔している言葉を言ったことってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "どんな状況のとき一番自分らしくないと感じる？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "誰かに気持ちをわかってほしかったのに、わかってもらえなかったことってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "今自分に一番必要なものって何？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "完璧に見せようと頑張ったことってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "感情を隠すことが習慣になってるなと感じたことってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "友達と一緒にいるのに孤独を感じたことってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "自分が一番自信のない部分って何？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "友達に正直に言えなくて関係がこじれたことってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "一番自分を責めてしまう状況って何？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "ちょっと恥ずかしいけど実はまだ好きなものってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "表情や言葉と違って、心の中は別の感情だった瞬間ってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "最近一人で悩んでいることってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "気づかないうちに避けている状況や感情ってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "うまくやりたいのについためらってしまうことってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "一番つらかったとき、誰にも言えなかった理由って何？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "気持ちを表に出さない方？全部表現する方？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "自分に対して期待しすぎているなと感じたことってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "今この瞬間、正直な気持ちはどう？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "みんなの前で笑っていたけど実は違う感情だったことってある？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "最近本当に泣きたかった瞬間はいつ？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "今私に言いたいことってある？何でもいいよ。",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "本当の友達だと感じさせてくれた瞬間ってある？",
+    "category": "friendship"
+  },
+  {
+    "question": "友情が壊れそうになってからかえって深まった経験ってある？",
+    "category": "friendship"
+  },
+  {
+    "question": "友達が言ってくれた言葉で今でも覚えているひと言ってある？",
+    "category": "friendship"
+  },
+  {
+    "question": "昔からの友達と大人になって関係がどう変わったと思う？",
+    "category": "friendship"
+  },
+  {
+    "question": "友達のために一番大きく犠牲にした経験ってある？",
+    "category": "friendship"
+  },
+  {
+    "question": "友情を続けるために一番大切なことって何だと思う？",
+    "category": "friendship"
+  },
+  {
+    "question": "お互いの違いがかえって仲良くなる助けになったと思う？",
+    "category": "friendship"
+  },
+  {
+    "question": "友達に正直に嫌なことを伝えたことってある？",
+    "category": "friendship"
+  },
+  {
+    "question": "本当につらいとき一番最初に連絡したい人は誰？",
+    "category": "friendship"
+  },
+  {
+    "question": "私たちの友情で一番大切な瞬間を一つ挙げるとしたら？",
+    "category": "friendship"
+  },
+  {
+    "question": "年を重ねて友情についての考えが変わったことってある？",
+    "category": "friendship"
+  },
+  {
+    "question": "友達関係で絶対やってはいけないと思うことって何？",
+    "category": "friendship"
+  },
+  {
+    "question": "新しい友達を作るのがだんだん難しくなってきたと感じてる？",
+    "category": "friendship"
+  },
+  {
+    "question": "自分にとって友達ってどういう意味？",
+    "category": "friendship"
+  },
+  {
+    "question": "一番長い友情を続けられた秘訣って何だと思う？",
+    "category": "friendship"
+  },
+  {
+    "question": "友達がしてくれたことで一番感動したのって何？",
+    "category": "friendship"
+  },
+  {
+    "question": "友情と恋愛、どっちの方が長続きすると思う？",
+    "category": "friendship"
+  },
+  {
+    "question": "疎遠になった友達ができたとき、どんな気持ちだった？",
+    "category": "friendship"
+  },
+  {
+    "question": "友達に頼ったことってある？どんな状況だった？",
+    "category": "friendship"
+  },
+  {
+    "question": "私たちの友情、10年後も続いていると思う？",
+    "category": "friendship"
+  },
+  {
+    "question": "友達に物足りなさを感じたことってある？どう解決した？",
+    "category": "friendship"
+  },
+  {
+    "question": "友情が深まる瞬間ってどういうときだと思う？",
+    "category": "friendship"
+  },
+  {
+    "question": "言葉なくても通じ合うことってある？私たちの間で？",
+    "category": "friendship"
+  },
+  {
+    "question": "友達を選ぶとき一番大切にしていることって何？",
+    "category": "friendship"
+  },
+  {
+    "question": "時間が経っても変わらない私たちだけのものってある？",
+    "category": "friendship"
+  },
+  {
+    "question": "どんな友達と一緒にいると一番自分らしいと感じる？",
+    "category": "friendship"
+  },
+  {
+    "question": "友達を失った経験ってある？そのときどう受け止めた？",
+    "category": "friendship"
+  },
+  {
+    "question": "友情を続けるのに一番難しい部分って何？",
+    "category": "friendship"
+  },
+  {
+    "question": "友達に感謝を伝えたのはいつだった？",
+    "category": "friendship"
+  },
+  {
+    "question": "私たちが初めて会ったときと今とで変わったことってある？",
+    "category": "friendship"
+  },
+  {
+    "question": "一番大切な友情の思い出を一つ挙げるとしたら？",
+    "category": "friendship"
+  },
+  {
+    "question": "友達から学んだ一番大切なことって何？",
+    "category": "friendship"
+  },
+  {
+    "question": "友情と義理は同じだと思う？それとも違う？",
+    "category": "friendship"
+  },
+  {
+    "question": "今あまり連絡が取れていない友達にまた先から連絡したい気持ちってある？",
+    "category": "friendship"
+  },
+  {
+    "question": "本当の友達だなと感じさせてくれる行動って何？",
+    "category": "friendship"
+  },
+  {
+    "question": "友達と大喧嘩してから関係が変わったことってある？",
+    "category": "friendship"
+  },
+  {
+    "question": "私がつらいと気づかなくても察してくれた友達っている？",
+    "category": "friendship"
+  },
+  {
+    "question": "大人になるほど友情を守るのがより難しいと感じてる？",
+    "category": "friendship"
+  },
+  {
+    "question": "友達関係でもっとうまくやりたい部分ってある？",
+    "category": "friendship"
+  },
+  {
+    "question": "今ここで感謝の気持ちを伝えたい人っている？",
+    "category": "friendship"
+  }
+]

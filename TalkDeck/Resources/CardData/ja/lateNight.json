@@ -1,0 +1,642 @@
+[
+  {
+    "question": "今この瞬間、頭に浮かぶ曲は？",
+    "category": "emotional"
+  },
+  {
+    "question": "今日一日の中で一番よかった瞬間は？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近よく聴いてる曲がある？なぜその曲なんだと思う？",
+    "category": "emotional"
+  },
+  {
+    "question": "今夜に合う色を一つ選ぶとしたら？",
+    "category": "emotional"
+  },
+  {
+    "question": "今日一番正直な気持ちを一言で表すと？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近一番よく感じる感情は何？",
+    "category": "emotional"
+  },
+  {
+    "question": "心が温かくなった直近の瞬間はいつ？",
+    "category": "emotional"
+  },
+  {
+    "question": "夜に一人でいるとき、主にどんなことを考える？",
+    "category": "emotional"
+  },
+  {
+    "question": "今この瞬間を一枚の写真に収めるとしたらどんな場面だと思う？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近どんな感情が一番不思議に感じる？",
+    "category": "emotional"
+  },
+  {
+    "question": "誰かに急に連絡したくなることがある？どんな瞬間に？",
+    "category": "emotional"
+  },
+  {
+    "question": "一番最近、何かにときめいたのはいつ？",
+    "category": "emotional"
+  },
+  {
+    "question": "悲しいとき、主に何をして気持ちを落ち着かせる？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近、寝る前に一番よくしてる考えは？",
+    "category": "emotional"
+  },
+  {
+    "question": "感動して涙を流したのはいつ？",
+    "category": "emotional"
+  },
+  {
+    "question": "今この瞬間、一番懐かしいものがあるとしたら？",
+    "category": "emotional"
+  },
+  {
+    "question": "一人でいたいときと誰かそばにいてほしいとき、どう違う？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近、どんな感情を抑えてると思う？",
+    "category": "emotional"
+  },
+  {
+    "question": "気持ちが複雑なとき、どうやって整理する？",
+    "category": "emotional"
+  },
+  {
+    "question": "一番幸せだった記憶を思い浮かべると、どんな場面が出てくる？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近好きな空間や場所がある？",
+    "category": "emotional"
+  },
+  {
+    "question": "今誰かに感謝の気持ちがあるとしたら？",
+    "category": "emotional"
+  },
+  {
+    "question": "気分が悪いとき、自然とやってしまう行動がある？",
+    "category": "emotional"
+  },
+  {
+    "question": "今夜を一番よく表す匂いがあるとしたら？",
+    "category": "emotional"
+  },
+  {
+    "question": "今日一番笑った瞬間はいつ？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近、感情的に疲れてる？どんな部分で？",
+    "category": "emotional"
+  },
+  {
+    "question": "心が落ち着くものがあるとしたら何？",
+    "category": "emotional"
+  },
+  {
+    "question": "今この場で感じる気持ちを正直に話してくれる？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近どんな瞬間に孤独を感じる？",
+    "category": "emotional"
+  },
+  {
+    "question": "今夜が終わる前にしたいことがある？",
+    "category": "emotional"
+  },
+  {
+    "question": "今日一日を色で表すとしたら何色？",
+    "category": "emotional"
+  },
+  {
+    "question": "一番慰められた瞬間があるとしたら？",
+    "category": "emotional"
+  },
+  {
+    "question": "今一番聞きたい言葉があるとしたら？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近、理由もなく気持ちが落ちることがある？",
+    "category": "emotional"
+  },
+  {
+    "question": "心が一番落ち着くのはいつ？",
+    "category": "emotional"
+  },
+  {
+    "question": "今日一番しんどかった瞬間があったとしたら？",
+    "category": "emotional"
+  },
+  {
+    "question": "今この瞬間、そばにいてほしい人がいる？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近、理由もなく気分がよかったことがある？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近、自分を一番考えさせるものは何？",
+    "category": "emotional"
+  },
+  {
+    "question": "今この場が終わって、どんな気持ちで帰りたい？",
+    "category": "emotional"
+  },
+  {
+    "question": "幸せとは結局何だと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "人はなぜつながりたいんだと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "年を取るってどんな意味だと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "本当の自由があると思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "人は根本的に善だと思う？悪だと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "よく生きるってどんな生き方だと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "愛と友情の境界線はどこだと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "死が怖くないようにするには、どう生きればいいと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "運命はあると思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "時間が一番大切な資源だと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "人は一人でいるときの方が正直になれる？それとも一緒にいるとき？",
+    "category": "philosophy"
+  },
+  {
+    "question": "今この瞬間に集中するのが難しいのはなぜだと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "どんな人を「いい人」だと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "生きる上で意味を見つけることが大事だと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "後悔なく生きることって可能だと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "関係は維持するものなの？それとも自然に流れていくものなの？",
+    "category": "philosophy"
+  },
+  {
+    "question": "成功と幸せは同じものだと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "人が変わるっていいことなの？悪いことなの？",
+    "category": "philosophy"
+  },
+  {
+    "question": "自分が自分の人生の主人公だと感じてる？",
+    "category": "philosophy"
+  },
+  {
+    "question": "勇気と無謀の違いは何だと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "真実を言うことが常に正しいと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "自分を愛するってどういう意味だと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "記憶って真実なの？それとも自分が作った物語なの？",
+    "category": "philosophy"
+  },
+  {
+    "question": "完璧な関係って存在すると思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "今この瞬間が10年後の自分にとってどんな意味を持つと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "他人に頼ることって弱さなの？強さなの？",
+    "category": "philosophy"
+  },
+  {
+    "question": "失敗が成功より大切な瞬間ってあると思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "言わなくても通じ合える関係があると思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "人は一人で生まれて一人で死ぬという言葉は慰めになる？それとも悲しい？",
+    "category": "philosophy"
+  },
+  {
+    "question": "感謝の気持ちを長く保つのが難しいのはなぜだろう？",
+    "category": "philosophy"
+  },
+  {
+    "question": "今自分が選んでいることが自分を作り上げていると感じる？",
+    "category": "philosophy"
+  },
+  {
+    "question": "時間が経てばたいていのことはたいしたことじゃなくなると思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "自分のことをどれくらいよく知ってると思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "一番意味のある会話ってどんな会話だと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "傷つくことで人は強くなると思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "お金で買えないものの中で一番大切なのは何だと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "生きる上で一番無意味に使われてるのは何だと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "今一番確信していることと一番不確かなことがあるとしたら？",
+    "category": "philosophy"
+  },
+  {
+    "question": "幸せは分け合うほど大きくなると思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "今の自分に一番必要なことは何だと思う？",
+    "category": "philosophy"
+  },
+  {
+    "question": "今日、自分に正直に言いたいことがある？",
+    "category": "confession"
+  },
+  {
+    "question": "自分のことで気になってたけど聞けなかったことがある？",
+    "category": "confession"
+  },
+  {
+    "question": "最近、誰にも話せてないことがある？",
+    "category": "confession"
+  },
+  {
+    "question": "普段は表に出さないけど、実は大変なことがある？",
+    "category": "confession"
+  },
+  {
+    "question": "一番最近、勇気を出したことがあるとしたら？",
+    "category": "confession"
+  },
+  {
+    "question": "実はあまり得意じゃないのに、得意なふりしてることがある？",
+    "category": "confession"
+  },
+  {
+    "question": "最近一番気にかかってる人や出来事がある？",
+    "category": "confession"
+  },
+  {
+    "question": "一度も口にしたことのない悩みがあるとしたら？",
+    "category": "confession"
+  },
+  {
+    "question": "今この場で初めて正直に話してみたいことがある？",
+    "category": "confession"
+  },
+  {
+    "question": "一番最近、誰かに傷ついたことがある？",
+    "category": "confession"
+  },
+  {
+    "question": "今の人生で一番解決が難しい問題は何？",
+    "category": "confession"
+  },
+  {
+    "question": "自分だけが知ってる秘密がある？",
+    "category": "confession"
+  },
+  {
+    "question": "一番最近、嘘をついたとしたらどんな状況で？",
+    "category": "confession"
+  },
+  {
+    "question": "いまだに心に引っかかってることがあるとしたら？",
+    "category": "confession"
+  },
+  {
+    "question": "実は認めたくない自分の欠点がある？",
+    "category": "confession"
+  },
+  {
+    "question": "誰かに誤解されてることがあるとしたら？",
+    "category": "confession"
+  },
+  {
+    "question": "実はすごく羨ましく思ってる人がいる？",
+    "category": "confession"
+  },
+  {
+    "question": "今の生き方で言い訳してることがあるとしたら？",
+    "category": "confession"
+  },
+  {
+    "question": "もう一度連絡を取りたい人がいる？",
+    "category": "confession"
+  },
+  {
+    "question": "今日この場で初めて正直に笑えた？",
+    "category": "confession"
+  },
+  {
+    "question": "誰にも言えない自分だけの願いがあるとしたら？",
+    "category": "confession"
+  },
+  {
+    "question": "今の生き方で逃げてることがある？",
+    "category": "confession"
+  },
+  {
+    "question": "一番正直に認めたくない感情があるとしたら？",
+    "category": "confession"
+  },
+  {
+    "question": "誰かにごめんなさいと言えなかった言葉がある？",
+    "category": "confession"
+  },
+  {
+    "question": "最近、自分を追い詰めすぎてると感じたことがある？",
+    "category": "confession"
+  },
+  {
+    "question": "実は怖いけどやってみたいことがある？",
+    "category": "confession"
+  },
+  {
+    "question": "今一番必要な慰めがあるとしたらどんな言葉？",
+    "category": "confession"
+  },
+  {
+    "question": "いまだに完全に忘れられないことがあるとしたら？",
+    "category": "confession"
+  },
+  {
+    "question": "実はすごく気になってるのに、気にしないふりしてることがある？",
+    "category": "confession"
+  },
+  {
+    "question": "最近、自分に一番よく言い聞かせてる言葉は何？",
+    "category": "confession"
+  },
+  {
+    "question": "今、勇気を出して一番やってみたいことがある？",
+    "category": "confession"
+  },
+  {
+    "question": "最近、自分に厳しすぎると感じたことがある？",
+    "category": "confession"
+  },
+  {
+    "question": "生きてきた中で一番後悔してる選択があるとしたら？",
+    "category": "confession"
+  },
+  {
+    "question": "今一番正直に打ち明けたいことがある？",
+    "category": "confession"
+  },
+  {
+    "question": "実は昔から悩み続けてることがある？",
+    "category": "confession"
+  },
+  {
+    "question": "最近、どんな部分で自分を誇らしく感じる？",
+    "category": "confession"
+  },
+  {
+    "question": "今この瞬間に言わないと永遠に言えなそうなことがある？",
+    "category": "confession"
+  },
+  {
+    "question": "実は今日ここに来る直前、どんな気持ちだった？",
+    "category": "confession"
+  },
+  {
+    "question": "今、自分に一番聞きたい言葉がある？",
+    "category": "confession"
+  },
+  {
+    "question": "今まで生きてきた中で一番よかった選択は何だと思う？",
+    "category": "confession"
+  },
+  {
+    "question": "最近、よく見る夢がある？",
+    "category": "dream"
+  },
+  {
+    "question": "叶えたいけど恥ずかしくて言えない夢があるとしたら？",
+    "category": "dream"
+  },
+  {
+    "question": "子どもの頃に持っていた夢が今も残ってる？",
+    "category": "dream"
+  },
+  {
+    "question": "今すぐ何でも可能だとしたら、一番やりたいことは？",
+    "category": "dream"
+  },
+  {
+    "question": "5年後の自分はどこで何をしてると思う？",
+    "category": "dream"
+  },
+  {
+    "question": "一番印象に残っている夢がある？どんな夢？",
+    "category": "dream"
+  },
+  {
+    "question": "夢によく出てくる場所がある？",
+    "category": "dream"
+  },
+  {
+    "question": "諦めた夢があるとしたら、今も心に残ってる？",
+    "category": "dream"
+  },
+  {
+    "question": "今年中に絶対に叶えたいことがあるとしたら？",
+    "category": "dream"
+  },
+  {
+    "question": "死ぬ前に絶対やっておきたいと思うことがある？",
+    "category": "dream"
+  },
+  {
+    "question": "夢を見るとき、主にどんな気持ちで目が覚める？",
+    "category": "dream"
+  },
+  {
+    "question": "10年後の自分が今の自分を見たら、何て言ってくれると思う？",
+    "category": "dream"
+  },
+  {
+    "question": "今叶えたい夢がどれくらい現実的だと思う？",
+    "category": "dream"
+  },
+  {
+    "question": "夢の中で会いたい人がいる？",
+    "category": "dream"
+  },
+  {
+    "question": "叶わないかもしれない夢でも諦めないでいられるものがある？",
+    "category": "dream"
+  },
+  {
+    "question": "自分が夢見る生き方の姿がある？",
+    "category": "dream"
+  },
+  {
+    "question": "夢と現実の間で諦めずにいる理由があるとしたら？",
+    "category": "dream"
+  },
+  {
+    "question": "今の自分に一番必要な勇気があるとしたら？",
+    "category": "dream"
+  },
+  {
+    "question": "一番最近想像してみた未来の姿がある？",
+    "category": "dream"
+  },
+  {
+    "question": "夢の中でもう一度会いたい思い出がある？",
+    "category": "dream"
+  },
+  {
+    "question": "人に止められてもやりたいことがある？",
+    "category": "dream"
+  },
+  {
+    "question": "今やってることが自分の夢につながってる？",
+    "category": "dream"
+  },
+  {
+    "question": "子どもの頃に見ていた夢で今実現したことがある？",
+    "category": "dream"
+  },
+  {
+    "question": "夢によく出てくる人がいる？",
+    "category": "dream"
+  },
+  {
+    "question": "自分が夢見る理想の一日があるとしたら？",
+    "category": "dream"
+  },
+  {
+    "question": "今一番切実に望んでることは何？",
+    "category": "dream"
+  },
+  {
+    "question": "夢を叶えるために今やってることがある？",
+    "category": "dream"
+  },
+  {
+    "question": "一番ぶっ飛んでた夢の内容がある？",
+    "category": "dream"
+  },
+  {
+    "question": "現実では叶えられなくて、夢の中でだけでも叶えたいことがある？",
+    "category": "dream"
+  },
+  {
+    "question": "自分が想像する10年後の自分はどんな姿？",
+    "category": "dream"
+  },
+  {
+    "question": "夢を見ている途中で目が覚めて、悔しかったことがある？",
+    "category": "dream"
+  },
+  {
+    "question": "まだ始められていない夢があるとしたら？",
+    "category": "dream"
+  },
+  {
+    "question": "今の自分の夢を一番よく知ってるのは誰？",
+    "category": "dream"
+  },
+  {
+    "question": "夢が叶ったとき、一番最初にやりたいことがある？",
+    "category": "dream"
+  },
+  {
+    "question": "今この瞬間、たった一つの夢だけが叶うとしたら何を選ぶ？",
+    "category": "dream"
+  },
+  {
+    "question": "一番現実的な自分の夢と一番非現実的な自分の夢は何？",
+    "category": "dream"
+  },
+  {
+    "question": "夢と安定の間で悩んだことがある？",
+    "category": "dream"
+  },
+  {
+    "question": "誰かが応援してくれたことで、また夢を見られるようになった経験がある？",
+    "category": "dream"
+  },
+  {
+    "question": "夢を叶える上で一番大きな障害は何だと思う？",
+    "category": "dream"
+  },
+  {
+    "question": "今夜が終わって、明日一番楽しみなことがある？",
+    "category": "dream"
+  }
+]

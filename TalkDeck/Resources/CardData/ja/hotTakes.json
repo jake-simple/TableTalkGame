@@ -1,0 +1,642 @@
+[
+  {
+    "question": "ラーメンとうどん、迷わずすぐ選べる？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "パイナップルのピザ、アリ vs ナシ？理由も一緒に言ってみて",
+    "category": "dailyLife"
+  },
+  {
+    "question": "から揚げは骨ありとボーンレス、どっちの方がおいしい？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "バスと電車、どっちの方がいいと思う？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "朝ごはんは必ず食べるべき vs 別に食べなくていい、どっち派？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "カフェでノートパソコン作業してる人、いいと思う？それとも空気読んでないと思う？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "出前の送料、いくらまでなら払う気になる？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "冷麺とざるそば、どっち派？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "アラームを何回もセットする人 vs 一回だけセットする人、どっちが理解できる？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "靴を買うとき、履き心地が大事？それともデザインが大事？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "連絡が少ない友達 vs 連絡が多くてプレッシャーな友達、どっちがしんどい？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "飲食店で先に席を取る人 vs 先に注文する人、どっちの役割の方が嫌い？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "スーパーに行くとき、エコバッグは絶対持っていくべき vs ビニール袋たまに使ってもいい？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "並んでいるとき割り込まれたら、言う vs 言わない、どっち派？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "コーヒーはアイスと温かいの、季節関係なくどっち派？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "タクシー代がもったいなくて歩く vs お金を出して楽に行く、どんなスタイル？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "飲み会で先に帰る人って悪いの？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "飲食店で残った料理を包んでもらうのは自然なこと？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "グループLINEの通知をオフにするのは失礼なこと？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "プレゼントは自分で選んだもの vs 現金やギフト券、どっちの方が嬉しい？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "公共の場で電話するとき声を小さくするのは当然 vs 静かな通話マナーを強要しすぎ？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "映画館でポップコーンを食べるのは当然のこと？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "道で知り合いを見かけたとき、見ないふりするの理解できる？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "飲食店で店員さんを呼ぶとき、手を挙げる vs 大きな声で呼ぶ、どっちが楽？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "LINEを読んだのに返信しないのと、未読スルー、どっちの方が悪い？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "出前と直接行って食べるの、どっちの味がより大事？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "エレベーターで他の人と目が合ったとき、どうする？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "食べ物を残すのは無駄遣い？それとも全部食べようとするのが強迫観念？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "家の中でスリッパを履くのは必須？それともなくてもいい？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "約束の時間にぴったり来る人 vs 5分前に来る人、どっちの方が好き？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "スニーカーの紐、ちゃんと結んで履くべき vs 踏んで履いてもいい？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "自習室とカフェ、勉強するならどっちがいい？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "深夜に出前を頼むのは迷惑？それともそうでもない？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "外食のとき割り勘 vs 一人が払って次回交代、どっちが楽？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "コンビニのおにぎり vs 家で作ったおにぎり、どっちの方がまし？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "食べ物の写真を撮ってから食べるのは当然のこと？それともそのまま食べる方がいい？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "一緒に住んでる人と冷蔵庫を共有するのは快適？不快？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "ご飯を食べながらテレビやYouTubeをつけておくのが好き？それともそのまま食べる方がいい？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "洗濯機を回す前に服を色別に分けるのは絶対必要？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "カフェで席を取るためにバッグを置いておくのはアリ？ナシ？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "サブスク時代に映画館に行く意味があると思う？",
+    "category": "culture"
+  },
+  {
+    "question": "SNSは人間関係をよくした？悪くした？",
+    "category": "culture"
+  },
+  {
+    "question": "YouTubeショーツやInstagramリールが集中力を壊していると思う？",
+    "category": "culture"
+  },
+  {
+    "question": "アイドルのファンダム文化、理解できる？それとも少し過剰だと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "本は紙の本で読む方がより意味があると思う？",
+    "category": "culture"
+  },
+  {
+    "question": "リメイクのドラマや映画が原作より優れていた例があると思う？",
+    "category": "culture"
+  },
+  {
+    "question": "AIが描いた絵も芸術と言えると思う？",
+    "category": "culture"
+  },
+  {
+    "question": "K-POPやK-カルチャーが日本や世界のイメージアップに本当に役立ったと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "有名人が宣伝している商品、信用できる？",
+    "category": "culture"
+  },
+  {
+    "question": "芸能人のプライベートが公開されるのはどこまでいい？",
+    "category": "culture"
+  },
+  {
+    "question": "ニュースよりInstagramやYouTubeの方が正確だと感じたことがある？",
+    "category": "culture"
+  },
+  {
+    "question": "字幕なしで映画を観る方がいい？字幕があった方がいい？",
+    "category": "culture"
+  },
+  {
+    "question": "チャートのストリーミング操作問題、ファンが悪いの？それともシステムの問題？",
+    "category": "culture"
+  },
+  {
+    "question": "テキストより動画で情報を消費するのは怠惰じゃないと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "海外旅行に行くのと歴史的問題は別だと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "有名人のSNSをフォローすることは生活に役立つ？それとも比較ばかりするようになる？",
+    "category": "culture"
+  },
+  {
+    "question": "ミュージックビデオのクオリティが音楽と同じくらい大事だと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "コンビニ弁当の文化が発展したのはいいことだと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "スニーカーの限定品転売文化、理解できる？それとも過剰だと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "最近のドラマは昔より良くなったと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "インフルエンサーの影響力が大きくなりすぎたと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "ゲームはスポーツとして認められるべきだと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "悪役が出てくるドラマは善いヒーローが主人公のドラマより面白いと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "ウェブコミックが紙の漫画より大衆化したのはいいことだと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "海外旅行は国内旅行よりいつも特別なの？",
+    "category": "culture"
+  },
+  {
+    "question": "結婚式のご祝儀、いくらが妥当だと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "お盆や年末年始などの行事の文化は変わるべきだと思う？どう？",
+    "category": "culture"
+  },
+  {
+    "question": "公演中のスマホ使用は完全禁止にすべき？",
+    "category": "culture"
+  },
+  {
+    "question": "AI翻訳の発展で外国語を勉強する必要性が減ったと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "SNSなしでマーケティングすることは可能だと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "最近のコンテンツが刺激的になりすぎていると思う？",
+    "category": "culture"
+  },
+  {
+    "question": "大手IT企業が多くのものを独占しすぎていると思う？",
+    "category": "culture"
+  },
+  {
+    "question": "ウェルネストレンドは本当に生活を変えると思う？それともマーケティングだけ？",
+    "category": "culture"
+  },
+  {
+    "question": "有名人が自分で料理YouTubeチャンネルをやるの、面白いと思う？それともイメージ消費？",
+    "category": "culture"
+  },
+  {
+    "question": "ネタバレを見ても楽しめると思う？",
+    "category": "culture"
+  },
+  {
+    "question": "カラオケ文化がだんだん消えていくのは残念？",
+    "category": "culture"
+  },
+  {
+    "question": "就職の場面でスペックより人間性の方が大事にされるべきだと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "ブランド品はお金の無駄だと思う？それとも価値ある消費？",
+    "category": "culture"
+  },
+  {
+    "question": "YouTuberも放送人と同じくらい影響力に対する責任を持つべきだと思う？",
+    "category": "culture"
+  },
+  {
+    "question": "TikTokやリールのような短い動画コンテンツが長い動画に取って代わっていると思う？",
+    "category": "culture"
+  },
+  {
+    "question": "男女の間に純粋な友情は存在すると思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "恋人同士の間で秘密があってもいいと思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "付き合う前に友達として過ごした方が長続きすると思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "連絡の頻度が感情の大きさを表すと思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "一目惚れって本当の愛になれると思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "友達関係で年齢差って大事だと思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "恋人同士でお互いのSNSアカウントを知っておくべきだと思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "遠距離恋愛って可能だと思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "人は変われる vs 本性は変えられない、どっちに近い？",
+    "category": "relationship"
+  },
+  {
+    "question": "別れた後に友達として続けることは可能？",
+    "category": "relationship"
+  },
+  {
+    "question": "恋人同士でなんでも正直に話すのが無条件にいいことなの？",
+    "category": "relationship"
+  },
+  {
+    "question": "「好き」の前段階って必要なステップ？それともただ時間の無駄？",
+    "category": "relationship"
+  },
+  {
+    "question": "友達同士でお金の貸し借りはしてはいけないと思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "恋人の過去の恋愛話は絶対知っておくべき？",
+    "category": "relationship"
+  },
+  {
+    "question": "浮気した人はもう二度と信頼しにくいと思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "人と仲良くなるとき、共通点が大事？それとも違いが大事？",
+    "category": "relationship"
+  },
+  {
+    "question": "片想いを長くするのは勇気がないこと？それとも純粋なこと？",
+    "category": "relationship"
+  },
+  {
+    "question": "恋人と趣味を必ず一緒にしないといけない必要はないと思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "家族より友達が大事になることもあると思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "合コンのセッティングって負担の大きいお願い？そうでもない？",
+    "category": "relationship"
+  },
+  {
+    "question": "10歳以上年齢差のある恋愛、問題ないと思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "恋人と一緒に住んでみる前に結婚するのは冒険？",
+    "category": "relationship"
+  },
+  {
+    "question": "友達の友達は自分の友達になれる？それともなんとなく距離感がある？",
+    "category": "relationship"
+  },
+  {
+    "question": "関係の中で先に連絡する人の方がより好きってこと？",
+    "category": "relationship"
+  },
+  {
+    "question": "恋人同士の経済的独立が関係にとってよいと思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "友達がよくない恋愛をしているとき、正直に言うべき？",
+    "category": "relationship"
+  },
+  {
+    "question": "人を好きになる気持ちは努力次第で生まれると思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "結婚は愛だけで成り立つ vs 現実的な条件も合っていないといけない？",
+    "category": "relationship"
+  },
+  {
+    "question": "恋人と喧嘩したとき、その場で解決すべき？それぞれ気持ちを落ち着かせてから？",
+    "category": "relationship"
+  },
+  {
+    "question": "好きな人に先に告白する方がいい？",
+    "category": "relationship"
+  },
+  {
+    "question": "疎遠になった友達に先に連絡するのが正しい？",
+    "category": "relationship"
+  },
+  {
+    "question": "恋人の友達とも仲よくしないといけないと思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "親が恋人に反対したら、どうする？",
+    "category": "relationship"
+  },
+  {
+    "question": "ソウルメイトって存在すると思う？",
+    "category": "relationship"
+  },
+  {
+    "question": "友達に腹が立ったとき、直接言う方がいい？それともそのままスルーする方がいい？",
+    "category": "relationship"
+  },
+  {
+    "question": "恋人同士でお互いのスマホを見られるべき vs 個人の空間は守られるべき？",
+    "category": "relationship"
+  },
+  {
+    "question": "関係は努力して維持するもの？それとも自然に流れるもの？",
+    "category": "relationship"
+  },
+  {
+    "question": "忙しいときに連絡が減るのは理解できる？",
+    "category": "relationship"
+  },
+  {
+    "question": "恋人同士の嫉妬は愛の証拠？それとも執着？",
+    "category": "relationship"
+  },
+  {
+    "question": "仲のいい友達の元恋人と付き合うのはアリ？",
+    "category": "relationship"
+  },
+  {
+    "question": "お金があれば大体の幸せは買えると思う？",
+    "category": "life"
+  },
+  {
+    "question": "一生懸命生きることより楽しく生きることの方が大事だと思う？",
+    "category": "life"
+  },
+  {
+    "question": "成功は運が50%以上だと思う？",
+    "category": "life"
+  },
+  {
+    "question": "幸せに生きることがよく生きること vs 意味を持って生きることがよく生きること？",
+    "category": "life"
+  },
+  {
+    "question": "学歴は社会でまだ大事だと思う？",
+    "category": "life"
+  },
+  {
+    "question": "他人と比べることは悪いことだけじゃないと思う？",
+    "category": "life"
+  },
+  {
+    "question": "自分自身を先に大切にするのは利己的なこと？そうでもない？",
+    "category": "life"
+  },
+  {
+    "question": "努力すれば何でも叶えられるって言葉、賛成する？",
+    "category": "life"
+  },
+  {
+    "question": "30代と20代、どっちの方が自由だと思う？",
+    "category": "life"
+  },
+  {
+    "question": "経験が多いほどより良い人になると思う？",
+    "category": "life"
+  },
+  {
+    "question": "今やりたくないことも将来のために我慢すべき vs 今幸せなことが優先？",
+    "category": "life"
+  },
+  {
+    "question": "結婚は絶対しないといけないと思う？",
+    "category": "life"
+  },
+  {
+    "question": "人は一人でいると成長する vs 関係の中で成長する？",
+    "category": "life"
+  },
+  {
+    "question": "正直な人が結局うまくいくと思う？",
+    "category": "life"
+  },
+  {
+    "question": "仕事は好きなことをすべき vs 得意なことをすべき？",
+    "category": "life"
+  },
+  {
+    "question": "安定した生活の方が幸せ？それともダイナミックな生活の方が幸せ？",
+    "category": "life"
+  },
+  {
+    "question": "年を取るほど夢が小さくなるのは自然なこと？",
+    "category": "life"
+  },
+  {
+    "question": "感情より理性が大事な決断でよりよい結果を生むと思う？",
+    "category": "life"
+  },
+  {
+    "question": "今の時代、普通に生きることがどんどん難しくなってきていると思う？",
+    "category": "life"
+  },
+  {
+    "question": "失敗は成功のもとって言葉、本当に賛成する？",
+    "category": "life"
+  },
+  {
+    "question": "裕福な家に生まれることって能力なの？そうでもないの？",
+    "category": "life"
+  },
+  {
+    "question": "40歳になる前にやりたいことは全部やっておくべきだと思う？",
+    "category": "life"
+  },
+  {
+    "question": "誠実に生きれば結局いいことが起きると信じてる？",
+    "category": "life"
+  },
+  {
+    "question": "今の世代は親の世代より大変だと思う？",
+    "category": "life"
+  },
+  {
+    "question": "自分を犠牲にするのが本当の愛 vs 自分を失ってはいけない？",
+    "category": "life"
+  },
+  {
+    "question": "仕事を辞めて起業するの、挑戦する価値があると思う？",
+    "category": "life"
+  },
+  {
+    "question": "親に親孝行すべきという義務感を感じる？",
+    "category": "life"
+  },
+  {
+    "question": "理不尽なことにあったとき、我慢するのが賢明なこと？",
+    "category": "life"
+  },
+  {
+    "question": "年齢らしく生きるってことがあると思う？",
+    "category": "life"
+  },
+  {
+    "question": "心配しすぎることは準備ができているということ？それともエネルギーの無駄？",
+    "category": "life"
+  },
+  {
+    "question": "人生で後悔を最小化することが目標になれる？",
+    "category": "life"
+  },
+  {
+    "question": "周りの目を気にして決断を変えたことがある？それって正しいと思う？",
+    "category": "life"
+  },
+  {
+    "question": "悪い経験も結局は役に立つと思う？",
+    "category": "life"
+  },
+  {
+    "question": "熱意がなくても誠実にできるなら、それがより良い生き方？",
+    "category": "life"
+  },
+  {
+    "question": "一生一つの仕事だけをする方がいい？それともいろいろな生き方が好き？",
+    "category": "life"
+  },
+  {
+    "question": "死ぬ前に後悔なく生きられたと感じることができると思う？",
+    "category": "life"
+  },
+  {
+    "question": "いい家といい旅行、一つだけ選ぶとしたら？",
+    "category": "life"
+  },
+  {
+    "question": "人生では運が努力より大事だと思う？",
+    "category": "life"
+  },
+  {
+    "question": "一人が楽な人は人間関係で損をすると思う？",
+    "category": "life"
+  },
+  {
+    "question": "今この瞬間が人生で一番いい時期だと感じてる？",
+    "category": "life"
+  }
+]

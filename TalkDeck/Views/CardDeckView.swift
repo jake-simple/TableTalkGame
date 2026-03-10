@@ -1,8 +1,11 @@
 import SwiftUI
+import UIKit
 
 struct CardDeckView: View {
     @State private var viewModel = CardDeckViewModel()
     @AppStorage("selectedTheme") private var themeRawValue: String = AppTheme.halloween.rawValue
+    @Environment(\.scenePhase) private var scenePhase
+    @State private var isScreenAlwaysOn = false
     @State private var showThemePicker = false
     @State private var showPackPicker = false
     @State private var dragOffset: CGSize = .zero
@@ -52,6 +55,16 @@ struct CardDeckView: View {
                     }
 
                     Spacer()
+
+                    // Screen always-on toggle
+                    Button {
+                        isScreenAlwaysOn.toggle()
+                        UIApplication.shared.isIdleTimerDisabled = isScreenAlwaysOn
+                    } label: {
+                        Image(systemName: isScreenAlwaysOn ? "sun.max.fill" : "sun.max")
+                            .font(.title3)
+                            .foregroundStyle(isScreenAlwaysOn ? theme.accentColor : theme.accentColor.opacity(0.4))
+                    }
 
                     // Theme picker button (right)
                     Button {

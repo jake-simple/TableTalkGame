@@ -93,7 +93,7 @@ enum CardCategory: String, CaseIterable {
     // MARK: - Properties
 
     var name: String {
-        String(localized: String.LocalizationValue("cat_\(rawValue)_name"))
+        NSLocalizedString("cat_\(rawValue)_name", comment: "")
     }
 
     var iconName: String {

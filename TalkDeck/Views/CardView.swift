@@ -5,6 +5,7 @@ struct CardView: View {
     let theme: AppTheme
 
     private let questionFontSize: CGFloat = 28
+    private let questionMinScale: CGFloat = 0.55
 
     var body: some View {
         ZStack {
@@ -96,6 +97,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(8)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 28)
 
             Spacer()
@@ -139,6 +141,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(6)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 28)
 
             Spacer()
@@ -211,6 +214,7 @@ struct CardView: View {
                 .multilineTextAlignment(.center)
                 .lineSpacing(8)
                 .italic()
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 32)
 
             Spacer()
@@ -276,6 +280,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(6)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 24)
 
             Spacer()
@@ -321,6 +326,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(8)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 28)
 
             Spacer()
@@ -385,6 +391,7 @@ struct CardView: View {
                     .foregroundStyle(theme.cardTextColor)
                     .multilineTextAlignment(.leading)
                     .lineSpacing(4)
+                    .minimumScaleFactor(questionMinScale)
             }
             .padding(.horizontal, 22)
 
@@ -423,6 +430,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(8)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 30)
 
             Spacer()
@@ -473,6 +481,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(6)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 26)
 
             Spacer()
@@ -514,6 +523,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(6)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 28)
 
             Spacer()
@@ -563,6 +573,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(6)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 26)
 
             Spacer()
@@ -613,6 +624,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(6)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 28)
 
             Spacer()
@@ -650,6 +662,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(8)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 30)
 
             Spacer()
@@ -694,6 +707,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(7)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 28)
 
             Spacer()
@@ -746,6 +760,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(7)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 28)
 
             Spacer()
@@ -806,6 +821,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(5)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 22)
 
             Spacer()
@@ -855,6 +871,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(8)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 30)
 
             Spacer()
@@ -902,6 +919,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(7)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 26)
 
             Spacer()
@@ -938,6 +956,7 @@ struct CardView: View {
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(8)
+                .minimumScaleFactor(questionMinScale)
                 .padding(.horizontal, 28)
 
             Spacer()

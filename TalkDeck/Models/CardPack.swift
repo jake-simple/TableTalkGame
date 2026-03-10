@@ -20,7 +20,7 @@ enum CardPack: String, CaseIterable, Identifiable {
     var id: String { rawValue }
 
     var name: String {
-        String(localized: String.LocalizationValue("pack_\(rawValue)_name"))
+        NSLocalizedString("pack_\(rawValue)_name", comment: "")
     }
 
     var iconName: String {
@@ -44,7 +44,7 @@ enum CardPack: String, CaseIterable, Identifiable {
     }
 
     var description: String {
-        String(localized: String.LocalizationValue("pack_\(rawValue)_desc"))
+        NSLocalizedString("pack_\(rawValue)_desc", comment: "")
     }
 
     var accentColor: Color {

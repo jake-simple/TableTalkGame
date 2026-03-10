@@ -1,642 +1,162 @@
 [
-  {
-    "question": "Pizza vs. fried chicken — if you could only eat one for life, which would you pick?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Summer or winter — if you had to live in one season forever?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Morning person or night owl — if you had to be one for life?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Coffee or tea — if you could only drink one forever?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Texting or phone calls — if only one way of communicating remained?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Sauced fried chicken or plain fried chicken — if you had to pick just one?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Movie theaters or streaming at home — if you could only choose one forever?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Black bean noodles or spicy seafood noodle soup — if you had to eat only one forever?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Stairs or escalators — if you had to use only one for life?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Bus or subway — if you could only take one form of public transit?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Pork belly or beef — if you could only eat one meat forever?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Delivery or dining out — if you had to pick just one?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Music or podcasts — if you could only listen to one while commuting?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Instagram or YouTube — if only one survived?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Naps or late-night snacks — if you could only enjoy one?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Bread or rice — if you could only eat one carb forever?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Indoors or outdoors — if you always had to eat in one setting?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Cat or dog — if you could only have one as a pet?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Working out or walking — if that was the only physical activity you could do for life?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Domestic travel or international travel — if you could only do one?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Sweet snacks or savory snacks — if you could only have one flavor?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Earphones or speakers — if you could only listen to music one way?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Shower or bath — if you had to stick with one forever?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Books or YouTube — if you could only get information one way?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Ice cream or cake — if you could only have one dessert forever?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Café or home — if you had to always work or study in one place?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Text messages or voice memos — if you could only send messages one way?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Movies or TV series — if you could only watch one type of content?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Cooking yourself or ordering delivery — if you had to eat every meal one way?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Sneakers or dress shoes — if you could only wear one type of footwear?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Convenience store or supermarket — if you had to shop at only one forever?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Cold noodles or ramen noodles — if you could only eat one type of noodle dish?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Quiet café or loud, buzzing café — if you had to always pick one?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Always plan your trips vs. always go spontaneously — if you had to commit to one style?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Hot and sunny weather vs. cool and overcast — if that was your forever climate?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Sweet-salty-sweet-salty vs. light and clean flavors — if your food preferences were fixed?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Sleep early and wake early vs. sleep late and wake late — if that was your permanent schedule?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Go out on weekends vs. stay home — if you had to rest only one way forever?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Always try new menu items vs. always order your usual — if you had to commit to one?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Smartphone or laptop — if you could only use one device?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Rich but lonely vs. poor but surrounded by love?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "A life where you remember everything vs. a life where you forget all bad memories?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Doing what you love but struggling financially vs. hating your work but living comfortably?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Succeeding ten years early but dying young vs. living an ordinary but long life?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "A world where only you tell the truth vs. a world where everyone lies?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "A life where everyone likes you vs. a life where just one person truly loves you?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Achieving your dream but losing your family vs. giving up your dream to keep your family?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Knowing the past but not the future vs. knowing the future but forgetting the past?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "World-famous but no one truly knows you vs. unknown to the world but deeply loved?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Ten short moments of happiness vs. one perfect moment of happiness?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Perfect health but no money vs. lots of money but always sick?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Decent at everything but no standout talent vs. one thing you're absolutely exceptional at?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Someone you love forgetting you vs. you forgetting someone you love?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Losing your best friend to succeed vs. losing your success to keep your best friend?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Loving only one person your whole life vs. loving many people but never deeply?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "A life where you can read everyone's thoughts but your thoughts are exposed to all vs. knowing nothing but keeping your own secrets?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Only excelling at what you love vs. being great at everything even if you hate it?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Remembered but unhappy vs. forgotten but happy?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Perfect health until death vs. a short life where every dream comes true?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Loved but not respected vs. respected but not loved?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Losing what you have now for a chance at something greater vs. keeping what you have but stagnating?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "No time to yourself but never lonely vs. always alone but completely free?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "A life where you admit when you're wrong vs. always believing you're right?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Working hard and failing vs. succeeding without any effort?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Taking a brave leap and regretting it vs. never leaping and regretting that?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "A life shaped by others' expectations vs. a life lived by your own standards?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Knowing all the truth but getting hurt vs. living happily inside a beautiful lie?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Loving one thing completely vs. loving many things a little?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Getting everything you want through a painful journey vs. enjoying the journey but arriving at nothing?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Living without ever fully forgiving someone vs. never being fully forgiven by someone?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Taking on the pain of someone you love vs. having someone you love take on your pain?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Enjoying the present but worrying about the future vs. sacrificing the present for the future?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Making every decision alone vs. always having someone else decide for you?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Genius but lazy vs. ordinary but endlessly hardworking?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Carrying all your bad memories and growing from them vs. erasing them and living light?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "A life where everyone knows everything about you vs. a life where no one knows you at all?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Happy now but full of regret later vs. hard now but deeply rewarding later?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Losing love to gain freedom vs. losing freedom to gain love?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Greatest success but completely unrecognized vs. ordinary life but celebrated by all?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "One big mistake vs. dozens of small ones — which would you rather have?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "A life where you make a honking sound every time you walk vs. a life where every laugh sounds like a fart?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Feet that smell like chocolate vs. breath that smells like garlic — forever?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Hair made of noodles vs. fingernails made of chopsticks?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "A life where you can only speak in song vs. a life where you have to rap everything you say?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Every time you blink a selfie gets taken vs. every time you sneeze fireworks go off?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Your body is invisible but your clothes are visible vs. your clothes are invisible but your body is visible?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "A child's voice forever vs. an old man's voice forever?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Ten hands vs. ten feet?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "You talk in a different language in your sleep every night vs. you forget your own name every time you wake up?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "You make a rooster sound when you're hungry vs. you sing like a songbird when you're full?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "A thought bubble appears above your head whenever you think vs. your mood shows up on your face like the weather?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Background music plays everywhere you walk vs. lighting changes every time your mood shifts?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "You have to narrate every bite of food you eat vs. subtitles appear in the air whenever you speak?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Your height changes by 1cm every day vs. your weight changes by 1kg every day?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "An elephant's nose vs. rabbit ears?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "A fanfare plays every time you use the bathroom vs. you burp with a car horn sound?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "You can see smells as colors vs. you can taste sounds?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Wear slippers every single day forever vs. wear formal business attire every single day forever?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Your name changes every month vs. your face shifts slightly every month?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "You always react one beat too late vs. you laugh at things before they even happen?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "You can only walk backwards vs. you can only sit sideways?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Someone chews your food for you every time you eat vs. you hear your own thoughts in someone else's voice?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Your eyes always close in every photo vs. your tongue always sticks out in every photo?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "You can hear the history of every object you touch vs. you can hear the latest worry of every person you touch?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "You always speak at 2x speed vs. you always move at 0.5x speed?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Your dreams are live-streamed vs. you blurt out your dreams out loud as soon as you wake up?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Everything around you is made of LEGOs vs. everything around you is made of stickers?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "You float upward every time you laugh vs. you get stuck to the floor every time you cry?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "The food you eat shows up as your hair color vs. the music you listen to shows up as your eye color?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "You shrink when you're sleepy vs. you double in size when you're excited?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Every phone call sounds like a cat meowing to the person you're calling vs. every greeting you make comes out in a robot voice?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Feet made of magnets vs. hands covered in velcro?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "A year of your memories disappears on every birthday vs. you get one year younger every year?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "You must dance once a day every day vs. you must sing once a day every day?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Telescope eyes vs. radar ears?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "You can only fall asleep inside a refrigerator vs. you can only shower inside a washing machine?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "All food tastes exactly the same vs. the same food tastes different every time you eat it?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Your memories from the day before get shuffled every morning vs. you dream about a random stranger's life every night?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "You cry when something is funny and laugh when something is sad vs. you sneeze when you're happy and hiccup when you're angry?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Your shadow refuses to follow your movements vs. your reflection does the opposite of what you do?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "A life where you can only tell the truth vs. a life where you can lie freely?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Losing your memories vs. losing your emotions?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Loved but not understood vs. understood but not loved?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "A long but dull life vs. a short but intensely lived life?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Doing everything on your own vs. always needing someone's help?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Achieving your dreams but ending up alone vs. giving up your dreams but staying close to people you love?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Being able to change the past but losing the present vs. knowing the future but being unable to change the past?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Loving someone you know is bad for you vs. being with someone good but feeling nothing?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "A life of learning vs. a life of teaching?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Living for yourself vs. living for others?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Loved by others vs. content within yourself?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Taking a brave risk and failing vs. playing it safe and never trying?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "A brief but perfect happiness vs. an ordinary but lasting happiness?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Free but lonely vs. constrained but warm and surrounded?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Being right but staying silent vs. speaking up even if you might be wrong?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "A world where no one judges you vs. a world where everyone gives you completely honest feedback?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Living knowing you will die vs. living believing death doesn't exist?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Remembered as someone strong vs. remembered as someone warm?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "A life where choices are always free vs. a life where every choice carries consequences?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "A life where your true feelings never reach anyone vs. a life where everyone understands you without words?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Being betrayed by someone you trusted vs. you betraying someone?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "A stable life without change vs. an uncertain life but one of growth?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Keeping your distance to avoid hurting someone vs. staying close even if you might hurt them?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Everyone knowing your weaknesses vs. no one knowing your strengths?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Blissfully ignorant and happy vs. knowing everything and anxious?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Always being the one who falls in love first vs. always being the one who ends it first?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "A life where you feel others' pain vs. a life where you're numb to it?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Learning through repeated mistakes vs. making no mistakes but learning nothing?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Never being able to say what you want vs. saying what you want but never getting it?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Treating everyone equally vs. pouring yourself into the people who matter most?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Losing yourself to preserve a relationship vs. losing a relationship to preserve yourself?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "A life where you forgive easily vs. a life where you never really forget?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "A life where opening up is easy vs. a life where your heart is hard to reach but well-protected?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Accepting what you cannot change vs. continuing to fight even when you don't want to accept it?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Making every decision alone for life vs. always making decisions with someone else for life?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Being given the chance to live your life over vs. saying no to that chance?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Being remembered as someone respected vs. being remembered as someone loved?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Growing through regret vs. living without it but feeling nothing?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Letting everything go and starting fresh vs. holding onto what you have and carrying on?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "A life where you've genuinely hated someone vs. a life where you never have?",
-    "category": "seriousChoice"
-  }
+  { "question": "Pizza vs fried chicken — if you could only eat one for the rest of your life?", "category": "lightChoice" },
+  { "question": "Black bean noodles vs spicy seafood soup — which one are you picking for dinner tonight?", "category": "lightChoice" },
+  { "question": "KakaoTalk vs Instagram — if you had to delete one forever?", "category": "lightChoice" },
+  { "question": "Iced Americano vs hot latte — if you could only ever drink one?", "category": "lightChoice" },
+  { "question": "Summer vs winter — if you had to live in one season for life?", "category": "lightChoice" },
+  { "question": "Netflix vs YouTube — if you could only keep one?", "category": "lightChoice" },
+  { "question": "Sauced fried chicken vs plain fried chicken — if you had to pick just one?", "category": "lightChoice" },
+  { "question": "Pork belly vs beef — if you could only have one kind of meat?", "category": "lightChoice" },
+  { "question": "Food delivery vs cooking at home — if you had to eat one way forever?", "category": "lightChoice" },
+  { "question": "Cat vs dog — if you could only have one pet?", "category": "lightChoice" },
+  { "question": "Bus vs subway — if you could only use one form of public transit?", "category": "lightChoice" },
+  { "question": "Books vs YouTube — if you could only get information one way?", "category": "lightChoice" },
+  { "question": "Convenience store vs supermarket — if you could only shop at one place?", "category": "lightChoice" },
+  { "question": "Bread vs rice — if you could only eat one for the rest of your life?", "category": "lightChoice" },
+  { "question": "Movie theater vs couch at home — if you could only watch movies in one place?", "category": "lightChoice" },
+  { "question": "Napping vs late-night snacks — if you could only enjoy one?", "category": "lightChoice" },
+  { "question": "Cafe vs home — if your study or work spot was locked in forever?", "category": "lightChoice" },
+  { "question": "Domestic travel vs international travel — if you could only do one?", "category": "lightChoice" },
+  { "question": "Ice cream vs cake — if you could only have one dessert?", "category": "lightChoice" },
+  { "question": "Shower vs bath — if you had to stick with one washing method forever?", "category": "lightChoice" },
+  { "question": "Movies vs TV series — if you could only watch one?", "category": "lightChoice" },
+  { "question": "Earbuds vs speaker — if you could only listen to music one way?", "category": "lightChoice" },
+  { "question": "Sweet snacks vs salty snacks — if your snack flavor was set in stone forever?", "category": "lightChoice" },
+  { "question": "Morning person vs night owl — if you had to be one for life?", "category": "lightChoice" },
+  { "question": "Planned trip vs spontaneous trip — if you could only travel one way?", "category": "lightChoice" },
+  { "question": "Going out on weekends vs staying home — if you had to rest the same way always?", "category": "lightChoice" },
+  { "question": "Tteokbokki vs ramen — if you could only have one late-night snack?", "category": "lightChoice" },
+  { "question": "Chocolate flavor vs strawberry flavor — if your snack taste was fixed forever?", "category": "lightChoice" },
+  { "question": "Trying a new menu vs ordering your usual — if you had to always pick one?", "category": "lightChoice" },
+  { "question": "Smartphone vs laptop — if you could only use one device?", "category": "lightChoice" },
+  { "question": "Quiet cafe vs lively cafe — if you could only go to one type?", "category": "lightChoice" },
+  { "question": "Hot and sunny vs cool and cloudy — if every single day had the same weather?", "category": "lightChoice" },
+  { "question": "Music vs podcast — if you could only listen to one while commuting?", "category": "lightChoice" },
+  { "question": "Octopus vs squid — if you could only eat one seafood?", "category": "lightChoice" },
+  { "question": "Cold noodles vs bibimbap — if you could only have one summer staple?", "category": "lightChoice" },
+  { "question": "Card payment vs cash — if you had to use only one way to pay?", "category": "lightChoice" },
+  { "question": "Sneakers vs sandals — if you could only wear one type of footwear?", "category": "lightChoice" },
+  { "question": "Indoor dining vs outdoor dining — if your meal setting was always the same?", "category": "lightChoice" },
+  { "question": "Eating alone vs eating with others — if you had to always do one?", "category": "lightChoice" },
+  { "question": "5-day workweek vs 4-day workweek with overtime — which would you rather have?", "category": "lightChoice" },
+  { "question": "Lots of friends but surface-level connections vs a few friends but deeply close — which would you choose?", "category": "hardChoice" },
+  { "question": "High salary but super stressful job vs low salary but relaxed job — which would you pick?", "category": "hardChoice" },
+  { "question": "Doing what you love but living broke vs doing work you hate but living rich — which would you rather?", "category": "hardChoice" },
+  { "question": "Eating whatever you want but always gaining weight vs staying slim but always holding back — which would you choose?", "category": "hardChoice" },
+  { "question": "Living alone in total freedom vs living with someone but feeling uncomfortable — which would you pick?", "category": "hardChoice" },
+  { "question": "Being great at something you don't enjoy vs loving something you're not good at — which would you rather?", "category": "hardChoice" },
+  { "question": "Keeping all bad memories and growing from them vs forgetting them all and living light — which would you choose?", "category": "hardChoice" },
+  { "question": "A life that looks great to others vs a life you're genuinely satisfied with yourself — which matters more?", "category": "hardChoice" },
+  { "question": "Healthy but poor vs wealthy but frequently sick — which life would you pick?", "category": "hardChoice" },
+  { "question": "Giving up your dream for stability vs chasing your dream despite the uncertainty — which would you choose?", "category": "hardChoice" },
+  { "question": "Apologizing first vs cutting contact first — which would you do?", "category": "hardChoice" },
+  { "question": "Keep trying even after failure vs always playing it safe — which way would you rather live?", "category": "hardChoice" },
+  { "question": "Being honest with a friend even if it hurts vs holding back to avoid causing pain — which would you do?", "category": "hardChoice" },
+  { "question": "Traveling a lot but having no savings vs saving well but never getting to travel — which would you pick?", "category": "hardChoice" },
+  { "question": "Succeeding early and dying young vs living an ordinary life but living long — which would you choose?", "category": "hardChoice" },
+  { "question": "Being decent at everything but having no standout skill vs being absolutely amazing at one thing — which would you rather?", "category": "hardChoice" },
+  { "question": "A relationship that's safe but doesn't excite you vs one that's thrilling but might break your heart — which would you choose?", "category": "hardChoice" },
+  { "question": "Busy and intense life vs relaxed but kind of boring life — which would you rather live?", "category": "hardChoice" },
+  { "question": "A life in the spotlight vs a life quietly helping from behind the scenes — which would you pick?", "category": "hardChoice" },
+  { "question": "Confessing first to someone you like vs just dropping hints and waiting — which would you do?", "category": "hardChoice" },
+  { "question": "A close friend drifting away first vs you being the one to drift away first — which is harder to accept?", "category": "hardChoice" },
+  { "question": "Rich but lonely in old age vs poor but surrounded by family — which would you choose?", "category": "hardChoice" },
+  { "question": "Enjoying the moment right now vs holding back for the future — which would you pick?", "category": "hardChoice" },
+  { "question": "Short and intense love vs long and comfortable love — which would you rather have?", "category": "hardChoice" },
+  { "question": "Showing your emotions openly vs keeping everything bottled up inside — which feels more like you?", "category": "hardChoice" },
+  { "question": "Deciding fast and regretting it vs overthinking until you give up — which is worse?", "category": "hardChoice" },
+  { "question": "Living your own way no matter what anyone says vs taking others' advice and changing — which would you choose?", "category": "hardChoice" },
+  { "question": "Being good to everyone broadly vs going all in for just one person — which would you rather?", "category": "hardChoice" },
+  { "question": "Saying it directly vs waiting for things to sort themselves out — which do you tend to do?", "category": "hardChoice" },
+  { "question": "Happy now but anxious about the future vs struggling now but excited about what's ahead — which would you pick?", "category": "hardChoice" },
+  { "question": "An honest friend vs a kind friend — if you could only have one, which would you choose?", "category": "hardChoice" },
+  { "question": "Dream job but terrible pay vs a job you don't care about but great pay — which would you take?", "category": "hardChoice" },
+  { "question": "Being famous and known by everyone vs being ordinary and unknown — which would you rather?", "category": "hardChoice" },
+  { "question": "Loving only one person your whole life vs experiencing many different loves — which would you choose?", "category": "hardChoice" },
+  { "question": "Owning your mistake right away vs making excuses first and apologizing later — which are you more likely to do?", "category": "hardChoice" },
+  { "question": "Always being the one to reach out first vs always waiting for the other person to — which is better?", "category": "hardChoice" },
+  { "question": "Failing after working incredibly hard vs succeeding easily without really trying — which would you rather?", "category": "hardChoice" },
+  { "question": "One big mistake vs dozens of small ones — which would you rather deal with?", "category": "hardChoice" },
+  { "question": "Being popular but no one really cares about you vs being unpopular but having one true friend — which would you choose?", "category": "hardChoice" },
+  { "question": "A life spent fixing your weaknesses vs a life spent amplifying your strengths — which approach would you take?", "category": "hardChoice" },
+  { "question": "Farting sound with every step vs water shooting from your nose every time you laugh — which would you rather live with?", "category": "wildChoice" },
+  { "question": "Hair made of cotton candy vs fingernails made of gummy candy — which would you rather have?", "category": "wildChoice" },
+  { "question": "Having to sing everything you say vs having to dance while you talk — which would you rather deal with?", "category": "wildChoice" },
+  { "question": "Stuck with a little kid's voice forever vs stuck with an old man's voice forever — which would you pick?", "category": "wildChoice" },
+  { "question": "Feet that smell like popcorn vs hands that smell like boiled eggs — which would you rather have?", "category": "wildChoice" },
+  { "question": "Eyes that work like binoculars vs ears shaped like trumpets — which would you rather have?", "category": "wildChoice" },
+  { "question": "A nose like an elephant's trunk vs ears like a rabbit's — which would you rather have?", "category": "wildChoice" },
+  { "question": "Stomach growling like a rooster when hungry vs a trumpet blast every time you're full — which would you rather deal with?", "category": "wildChoice" },
+  { "question": "Fanfare playing every time you use the bathroom vs fireworks going off every time you sneeze — which would you rather?", "category": "wildChoice" },
+  { "question": "Wearing only slippers for life vs wearing only formal suits for life — which would you pick?", "category": "wildChoice" },
+  { "question": "Eyes always closing in photos vs tongue always sticking out in photos — which would you rather?", "category": "wildChoice" },
+  { "question": "Always talking at 2x speed vs always moving at half speed — which would you rather deal with?", "category": "wildChoice" },
+  { "question": "Only being able to walk backwards vs only being able to sit sideways — which would you rather?", "category": "wildChoice" },
+  { "question": "Floating slightly every time you laugh vs glowing bright red every time you're angry — which would you rather?", "category": "wildChoice" },
+  { "question": "Height changing by 1cm every day vs weight changing by 1kg every day — which would you rather deal with?", "category": "wildChoice" },
+  { "question": "All food tasting exactly the same vs the same food tasting completely different each time — which would you rather?", "category": "wildChoice" },
+  { "question": "Your name changing every month vs your face slowly changing every month — which would you rather have?", "category": "wildChoice" },
+  { "question": "Background music playing wherever you walk vs lighting changing with your every mood — which would you rather?", "category": "wildChoice" },
+  { "question": "Having to dance once every day no matter what vs having to sing once every day no matter what — which would you pick?", "category": "wildChoice" },
+  { "question": "Your shadow refusing to follow your movements vs your reflection doing the opposite of what you do — which would you rather deal with?", "category": "wildChoice" },
+  { "question": "A thought bubble appearing over your head every time you think vs your mood showing on your face like a weather forecast — which would you rather?", "category": "wildChoice" },
+  { "question": "Your dreams being live-streamed while you sleep vs shouting out your dream the moment you wake up — which would you rather?", "category": "wildChoice" },
+  { "question": "Being able to see smells as colors vs tasting sounds — which ability would you rather have?", "category": "wildChoice" },
+  { "question": "Having 10 hands vs having 10 feet — which would you rather?", "category": "wildChoice" },
+  { "question": "Your body is invisible but your clothes are visible vs your clothes are invisible but your body is visible — which would you pick?", "category": "wildChoice" },
+  { "question": "Creaking sounds every time you walk vs a loud pop every time you sit down — which would you rather deal with?", "category": "wildChoice" },
+  { "question": "Losing one year of memories every birthday vs getting one year younger as you age — which would you rather?", "category": "wildChoice" },
+  { "question": "Everyone hearing you in a cat's voice on phone calls vs a robot voice every time you say hello — which would you rather?", "category": "wildChoice" },
+  { "question": "Feet that work like magnets vs hands that work like velcro — which would you rather have?", "category": "wildChoice" },
+  { "question": "Crying when something's funny and laughing when something's sad vs sneezing when happy and hiccuping when angry — which would you rather deal with?", "category": "wildChoice" },
+  { "question": "A selfie being taken every time you blink vs a siren going off every time you yawn — which would you rather?", "category": "wildChoice" },
+  { "question": "Shrinking when you get sleepy vs doubling in size when you're excited — which would you rather?", "category": "wildChoice" },
+  { "question": "The food you eat showing up as your hair color vs the music you hear showing up as your eye color — which would you rather?", "category": "wildChoice" },
+  { "question": "Living in a world made of Lego vs a world made of stickers — where would you rather be?", "category": "wildChoice" },
+  { "question": "Subtitles appearing every time someone talks vs everyone sounding like a translation robot — which would you rather deal with?", "category": "wildChoice" },
+  { "question": "Rainbow-colored hair for life vs sparkling glittery eyes for life — which would you rather have?", "category": "wildChoice" },
+  { "question": "A world where it rains candy instead of rain vs a world where it snows popcorn instead of snow — where would you rather live?", "category": "wildChoice" },
+  { "question": "Having to make sound effects for every bite of food vs giving a review out loud after every meal — which would you rather do?", "category": "wildChoice" },
+  { "question": "Always moving in slow motion vs always fast-forwarding through life — which would you rather deal with?", "category": "wildChoice" },
+  { "question": "Only being able to sleep inside a fridge vs only being able to shower inside a washing machine — which would you rather?", "category": "wildChoice" },
+  { "question": "Only ever telling the truth vs being free to lie whenever you want — which would you rather?", "category": "seriousChoice" },
+  { "question": "Being loved but never truly understood vs being understood but never truly loved — which would you choose?", "category": "seriousChoice" },
+  { "question": "A long life that feels empty vs a short life lived with intensity — which would you rather have?", "category": "seriousChoice" },
+  { "question": "Achieving your dream but being lonely vs giving up your dream but having people by your side — which would you choose?", "category": "seriousChoice" },
+  { "question": "Living for yourself vs living for others — which kind of life would you rather have?", "category": "seriousChoice" },
+  { "question": "Being remembered as someone strong vs being remembered as someone warm — which would you rather?", "category": "seriousChoice" },
+  { "question": "A stable life with no change vs an uncertain life where you keep growing — which would you choose?", "category": "seriousChoice" },
+  { "question": "A life where you forgive easily vs a life where you never quite forget — which would you rather live?", "category": "seriousChoice" },
+  { "question": "A life where your heart opens easily vs a life where your heart is steady and hard to shake — which would you choose?", "category": "seriousChoice" },
+  { "question": "Growing through regret vs living without regret but staying still — which would you rather?", "category": "seriousChoice" },
+  { "question": "Being remembered as someone respected vs being remembered as someone loved — which matters more to you?", "category": "seriousChoice" },
+  { "question": "Treating everyone equally vs focusing all your energy on the people who matter most — which would you choose?", "category": "seriousChoice" },
+  { "question": "Free but lonely vs sheltered but surrounded by warmth — which would you rather?", "category": "seriousChoice" },
+  { "question": "A lifetime of learning vs a lifetime of teaching — which would you rather?", "category": "seriousChoice" },
+  { "question": "A life where everyone knows your weaknesses vs a life where no one knows your strengths — which would you rather live?", "category": "seriousChoice" },
+  { "question": "Making the same mistakes but always learning from them vs never making mistakes but never really growing — which would you choose?", "category": "seriousChoice" },
+  { "question": "Being brave enough to try and then failing vs never trying at all and living with regret — which would you rather?", "category": "seriousChoice" },
+  { "question": "Someone who wears their emotions openly vs someone who keeps their feelings hidden — which do you think is better?", "category": "seriousChoice" },
+  { "question": "Feeling others' pain as if it were your own vs becoming numb to others' suffering — which would you rather?", "category": "seriousChoice" },
+  { "question": "Losing yourself to keep a relationship vs losing the relationship to keep yourself — which would you choose?", "category": "seriousChoice" },
+  { "question": "Doing everything on your own vs always needing someone's help — which would you rather?", "category": "seriousChoice" },
+  { "question": "Being betrayed by someone you trusted vs being the one who betrays someone — which is harder to carry?", "category": "seriousChoice" },
+  { "question": "A life where your sincerity never gets through vs a life where people just get you without you saying a word — which would you rather?", "category": "seriousChoice" },
+  { "question": "Keeping distance to protect someone from getting hurt vs staying close even if it means causing pain — which would you choose?", "category": "seriousChoice" },
+  { "question": "Always having freedom of choice vs always being held accountable for every choice — which would you rather?", "category": "seriousChoice" },
+  { "question": "Being the one who falls in love first vs being the one who ends it first — which would you rather?", "category": "seriousChoice" },
+  { "question": "Blissfully unaware and happy vs knowing everything but feeling anxious — which would you choose?", "category": "seriousChoice" },
+  { "question": "Staying silent even when you're right vs speaking up even when you might be wrong — which would you rather?", "category": "seriousChoice" },
+  { "question": "Living up to everyone else's expectations vs living by your own standards — which would you choose?", "category": "seriousChoice" },
+  { "question": "Making every decision alone vs always deciding together with someone — which would you rather?", "category": "seriousChoice" },
+  { "question": "Losing your memories vs losing your emotions — which would be harder to give up?", "category": "seriousChoice" },
+  { "question": "A brief taste of perfect happiness vs ordinary happiness that lasts a lifetime — which would you rather?", "category": "seriousChoice" },
+  { "question": "If you were given a chance to live your life over, would you take it or turn it down — which would you choose?", "category": "seriousChoice" },
+  { "question": "A life where others love you vs a life where you feel whole on your own — which would you rather have?", "category": "seriousChoice" },
+  { "question": "A world where no one judges you vs a world where everyone gives you completely honest feedback — which would you choose?", "category": "seriousChoice" },
+  { "question": "Changing the past but losing the present vs knowing the future but leaving the past untouched — which would you choose?", "category": "seriousChoice" },
+  { "question": "Letting everything go and starting fresh vs holding onto what you have and pushing forward — which would you rather?", "category": "seriousChoice" },
+  { "question": "Loving someone you know isn't good for you vs being with someone good for you but feeling nothing — which would you choose?", "category": "seriousChoice" },
+  { "question": "Happy right now but full of regret later vs struggling now but feeling proud of it later — which would you rather?", "category": "seriousChoice" },
+  { "question": "Living fully aware that death is coming vs living as if death doesn't exist — which would you rather?", "category": "seriousChoice" }
 ]

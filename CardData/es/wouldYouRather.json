@@ -1,642 +1,162 @@
 [
-  {
-    "question": "¿Pizza o tacos? Si tuvieras que comer uno solo para siempre, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Verano o invierno? Si tuvieras que vivir en una sola estación para siempre, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Ser madrugador o trasnochador? Si te tuvieran que fijar uno para siempre, ¿cuál preferirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Café o té? Si solo pudieras tomar uno para siempre, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿WhatsApp o llamada? Si solo te quedara un medio de comunicación, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Pollo a la plancha o pollo frito? Si tuvieras que elegir uno solo, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Cine o Netflix? Si solo pudieras elegir uno para siempre, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Pasta o arroz? Si solo pudieras comer uno para siempre, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Escaleras o escaleras eléctricas? Si solo pudieras usar una para siempre, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Camión o metro? Si solo pudieras usar uno para siempre, ¿cuál preferirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Carne asada o bistec? Si solo pudieras comer uno, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Comida a domicilio o ir al restaurante? Si solo pudieras elegir uno, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Música o podcasts mientras te trasladas? Si solo pudieras escuchar uno, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Instagram o YouTube? Si solo pudieras quedarte con uno, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Siesta o antojo de medianoche? Si solo pudieras disfrutar uno, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Pan o tortillas? Si solo pudieras comer uno de carbohidratos para siempre, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿En un lugar cerrado o al aire libre? Si siempre tuvieras que comer en uno solo, ¿cuál preferirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Gato o perro? Si solo pudieras tener una mascota, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Ejercicio o caminata? Si solo pudieras hacer una actividad física para siempre, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Viaje nacional o internacional? Si solo pudieras elegir uno, ¿cuál preferirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Dulce o salado? Si los antojitos solo pudieran tener un sabor, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Audífonos o bocina? Si solo pudieras escuchar música de una manera, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Ducha o tina? Si solo pudieras bañarte de una manera para siempre, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Libro o YouTube? Si solo pudieras informarte de una manera, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Helado o pastel? Si solo pudieras comer un postre, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Cafetería o casa? Si siempre tuvieras que trabajar o estudiar en un solo lugar, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Mensaje de texto o nota de voz? Si solo pudieras usar uno para siempre, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Película o serie? Si solo pudieras ver un tipo de contenido, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Cocinar o pedir comida? Si solo pudieras resolver tus comidas de una manera, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Tenis o zapatos de vestir? Si solo pudieras usar un tipo de calzado para siempre, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Tienda de conveniencia o supermercado? Si solo pudieras comprar en uno, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Sopa fría o sopa caliente? Si solo pudieras comer un tipo de sopa, ¿cuál preferirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Cafetería tranquila o cafetería animada? Si solo pudieras ir a una, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Viaje planificado o viaje espontáneo? Si solo pudieras viajar de una forma, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Calor y soleado o fresco y nublado? Si tuvieras que elegir uno para siempre, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Comida dulce y salada mezclada o comida sencilla y sin mezclas? Si tu paladar tuviera que ser uno solo, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Acostarte tarde y levantarte tarde o acostarte temprano y levantarte temprano? Si solo pudieras hacer uno, ¿cuál preferirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Salir el fin de semana o quedarte en casa? Si solo pudieras descansar de una manera, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Probar algo nuevo o tu menú de siempre? Si siempre tuvieras que elegir solo uno, ¿cuál sería?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Celular o laptop? Si solo pudieras usar un dispositivo para siempre, ¿cuál elegirías?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "¿Ser rico pero estar solo o ser pobre pero tener amor?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Recordar todo o olvidar todos los malos recuerdos?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Vivir haciendo lo que amas pero siendo pobre o vivir haciendo algo que odias pero siendo rico?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Triunfar muy joven y vivir poco o vivir una vida larga y ordinaria?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Vivir en un mundo donde solo tú dices la verdad o en uno donde todos mienten?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Que todo el mundo te quiera o que una sola persona te ame de verdad?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Cumplir tu sueño pero perder a tu familia o abandonar tu sueño pero estar con tu familia?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Saber el pasado pero no el futuro o saber el futuro pero olvidar el pasado?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Ser el más famoso del mundo pero que nadie te conozca de verdad o ser un completo desconocido pero ser amado de verdad?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Diez momentos de felicidad cortos o una felicidad perfecta y duradera?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Tener salud perfecta pero sin dinero o tener mucho dinero pero estar siempre enfermo?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Ser bueno en todo pero sin un talento especial o ser perfecto en una sola cosa?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Que la persona que amas no te recuerde o tú no recordar a la persona que amas?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Perder a tu mejor amigo y triunfar o perder el éxito y conservar a tu mejor amigo?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Amar solo a una persona para toda la vida o amar a muchas personas pero de manera superficial?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Poder leer la mente de todos pero que todos puedan leer la tuya o no saber nada de los demás pero conservar tus secretos?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Ser bueno en lo que amas o ser bueno en todo aunque lo odies?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Ser recordado pero infeliz o ser olvidado pero feliz?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Vivir sano hasta el final o vivir poco pero cumplir todos tus sueños?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Ser amado pero no respetado o ser respetado pero no amado?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Perder lo que tienes ahora a cambio de una oportunidad de algo mayor o conservar lo que tienes sin posibilidad de crecer más?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿No tener tiempo para ti pero nunca estar solo o tener total libertad pero estar siempre solo?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Reconocer que estás equivocado o vivir creyendo que siempre tienes la razón?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Esforzarte mucho y fracasar o triunfar sin hacer ningún esfuerzo?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Atreverte y arrepentirte o no atreverte y arrepentirte?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Vivir según lo que los demás esperan de ti o vivir según tus propios criterios?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Saberlo todo y lastimarte o vivir feliz en una hermosa mentira?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Amar una sola cosa con toda tu alma o amar muchas cosas un poco?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Conseguir lo que quieres pero con mucho sufrimiento en el camino o disfrutar el camino pero sin resultados?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Vivir sin poder perdonar del todo a alguien o vivir sin que alguien te perdone del todo a ti?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Que sufra la persona que amas en tu lugar o que tú sufras en el lugar de alguien que amas?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Disfrutar el presente pero preocuparte por el futuro o sacrificar el presente por el futuro?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Tomar todas las decisiones solo o que alguien siempre decida por ti?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Ser un genio pero no esforzarte nunca o ser ordinario pero esforzarte sin parar?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Cargar con los malos recuerdos y crecer o borrarlos y vivir más ligero?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Que todos sepan todo de ti o que nadie sepa nada de ti?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Ser feliz ahora pero arrepentirte después o sufrir ahora pero encontrar sentido después?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Perder el amor y ganar la libertad o perder la libertad y ganar el amor?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Ser increíblemente exitoso pero que nadie lo sepa o ser ordinario pero ser reconocido por todos?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Un gran error o decenas de errores pequeños? ¿Cuál te parece más tolerable?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "¿Vivir en una realidad donde cada vez que caminas, tu cuerpo hace un sonido de bocina, o en una donde cada vez que ríes, suenas como si pusieras música a todo volumen?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que tus pies huelan a chocolate o que tu boca huela a ajo para siempre?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Tener el cabello hecho de espagueti o las uñas hechas de palillos chinos?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Tener que hablar cantando siempre o hacer rap cada vez que hablas?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que cada vez que parpadees se tome una selfie o que cada vez que estornudes exploten cohetes?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que tu cuerpo sea invisible pero tu ropa se vea o que tu ropa sea invisible pero tu cuerpo se vea?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Tener voz de niño para siempre o voz de anciano para siempre?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Tener diez manos o diez pies?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Hablar en otro idioma mientras duermes o despertar olvidando tu nombre cada vez?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que se te escape un sonido de gallina cuando tienes hambre o cantar como un ruiseñor cuando estás lleno?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que tus pensamientos aparezcan en un globo de diálogo sobre tu cabeza o que tu estado de ánimo se vea en tu cara como si fuera el clima?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que siempre te acompañe una música de fondo cuando caminas o que la iluminación cambie según tu estado de ánimo?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Tener que hacer un sonido para cada sabor que comes o que aparezcan subtítulos flotantes mientras hablas?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que tu altura cambie 1 cm cada día o que tu peso cambie 1 kg cada día?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Tener trompa de elefante o orejas de conejo?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que suene una fanfarria cada vez que vas al baño o que eructes como bocina de coche?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Poder ver los olores como colores o sentir los sonidos como sabores?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Tener que usar chanclas toda tu vida o tener que usar traje formal toda tu vida?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que tu nombre cambie cada mes o que tu cara cambie un poco cada mes?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Reaccionar siempre con un retraso de un beat o reírte antes de que pase algo gracioso?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Solo poder caminar hacia atrás o solo poder sentarte de lado?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que alguien mastique tu comida por ti o que escuches los pensamientos de la persona que está al lado tuyo?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Tener que cerrar los ojos forzosamente en cada foto o tener que sacar la lengua en cada foto?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Escuchar la historia de cada objeto que tocas o escuchar la preocupación más reciente de cada persona que tocas?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Hablar siempre al doble de velocidad o moverte siempre a la mitad de velocidad?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que tus sueños se transmitan en vivo mientras duermes o que cuando despiertes grites en voz alta lo que soñaste?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Vivir en un mundo donde todo está hecho de LEGO o en uno donde todo está hecho de stickers?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que cada vez que te ríes salgas volando o que cada vez que lloras te pegues al suelo?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que el color de tu cabello cambie según lo que comas o que el color de tus ojos cambie según la música que escuchas?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que cuando tienes sueño tu cuerpo se encoja o que cuando estás emocionado tu cuerpo duplique su tamaño?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que cada vez que hablas por teléfono suenes como un gato o que cada vez que saludas salga una voz de robot?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Tener los pies magnéticos o las manos como velcro?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que cada cumpleaños se borren los recuerdos de un año o que cada año te vuelvas un año más joven?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Tener que bailar una vez al día sin falta o tener que cantar una vez al día sin falta?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Tener ojos como binoculares o orejas como un radar?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Dormir solo dentro del refrigerador o bañarte solo dentro de la lavadora?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que toda la comida te sepa igual o que cada vez que comes lo mismo sepa diferente?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que los recuerdos del día anterior se te revuelvan al levantarte o que cada vez que duermes sueñes el sueño de una persona al azar?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que cuando te da risa te salgan lágrimas y cuando estás triste te dé risa, o que cuando estás feliz estornudes y cuando te enojas tengas hipo?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Que tu sombra haga lo que le da la gana o que en el espejo tu reflejo haga todo al revés?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "¿Una vida en que solo dices la verdad o una en que puedes mentir libremente?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Perder la memoria o perder la capacidad de sentir?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Ser amado pero no comprendido o ser comprendido pero no amado?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Vivir mucho tiempo pero de manera aburrida o vivir poco pero con mucha intensidad?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Hacerlo todo solo o necesitar siempre la ayuda de alguien?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Cumplir tu sueño pero estar solo o renunciar a tu sueño pero tener compañía?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Poder cambiar el pasado pero desaparecer el presente o que el pasado siga igual pero poder ver el futuro?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Amar a alguien malo sabiendo que lo es o estar con alguien bueno sin sentir amor?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Aprender toda la vida o enseñar toda la vida?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Vivir para ti o vivir para los demás?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Ser querido por los demás o sentirte pleno desde adentro?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Arriesgarte y fracasar o vivir seguro pero sin haberte atrevido?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Vivir una felicidad perfecta brevemente o una felicidad ordinaria por mucho tiempo?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Ser libre pero estar solo o estar dentro de un límite pero acompañado y en calor?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Callar aunque tengas razón o hablar aunque puedas equivocarte?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Un mundo donde nadie te juzga o uno donde todos te evalúan con honestidad?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Vivir sabiendo que vas a morir o vivir creyendo que la muerte no existe?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Ser recordado como alguien fuerte o como alguien cálido?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Una vida en que siempre eliges libremente o una en que siempre asumes las consecuencias de elegir?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Vivir en que tu sinceridad nunca llega bien o en que todos te entiendan sin que hables?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Que alguien de confianza te traicione o que tú traiciones a alguien?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Una vida estable sin cambios o una inestable pero en crecimiento constante?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Guardar distancia para no hacerle daño a nadie o estar cerca aunque lastimes a veces?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Que todos sepan tus puntos débiles o que nadie conozca tus fortalezas?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Ser feliz sin saber nada o estar ansioso sabiéndolo todo?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Ser el primero en empezar a amar o el primero en terminar?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Sentir el dolor ajeno como propio o ser insensible al dolor de los demás?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Cometer errores y aprender o vivir sin errores pero sin aprender nada?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿No poder pedir lo que quieres o pedirlo pero nunca conseguirlo?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Tratar a todos por igual o concentrarte solo en las personas que más quieres?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Perderte a ti mismo para conservar una relación o perder una relación para conservarte a ti mismo?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Perdonar fácilmente o no poder olvidar fácilmente?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Una vida en que es fácil abrirse emocionalmente o una en que tu corazón es muy sólido?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Aceptar lo que no puedes cambiar o seguir resistiendo aunque no quieras aceptarlo?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Tomar siempre las decisiones solo o tomarlas siempre con alguien?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Aceptar la oportunidad de volver a vivir tu vida o rechazarla?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Que te recuerden como alguien respetable o como alguien amado?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Crecer a través del arrepentimiento o vivir tranquilamente sin arrepentirte?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Soltarlo todo y empezar de nuevo o aferrarte a lo que ya tienes?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "¿Haber odiado de verdad a alguien alguna vez o no haber odiado a nadie de verdad nunca?",
-    "category": "seriousChoice"
-  }
+  { "question": "¿Pizza vs pollo frito, si tuvieras que comer solo uno para siempre?", "category": "lightChoice" },
+  { "question": "¿Fideos con salsa negra vs sopa picante de fideos, cuál eliges para cenar hoy?", "category": "lightChoice" },
+  { "question": "¿WhatsApp vs Instagram, si solo pudieras quedarte con uno?", "category": "lightChoice" },
+  { "question": "¿Americano con hielo vs latte caliente, si solo pudieras tomar uno?", "category": "lightChoice" },
+  { "question": "¿Verano vs invierno, si tuvieras que vivir una sola estación para siempre?", "category": "lightChoice" },
+  { "question": "¿Netflix vs YouTube, si solo pudieras ver uno?", "category": "lightChoice" },
+  { "question": "¿Pollo con salsa vs pollo frito simple, si tuvieras que elegir solo uno?", "category": "lightChoice" },
+  { "question": "¿Cerdo a la parrilla vs carne de res, si solo pudieras comer una?", "category": "lightChoice" },
+  { "question": "¿Pedir a domicilio vs cocinar en casa, si solo pudieras hacer uno?", "category": "lightChoice" },
+  { "question": "¿Gato vs perro, si solo pudieras tener una mascota?", "category": "lightChoice" },
+  { "question": "¿Autobús vs metro, si solo pudieras usar uno?", "category": "lightChoice" },
+  { "question": "¿Libros vs YouTube, si solo pudieras informarte de una manera?", "category": "lightChoice" },
+  { "question": "¿Tienda de conveniencia vs supermercado, si tuvieras que comprar siempre en el mismo lugar?", "category": "lightChoice" },
+  { "question": "¿Pan vs arroz, si solo pudieras comer uno para siempre?", "category": "lightChoice" },
+  { "question": "¿Cine vs sofá de casa, si solo pudieras ver películas en un lugar?", "category": "lightChoice" },
+  { "question": "¿Siesta vs snack nocturno, si solo pudieras disfrutar uno?", "category": "lightChoice" },
+  { "question": "¿Cafetería vs casa, si tu lugar de trabajo o estudio fuera siempre el mismo?", "category": "lightChoice" },
+  { "question": "¿Viaje nacional vs viaje al extranjero, si solo pudieras hacer uno?", "category": "lightChoice" },
+  { "question": "¿Helado vs pastel, si solo pudieras comer un postre?", "category": "lightChoice" },
+  { "question": "¿Ducha vs bañera, si solo pudieras bañarte de una manera?", "category": "lightChoice" },
+  { "question": "¿Película vs serie, si solo pudieras ver uno?", "category": "lightChoice" },
+  { "question": "¿Auriculares vs altavoz, si solo pudieras escuchar música de una manera?", "category": "lightChoice" },
+  { "question": "¿Dulce vs salado, si tus snacks fueran siempre del mismo sabor?", "category": "lightChoice" },
+  { "question": "¿Persona madrugadora vs persona nocturna, si tuvieras que ser siempre uno?", "category": "lightChoice" },
+  { "question": "¿Viaje planeado vs viaje espontáneo, si solo pudieras viajar de una manera?", "category": "lightChoice" },
+  { "question": "¿Salir el fin de semana vs quedarse en casa, si solo pudieras descansar de una manera?", "category": "lightChoice" },
+  { "question": "¿Tteokbokki vs ramen, si solo pudieras comer uno de noche?", "category": "lightChoice" },
+  { "question": "¿Sabor a chocolate vs sabor a fresa, si tus snacks fueran siempre del mismo sabor?", "category": "lightChoice" },
+  { "question": "¿Plato nuevo vs tu favorito de siempre, si en un restaurante solo pudieras pedir uno?", "category": "lightChoice" },
+  { "question": "¿Smartphone vs laptop, si solo pudieras usar un dispositivo?", "category": "lightChoice" },
+  { "question": "¿Cafetería tranquila vs cafetería animada, si solo pudieras ir a una?", "category": "lightChoice" },
+  { "question": "¿Día caluroso y soleado vs día fresco y nublado, si el clima fuera siempre el mismo?", "category": "lightChoice" },
+  { "question": "¿Música vs pódcast, si solo pudieras escuchar uno mientras te mueves?", "category": "lightChoice" },
+  { "question": "¿Pulpo vs calamar, si solo pudieras comer uno de los dos?", "category": "lightChoice" },
+  { "question": "¿Naengmyeon vs bibimbap, si solo pudieras comer uno en verano?", "category": "lightChoice" },
+  { "question": "¿Tarjeta vs efectivo, si solo pudieras pagar de una manera?", "category": "lightChoice" },
+  { "question": "¿Tenis vs chanclas, si solo pudieras usar un tipo de calzado?", "category": "lightChoice" },
+  { "question": "¿Interior vs exterior, si comieras siempre en el mismo tipo de lugar?", "category": "lightChoice" },
+  { "question": "¿Comer solo vs comer acompañado, si siempre fuera de la misma manera?", "category": "lightChoice" },
+  { "question": "¿Trabajar 5 días sin horas extra vs trabajar 4 días con horas extra, cuál prefieres?", "category": "lightChoice" },
+  { "question": "¿Muchos amigos pero relaciones superficiales vs pocos amigos pero vínculos de verdad?", "category": "hardChoice" },
+  { "question": "¿Trabajo con buen sueldo pero muy estresante vs trabajo con poco sueldo pero tranquilo?", "category": "hardChoice" },
+  { "question": "¿Hacer lo que amas y vivir con poco dinero vs hacer lo que odias y vivir con mucho?", "category": "hardChoice" },
+  { "question": "¿Comer rico todos los días pero engordar vs privarte de lo que quieres pero estar en forma?", "category": "hardChoice" },
+  { "question": "¿Vivir solo con total libertad vs vivir acompañado pero con incomodidades?", "category": "hardChoice" },
+  { "question": "¿Ser bueno en algo que no te gusta vs amar algo en lo que no eres bueno?", "category": "hardChoice" },
+  { "question": "¿Recordar todo, incluso lo doloroso, y crecer vs olvidar lo malo y vivir más ligero?", "category": "hardChoice" },
+  { "question": "¿Una vida que parece perfecta para los demás vs una vida con la que tú estás satisfecho?", "category": "hardChoice" },
+  { "question": "¿Vida saludable pero con poco dinero vs vida con dinero pero con problemas de salud frecuentes?", "category": "hardChoice" },
+  { "question": "¿Renunciar a tu sueño por estabilidad vs perseguirlo aunque haya incertidumbre?", "category": "hardChoice" },
+  { "question": "¿Ser tú quien se disculpe primero vs ser tú quien corte el contacto primero?", "category": "hardChoice" },
+  { "question": "¿Seguir intentándolo aunque fracases vs ir siempre por el camino seguro?", "category": "hardChoice" },
+  { "question": "¿Decirle la verdad a un amigo vs callarte para no hacerle daño?", "category": "hardChoice" },
+  { "question": "¿Viajar mucho pero sin ahorros vs ahorrar bien pero sin poder viajar?", "category": "hardChoice" },
+  { "question": "¿Triunfar 10 años antes y morir joven vs vivir una vida normal pero larga?", "category": "hardChoice" },
+  { "question": "¿Ser bueno en todo pero sin un talento especial vs dominar perfectamente una sola cosa?", "category": "hardChoice" },
+  { "question": "¿Una relación con alguien bueno pero sin mariposas vs una emocionante pero arriesgada?", "category": "hardChoice" },
+  { "question": "¿Una vida intensa y ocupada vs una tranquila pero aburrida?", "category": "hardChoice" },
+  { "question": "¿Una vida protagonista y visible vs una discreta pero que ayuda desde atrás?", "category": "hardChoice" },
+  { "question": "¿Confesarle tus sentimientos a quien te gusta vs esperar dando señales indirectas?", "category": "hardChoice" },
+  { "question": "¿Que un amigo cercano se aleje de ti vs que seas tú quien se aleje primero?", "category": "hardChoice" },
+  { "question": "¿Vejez con dinero pero solitaria vs vejez sin dinero pero rodeado de familia?", "category": "hardChoice" },
+  { "question": "¿Disfrutar el momento vs aguantar ahora para un mejor futuro?", "category": "hardChoice" },
+  { "question": "¿Un amor corto e intenso vs un amor largo y tranquilo?", "category": "hardChoice" },
+  { "question": "¿Expresar tus emociones abiertamente vs guardártelas para ti?", "category": "hardChoice" },
+  { "question": "¿Decidir rápido y arrepentirte vs pensarlo tanto que al final te rindes?", "category": "hardChoice" },
+  { "question": "¿Vivir a tu manera sin importar lo que digan vs abrirte a los consejos y cambiar?", "category": "hardChoice" },
+  { "question": "¿Llevarte bien con todos sin profundidad vs apostar todo por una sola persona?", "category": "hardChoice" },
+  { "question": "¿Decirlo directamente vs esperar que la situación se resuelva sola?", "category": "hardChoice" },
+  { "question": "¿Ser feliz ahora pero con incertidumbre en el futuro vs sufrir ahora pero con futuro prometedor?", "category": "hardChoice" },
+  { "question": "¿Un amigo honesto vs un amigo amable, si solo pudieras tener uno?", "category": "hardChoice" },
+  { "question": "¿El trabajo que quieres pero mal pagado vs uno que no quieres pero muy bien pagado?", "category": "hardChoice" },
+  { "question": "¿Ser famoso y conocido por todos vs ser una persona común que nadie conoce?", "category": "hardChoice" },
+  { "question": "¿Amar a una sola persona toda la vida vs vivir varios amores distintos?", "category": "hardChoice" },
+  { "question": "¿Reconocer tu error al instante vs poner excusas y disculparte después?", "category": "hardChoice" },
+  { "question": "¿Ser quien siempre da el primer paso vs ser quien espera que lo contacten?", "category": "hardChoice" },
+  { "question": "¿Esforzarte mucho y fracasar vs tener suerte sin esfuerzo y triunfar?", "category": "hardChoice" },
+  { "question": "¿Un gran error vs decenas de errores pequeños, cuál te parece más llevadero?", "category": "hardChoice" },
+  { "question": "¿Ser popular pero con relaciones vacías vs no ser popular pero con un amigo de verdad?", "category": "hardChoice" },
+  { "question": "¿Una vida dedicada a superar tus defectos vs a potenciar tus fortalezas?", "category": "hardChoice" },
+  { "question": "¿Una vida en la que se te escapa un pedo con cada paso vs una en la que te chorra la nariz cada vez que ríes?", "category": "wildChoice" },
+  { "question": "¿Tener el cabello de algodón de azúcar vs tener las uñas de gelatina?", "category": "wildChoice" },
+  { "question": "¿Tener que cantar todo lo que dices vs tener que bailar cada vez que hablas?", "category": "wildChoice" },
+  { "question": "¿Tener voz de niño para siempre vs tener voz de abuelo para siempre?", "category": "wildChoice" },
+  { "question": "¿Que tus pies huelan a palomitas vs que tus manos huelan a huevo?", "category": "wildChoice" },
+  { "question": "¿Tener ojos de telescopio vs tener orejas de trompeta?", "category": "wildChoice" },
+  { "question": "¿Tener nariz de elefante vs tener orejas de conejo?", "category": "wildChoice" },
+  { "question": "¿Que suene un gallo cuando tienes hambre vs que suene una trompeta cuando estás lleno?", "category": "wildChoice" },
+  { "question": "¿Que suene una fanfarria cada vez que vas al baño vs que exploten fuegos artificiales cada vez que estornudas?", "category": "wildChoice" },
+  { "question": "¿Usar solo chanclas para siempre vs vestir solo de traje para siempre?", "category": "wildChoice" },
+  { "question": "¿Que se te cierren los ojos en cada foto vs que se te salga la lengua en cada foto?", "category": "wildChoice" },
+  { "question": "¿Hablar siempre al doble de velocidad vs moverte siempre a la mitad de velocidad?", "category": "wildChoice" },
+  { "question": "¿Solo poder caminar hacia atrás vs solo poder sentarte de lado?", "category": "wildChoice" },
+  { "question": "¿Levitar un poco cada vez que ríes vs brillar en rojo cada vez que te enojas?", "category": "wildChoice" },
+  { "question": "¿Que tu altura cambie 1 cm cada día vs que tu peso cambie 1 kg cada día?", "category": "wildChoice" },
+  { "question": "¿Que toda la comida sepa igual vs que lo mismo sepa diferente cada vez?", "category": "wildChoice" },
+  { "question": "¿Que tu nombre cambie cada mes vs que tu cara cambie un poco cada mes?", "category": "wildChoice" },
+  { "question": "¿Que suene música de fondo cada vez que caminas vs que la iluminación cambie según tu estado de ánimo?", "category": "wildChoice" },
+  { "question": "¿Tener que bailar obligatoriamente una vez al día vs tener que cantar obligatoriamente una vez al día?", "category": "wildChoice" },
+  { "question": "¿Que tu sombra no te haga caso vs que tu reflejo haga lo contrario de ti?", "category": "wildChoice" },
+  { "question": "¿Que aparezca un globo de diálogo sobre tu cabeza cuando piensas vs que tu estado de ánimo se vea en tu cara como el clima?", "category": "wildChoice" },
+  { "question": "¿Que tus sueños se transmitan en vivo mientras duermes vs que los grites en voz alta al despertar?", "category": "wildChoice" },
+  { "question": "¿Ver los olores como colores vs sentir los sonidos como sabores?", "category": "wildChoice" },
+  { "question": "¿Tener 10 manos vs tener 10 pies?", "category": "wildChoice" },
+  { "question": "¿Ser invisible pero que se vea tu ropa vs que tu ropa sea transparente pero se vea tu cuerpo?", "category": "wildChoice" },
+  { "question": "¿Que cruja al caminar vs que truene al sentarte?", "category": "wildChoice" },
+  { "question": "¿Que cada cumpleaños se borren un año de recuerdos vs que con cada año que pasa seas un año más joven?", "category": "wildChoice" },
+  { "question": "¿Que al llamar por teléfono tu voz suene como un gato vs que al saludar suenes como un robot?", "category": "wildChoice" },
+  { "question": "¿Tener pies magnéticos vs tener manos de velcro?", "category": "wildChoice" },
+  { "question": "¿Llorar cuando algo es gracioso y reír cuando algo es triste vs estornudar cuando estás feliz y tener hipo cuando estás enojado?", "category": "wildChoice" },
+  { "question": "¿Que se tome una selfie cada vez que parpadeas vs que suene una sirena cada vez que bostezas?", "category": "wildChoice" },
+  { "question": "¿Encogerte cuando tienes sueño vs ponerte el doble de grande cuando estás emocionado?", "category": "wildChoice" },
+  { "question": "¿Que lo que comes se refleje en el color de tu cabello vs que lo que escuchas se refleje en el color de tus ojos?", "category": "wildChoice" },
+  { "question": "¿Vivir en un mundo de LEGO vs vivir en un mundo de stickers?", "category": "wildChoice" },
+  { "question": "¿Que aparezcan subtítulos en cada conversación vs que todo lo escuches con voz de traductor automático?", "category": "wildChoice" },
+  { "question": "¿Tener el cabello de colores del arcoíris para siempre vs tener los ojos brillantes para siempre?", "category": "wildChoice" },
+  { "question": "¿Un mundo donde llueven dulces en vez de agua vs uno donde caen palomitas en vez de nieve?", "category": "wildChoice" },
+  { "question": "¿Tener que expresar el sabor con sonidos al comer vs tener que comentar en voz alta lo que comes?", "category": "wildChoice" },
+  { "question": "¿Moverte siempre en cámara lenta vs moverte siempre en cámara rápida?", "category": "wildChoice" },
+  { "question": "¿Solo poder dormir dentro del refrigerador vs solo poder ducharte dentro de la lavadora?", "category": "wildChoice" },
+  { "question": "¿Una vida en la que solo puedes decir la verdad vs una en la que puedes mentir libremente?", "category": "seriousChoice" },
+  { "question": "¿Una vida amada pero incomprendida vs una comprendida pero sin amor?", "category": "seriousChoice" },
+  { "question": "¿Una vida larga pero aburrida vs una corta pero intensa?", "category": "seriousChoice" },
+  { "question": "¿Lograr tu sueño pero vivir en soledad vs renunciar a él pero estar rodeado de personas?", "category": "seriousChoice" },
+  { "question": "¿Vivir para ti mismo vs vivir para los demás?", "category": "seriousChoice" },
+  { "question": "¿Ser recordado como alguien fuerte vs ser recordado como alguien cálido?", "category": "seriousChoice" },
+  { "question": "¿Una vida estable sin cambios vs una incierta pero llena de crecimiento?", "category": "seriousChoice" },
+  { "question": "¿Perdonar fácilmente vs no poder olvidar con facilidad?", "category": "seriousChoice" },
+  { "question": "¿Una vida en la que abres el corazón fácilmente vs una en la que eres firme y difícil de conmover?", "category": "seriousChoice" },
+  { "question": "¿Crecer a través del arrepentimiento vs vivir sin remordimientos y con tranquilidad?", "category": "seriousChoice" },
+  { "question": "¿Ser recordado como alguien respetado vs ser recordado como alguien querido?", "category": "seriousChoice" },
+  { "question": "¿Tratar a todos por igual vs enfocarte solo en las personas más importantes para ti?", "category": "seriousChoice" },
+  { "question": "¿Una vida libre pero solitaria vs una con límites pero llena de calidez?", "category": "seriousChoice" },
+  { "question": "¿Una vida aprendiendo para siempre vs una vida enseñando para siempre?", "category": "seriousChoice" },
+  { "question": "¿Que todos conozcan tus debilidades vs que nadie conozca tus fortalezas?", "category": "seriousChoice" },
+  { "question": "¿Aprender repitiendo errores vs vivir sin errores pero sin aprendizaje?", "category": "seriousChoice" },
+  { "question": "¿Atreverte y fracasar vs no intentarlo y arrepentirte?", "category": "seriousChoice" },
+  { "question": "¿Alguien que expresa sus emociones fácilmente vs alguien que las oculta bien, cuál te parece mejor?", "category": "seriousChoice" },
+  { "question": "¿Una vida en la que sientes el dolor ajeno vs una en la que te has vuelto insensible a él?", "category": "seriousChoice" },
+  { "question": "¿Perder tu identidad por mantener una relación vs perder una relación por mantenerte fiel a ti mismo?", "category": "seriousChoice" },
+  { "question": "¿Una vida en la que lo resuelves todo solo vs una en la que siempre necesitas ayuda?", "category": "seriousChoice" },
+  { "question": "¿Que alguien de confianza te traicione vs ser tú quien traiciona a alguien?", "category": "seriousChoice" },
+  { "question": "¿Una vida en la que tu sinceridad nunca llega vs una en la que todos te entienden sin decir nada?", "category": "seriousChoice" },
+  { "question": "¿Alejarte para no hacerle daño a alguien vs quedarte cerca aunque duela?", "category": "seriousChoice" },
+  { "question": "¿Una vida con libertad absoluta de elección vs una en la que cada elección tiene consecuencias claras?", "category": "seriousChoice" },
+  { "question": "¿Ser quien siempre empieza a amar vs ser quien siempre termina el amor?", "category": "seriousChoice" },
+  { "question": "¿Una vida feliz sin saber nada vs una angustiada pero con todo el conocimiento?", "category": "seriousChoice" },
+  { "question": "¿Callarte aunque tengas razón vs hablar aunque puedas equivocarte?", "category": "seriousChoice" },
+  { "question": "¿Una vida según las expectativas de los demás vs una según tus propios criterios?", "category": "seriousChoice" },
+  { "question": "¿Decidir siempre solo vs decidir siempre con alguien?", "category": "seriousChoice" },
+  { "question": "¿Perder la memoria vs perder las emociones?", "category": "seriousChoice" },
+  { "question": "¿Una felicidad perfecta pero breve vs una felicidad ordinaria pero duradera?", "category": "seriousChoice" },
+  { "question": "¿Aceptar la oportunidad de volver a vivir tu vida vs rechazarla?", "category": "seriousChoice" },
+  { "question": "¿Una vida amada por los demás vs una vida en la que tú mismo te sientes pleno?", "category": "seriousChoice" },
+  { "question": "¿Un mundo donde nadie te juzga vs uno donde todos te dan su opinión honesta?", "category": "seriousChoice" },
+  { "question": "¿Poder cambiar el pasado pero perder el presente vs conocer el futuro pero con el pasado intacto?", "category": "seriousChoice" },
+  { "question": "¿Soltarlo todo y empezar de cero vs aferrarte a lo que tienes y seguir adelante?", "category": "seriousChoice" },
+  { "question": "¿Amar a alguien sabiendo que es malo para ti vs estar con alguien bueno pero sin sentir amor?", "category": "seriousChoice" },
+  { "question": "¿Ser feliz ahora pero arrepentirte después vs sufrir ahora pero sentirte orgulloso después?", "category": "seriousChoice" },
+  { "question": "¿Vivir sabiendo cuándo vas a morir vs vivir creyendo que la muerte no existe?", "category": "seriousChoice" }
 ]

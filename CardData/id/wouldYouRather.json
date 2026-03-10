@@ -1,642 +1,162 @@
 [
-  {
-    "question": "Pizza vs ayam goreng, kalau harus pilih satu buat dimakan seumur hidup?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Musim panas vs musim hujan, kalau harus hidup di satu musim selamanya?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Orang pagi vs orang malam, kalau harus pilih satu selamanya?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Kopi vs teh, kalau hanya bisa minum satu seumur hidup?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Chat vs telepon, kalau hanya bisa pakai satu cara komunikasi?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Ayam goreng bumbu vs original, kalau harus pilih satu selamanya?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Bioskop vs streaming, kalau hanya bisa pilih satu seumur hidup?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Nasi goreng vs mie goreng, kalau harus makan satu selamanya?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Tangga vs eskalator, kalau hanya bisa pakai satu selamanya?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Bus vs angkot, kalau hanya bisa pakai satu transportasi umum?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Daging babi vs daging sapi, kalau hanya bisa makan satu jenis daging?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Pesan antar vs makan langsung di tempat, kalau hanya bisa pilih satu?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Musik vs podcast, kalau hanya bisa dengerin satu waktu perjalanan?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Instagram vs YouTube, kalau hanya bisa pakai satu?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Tidur siang vs makan malam tengah malam, kalau hanya bisa nikmati satu?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Roti vs nasi, kalau hanya bisa makan satu sumber karbohidrat?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Makan di dalam vs makan di luar, kalau harus selalu di satu tempat?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Kucing vs anjing, kalau hanya bisa punya satu hewan peliharaan?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Olahraga vs jalan-jalan santai, kalau hanya bisa lakukan satu aktivitas fisik selamanya?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Wisata dalam negeri vs luar negeri, kalau hanya bisa pilih satu?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Manis vs asin, kalau camilan hanya boleh satu rasa selamanya?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Earphone vs speaker, kalau musik hanya bisa didengar dengan satu cara?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Mandi siram vs berendam, kalau cara mandi harus satu selamanya?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Buku vs YouTube, kalau hanya bisa dapat informasi dari satu sumber?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Es krim vs kue, kalau hanya bisa makan satu jenis dessert?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Kafe vs rumah, kalau tempat kerja atau belajar harus satu selamanya?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Pesan teks vs pesan suara, kalau cara kirim pesan hanya satu?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Film vs serial, kalau hanya bisa nonton satu jenis konten?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Masak sendiri vs pesan antar, kalau makan harus satu cara selamanya?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Sneakers vs sepatu formal, kalau hanya bisa pakai satu jenis alas kaki?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Minimarket vs supermarket, kalau belanja harus di satu tempat selamanya?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Bakso vs soto, kalau makanan berkuah hanya bisa satu?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Kafe sepi vs kafe ramai, kalau harus pilih satu?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Wisata terencana vs wisata spontan, kalau harus satu cara selamanya?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Cuaca panas cerah vs sejuk mendung, kalau harus pilih satu selamanya?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Manis-asin-manis vs gurih saja, kalau selera makan harus satu selamanya?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Tidur awal bangun awal vs tidur malam bangun siang, kalau harus satu pola selamanya?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Akhir pekan keluar vs di rumah, kalau harus satu cara beristirahat?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Menu baru vs menu langganan yang familiar, kalau harus selalu pilih satu?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Smartphone vs laptop, kalau hanya bisa pakai satu perangkat?",
-    "category": "lightChoice"
-  },
-  {
-    "question": "Hidup kaya tapi kesepian vs hidup sederhana tapi penuh kasih sayang?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Mengingat segalanya vs melupakan semua kenangan buruk?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Melakukan hal yang kamu suka tapi hidup miskin vs melakukan hal yang kamu benci tapi hidup kaya?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Sukses 10 tahun lebih awal tapi umur pendek vs hidup biasa tapi panjang umur?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Hanya kamu yang bicara jujur di dunia vs semua orang berbohong?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Dicintai semua orang vs dicintai tulus oleh satu orang?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Meraih impian tapi kehilangan keluarga vs melepas impian tapi bersama keluarga?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Tahu masa lalu tapi tidak tahu masa depan vs tahu masa depan tapi melupakan masa lalu?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Sangat terkenal tapi tidak ada yang benar-benar mengenalmu vs tidak dikenal siapa pun tapi dicintai dengan tulus?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "10 kebahagiaan singkat vs 1 kebahagiaan sempurna?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Sehat sempurna tapi tidak punya uang vs punya banyak uang tapi selalu sakit?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Bisa semua hal tapi tidak punya keahlian khusus vs sangat ahli dalam satu hal?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Orang yang kamu cintai tidak mengingatmu vs kamu yang tidak mengingat orang yang kamu cintai?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Kehilangan teman dekat demi sukses vs kehilangan kesuksesan demi menjaga teman dekat?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Mencintai satu orang seumur hidup vs mencintai banyak orang tapi tidak terlalu dalam?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Bisa membaca pikiran semua orang tapi pikiranmu juga terbaca vs tidak tahu apa-apa tapi rahasiamu terjaga?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Hidup mengerjakan hal yang kamu suka vs hidup bisa mengerjakan semua hal meski tidak suka?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Dikenang orang tapi tidak bahagia vs tidak dikenang siapa pun tapi bahagia?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Hidup sehat sampai mati vs hidup singkat tapi semua impian terwujud?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Dicintai tapi tidak dihargai vs dihargai tapi tidak dicintai?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Kehilangan yang sekarang tapi dapat kesempatan yang lebih besar vs menjaga yang sekarang tapi tidak berkembang?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Tidak punya waktu sendiri tapi tidak kesepian vs selalu sendirian tapi punya kebebasan penuh?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Mengakui bahwa dirimu salah vs terus meyakini dirimu selalu benar?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Sudah berusaha keras tapi gagal vs sukses tanpa usaha sama sekali?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Berani mencoba tapi menyesal vs tidak mencoba dan menyesal?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Hidup memenuhi ekspektasi orang lain vs hidup dengan standar sendiri?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Mengetahui semua kebenaran tapi terluka vs hidup bahagia dalam kebohongan yang indah?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Mencintai satu hal dengan sempurna vs mencintai banyak hal sedikit-sedikit?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Mendapatkan semua yang diinginkan tapi prosesnya berat vs proses menyenangkan tapi hasilnya nol?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Hidup tidak bisa sepenuhnya memaafkan seseorang vs tidak bisa sepenuhnya dimaafkan oleh seseorang?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Menanggung rasa sakit orang yang kamu cintai vs orang yang kamu cintai menanggung rasa sakitmu?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Menikmati masa kini tapi khawatir tentang masa depan vs mengorbankan masa kini untuk masa depan?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Mengambil semua keputusan sendiri vs selalu ada yang memutuskan untukmu?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Jenius tapi malas vs biasa-biasa aja tapi terus berusaha?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Mengingat semua kenangan buruk dan berkembang darinya vs menghapus kenangan buruk dan hidup ringan?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Semua orang tahu segalanya tentangmu vs tidak ada yang mengenalmu?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Bahagia sekarang tapi menyesal nanti vs susah sekarang tapi puas nanti?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Kehilangan cinta demi mendapat kebebasan vs kehilangan kebebasan demi mendapat cinta?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Sukses besar tapi tidak ada yang tahu vs biasa saja tapi diakui semua orang?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Satu kesalahan besar vs puluhan kesalahan kecil, mana yang lebih oke?",
-    "category": "hardChoice"
-  },
-  {
-    "question": "Setiap langkah mengeluarkan suara klakson vs setiap ketawa mengeluarkan suara kentut?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Kaki berbau cokelat vs mulut berbau bawang putih, kalau harus pilih satu selamanya?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Rambut terbuat dari mi vs kuku terbuat dari sumpit?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Bicara harus dalam bentuk nyanyian vs bicara harus dalam bentuk rap?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Setiap berkedip langsung memotret selfie vs setiap bersin ada kembang api meledak?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Tubuhnya transparan tapi bajunya kelihatan vs bajunya transparan tapi tubuhnya kelihatan?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Seumur hidup bersuara seperti anak kecil vs seumur hidup bersuara seperti kakek-kakek?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Punya 10 tangan vs punya 10 kaki?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Setiap tidur ngigau dalam bahasa yang berbeda vs setiap bangun lupa nama sendiri?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Setiap lapar mengeluarkan suara ayam berkokok vs setiap kenyang bernyanyi seperti burung?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Setiap berpikir ada balon kata muncul di atas kepala vs suasana hati kelihatan seperti cuaca di ekspresi wajah?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Setiap jalan ada musik latar yang bunyi vs setiap emosi berubah pencahayaan ikut berubah?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Setiap makan harus menyuarakan rasanya vs setiap bicara ada subtitle yang muncul?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Tinggi badan berubah 1cm setiap hari vs berat badan berubah 1kg setiap hari?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Hidungnya panjang seperti belalai gajah vs telinganya panjang seperti telinga kelinci?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Setiap ke kamar mandi ada fanfare yang berbunyi vs bersendawa mengeluarkan suara klakson?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Bisa melihat bau sebagai warna vs bisa merasakan suara sebagai rasa?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Seumur hidup hanya boleh pakai sandal jepit vs seumur hidup hanya boleh pakai baju formal?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Namanya berganti setiap bulan vs wajahnya sedikit berubah setiap bulan?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Reaksinya selalu terlambat satu ketukan vs sudah tertawa duluan sebelum kejadiannya?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Hanya bisa berjalan mundur vs hanya bisa duduk miring?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Setiap makan ada orang lain yang ngunyahin vs setiap berpikir terdengar suara orang sebelah?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Setiap difoto matanya pasti terpejam vs setiap difoto lidahnya pasti terjulur?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Menyentuh benda dan bisa mendengar sejarahnya vs menyentuh orang dan bisa mendengar kekhawatiran terkininya?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Bicara selalu 2x lebih cepat vs bergerak selalu 2x lebih lambat?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Tidur dan mimpinya disiarkan langsung vs bangun dan langsung ngomong keras isi mimpinya?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Hidup di dunia yang semuanya terbuat dari LEGO vs hidup di dunia yang semuanya terbuat dari stiker?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Setiap tertawa langsung melayang vs setiap menangis langsung nempel ke lantai?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Makanan yang dimakan muncul sebagai warna rambut vs musik yang didengar muncul sebagai warna mata?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Setiap ngantuk tubuhnya mengecil vs setiap senang tubuhnya jadi dua kali lebih besar?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Setiap telepon suaranya terdengar seperti kucing mengeong vs setiap menyapa suaranya seperti robot?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Kakinya seperti magnet vs tangannya seperti velcro?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Setiap ulang tahun ingatannya hilang setahun vs semakin tua semakin muda usianya?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Setiap hari harus menari satu kali vs setiap hari harus bernyanyi satu kali?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Matanya seperti teleskop vs telinganya seperti radar?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Hanya bisa tidur di dalam kulkas vs hanya bisa mandi di dalam mesin cuci?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Semua makanan terasa sama vs makanan yang sama selalu terasa berbeda setiap kali makan?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Setiap bangun ingatannya teracak vs setiap tidur bermimpi jadi orang yang berbeda-beda?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Lucu malah keluar air mata, sedih malah tertawa vs senang selalu bersin, marah selalu cegukan?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Bayangannya bergerak sendiri vs bayangan cermin melakukan hal sebaliknya?",
-    "category": "wildChoice"
-  },
-  {
-    "question": "Hanya bicara yang jujur vs bebas berbohong sesuka hati?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Kehilangan ingatan vs kehilangan perasaan?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Dicintai tapi tidak dipahami vs dipahami tapi tidak dicintai?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Umur panjang tapi membosankan vs umur pendek tapi penuh intensitas?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Bisa menyelesaikan segalanya sendiri vs selalu butuh bantuan orang lain?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Meraih impian tapi kesepian vs melepas impian tapi bersama orang-orang yang dicintai?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Bisa mengubah masa lalu tapi masa kini lenyap vs masa lalu tetap tapi bisa tahu masa depan?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Mencintai orang yang kamu tahu jahat vs tidak punya cinta tapi sama orang yang baik?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Seumur hidup terus belajar vs seumur hidup terus mengajar?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Hidup untuk diri sendiri vs hidup untuk orang lain?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Dicintai banyak orang vs merasa puas dengan diri sendiri?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Berani mencoba dan gagal vs aman tapi tidak pernah mencoba?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Menikmati kebahagiaan sempurna dalam waktu singkat vs menikmati kebahagiaan biasa dalam waktu lama?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Bebas tapi kesepian vs terbatas tapi hangat dikelilingi orang-orang?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Diam meski benar vs berbicara meski mungkin salah?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Dunia di mana tidak ada yang menghakimi kamu vs dunia di mana semua orang memberi penilaian jujur?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Hidup dengan menyadari kematian vs hidup dengan percaya tidak ada kematian?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Diingat sebagai orang yang kuat vs diingat sebagai orang yang hangat?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Hidup selalu bebas memilih vs hidup di mana setiap pilihan selalu ada konsekuensinya?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Ketulusan hati tidak pernah tersampaikan vs tanpa kata-kata pun selalu dipahami semua orang?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Dikhianati orang yang dipercaya vs mengkhianati seseorang?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Hidup stabil tanpa perubahan vs hidup tidak tentu tapi terus berkembang?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Menjaga jarak supaya tidak menyakiti vs tetap dekat meski bisa menyakiti?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Kelemahan kamu diketahui semua orang vs kekuatan kamu tidak diketahui siapa pun?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Bahagia tanpa tahu apa-apa vs tahu segalanya tapi gelisah?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Selalu jadi yang duluan memulai cinta vs selalu jadi yang duluan mengakhiri cinta?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Ikut merasakan penderitaan orang lain vs tidak peka terhadap penderitaan orang lain?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Terus berbuat salah tapi belajar dari kesalahan vs tidak pernah salah tapi tidak belajar apa-apa?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Tidak bisa bilang apa yang kamu mau vs bisa bilang tapi tidak pernah dapat yang kamu mau?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Bersikap adil ke semua orang vs fokus hanya pada orang-orang yang penting bagimu?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Kehilangan dirimu sendiri demi menjaga hubungan vs kehilangan hubungan demi menjaga dirimu?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Mudah memaafkan vs tidak mudah melupakan?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Hati yang mudah terbuka vs hati yang kuat dan kokoh?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Hidup menerima hal-hal yang tidak bisa diubah vs terus melawan meski tidak mau menerimanya?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Seumur hidup mengambil keputusan sendiri vs seumur hidup selalu ada yang memutuskan bersama?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Diberi kesempatan untuk hidup ulang dari awal dan menerimanya vs menolaknya?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Hidup dan mati sebagai orang yang dihormati vs hidup dan mati sebagai orang yang dicintai?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Tumbuh melalui penyesalan vs hidup tanpa penyesalan dan tenang?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Melepaskan segalanya dan mulai dari nol vs mempertahankan yang ada sekarang dan melanjutkan hidup?",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "Pernah sungguh-sungguh membenci seseorang vs tidak pernah sungguh-sungguh membenci siapa pun?",
-    "category": "seriousChoice"
-  }
+  { "question": "Pizza vs ayam goreng, kalau seumur hidup cuma boleh makan satu?", "category": "lightChoice" },
+  { "question": "Mie hitam vs mie merah pedas, malam ini harus pilih satu?", "category": "lightChoice" },
+  { "question": "KakaoTalk vs Instagram, kalau harus hapus salah satu?", "category": "lightChoice" },
+  { "question": "Es americano vs latte hangat, kalau cuma boleh minum satu?", "category": "lightChoice" },
+  { "question": "Musim panas vs musim dingin, kalau harus hidup di satu musim selamanya?", "category": "lightChoice" },
+  { "question": "Netflix vs YouTube, kalau cuma boleh pakai satu?", "category": "lightChoice" },
+  { "question": "Ayam saus vs ayam original, kalau harus pilih satu terus?", "category": "lightChoice" },
+  { "question": "Daging babi vs daging sapi, kalau cuma boleh makan satu?", "category": "lightChoice" },
+  { "question": "Pesan antar vs masak sendiri, kalau cuma boleh satu cara makan?", "category": "lightChoice" },
+  { "question": "Kucing vs anjing, kalau cuma boleh pelihara satu?", "category": "lightChoice" },
+  { "question": "Bus vs kereta/MRT, kalau cuma boleh naik satu moda transportasi?", "category": "lightChoice" },
+  { "question": "Buku vs YouTube, kalau cuma boleh cari info dari satu sumber?", "category": "lightChoice" },
+  { "question": "Minimarket vs supermarket, kalau tempat belanja cuma satu?", "category": "lightChoice" },
+  { "question": "Roti vs nasi, kalau cuma boleh makan satu seumur hidup?", "category": "lightChoice" },
+  { "question": "Bioskop vs sofa di rumah, kalau tempat nonton film cuma satu?", "category": "lightChoice" },
+  { "question": "Tidur siang vs makan malam larut, kalau cuma boleh pilih satu?", "category": "lightChoice" },
+  { "question": "Kafe vs rumah, kalau tempat belajar/kerja harus satu terus?", "category": "lightChoice" },
+  { "question": "Liburan lokal vs liburan luar negeri, kalau cuma boleh pilih satu?", "category": "lightChoice" },
+  { "question": "Es krim vs kue, kalau dessert cuma boleh satu?", "category": "lightChoice" },
+  { "question": "Mandi shower vs mandi berendam, kalau cara mandi cuma satu?", "category": "lightChoice" },
+  { "question": "Film vs serial, kalau cuma boleh nonton satu jenis?", "category": "lightChoice" },
+  { "question": "Earphone vs speaker, kalau cara dengerin musik cuma satu?", "category": "lightChoice" },
+  { "question": "Manis vs asin, kalau rasa camilan harus satu terus?", "category": "lightChoice" },
+  { "question": "Orang pagi vs orang malam, kalau harus salah satu selamanya?", "category": "lightChoice" },
+  { "question": "Liburan terencana vs liburan spontan, kalau harus pilih satu gaya?", "category": "lightChoice" },
+  { "question": "Keluar di akhir pekan vs rebahan di rumah, kalau cara istirahat cuma satu?", "category": "lightChoice" },
+  { "question": "Tteokbokki vs mi instan, kalau camilan malam harus satu?", "category": "lightChoice" },
+  { "question": "Rasa coklat vs rasa stroberi, kalau rasa snack harus satu terus?", "category": "lightChoice" },
+  { "question": "Menu baru vs menu langganan, kalau di restoran harus selalu pilih satu?", "category": "lightChoice" },
+  { "question": "Smartphone vs laptop, kalau cuma boleh pakai satu perangkat?", "category": "lightChoice" },
+  { "question": "Kafe tenang vs kafe ramai, kalau cuma boleh ke satu jenis?", "category": "lightChoice" },
+  { "question": "Hari panas cerah vs hari sejuk mendung, kalau cuaca setiap hari harus satu?", "category": "lightChoice" },
+  { "question": "Musik vs podcast, kalau saat perjalanan cuma boleh dengarkan satu?", "category": "lightChoice" },
+  { "question": "Gurita vs cumi-cumi, kalau seafood cuma boleh satu?", "category": "lightChoice" },
+  { "question": "Soto dingin vs nasi goreng, kalau menu musim panas cuma satu?", "category": "lightChoice" },
+  { "question": "Kartu vs tunai, kalau cara bayar harus satu terus?", "category": "lightChoice" },
+  { "question": "Sneakers vs sandal, kalau jenis alas kaki cuma satu?", "category": "lightChoice" },
+  { "question": "Di dalam vs di luar ruangan, kalau tempat makan harus satu terus?", "category": "lightChoice" },
+  { "question": "Makan sendirian vs makan bareng orang lain, kalau harus satu cara terus?", "category": "lightChoice" },
+  { "question": "Kerja 5 hari normal vs kerja 4 hari tapi ada lembur, mana yang lebih oke?", "category": "lightChoice" },
+  { "question": "Banyak teman tapi hubungannya dangkal vs sedikit teman tapi beneran deket?", "category": "hardChoice" },
+  { "question": "Gaji besar tapi stres banget vs gaji kecil tapi hidupnya santai?", "category": "hardChoice" },
+  { "question": "Hidup miskin tapi ngerjain hal yang disukai vs hidup kaya tapi kerjaan nggak disukai?", "category": "hardChoice" },
+  { "question": "Tiap hari makan enak tapi gampang gemuk vs nahan makan tapi badan tetap ideal?", "category": "hardChoice" },
+  { "question": "Tinggal sendiri tapi bebas total vs tinggal bareng orang lain tapi nggak nyaman?", "category": "hardChoice" },
+  { "question": "Jago tapi nggak suka pekerjaannya vs suka banget tapi nggak terlalu jago?", "category": "hardChoice" },
+  { "question": "Ingat semua kenangan buruk tapi tumbuh karenanya vs lupa semua kenangan buruk dan hidup ringan?", "category": "hardChoice" },
+  { "question": "Hidup yang keliatan keren di mata orang vs hidup yang bikin diri sendiri puas?", "category": "hardChoice" },
+  { "question": "Sehat tapi miskin vs kaya tapi sering sakit-sakitan?", "category": "hardChoice" },
+  { "question": "Demi stabilitas rela buang impian vs tetap kejar impian meski hidup penuh ketidakpastian?", "category": "hardChoice" },
+  { "question": "Minta maaf duluan vs yang duluan mutusin hubungan?", "category": "hardChoice" },
+  { "question": "Terus coba meski sering gagal vs milih jalan aman terus?", "category": "hardChoice" },
+  { "question": "Jujur ke teman meski menyakitkan vs diem aja biar nggak nyakitin?", "category": "hardChoice" },
+  { "question": "Sering liburan tapi nggak punya tabungan vs punya tabungan tapi jarang liburan?", "category": "hardChoice" },
+  { "question": "Sukses lebih cepat tapi mati muda vs hidup biasa-biasa tapi panjang umur?", "category": "hardChoice" },
+  { "question": "Bisa semua hal tapi nggak punya keahlian khusus vs jago banget di satu hal?", "category": "hardChoice" },
+  { "question": "Pacaran sama orang baik tapi nggak bikin deg-degan vs sama orang yang bikin deg-degan tapi berpotensi nyakitin?", "category": "hardChoice" },
+  { "question": "Hidup sibuk dan penuh perjuangan vs hidup santai tapi kadang membosankan?", "category": "hardChoice" },
+  { "question": "Hidup yang tampil di depan orang banyak vs yang diam-diam bantu dari belakang?", "category": "hardChoice" },
+  { "question": "Nyatain perasaan duluan vs kasih kode terus nunggu?", "category": "hardChoice" },
+  { "question": "Teman deket yang duluan menjauh vs kamu yang duluan menjauh?", "category": "hardChoice" },
+  { "question": "Masa tua kaya tapi kesepian vs masa tua pas-pasan tapi bareng keluarga?", "category": "hardChoice" },
+  { "question": "Nikmatin sekarang vs tahan sekarang demi nanti?", "category": "hardChoice" },
+  { "question": "Cinta yang singkat tapi intens vs cinta yang panjang dan nyaman?", "category": "hardChoice" },
+  { "question": "Ekspresif soal perasaan vs memendam semuanya?", "category": "hardChoice" },
+  { "question": "Cepat ambil keputusan tapi nyesel vs lama mikir sampai akhirnya nyerah?", "category": "hardChoice" },
+  { "question": "Hidup dengan cara sendiri meski dicibir vs mau berubah ikut saran orang lain?", "category": "hardChoice" },
+  { "question": "Baik ke banyak orang vs all-in ke satu orang?", "category": "hardChoice" },
+  { "question": "Ngomong langsung vs nunggu keadaan selesai sendiri?", "category": "hardChoice" },
+  { "question": "Sekarang bahagia tapi masa depan nggak pasti vs sekarang susah tapi masa depan menjanjikan?", "category": "hardChoice" },
+  { "question": "Teman yang jujur vs teman yang manis, kalau harus pilih satu?", "category": "hardChoice" },
+  { "question": "Pekerjaan impian tapi gajinya kecil vs pekerjaan yang nggak disukai tapi gajinya besar?", "category": "hardChoice" },
+  { "question": "Jadi orang terkenal yang semua orang kenal vs jadi orang biasa yang nggak ada yang kenal?", "category": "hardChoice" },
+  { "question": "Cinta satu orang seumur hidup vs punya banyak pengalaman cinta?", "category": "hardChoice" },
+  { "question": "Langsung ngaku salah vs alasan dulu baru minta maaf belakangan?", "category": "hardChoice" },
+  { "question": "Selalu duluan hubungi orang vs nunggu orang duluan hubungi, mana yang lebih oke?", "category": "hardChoice" },
+  { "question": "Kerja keras tapi tetap gagal vs nggak usaha tapi beruntung karena kebetulan?", "category": "hardChoice" },
+  { "question": "Satu kesalahan besar vs puluhan kesalahan kecil, mana yang lebih bisa ditoleransi?", "category": "hardChoice" },
+  { "question": "Populer tapi hubungannya palsu vs nggak populer tapi punya satu teman yang beneran?", "category": "hardChoice" },
+  { "question": "Hidup yang fokus memperbaiki kekurangan vs hidup yang fokus mengembangkan kelebihan?", "category": "hardChoice" },
+  { "question": "Setiap langkah keluarin suara kentut vs setiap ketawa keluar air dari hidung?", "category": "wildChoice" },
+  { "question": "Rambut dari kapas gula vs kuku dari jelly?", "category": "wildChoice" },
+  { "question": "Setiap ngomong harus nyanyi vs setiap ngomong harus joget juga?", "category": "wildChoice" },
+  { "question": "Suara anak-anak seumur hidup vs suara kakek-kakek seumur hidup?", "category": "wildChoice" },
+  { "question": "Kaki bau popcorn vs tangan bau telur rebus?", "category": "wildChoice" },
+  { "question": "Mata seperti teleskop vs telinga seperti terompet?", "category": "wildChoice" },
+  { "question": "Hidung seperti belalai gajah vs telinga seperti telinga kelinci?", "category": "wildChoice" },
+  { "question": "Perut bunyi kokok ayam kalau lapar vs bunyi trompet kalau kenyang?", "category": "wildChoice" },
+  { "question": "Setiap ke kamar mandi ada fanfare vs setiap bersin ada kembang api?", "category": "wildChoice" },
+  { "question": "Seumur hidup cuma pakai sandal vs seumur hidup cuma pakai jas?", "category": "wildChoice" },
+  { "question": "Setiap foto mata selalu menutup vs setiap foto lidah selalu keluar?", "category": "wildChoice" },
+  { "question": "Ngomong selalu 2x lipat cepat vs gerak selalu setengah kecepatan normal?", "category": "wildChoice" },
+  { "question": "Cuma bisa jalan mundur vs cuma bisa duduk miring?", "category": "wildChoice" },
+  { "question": "Setiap ketawa sedikit melayang vs setiap marah badan jadi menyala merah?", "category": "wildChoice" },
+  { "question": "Tinggi badan berubah 1 cm tiap hari vs berat badan berubah 1 kg tiap hari?", "category": "wildChoice" },
+  { "question": "Semua makanan rasanya sama vs makanan yang sama tiap kali rasanya beda?", "category": "wildChoice" },
+  { "question": "Nama berganti tiap bulan vs tampang berubah sedikit tiap bulan?", "category": "wildChoice" },
+  { "question": "Setiap jalan ada backsound vs setiap ganti mood lampunya ikut berubah?", "category": "wildChoice" },
+  { "question": "Wajib joget sekali sehari vs wajib nyanyi sekali sehari?", "category": "wildChoice" },
+  { "question": "Bayangan nggak mau nurut vs pantulan cermin malah melakukan hal sebaliknya?", "category": "wildChoice" },
+  { "question": "Setiap mikir ada balon kata yang muncul di atas kepala vs perasaan keliatan kayak cuaca di wajah?", "category": "wildChoice" },
+  { "question": "Tidur dan mimpinya live streaming vs bangun dan langsung teriak isi mimpinya?", "category": "wildChoice" },
+  { "question": "Bisa lihat bau sebagai warna vs bisa rasain suara sebagai rasa?", "category": "wildChoice" },
+  { "question": "Punya 10 tangan vs punya 10 kaki?", "category": "wildChoice" },
+  { "question": "Badan transparan tapi baju kelihatan vs baju transparan tapi badan kelihatan?", "category": "wildChoice" },
+  { "question": "Setiap jalan bunyi kriek-kriek vs setiap duduk bunyi pom?", "category": "wildChoice" },
+  { "question": "Setiap ulang tahun ingatan setahun hilang vs semakin tua malah semakin muda 1 tahun?", "category": "wildChoice" },
+  { "question": "Setiap nelpon suara kedengaran kayak kucing vs setiap sapa suaranya kayak robot?", "category": "wildChoice" },
+  { "question": "Kaki jadi magnet vs tangan jadi velcro?", "category": "wildChoice" },
+  { "question": "Kalau lucu malah nangis dan kalau sedih malah ketawa vs kalau senang malah bersin dan kalau marah malah cegukan?", "category": "wildChoice" },
+  { "question": "Setiap kedip mata otomatis foto selfie vs setiap menguap keluar suara sirine?", "category": "wildChoice" },
+  { "question": "Ngantuk badan jadi mengecil vs senang badan jadi dua kali lebih besar?", "category": "wildChoice" },
+  { "question": "Makanan yang dimakan muncul sebagai warna rambut vs musik yang didengar muncul sebagai warna mata?", "category": "wildChoice" },
+  { "question": "Dunia dari lego vs dunia dari stiker, mau tinggal di mana?", "category": "wildChoice" },
+  { "question": "Setiap ngobrol ada subtitel yang muncul vs setiap ngobrol suaranya kayak mesin penerjemah?", "category": "wildChoice" },
+  { "question": "Rambut pelangi seumur hidup vs mata yang selalu bersinar seumur hidup?", "category": "wildChoice" },
+  { "question": "Dunia di mana hujannya permen vs dunia di mana saljunya popcorn?", "category": "wildChoice" },
+  { "question": "Setiap makan harus ungkapkan rasanya pakai suara vs setiap makan harus kasih komentar?", "category": "wildChoice" },
+  { "question": "Selalu gerak dalam slow motion vs selalu gerak dalam fast forward?", "category": "wildChoice" },
+  { "question": "Cuma bisa tidur di dalam kulkas vs cuma bisa mandi di dalam mesin cuci?", "category": "wildChoice" },
+  { "question": "Hidup yang selalu jujur vs hidup yang bebas bohong?", "category": "seriousChoice" },
+  { "question": "Dicintai tapi tidak dipahami vs dipahami tapi tidak dicintai?", "category": "seriousChoice" },
+  { "question": "Panjang umur tapi hidup membosankan vs singkat tapi hidup penuh intensitas?", "category": "seriousChoice" },
+  { "question": "Impian tercapai tapi kesepian vs impian dilepas tapi bisa bareng orang-orang tersayang?", "category": "seriousChoice" },
+  { "question": "Hidup untuk diri sendiri vs hidup untuk orang lain?", "category": "seriousChoice" },
+  { "question": "Dikenang sebagai orang yang kuat vs dikenang sebagai orang yang hangat?", "category": "seriousChoice" },
+  { "question": "Hidup stabil tanpa perubahan vs hidup nggak menentu tapi terus berkembang?", "category": "seriousChoice" },
+  { "question": "Mudah memaafkan vs susah melupakan?", "category": "seriousChoice" },
+  { "question": "Hati yang mudah terbuka vs hati yang kuat dan nggak gampang goyah?", "category": "seriousChoice" },
+  { "question": "Bertumbuh lewat penyesalan vs hidup tanpa penyesalan dengan tenang?", "category": "seriousChoice" },
+  { "question": "Dikenang sebagai orang yang dihormati vs dikenang sebagai orang yang dicintai?", "category": "seriousChoice" },
+  { "question": "Bersikap adil ke semua orang vs fokus pada orang-orang yang paling berarti?", "category": "seriousChoice" },
+  { "question": "Bebas tapi kesepian vs terbatas tapi hangat dan aman?", "category": "seriousChoice" },
+  { "question": "Seumur hidup terus belajar vs seumur hidup terus mengajar?", "category": "seriousChoice" },
+  { "question": "Semua orang tahu kelemahan kita vs tak ada yang tahu kelebihan kita?", "category": "seriousChoice" },
+  { "question": "Terus membuat kesalahan tapi belajar darinya vs tidak pernah salah tapi juga tidak pernah belajar?", "category": "seriousChoice" },
+  { "question": "Berani mencoba lalu gagal vs tidak berani mencoba dan menyesalinya?", "category": "seriousChoice" },
+  { "question": "Orang yang mudah mengungkapkan perasaan vs orang yang pandai menyembunyikan perasaan, mana yang lebih baik?", "category": "seriousChoice" },
+  { "question": "Ikut merasakan penderitaan orang lain vs sudah kebal dengan penderitaan orang lain?", "category": "seriousChoice" },
+  { "question": "Mengorbankan diri demi menjaga hubungan vs kehilangan hubungan demi menjaga diri?", "category": "seriousChoice" },
+  { "question": "Menyelesaikan segalanya sendiri vs selalu perlu bantuan orang lain?", "category": "seriousChoice" },
+  { "question": "Dikhianati orang yang dipercaya vs kamu yang mengkhianati seseorang?", "category": "seriousChoice" },
+  { "question": "Niat baik yang tidak pernah tersampaikan vs dunia di mana semua orang langsung paham tanpa perlu bicara?", "category": "seriousChoice" },
+  { "question": "Menjaga jarak agar tidak menyakiti vs tetap dekat meski kadang menyakiti?", "category": "seriousChoice" },
+  { "question": "Hidup di mana pilihan selalu bebas vs hidup di mana setiap pilihan punya konsekuensi?", "category": "seriousChoice" },
+  { "question": "Selalu yang memulai cinta vs selalu yang mengakhiri cinta?", "category": "seriousChoice" },
+  { "question": "Tidak tahu apa-apa tapi bahagia vs tahu segalanya tapi selalu cemas?", "category": "seriousChoice" },
+  { "question": "Diam meski tahu kamu benar vs berani bicara meski mungkin salah?", "category": "seriousChoice" },
+  { "question": "Hidup sesuai ekspektasi orang lain vs hidup berdasarkan standar diri sendiri?", "category": "seriousChoice" },
+  { "question": "Memutuskan segalanya sendiri vs selalu memutuskan bersama orang lain?", "category": "seriousChoice" },
+  { "question": "Kehilangan ingatan vs kehilangan perasaan?", "category": "seriousChoice" },
+  { "question": "Merasakan kebahagiaan sempurna sebentar vs merasakan kebahagiaan biasa dalam waktu lama?", "category": "seriousChoice" },
+  { "question": "Diberi kesempatan menjalani hidup dari awal lagi, mau diterima atau ditolak?", "category": "seriousChoice" },
+  { "question": "Dicintai banyak orang vs merasa penuh dari dalam diri sendiri?", "category": "seriousChoice" },
+  { "question": "Dunia di mana tidak ada yang menghakimi kita vs dunia di mana semua orang menilai kita dengan jujur?", "category": "seriousChoice" },
+  { "question": "Bisa mengubah masa lalu tapi kehilangan masa kini vs bisa tahu masa depan tapi masa lalu tetap sama?", "category": "seriousChoice" },
+  { "question": "Melepaskan segalanya dan mulai dari nol vs mempertahankan apa yang ada sekarang?", "category": "seriousChoice" },
+  { "question": "Mencintai orang yang kamu tahu buruk vs tidak mencintai orang yang kamu tahu baik?", "category": "seriousChoice" },
+  { "question": "Sekarang bahagia tapi nanti menyesal vs sekarang susah tapi nanti terasa bermakna?", "category": "seriousChoice" },
+  { "question": "Hidup dengan sadar akan kematian vs hidup seolah kematian tidak ada?", "category": "seriousChoice" }
 ]

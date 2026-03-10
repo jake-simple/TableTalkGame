@@ -407,32 +407,6 @@
       }
     },
 
-    "pack_neverHaveIEver_name" : {
-      "localizations" : {
-        "ko" : { "stringUnit" : { "state" : "translated", "value" : "나는 한 번도" } },
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Never Have I Ever" } },
-        "ja" : { "stringUnit" : { "state" : "translated", "value" : "私は一度も" } },
-        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "我从未" } },
-        "es" : { "stringUnit" : { "state" : "translated", "value" : "Nunca he..." } },
-        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Nunca fiz..." } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Je n'ai jamais..." } },
-        "de" : { "stringUnit" : { "state" : "translated", "value" : "Ich hab noch nie..." } },
-        "id" : { "stringUnit" : { "state" : "translated", "value" : "Aku Belum Pernah..." } }
-      }
-    },
-    "pack_neverHaveIEver_desc" : {
-      "localizations" : {
-        "ko" : { "stringUnit" : { "state" : "translated", "value" : "나는 한 번도... 해본 적 없다!" } },
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Never have I ever... done that!" } },
-        "ja" : { "stringUnit" : { "state" : "translated", "value" : "私は一度も…やったことがない！" } },
-        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "我从未…做过！" } },
-        "es" : { "stringUnit" : { "state" : "translated", "value" : "¡Nunca he... hecho eso!" } },
-        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Nunca fiz isso!" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Je n'ai jamais... fait ça !" } },
-        "de" : { "stringUnit" : { "state" : "translated", "value" : "Ich hab das noch nie... gemacht!" } },
-        "id" : { "stringUnit" : { "state" : "translated", "value" : "Aku belum pernah... melakukan itu!" } }
-      }
-    },
 
     "cat_vibe_name" : {
       "localizations" : {

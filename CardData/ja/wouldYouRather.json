@@ -1,642 +1,162 @@
 [
-  {
-    "question": "ピザとから揚げ、一生どちらか一つだけ食べるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "夏と冬、一生どちらかの季節だけで生きるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "朝型人間と夜型人間、どちらかに固定されるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "コーヒーとお茶、一生どちらか一方だけ飲めるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "LINEと電話、連絡手段が一つだけになるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "タレのから揚げとプレーンのから揚げ、どちらかだけ選ぶとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "映画館とNetflix、一生どちらか一方だけ選ぶとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "ラーメンとうどん、永遠にどちらかだけ食べるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "階段とエスカレーター、一生どちらかだけ使わないといけないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "バスと電車、公共交通機関は一つだけしか使えないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "豚バラ肉と牛肉、どちらかしか食べられないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "出前と直接行って食べるの、どちらかだけ選ぶとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "音楽とポッドキャスト、移動中にどちらか一方だけ聴けるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "InstagramとYouTube、どちらか一方だけ残すとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "昼寝と夜食、どちらか一方だけ楽しめるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "パンとご飯、炭水化物は一つだけ食べないといけないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "室内と屋外、いつも片方でしかご飯を食べられないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "猫と犬、ペットは一種類しか飼えないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "運動と散歩、一生どちらかの身体活動しかできないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "国内旅行と海外旅行、どちらかにしか行けないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "甘いものとしょっぱいもの、おやつは一つの味だけ食べないといけないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "イヤホンとスピーカー、音楽はどちらかでしか聴けないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "シャワーとお風呂、洗い方が一つに固定されるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "本とYouTube、情報を得る方法が一つだけになるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "アイスクリームとケーキ、デザートは一方だけしか食べられないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "カフェと家、仕事や勉強をする場所が一つに固定されるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "テキストと音声メモ、メッセージの伝え方が一つに限られるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "映画とドラマ、映像コンテンツはどちらかだけ見られるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "自炊と出前、食事はどちらかの方法だけで解決しないといけないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "スニーカーと革靴、靴は一種類しか履けないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "コンビニとスーパー、買い物場所が一つに固定されるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "冷麺とそうめん、麺料理は一方だけしか食べられないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "静かなカフェとにぎやかなカフェ、どちらかしか選べないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "旅行は計画派と行き当たりばったり派、一つのスタイルでしかできないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "暑くて晴れた天気と涼しくて曇った天気、一生どちらかなら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "甘じょっぱい味と淡泊な味、食の好みが一つに固定されるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "早寝早起きと遅寝遅起き、どちらかに固定されるとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "週末に出かけることと家にいること、どちらか一方の休み方しかできないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "新しいメニューといつもの定番メニュー、いつも一方しか選べないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "スマートフォンとノートパソコン、デバイスは一つだけしか使えないとしたら？",
-    "category": "lightChoice"
-  },
-  {
-    "question": "お金持ちだけど孤独な人生 vs 貧しいけど愛に満ちた人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "すべてを覚えている人生 vs 嫌な記憶はすべて忘れる人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "やりたいことをして貧しく生きる人生 vs やりたくないことをしてお金持ちで生きる人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "10年早く成功するけど短く生きる人生 vs 普通に生きるけど長く生きる人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "自分だけが真実を言う世界 vs みんなが嘘をつく世界？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "みんなから好かれる人生 vs 一人の人にだけ本当に愛される人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "自分の夢を叶えるけど家族を失う人生 vs 夢を諦めて家族と一緒にいる人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "過去を知っているけど未来を知らない人生 vs 未来を知っているけど過去を忘れる人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "世界一有名だけど誰も自分を本当に知らない人生 vs 誰も知らない存在だけど本当に愛される人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "10回の短い幸せ vs 1回の完璧な幸せ？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "完璧に健康だけどお金がない人生 vs お金はたくさんあるけどいつも体調が悪い人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "何でもそこそこできるけど特技がない人生 vs 一つだけを完璧にできる人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "愛する人が自分のことを覚えていない vs 自分が愛する人のことを覚えていない？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "親友を失って成功する人生 vs 成功を失って親友を守る人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "一生一人だけを愛する人生 vs 複数の人を愛するけど深さは浅い人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "みんなの考えを読めるけど自分の考えも全部ばれる人生 vs 何も知らないけど自分だけの秘密を守れる人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "好きなことだけが得意な人生 vs やりたくなくてもすべてが得意な人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "人々に記憶されるけど不幸な人生 vs 誰にも覚えてもらえないけど幸せな人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "死ぬまで健康な人生 vs 短いけど全部の夢を叶える人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "愛されるけど尊重されない人生 vs 尊重されるけど愛されない人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "今持っているものを失うけどもっと大きなものを得るチャンス vs 今持っているものを守るけどこれ以上の発展がない人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "自分だけの時間がないけど孤独じゃない人生 vs いつも一人だけど完全な自由がある人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "自分が間違っていると認めて生きる人生 vs いつも自分が正しいと信じて生きる人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "一生懸命努力したけど失敗すること vs 何の努力もなく成功すること？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "勇気を持って挑戦して後悔する人生 vs 挑戦できなくて後悔する人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "他人の期待に応えて生きる人生 vs 自分の基準で生きる人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "すべての真実を知って傷つく人生 vs 美しい嘘の中で幸せな人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "一つのことを完璧に愛する人生 vs 色々なことを少しずつ愛する人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "望むものをすべて手に入れるけど過程が辛い人生 vs 過程が楽しいけど結果がない人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "誰かを完全に許せずに生きること vs 自分が誰かに完全に許してもらえないこと？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "愛する人の痛みを自分が代わりに引き受けること vs 自分の痛みを愛する人が代わりに引き受けること？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "今を楽しむけど未来を心配する人生 vs 未来のために今を犠牲にする人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "すべての決断を自分一人でする人生 vs いつも誰かが代わりに決めてくれる人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "天才だけど努力しない人生 vs 普通だけど限りなく努力する人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "嫌な記憶も全部覚えながら成長する人生 vs 嫌な記憶を消して軽く生きる人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "みんなが自分のすべてを知る人生 vs 誰も自分を知らない人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "今すぐ幸せだけど後で後悔する人生 vs 今は辛いけど後でやりがいがある人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "愛を失って自由を得ること vs 自由を失って愛を得ること？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "最高に成功したけど誰にも認めてもらえない人生 vs 普通だけどみんなに認められる人生？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "一度の大きな失敗 vs 何十回もの小さな失敗、どっちの方がまだいい？",
-    "category": "hardChoice"
-  },
-  {
-    "question": "歩くたびにクラクションみたいな音がなる人生 vs 笑うたびにおならの音がなる人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "足からチョコレートの匂いがする vs 口からにんにくの匂いがする、一生どちらかなら？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "髪の毛が麺でできてる人生 vs 爪が箸でできてる人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "会話するたびに歌で話さないといけない人生 vs 話すたびにラップでしないといけない人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "まばたきするたびに自撮りが撮れる人生 vs くしゃみするたびに花火が打ち上がる人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "体は透明だけど服だけ見える人生 vs 服は透明だけど体だけ見える人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "一生子どもの声で生きる人生 vs 一生おじいさんの声で生きる人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "手が10本ある人生 vs 足が10本ある人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "眠るたびに違う言語で寝言を言う人生 vs 目が覚めるたびに自分の名前を忘れる人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "お腹が空くたびにニワトリの鳴き声がする人生 vs お腹いっぱいになるたびに美しい声で歌う人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "考えるたびに頭の上に吹き出しが浮かぶ人生 vs 気分が天気みたいに表情に見える人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "歩くたびにBGMが流れる人生 vs 感情が変わるたびに照明が変わる人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "食べ物を食べるたびに味を音で表現しないといけない人生 vs 会話するたびに字幕が出る人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "身長が毎日1cmずつ変わる人生 vs 体重が毎日1kgずつ変わる人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "鼻がゾウの鼻の人生 vs 耳がウサギの耳の人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "トイレに行くたびにファンファーレが鳴る人生 vs 車のクラクションみたいにゲップが出る人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "匂いを色で見ることができる人生 vs 音を味で感じる人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "一生スリッパしか履けない人生 vs 一生スーツしか着られない人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "名前が毎月変わる人生 vs 顔が毎月少しずつ変わる人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "一拍遅れて反応する人生 vs まだ起きていないことに先に笑う人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "後ろ向きにしか歩けない人生 vs 横向きにしか座れない人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "ご飯を食べるたびに誰かが代わりに噛んでくれる人生 vs 考えるたびに隣の人の声で聞こえる人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "写真を撮るたびに必ず目を閉じてしまう人生 vs 写真を撮るたびに必ず舌を出してしまう人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "物を触るたびにその物の歴史が聞こえる人生 vs 人を触るたびにその人の最近の悩みが聞こえる人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "常に2倍速で話す人生 vs 常に0.5倍速で動く人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "眠ると夢がリアルタイムで中継される人生 vs 目が覚めると夢の内容を大声で言ってしまう人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "周りすべてがレゴでできた世界で生きる人生 vs 周りすべてがシールでできた世界で生きる人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "笑うたびに空に舞い上がる人生 vs 泣くたびに床に張り付いてしまう人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "食べたものが髪の毛の色に現れる人生 vs 聴いた音楽が目の色に現れる人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "眠いと体が縮む人生 vs 楽しいと体が2倍になる人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "電話するたびに猫の鳴き声に聞こえる人生 vs 挨拶するたびにロボットの声になる人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "足が磁石の人生 vs 手がマジックテープの人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "誕生日ごとに記憶が1年分消える人生 vs 年を取るほど1歳ずつ若返る人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "一日に一回必ずダンスしないといけない人生 vs 一日に一回必ず歌わないといけない人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "目が望遠鏡の人生 vs 耳がレーダーの人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "冷蔵庫の中でしか眠れない人生 vs 洗濯機の中でしかシャワーできない人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "すべての食べ物が同じ味の人生 vs 同じ食べ物が毎回違う味の人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "起きるたびに前日の記憶がシャッフルされる人生 vs 眠るたびにランダムな人の夢を見る人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "おかしいと涙が出て、悲しいと笑いが出る人生 vs 嬉しいとくしゃみが出て、怒るとしゃっくりが出る人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "影が自分の意志通りに動かない人生 vs 鏡の中の自分が逆の行動をする人生？",
-    "category": "wildChoice"
-  },
-  {
-    "question": "真実しか言えない人生 vs 嘘を自由につける人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "記憶を失う人生 vs 感情を失う人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "愛されるけど理解されない人生 vs 理解されるけど愛されない人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "長く生きるけど退屈な人生 vs 短いけど強烈に生きる人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "一人ですべてをやり遂げる人生 vs いつも誰かの助けが必要な人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "夢を叶えて孤独な人生 vs 夢を諦めて一緒にいる人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "過去を変えられるけど現在が消えること vs 過去はそのままだけど未来を知ることができること？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "悪い人だとわかって愛すること vs いい人だとわかっているけど愛情がないこと？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "一生学ぶ人生 vs 一生教える人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "自分のために生きる人生 vs 他人のために生きる人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "他人に愛される人生 vs 自分自身が満たされる人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "勇気を持って挑戦して失敗すること vs 安全に生きて挑戦できないこと？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "完璧な幸せを短く味わうこと vs 普通の幸せを長く味わうこと？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "自由だけど孤独な人生 vs 囲まれているけど温かい人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "自分が正しくても黙って生きる人生 vs 間違いがあっても言葉にする人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "誰も自分を判断しない世界 vs 誰もが自分を正直に評価する世界？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "死を知りながら生きる人生 vs 死がないと信じながら生きる人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "強い人として記憶される人生 vs 温かい人として記憶される人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "選択がいつも自由な人生 vs 選択にいつも責任が伴う人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "真心が伝わらない人生 vs 言わなくてもみんなに理解してもらえる人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "信じていた人に裏切られること vs 自分が誰かを裏切ること？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "変化なく安定した人生 vs 不安だけど成長する人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "傷つけないために距離を置くこと vs 傷つけても近くにいること？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "自分の弱点をみんなが知る人生 vs 自分の強みを誰も知らない人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "何も知らないまま幸せな人生 vs すべてを知りながら不安な人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "愛を先に始める人生 vs 愛を先に終わらせる人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "他人の痛みを共に感じる人生 vs 他人の痛みに鈍感な人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "失敗を繰り返しながら学ぶ人生 vs 失敗なく生きるけど何も学べない人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "自分が望むことを言えない人生 vs 望むことを言えるけど手に入らない人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "みんなに平等に接する人生 vs 大切な人だけに集中する人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "自分を失っても関係を守ること vs 関係を失っても自分を守ること？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "簡単に許す人生 vs 簡単に忘れられない人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "心を開くのが簡単な人生 vs 心が丈夫な人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "自分が変えられないことを受け入れる人生 vs 受け入れたくなくても向き合い続ける人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "一生自分一人で決める人生 vs 一生誰かと一緒に決める人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "人生をやり直せるチャンスが与えられたとしたら受け入れること vs 断ること？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "尊敬される人として生きること vs 愛される人として生きること？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "後悔を通して成長する人生 vs 後悔なくさっぱりした人生？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "すべてを手放して新たに始めること vs 今あるものにしがみついて生きること？",
-    "category": "seriousChoice"
-  },
-  {
-    "question": "本気で誰かを憎んだことがある人生 vs 一度も本気で憎んだことがない人生？",
-    "category": "seriousChoice"
-  }
+  { "question": "ピザ vs チキン、一生どちらか一つしか食べられないとしたら？", "category": "lightChoice" },
+  { "question": "ジャージャー麺 vs チャンポン、今夜の夕食どっちにする？", "category": "lightChoice" },
+  { "question": "LINEのトーク vs Instagram、一つだけ残すとしたら？", "category": "lightChoice" },
+  { "question": "アイスアメリカーノ vs ホットラテ、一つしか飲めないとしたら？", "category": "lightChoice" },
+  { "question": "夏 vs 冬、一生どちらか一つの季節だけだとしたら？", "category": "lightChoice" },
+  { "question": "Netflix vs YouTube、一つしか見られないとしたら？", "category": "lightChoice" },
+  { "question": "ヤンニョムチキン vs フライドチキン、絶対どっちか一つだけなら？", "category": "lightChoice" },
+  { "question": "豚バラ vs 牛肉、肉は一種類だけしか食べられないとしたら？", "category": "lightChoice" },
+  { "question": "デリバリー vs 自炊、一つの方法だけで食べるとしたら？", "category": "lightChoice" },
+  { "question": "猫 vs 犬、ペットは一匹だけ飼えるとしたら？", "category": "lightChoice" },
+  { "question": "バス vs 電車、公共交通機関は一つだけ使えるとしたら？", "category": "lightChoice" },
+  { "question": "本 vs YouTube、情報を得る方法が一つだけだとしたら？", "category": "lightChoice" },
+  { "question": "コンビニ vs スーパー、買い物する場所が一つに固定されたら？", "category": "lightChoice" },
+  { "question": "パン vs ご飯、一生どちらか一つしか食べられないとしたら？", "category": "lightChoice" },
+  { "question": "映画館 vs 家のソファ、映画を見る場所が一つだけなら？", "category": "lightChoice" },
+  { "question": "昼寝 vs 夜食、一つだけ楽しめるとしたら？", "category": "lightChoice" },
+  { "question": "カフェ vs 家、勉強・作業する場所が一つに固定されたら？", "category": "lightChoice" },
+  { "question": "国内旅行 vs 海外旅行、どちらか一つしか行けないとしたら？", "category": "lightChoice" },
+  { "question": "アイスクリーム vs ケーキ、デザートは一つだけなら？", "category": "lightChoice" },
+  { "question": "シャワー vs お風呂、体の洗い方が一つに固定されたら？", "category": "lightChoice" },
+  { "question": "映画 vs ドラマ、一つしか見られないとしたら？", "category": "lightChoice" },
+  { "question": "イヤホン vs スピーカー、音楽の聴き方が一つだけなら？", "category": "lightChoice" },
+  { "question": "甘いもの vs しょっぱいもの、おやつの味が一つに固定されたら？", "category": "lightChoice" },
+  { "question": "朝型人間 vs 夜型人間、一つに固定されたら？", "category": "lightChoice" },
+  { "question": "計画を立てて旅行 vs 行き当たりばったりで旅行、どちらか一つなら？", "category": "lightChoice" },
+  { "question": "週末は外出 vs 家でのんびり、一つの方法だけで休むとしたら？", "category": "lightChoice" },
+  { "question": "トッポギ vs ラーメン、夜食は一つだけなら？", "category": "lightChoice" },
+  { "question": "チョコ味 vs いちご味、お菓子の味が一つに固定されたら？", "category": "lightChoice" },
+  { "question": "新しいメニュー vs いつものメニュー、レストランで常に一つだけ選ぶとしたら？", "category": "lightChoice" },
+  { "question": "スマートフォン vs ノートパソコン、一つしか使えないとしたら？", "category": "lightChoice" },
+  { "question": "静かなカフェ vs にぎやかなカフェ、一つだけ行くとしたら？", "category": "lightChoice" },
+  { "question": "暑くて晴れた日 vs 涼しくて曇りの日、毎日どちらか一つの天気なら？", "category": "lightChoice" },
+  { "question": "音楽 vs ポッドキャスト、移動中に一つだけ聴くとしたら？", "category": "lightChoice" },
+  { "question": "タコ vs イカ、海鮮は一つだけ食べられるとしたら？", "category": "lightChoice" },
+  { "question": "冷麺 vs ビビンバ、夏の定番メニューは一つだけなら？", "category": "lightChoice" },
+  { "question": "カード払い vs 現金払い、一つの方法だけで支払うとしたら？", "category": "lightChoice" },
+  { "question": "スニーカー vs サンダル、一種類の靴だけ履くとしたら？", "category": "lightChoice" },
+  { "question": "屋内 vs 屋外、食事する場所が一つに固定されたら？", "category": "lightChoice" },
+  { "question": "一人飯 vs 誰かと一緒に食べる、常に一つの方法だけで食事するとしたら？", "category": "lightChoice" },
+  { "question": "週5日勤務 vs 週4日勤務で残業あり、どっちがいい？", "category": "lightChoice" },
+  { "question": "友達は多いけど表面的な関係 vs 友達は少ないけど本当に親密な関係？", "category": "hardChoice" },
+  { "question": "年収は高いけどストレスだらけの職場 vs 年収は低いけどゆとりのある職場？", "category": "hardChoice" },
+  { "question": "やりたいことをしながら貧しく生きる vs やりたくないことをしながら裕福に生きる？", "category": "hardChoice" },
+  { "question": "毎日おいしいものを食べるけど太る体 vs 食べたいものを我慢するけど細い体？", "category": "hardChoice" },
+  { "question": "一人暮らしだけど完全に自由な人生 vs 一緒に暮らすけど不便な人生？", "category": "hardChoice" },
+  { "question": "得意だけど好きじゃない仕事 vs 好きだけど得意じゃない仕事？", "category": "hardChoice" },
+  { "question": "嫌な記憶も全部覚えながら成長すること vs 嫌な記憶を全部忘れて軽やかに生きること？", "category": "hardChoice" },
+  { "question": "他人から見て良さそうな人生 vs 自分自身が満足している人生？", "category": "hardChoice" },
+  { "question": "健康だけど貧しい人生 vs 裕福だけどよく体を壊す人生？", "category": "hardChoice" },
+  { "question": "安定した人生のために夢を諦めること vs 不安でも夢に向かって挑戦し続けること？", "category": "hardChoice" },
+  { "question": "自分から先に謝ること vs 自分から先に連絡を断つこと？", "category": "hardChoice" },
+  { "question": "失敗しても挑戦し続けること vs 安全な道だけを歩くこと？", "category": "hardChoice" },
+  { "question": "友達に正直に話すこと vs 傷つけそうだから黙っていること？", "category": "hardChoice" },
+  { "question": "旅行は多いけど貯金がない人生 vs 貯金はしっかりできてるけど旅行できない人生？", "category": "hardChoice" },
+  { "question": "10年早く成功して早く死ぬこと vs 普通に生きて長生きすること？", "category": "hardChoice" },
+  { "question": "何でもそつなくこなせるけど得意なことがない vs 一つだけ完璧に得意なこと？", "category": "hardChoice" },
+  { "question": "いい人だとわかってるけどときめかない恋愛 vs ときめくけど傷つきそうな恋愛？", "category": "hardChoice" },
+  { "question": "忙しくて必死に生きる人生 vs 余裕はあるけど退屈な人生？", "category": "hardChoice" },
+  { "question": "人前に出て目立つ人生 vs 裏方で静かに支える人生？", "category": "hardChoice" },
+  { "question": "好きな人に自分から告白すること vs そっと態度で示しながら待つこと？", "category": "hardChoice" },
+  { "question": "仲の良い友達が先に離れていくこと vs 自分が先に離れること？", "category": "hardChoice" },
+  { "question": "お金はあるけど孤独な老後 vs お金はないけど家族と一緒の老後？", "category": "hardChoice" },
+  { "question": "今すぐ楽しむこと vs 後のために今は我慢すること？", "category": "hardChoice" },
+  { "question": "短くて激しい愛 vs 長くて穏やかな愛？", "category": "hardChoice" },
+  { "question": "感情を正直に出すこと vs 心の中だけで消化すること？", "category": "hardChoice" },
+  { "question": "すぐ決断して後悔すること vs 長く悩んで諦めること？", "category": "hardChoice" },
+  { "question": "他人に何を言われても自分のやり方で生きること vs 他人のアドバイスを受け入れて変わっていくこと？", "category": "hardChoice" },
+  { "question": "いろんな人に広くうまくやること vs 一人の人に全力を注ぐこと？", "category": "hardChoice" },
+  { "question": "直接言葉にすること vs 状況が勝手に解決してくれるのを待つこと？", "category": "hardChoice" },
+  { "question": "今は幸せだけど将来が不安な人生 vs 今はつらいけど将来が楽しみな人生？", "category": "hardChoice" },
+  { "question": "正直な友達 vs 優しい友達、一人だけ選ぶとしたら？", "category": "hardChoice" },
+  { "question": "望む職業だけど薄給 vs 望まない職業だけど高給？", "category": "hardChoice" },
+  { "question": "みんなに知られている有名人 vs 誰にも知られていない普通の人？", "category": "hardChoice" },
+  { "question": "一生一人だけを愛する人生 vs いくつもの愛を経験する人生？", "category": "hardChoice" },
+  { "question": "自分のミスをすぐに認めること vs とりあえず言い訳して後で謝ること？", "category": "hardChoice" },
+  { "question": "先に連絡する人 vs 連絡を待つ人、どっちがいい？", "category": "hardChoice" },
+  { "question": "一生懸命頑張ったけど失敗すること vs 努力せずに運良く成功すること？", "category": "hardChoice" },
+  { "question": "一度の大きな失敗 vs 何十回もの小さな失敗、どっちの方がまし？", "category": "hardChoice" },
+  { "question": "人気はあるけど本気じゃない関係 vs 人気はないけど本当の友達が一人？", "category": "hardChoice" },
+  { "question": "自分の短所を直していく人生 vs 自分の長所をさらに伸ばしていく人生？", "category": "hardChoice" },
+  { "question": "歩くたびにおならの音がする人生 vs 笑うたびに鼻から水が出る人生？", "category": "wildChoice" },
+  { "question": "髪の毛が綿あめの人生 vs 爪がグミの人生？", "category": "wildChoice" },
+  { "question": "話すたびに歌わなきゃいけない人生 vs 話すたびに踊らなきゃいけない人生？", "category": "wildChoice" },
+  { "question": "一生子供の声の人生 vs 一生おじいちゃんの声の人生？", "category": "wildChoice" },
+  { "question": "足からポップコーンのにおいがする人生 vs 手から卵のにおいがする人生？", "category": "wildChoice" },
+  { "question": "目が望遠鏡の人生 vs 耳がラッパの人生？", "category": "wildChoice" },
+  { "question": "鼻がゾウの鼻の人生 vs 耳がウサギの耳の人生？", "category": "wildChoice" },
+  { "question": "お腹が空くと鶏の鳴き声がする人生 vs お腹がいっぱいになるとトランペットの音がする人生？", "category": "wildChoice" },
+  { "question": "トイレに行くたびにファンファーレが鳴る人生 vs くしゃみするたびに花火が打ち上がる人生？", "category": "wildChoice" },
+  { "question": "一生スリッパだけ履く人生 vs 一生スーツだけ着る人生？", "category": "wildChoice" },
+  { "question": "写真を撮るたびに目が閉じる人生 vs 写真を撮るたびに舌が出る人生？", "category": "wildChoice" },
+  { "question": "常に2倍速で話す人生 vs 常に半分のスピードで動く人生？", "category": "wildChoice" },
+  { "question": "後ろ向きにしか歩けない人生 vs 横向きにしか座れない人生？", "category": "wildChoice" },
+  { "question": "笑うたびにふわっと浮き上がる人生 vs 怒ると体が真っ赤に光る人生？", "category": "wildChoice" },
+  { "question": "身長が毎日1cmずつ変わる人生 vs 体重が毎日1kgずつ変わる人生？", "category": "wildChoice" },
+  { "question": "全ての食べ物が同じ味の人生 vs 同じ食べ物が毎回違う味の人生？", "category": "wildChoice" },
+  { "question": "名前が毎月変わる人生 vs 顔が毎月少しずつ変わる人生？", "category": "wildChoice" },
+  { "question": "歩くたびにBGMが流れる人生 vs 感情が変わるたびに照明が変わる人生？", "category": "wildChoice" },
+  { "question": "一日一回必ず踊らなきゃいけない人生 vs 一日一回必ず歌わなきゃいけない人生？", "category": "wildChoice" },
+  { "question": "影が自分の思い通りに動かない人生 vs 鏡の中の自分が反対の行動をとる人生？", "category": "wildChoice" },
+  { "question": "考えるたびに頭の上に吹き出しが浮かぶ人生 vs 気分が天気みたいに表情に見える人生？", "category": "wildChoice" },
+  { "question": "眠ると夢がリアルタイムで中継される人生 vs 目が覚めると夢の内容を大声で叫ぶ人生？", "category": "wildChoice" },
+  { "question": "においを色として見られる人生 vs 音を味として感じる人生？", "category": "wildChoice" },
+  { "question": "手が10本の人生 vs 足が10本の人生？", "category": "wildChoice" },
+  { "question": "体は透明だけど服は見える人生 vs 服は透明だけど体は見える人生？", "category": "wildChoice" },
+  { "question": "歩くたびにギシギシ音がする人生 vs 座るたびにボンと音がする人生？", "category": "wildChoice" },
+  { "question": "誕生日ごとに1年分の記憶が消える人生 vs 歳を重ねるごとに1歳若返る人生？", "category": "wildChoice" },
+  { "question": "電話するたびに猫の声に聞こえる人生 vs 挨拶するたびにロボットの声が出る人生？", "category": "wildChoice" },
+  { "question": "足が磁石の人生 vs 手がマジックテープの人生？", "category": "wildChoice" },
+  { "question": "面白いと涙が出て悲しいと笑える人生 vs 嬉しいとくしゃみが出て怒るとしゃっくりが出る人生？", "category": "wildChoice" },
+  { "question": "まばたきするたびに自撮りが撮れる人生 vs あくびするたびにサイレンが鳴る人生？", "category": "wildChoice" },
+  { "question": "眠くなると体が縮んでいく人生 vs テンションが上がると体が2倍に膨らむ人生？", "category": "wildChoice" },
+  { "question": "食べた食べ物が髪の色に表れる人生 vs 聴いた音楽が目の色に表れる人生？", "category": "wildChoice" },
+  { "question": "レゴでできた世界 vs シールでできた世界、どっちに住む？", "category": "wildChoice" },
+  { "question": "会話するたびに字幕が出る人生 vs 会話するたびに翻訳機の声に聞こえる人生？", "category": "wildChoice" },
+  { "question": "一生虹色の髪の人生 vs 一生キラキラした目の人生？", "category": "wildChoice" },
+  { "question": "雨の代わりにあめ玉が降る世界 vs 雪の代わりにポップコーンが降る世界？", "category": "wildChoice" },
+  { "question": "食べるたびに味を声で表現しなきゃいけない人生 vs 食べるたびに感想を言わなきゃいけない人生？", "category": "wildChoice" },
+  { "question": "常にスローモーションで動く人生 vs 常に早送りで動く人生？", "category": "wildChoice" },
+  { "question": "冷蔵庫の中でしか眠れない人生 vs 洗濯機の中でしかシャワーを浴びられない人生？", "category": "wildChoice" },
+  { "question": "真実しか言えない人生 vs 嘘を自由につける人生？", "category": "seriousChoice" },
+  { "question": "愛されるけど理解されない人生 vs 理解されるけど愛されない人生？", "category": "seriousChoice" },
+  { "question": "長生きするけど退屈な人生 vs 短いけど強烈に生きる人生？", "category": "seriousChoice" },
+  { "question": "夢を叶えて孤独な人生 vs 夢を諦めて人と一緒にいる人生？", "category": "seriousChoice" },
+  { "question": "自分のために生きる人生 vs 他人のために生きる人生？", "category": "seriousChoice" },
+  { "question": "強い人として記憶されること vs 温かい人として記憶されること？", "category": "seriousChoice" },
+  { "question": "変化なく安定した人生 vs 不安でも成長する人生？", "category": "seriousChoice" },
+  { "question": "簡単に許せる人生 vs 簡単には忘れられない人生？", "category": "seriousChoice" },
+  { "question": "心をすぐに開ける人生 vs 心が強くて簡単には揺らがない人生？", "category": "seriousChoice" },
+  { "question": "後悔を通じて成長する人生 vs 後悔なく淡々と生きる人生？", "category": "seriousChoice" },
+  { "question": "尊敬される人として記憶されること vs 愛される人として記憶されること？", "category": "seriousChoice" },
+  { "question": "みんなに平等に接する人生 vs 大切な人だけに集中する人生？", "category": "seriousChoice" },
+  { "question": "自由だけど孤独な人生 vs 枠の中にいるけど温かい人生？", "category": "seriousChoice" },
+  { "question": "一生学び続ける人生 vs 一生教え続ける人生？", "category": "seriousChoice" },
+  { "question": "自分の弱点をみんなが知っている人生 vs 自分の強みを誰も知らない人生？", "category": "seriousChoice" },
+  { "question": "失敗を繰り返しながら学ぶ人生 vs 失敗なく生きるけど何も学べない人生？", "category": "seriousChoice" },
+  { "question": "勇気を持って挑戦して失敗すること vs 挑戦できなくて後悔すること？", "category": "seriousChoice" },
+  { "question": "感情をすぐに表現する人 vs 感情をうまく隠す人、どっちがいい？", "category": "seriousChoice" },
+  { "question": "他人の痛みを一緒に感じる人生 vs 他人の痛みに鈍感になった人生？", "category": "seriousChoice" },
+  { "question": "自分を失っても関係を守ること vs 関係を失っても自分を守ること？", "category": "seriousChoice" },
+  { "question": "一人で全てをこなす人生 vs 常に誰かの助けが必要な人生？", "category": "seriousChoice" },
+  { "question": "信頼していた人に裏切られること vs 自分が誰かを裏切ること？", "category": "seriousChoice" },
+  { "question": "本心が伝わらない人生 vs 言わなくても全員が理解してくれる人生？", "category": "seriousChoice" },
+  { "question": "傷つけないように距離を置くこと vs 傷つけても近くにいること？", "category": "seriousChoice" },
+  { "question": "常に選択が自由な人生 vs 常に選択に責任が伴う人生？", "category": "seriousChoice" },
+  { "question": "先に愛し始める人生 vs 先に愛を終わらせる人生？", "category": "seriousChoice" },
+  { "question": "何も知らないまま幸せな人生 vs 全てを知りながら不安な人生？", "category": "seriousChoice" },
+  { "question": "自分が正しくても黙っている人生 vs 間違えるかもしれなくても言葉にする人生？", "category": "seriousChoice" },
+  { "question": "他人の期待に応えて生きる人生 vs 自分だけの基準で生きる人生？", "category": "seriousChoice" },
+  { "question": "一人で決断する人生 vs 常に誰かと一緒に決断する人生？", "category": "seriousChoice" },
+  { "question": "記憶を失うこと vs 感情を失うこと？", "category": "seriousChoice" },
+  { "question": "完璧な幸せを短く味わうこと vs 普通の幸せを長く味わうこと？", "category": "seriousChoice" },
+  { "question": "人生をもう一度やり直すチャンスが与えられたら受け入れること vs 断ること？", "category": "seriousChoice" },
+  { "question": "他人から愛される人生 vs 自分自身が満たされている人生？", "category": "seriousChoice" },
+  { "question": "誰も自分を判断しない世界 vs 誰もが正直に自分を評価してくれる世界？", "category": "seriousChoice" },
+  { "question": "過去を変えられるけど現在が消えること vs 未来がわかるけど過去はそのままなこと？", "category": "seriousChoice" },
+  { "question": "全てを手放して新しく始めること vs 今あるものにしがみついて生きること？", "category": "seriousChoice" },
+  { "question": "悪い人だとわかっていても愛すること vs いい人だとわかっているけど愛のないこと？", "category": "seriousChoice" },
+  { "question": "今すぐ幸せだけど後で後悔する人生 vs 今はつらいけど後でやりがいがある人生？", "category": "seriousChoice" },
+  { "question": "死を知りながら生きる人生 vs 死がないと信じながら生きる人生？", "category": "seriousChoice" }
 ]

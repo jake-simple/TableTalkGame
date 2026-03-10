@@ -16,7 +16,6 @@ enum CardPack: String, CaseIterable, Identifiable {
     case wouldYouRather
     case newYear
     case hotTakes
-    case neverHaveIEver
 
     var id: String { rawValue }
 
@@ -41,7 +40,6 @@ enum CardPack: String, CaseIterable, Identifiable {
         case .wouldYouRather: "arrow.left.arrow.right.circle.fill"
         case .newYear: "fireworks"
         case .hotTakes: "flame.fill"
-        case .neverHaveIEver: "hand.raised.fill"
         }
     }
 
@@ -66,7 +64,6 @@ enum CardPack: String, CaseIterable, Identifiable {
         case .wouldYouRather: Color(red: 0.9, green: 0.5, blue: 0.2)
         case .newYear: Color(red: 0.85, green: 0.65, blue: 0.15)
         case .hotTakes: Color(red: 0.9, green: 0.3, blue: 0.2)
-        case .neverHaveIEver: Color(red: 0.4, green: 0.65, blue: 0.35)
         }
     }
 
@@ -103,8 +100,6 @@ enum CardPack: String, CaseIterable, Identifiable {
             [.yearReview, .gratitude, .newYearResolution, .wish]
         case .hotTakes:
             [.dailyLife, .culture, .relationship, .life]
-        case .neverHaveIEver:
-            [.dailyLife, .adventure, .relationship, .secret]
         }
     }
 }

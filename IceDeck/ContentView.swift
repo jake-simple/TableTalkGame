@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  TalkDeck
+//  IceDeck
 //
 //  Created by JMLee on 3/6/26.
 //

@@ -7,55 +7,55 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gesprächskarten - Fragenspiel"
+            "value" : "IceDeck"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Talk Cards - Question Game"
+            "value" : "IceDeck"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cartas de Conversación - Juego de Preguntas"
+            "value" : "IceDeck"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cartes de Discussion - Jeu de Questions"
+            "value" : "IceDeck"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kartu Percakapan - Permainan Pertanyaan"
+            "value" : "IceDeck"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "会話カード - 質問ゲーム"
+            "value" : "IceDeck"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "대화 카드 - 질문 게임"
+            "value" : "아이스덱"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cartas de Conversa - Jogo de Perguntas"
+            "value" : "IceDeck"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "对话卡片 - 提问游戏"
+            "value" : "IceDeck"
           }
         }
       }
@@ -67,7 +67,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "TalkDeck"
+            "value" : "IceDeck"
           }
         }
       }

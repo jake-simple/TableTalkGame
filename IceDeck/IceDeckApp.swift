@@ -2,7 +2,7 @@ import SwiftUI
 import TipKit
 
 @main
-struct TalkDeckApp: App {
+struct IceDeckApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

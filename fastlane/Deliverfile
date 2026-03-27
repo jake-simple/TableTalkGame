@@ -5,6 +5,14 @@ username("simpleone.app@gmail.com")
 copyright("2026 Onessa")
 
 
+# 수출 규정 (암호화 미사용)
+submission_information({
+  export_compliance_uses_encryption: false,
+  export_compliance_encryption_updated: false,
+  export_compliance_compliance_required: false,
+  export_compliance_platform: "ios"
+})
+
 # 자동 제출 비활성화
 submit_for_review(false)
 automatic_release(false)
